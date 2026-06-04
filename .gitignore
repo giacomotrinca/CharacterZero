@@ -1,0 +1,26 @@
+build/
+/data/
+*.db
+*.db-journal
+.DS_Store
+.vscode/
+.idea/
+
+# Manuali: artefatti generati dalla pipeline di estrazione
+manuals/_extracted/
+manuals/_index/
+
+# Build artifacts (in-tree CMake)
+CMakeCache.txt
+CMakeFiles/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+cmake_install.cmake
+
+# FetchContent dependencies
+_deps/
+
+# Python cache
+tools/__pycache__/
+*.pyc

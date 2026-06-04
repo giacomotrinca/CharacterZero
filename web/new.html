@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Nuova scheda — CharacterZero</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/theme.css?v=24">
+  <link rel="stylesheet" href="/css/layout.css?v=24">
+</head>
+<body>
+  <main class="page page-wide">
+    <nav class="topbar">
+      <a href="/" class="brand">CharacterZero</a>
+      <a href="/" class="topbar-back">← Annulla</a>
+    </nav>
+
+    <header class="header">
+      <h1>Nuova scheda</h1>
+      <p class="tagline">Compila i passaggi per creare la tua scheda.</p>
+    </header>
+
+    <div class="wizard">
+      <section class="wizard-step active" id="step-kind" data-step="1">
+        <h2>Tipo</h2>
+        <div class="choice-grid" id="kind-grid">
+          <div class="skeleton-row"></div>
+          <div class="skeleton-row"></div>
+        </div>
+      </section>
+
+      <section class="wizard-step locked" id="step-subtype" data-step="2">
+        <h2 id="subtype-step-label">Sottotipo</h2>
+        <div class="field">
+          <label for="subtype" id="subtype-field-label">Scegli</label>
+          <select id="subtype"></select>
+        </div>
+      </section>
+
+      <section class="wizard-step locked hidden" id="step-sources" data-step="3">
+        <h2>Fonti</h2>
+        <div class="field">
+          <label>Manuali da cui attingere</label>
+          <div class="manual-grid" id="manual-grid"></div>
+          <div class="field-hint">Sottoclassi e background mostrati dipendono dai manuali scelti.</div>
+        </div>
+      </section>
+
+      <section class="wizard-step locked" id="step-details" data-step="4">
+        <h2>Dettagli</h2>
+        <div class="field">
+          <label for="name">Nome della scheda</label>
+          <input id="name" type="text" maxlength="200"
+                 placeholder="es. Aragorn, Smaug, Bill il pony…" autocomplete="off">
+          <div class="field-hint">Max 200 caratteri.</div>
+        </div>
+        <div class="field">
+          <label>Token personaggio (opzionale)</label>
+          <div id="token-widget"></div>
+        </div>
+        <div class="field hidden" id="race-field">
+          <label for="race">Razza</label>
+          <select id="race"></select>
+        </div>
+        <div class="field hidden" id="multiclass-field">
+          <label>Classi (multiclasse)</label>
+          <div id="multiclass-widget"></div>
+        </div>
+        <div class="field hidden" id="background-field">
+          <label for="background">Background</label>
+          <select id="background"></select>
+        </div>
+        <div class="field hidden" id="stats-field">
+          <label>Statistiche</label>
+          <div id="stats-widget"></div>
+        </div>
+        <div class="field hidden" id="skills-field">
+          <label>Competenze in abilità</label>
+          <div id="skills-widget"></div>
+        </div>
+        <div class="field hidden" id="spells-field">
+          <label>Incantesimi</label>
+          <div id="spells-widget"></div>
+        </div>
+        <div id="error" class="error hidden"></div>
+        <div class="actions" style="margin-top:1.25rem">
+          <button id="save-btn" disabled>Salva scheda</button>
+          <a href="/" class="btn ghost">Annulla</a>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <div id="toast-container" class="toast-container"></div>
+  <script src="/js/api.js?v=28"></script>
+  <script src="/js/token.js?v=28"></script>
+  <script src="/js/stats.js?v=28"></script>
+  <script src="/js/multiclass.js?v=28"></script>
+  <script src="/js/skills.js?v=28"></script>
+  <script src="/js/spells.js?v=28"></script>
+  <script src="/js/ui.js?v=28"></script>
+  <script src="/js/new.js?v=28"></script>
+</body>
+</html>

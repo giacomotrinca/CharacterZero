@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Grimorio · CharacterZero</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/theme.css?v=24">
+  <link rel="stylesheet" href="/css/layout.css?v=24">
+</head>
+<body>
+  <main class="page page-wide">
+    <nav class="topbar">
+      <a href="/" class="brand">CharacterZero</a>
+      <span class="topbar-spacer"></span>
+      <a href="/" class="nav-link">Schede</a>
+      <a href="/spells.html" class="nav-link active">Grimorio</a>
+    </nav>
+
+    <header class="header">
+      <h1>Grimorio</h1>
+      <p class="tagline">Esplora gli incantesimi estratti dai manuali. Filtra per classe, livello, scuola o categoria.</p>
+    </header>
+
+    <section class="sb-layout">
+      <aside class="sb-filters" id="sb-filters">
+        <div class="sb-filter-group">
+          <label class="sb-label">Ricerca</label>
+          <input type="search" id="sb-search" class="sb-search" placeholder="Cerca per nome (IT o EN)…" autocomplete="off">
+        </div>
+
+        <div class="sb-filter-group">
+          <label class="sb-label">Classi</label>
+          <div id="sb-classes" class="sb-chip-row"></div>
+        </div>
+
+        <div class="sb-filter-group">
+          <label class="sb-label">Livello</label>
+          <div id="sb-levels" class="sb-chip-row"></div>
+        </div>
+
+        <div class="sb-filter-group">
+          <label class="sb-label">Scuola</label>
+          <div id="sb-schools" class="sb-chip-row"></div>
+        </div>
+
+        <div class="sb-filter-group">
+          <label class="sb-label">Categoria</label>
+          <div id="sb-tags" class="sb-chip-row"></div>
+        </div>
+
+        <div class="sb-filter-group">
+          <label class="sb-label">Manuali</label>
+          <div id="sb-sources" class="sb-chip-col"></div>
+        </div>
+
+        <button class="ghost sb-reset" id="sb-reset">Azzera filtri</button>
+      </aside>
+
+      <section class="sb-results">
+        <div class="sb-results-head">
+          <span class="sb-count" id="sb-count">…</span>
+          <select id="sb-sort" class="sb-sort">
+            <option value="level">Livello, poi nome</option>
+            <option value="name">Nome</option>
+            <option value="school">Scuola</option>
+          </select>
+        </div>
+        <div id="sb-list" class="sb-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <div id="sb-modal-host"></div>
+  <div id="toast-container" class="toast-container"></div>
+
+  <script src="/js/api.js?v=28"></script>
+  <script src="/js/ui.js?v=28"></script>
+  <script src="/js/spells-browser.js?v=28"></script>
+</body>
+</html>

@@ -1,0 +1,3910 @@
+{
+  "__v": 15,
+  "manuals": [
+    {
+      "value": "d_d_5th_manuale_del_giocatore",
+      "label": "Manuale del Giocatore"
+    },
+    {
+      "value": "guida_omnicomprensiva_di_xanathar_5e",
+      "label": "Guida di Xanathar"
+    },
+    {
+      "value": "tasha_italiano",
+      "label": "Calderone di Tasha"
+    },
+    {
+      "value": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+      "label": "Guida degli Avventurieri"
+    },
+    {
+      "value": "d_d_5th_manuale_del_master",
+      "label": "Manuale del Master"
+    },
+    {
+      "value": "d_d_5th_manuale_dei_mostri",
+      "label": "Manuale dei Mostri"
+    }
+  ],
+  "skills": [
+    {
+      "key": "acrobazia",
+      "label": "Acrobazia",
+      "ability": "dex"
+    },
+    {
+      "key": "addestrare_animali",
+      "label": "Addestrare Animali",
+      "ability": "wis"
+    },
+    {
+      "key": "arcano",
+      "label": "Arcano",
+      "ability": "int"
+    },
+    {
+      "key": "atletica",
+      "label": "Atletica",
+      "ability": "str"
+    },
+    {
+      "key": "furtivita",
+      "label": "Furtività",
+      "ability": "dex"
+    },
+    {
+      "key": "indagare",
+      "label": "Indagare",
+      "ability": "int"
+    },
+    {
+      "key": "inganno",
+      "label": "Inganno",
+      "ability": "cha"
+    },
+    {
+      "key": "intimidire",
+      "label": "Intimidire",
+      "ability": "cha"
+    },
+    {
+      "key": "intrattenere",
+      "label": "Intrattenere",
+      "ability": "cha"
+    },
+    {
+      "key": "intuizione",
+      "label": "Intuizione",
+      "ability": "wis"
+    },
+    {
+      "key": "medicina",
+      "label": "Medicina",
+      "ability": "wis"
+    },
+    {
+      "key": "natura",
+      "label": "Natura",
+      "ability": "int"
+    },
+    {
+      "key": "percezione",
+      "label": "Percezione",
+      "ability": "wis"
+    },
+    {
+      "key": "persuasione",
+      "label": "Persuasione",
+      "ability": "cha"
+    },
+    {
+      "key": "rapidita_di_mano",
+      "label": "Rapidità di Mano",
+      "ability": "dex"
+    },
+    {
+      "key": "religione",
+      "label": "Religione",
+      "ability": "int"
+    },
+    {
+      "key": "sopravvivenza",
+      "label": "Sopravvivenza",
+      "ability": "wis"
+    },
+    {
+      "key": "storia",
+      "label": "Storia",
+      "ability": "int"
+    }
+  ],
+  "classes": [
+    {
+      "value": "barbaro",
+      "label": "Barbaro",
+      "subclass_level": 3,
+      "group_label": "Cammino Primordiale",
+      "caster": "none",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "str",
+        "con"
+      ],
+      "subclasses": [
+        {
+          "name": "Cammino del Berserker",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Cammino del Combattente Totemico",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Cammino del Combattente",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Cammino del Kensei",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Cammino della Bestia",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Cammino della Furia Combattente",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+          ]
+        },
+        {
+          "name": "Cammino della Magia Selvaggia",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Cammino dello Zelota",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "martial",
+        "ability": null,
+        "prep_mode": null,
+        "prep_source": null,
+        "prep_formula": null
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "addestrare_animali",
+          "atletica",
+          "intimidire",
+          "intuizione",
+          "natura",
+          "percezione",
+          "sopravvivenza"
+        ]
+      }
+    },
+    {
+      "value": "bardo",
+      "label": "Bardo",
+      "subclass_level": 3,
+      "group_label": "Collegio Bardico",
+      "caster": "full",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "dex",
+        "cha"
+      ],
+      "subclasses": [
+        {
+          "name": "Collegio della Sapienza",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master"
+          ]
+        },
+        {
+          "name": "Collegio del Valore",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master"
+          ]
+        },
+        {
+          "name": "Collegio dei Sussurri",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Collegio dell Eloquenza",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Collegio dell'Incanto",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Collegio della Creazione",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Collegio delle Spade",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Collegio di Fochlucan",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+          ]
+        },
+        {
+          "name": "Collegio di Nuovo Olamn",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "full",
+        "ability": "cha",
+        "prep_mode": "known",
+        "prep_source": "known_list",
+        "prep_formula": null,
+        "cantrips_known": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ],
+        "spells_known": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          15,
+          16,
+          18,
+          19,
+          19,
+          20,
+          22,
+          22,
+          22
+        ]
+      },
+      "skill_choices": {
+        "count": 3,
+        "options": "any"
+      }
+    },
+    {
+      "value": "chierico",
+      "label": "Chierico",
+      "subclass_level": 1,
+      "group_label": "Dominio Divino",
+      "caster": "full",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "wis",
+        "cha"
+      ],
+      "subclasses": [
+        {
+          "name": "Dominio della Conoscenza",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Dominio della Guerra",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Dominio dell'Inganno",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Dominio della Luce",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Dominio della Natura",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master"
+          ]
+        },
+        {
+          "name": "Dominio della Tempesta",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Dominio della Vita",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Dominio dell'Arcano",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+          ]
+        },
+        {
+          "name": "Dominio della Forgia",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "full",
+        "ability": "wis",
+        "prep_mode": "prepared",
+        "prep_source": "class_list",
+        "prep_formula": "wis_mod+level",
+        "cantrips_known": [
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "intuizione",
+          "medicina",
+          "persuasione",
+          "religione",
+          "storia"
+        ]
+      }
+    },
+    {
+      "value": "druido",
+      "label": "Druido",
+      "subclass_level": 2,
+      "group_label": "Circolo Druidico",
+      "caster": "full",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "int",
+        "wis"
+      ],
+      "subclasses": [
+        {
+          "name": "Circolo della Terra",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Circolo della Luna",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Circolo dei Sogni",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Circolo del Pastore",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Circolo della Fiamma",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Circolo delle Spore",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Circolo delle Stelle",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "full",
+        "ability": "wis",
+        "prep_mode": "prepared",
+        "prep_source": "class_list",
+        "prep_formula": "wis_mod+level",
+        "cantrips_known": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "addestrare_animali",
+          "arcano",
+          "intuizione",
+          "medicina",
+          "natura",
+          "percezione",
+          "religione",
+          "sopravvivenza"
+        ]
+      }
+    },
+    {
+      "value": "guerriero",
+      "label": "Guerriero",
+      "subclass_level": 3,
+      "group_label": "Archetipo Marziale",
+      "caster": "none",
+      "asi_levels": [
+        4,
+        6,
+        8,
+        12,
+        14,
+        16,
+        19
+      ],
+      "save_profs": [
+        "str",
+        "con"
+      ],
+      "subclasses": [
+        {
+          "name": "Campione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Maestro di Battaglia",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Cavaliere Mistico",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master"
+          ],
+          "spellcasting": {
+            "category": "third",
+            "ability": "int",
+            "prep_mode": "known",
+            "prep_source": "known_list",
+            "prep_formula": null,
+            "spell_list_class": "mago",
+            "start_level": 3,
+            "preferred_schools": [
+              "Abiurazione",
+              "Evocazione"
+            ],
+            "cantrips_known": [
+              0,
+              0,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3
+            ],
+            "spells_known": [
+              0,
+              0,
+              3,
+              4,
+              4,
+              4,
+              5,
+              6,
+              6,
+              7,
+              8,
+              8,
+              9,
+              10,
+              10,
+              11,
+              11,
+              11,
+              12,
+              13
+            ]
+          }
+        },
+        {
+          "name": "Arciere Arcano",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Cavaliere Errante",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Samurai",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Cavaliere Runico",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Guerriero Psionico",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "martial",
+        "ability": null,
+        "prep_mode": null,
+        "prep_source": null,
+        "prep_formula": null
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "acrobazia",
+          "addestrare_animali",
+          "atletica",
+          "intimidire",
+          "intuizione",
+          "percezione",
+          "sopravvivenza",
+          "storia"
+        ]
+      }
+    },
+    {
+      "value": "ladro",
+      "label": "Ladro",
+      "subclass_level": 3,
+      "group_label": "Archetipo Ladresco",
+      "caster": "none",
+      "asi_levels": [
+        4,
+        8,
+        10,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "dex",
+        "int"
+      ],
+      "subclasses": [
+        {
+          "name": "Ladro",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Assassino",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Mistificatore Arcano",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master"
+          ],
+          "spellcasting": {
+            "category": "third",
+            "ability": "int",
+            "prep_mode": "known",
+            "prep_source": "known_list",
+            "prep_formula": null,
+            "spell_list_class": "mago",
+            "start_level": 3,
+            "preferred_schools": [
+              "Ammaliamento",
+              "Illusione"
+            ],
+            "cantrips_known": [
+              0,
+              0,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              3,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4
+            ],
+            "spells_known": [
+              0,
+              0,
+              3,
+              4,
+              4,
+              4,
+              5,
+              6,
+              6,
+              7,
+              8,
+              8,
+              9,
+              10,
+              10,
+              11,
+              11,
+              11,
+              12,
+              13
+            ]
+          }
+        },
+        {
+          "name": "Esploratore",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Indagatore",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Pianificatore",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Spadaccino",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Fantasma",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Lama Spirituale",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "martial",
+        "ability": null,
+        "prep_mode": null,
+        "prep_source": null,
+        "prep_formula": null
+      },
+      "skill_choices": {
+        "count": 4,
+        "options": [
+          "acrobazia",
+          "atletica",
+          "furtivita",
+          "indagare",
+          "inganno",
+          "intimidire",
+          "intuizione",
+          "percezione",
+          "persuasione",
+          "rapidita_di_mano"
+        ]
+      }
+    },
+    {
+      "value": "mago",
+      "label": "Mago",
+      "subclass_level": 2,
+      "group_label": "Tradizione Arcana",
+      "caster": "full",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "int",
+        "wis"
+      ],
+      "subclasses": [
+        {
+          "name": "Scuola di Abiurazione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Scuola di Ammaliamento",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Scuola di Divinazione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Scuola di Evocazione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Scuola di Illusione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Scuola di Invocazione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Scuola di Necromanzia",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Scuola di Trasmutazione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Magia della Guerra",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Canto della Lama",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Ordine degli Scribi",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "full",
+        "ability": "int",
+        "prep_mode": "prepared",
+        "prep_source": "spellbook",
+        "prep_formula": "int_mod+level",
+        "cantrips_known": [
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "arcano",
+          "indagare",
+          "intuizione",
+          "medicina",
+          "religione",
+          "storia"
+        ]
+      }
+    },
+    {
+      "value": "monaco",
+      "label": "Monaco",
+      "subclass_level": 3,
+      "group_label": "Tradizione Monastica",
+      "caster": "none",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "str",
+        "dex"
+      ],
+      "subclasses": [
+        {
+          "name": "Via della Mano Aperta",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Via dell'Ombra",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Via dei Quattro Elementi",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Via del Kensei",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Via del Maestro Ubriaco",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Via del Male",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Via del Se Astrale",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Via dell'Anima Solare",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Via della Lunga Morte",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+          ]
+        },
+        {
+          "name": "Via della Misericordia Do",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "martial",
+        "ability": null,
+        "prep_mode": null,
+        "prep_source": null,
+        "prep_formula": null
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "acrobazia",
+          "atletica",
+          "furtivita",
+          "intuizione",
+          "religione",
+          "storia"
+        ]
+      }
+    },
+    {
+      "value": "paladino",
+      "label": "Paladino",
+      "subclass_level": 3,
+      "group_label": "Giuramento Sacro",
+      "caster": "half",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "wis",
+        "cha"
+      ],
+      "subclasses": [
+        {
+          "name": "Giuramento di Devozione",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Giuramento degli Antichi",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Giuramento di Vendetta",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Giuramento della Corona",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+          ]
+        },
+        {
+          "name": "Giuramento delle Sentinelle",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Giuramento di Conquista",
+          "canonical": false,
+          "manuals": [
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Giuramento di Gloria",
+          "canonical": false,
+          "manuals": [
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Giuramento di Inimicizia",
+          "canonical": false,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "half",
+        "ability": "cha",
+        "prep_mode": "prepared",
+        "prep_source": "class_list",
+        "prep_formula": "cha_mod+level/2_floor"
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "atletica",
+          "intimidire",
+          "intuizione",
+          "medicina",
+          "persuasione",
+          "religione"
+        ]
+      }
+    },
+    {
+      "value": "ranger",
+      "label": "Ranger",
+      "subclass_level": 3,
+      "group_label": "Archetipo Ranger",
+      "caster": "half",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "str",
+        "dex"
+      ],
+      "subclasses": [
+        {
+          "name": "Cacciatore",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Signore delle Bestie",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Cacciatore delle Tenebre",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Uccisore di Mostri",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Custode degli Sciami",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Viandante Fatato",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "half",
+        "ability": "wis",
+        "prep_mode": "known",
+        "prep_source": "known_list",
+        "prep_formula": null,
+        "spells_known": [
+          0,
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          10,
+          10,
+          11,
+          11
+        ]
+      },
+      "skill_choices": {
+        "count": 3,
+        "options": [
+          "addestrare_animali",
+          "atletica",
+          "furtivita",
+          "indagare",
+          "intuizione",
+          "natura",
+          "percezione",
+          "sopravvivenza"
+        ]
+      }
+    },
+    {
+      "value": "stregone",
+      "label": "Stregone",
+      "subclass_level": 1,
+      "group_label": "Origine Stregonesca",
+      "caster": "full",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "con",
+        "cha"
+      ],
+      "subclasses": [
+        {
+          "name": "Discendenza Draconica",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Magia Selvaggia",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Anima Divina",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Magia delle Ombre",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Stregoneria della Tempesta",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Anima Meccanica",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Mente Aberrante",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "full",
+        "ability": "cha",
+        "prep_mode": "known",
+        "prep_source": "known_list",
+        "prep_formula": null,
+        "cantrips_known": [
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        "spells_known": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15,
+          15,
+          15
+        ]
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "arcano",
+          "inganno",
+          "intimidire",
+          "intuizione",
+          "persuasione",
+          "religione"
+        ]
+      }
+    },
+    {
+      "value": "warlock",
+      "label": "Warlock",
+      "subclass_level": 1,
+      "group_label": "Patrono Ultraterreno",
+      "caster": "pact",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "wis",
+        "cha"
+      ],
+      "subclasses": [
+        {
+          "name": "L'Immondo",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Il Grande Antico",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Il Signore Fatato",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Il Celestiale",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_dei_mostri",
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "La Lama del Sortilegio",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "guida_omnicomprensiva_di_xanathar_5e"
+          ]
+        },
+        {
+          "name": "Il Genio",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_dei_mostri",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "L'Insondabile",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "pact",
+        "ability": "cha",
+        "prep_mode": "known",
+        "prep_source": "known_list",
+        "prep_formula": null,
+        "cantrips_known": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4
+        ],
+        "spells_known": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          10,
+          11,
+          11,
+          12,
+          12,
+          13,
+          13,
+          14,
+          14,
+          15,
+          15
+        ]
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "arcano",
+          "inganno",
+          "indagare",
+          "intimidire",
+          "natura",
+          "religione",
+          "storia"
+        ]
+      }
+    },
+    {
+      "value": "artefice",
+      "label": "Artefice",
+      "subclass_level": 3,
+      "group_label": "Specialista Artefice",
+      "caster": "half",
+      "asi_levels": [
+        4,
+        8,
+        12,
+        16,
+        19
+      ],
+      "save_profs": [
+        "con",
+        "int"
+      ],
+      "subclasses": [
+        {
+          "name": "Alchimista",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_manuale_del_master",
+            "guida_omnicomprensiva_di_xanathar_5e",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Artigliere",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "tasha_italiano"
+          ]
+        },
+        {
+          "name": "Forgia di Battaglia",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore"
+          ]
+        },
+        {
+          "name": "Armaiolo",
+          "canonical": true,
+          "manuals": [
+            "d_d_5th_manuale_del_giocatore",
+            "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+            "tasha_italiano"
+          ]
+        }
+      ],
+      "spellcasting": {
+        "category": "half",
+        "ability": "int",
+        "prep_mode": "prepared",
+        "prep_source": "class_list",
+        "prep_formula": "int_mod+level/2_ceil"
+      },
+      "skill_choices": {
+        "count": 2,
+        "options": [
+          "arcano",
+          "indagare",
+          "inganno",
+          "medicina",
+          "natura",
+          "percezione",
+          "storia"
+        ]
+      }
+    }
+  ],
+  "backgrounds": [
+    {
+      "name": "Accolito",
+      "manuals": [
+        "d_d_5th_manuale_dei_mostri",
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "intuizione",
+        "religione"
+      ]
+    },
+    {
+      "name": "Artigiano di Gilda",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "intuizione",
+        "persuasione"
+      ]
+    },
+    {
+      "name": "Ciarlatano",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "inganno",
+        "rapidita_di_mano"
+      ]
+    },
+    {
+      "name": "Criminale",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore",
+        "tasha_italiano"
+      ],
+      "skill_grants": [
+        "inganno",
+        "furtivita"
+      ]
+    },
+    {
+      "name": "Eremita",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "medicina",
+        "religione"
+      ]
+    },
+    {
+      "name": "Eroe Popolare",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "addestrare_animali",
+        "sopravvivenza"
+      ]
+    },
+    {
+      "name": "Forestiero",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "atletica",
+        "sopravvivenza"
+      ]
+    },
+    {
+      "name": "Intrattenitore",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "acrobazia",
+        "intrattenere"
+      ]
+    },
+    {
+      "name": "Marinaio",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "atletica",
+        "percezione"
+      ]
+    },
+    {
+      "name": "Monello",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "furtivita",
+        "rapidita_di_mano"
+      ]
+    },
+    {
+      "name": "Nobile",
+      "manuals": [
+        "d_d_5th_manuale_dei_mostri",
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "storia",
+        "persuasione"
+      ]
+    },
+    {
+      "name": "Sapiente",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "arcano",
+        "storia"
+      ]
+    },
+    {
+      "name": "Soldato",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "skill_grants": [
+        "atletica",
+        "intimidire"
+      ]
+    },
+    {
+      "name": "Agente della Fazione",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "intuizione"
+      ]
+    },
+    {
+      "name": "Artigiano di Clan",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "storia",
+        "intuizione"
+      ]
+    },
+    {
+      "name": "Cacciatore di Taglie Urbano",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ]
+    },
+    {
+      "name": "Cortigiano",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "intuizione",
+        "persuasione"
+      ]
+    },
+    {
+      "name": "Ereditiere",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "arcano",
+        "storia"
+      ]
+    },
+    {
+      "name": "Membro della Tribù Uthgardt",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "atletica",
+        "sopravvivenza"
+      ]
+    },
+    {
+      "name": "Membro della Vigilanza Cittadina",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "atletica",
+        "intuizione"
+      ]
+    },
+    {
+      "name": "Nobile di Waterdeep",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "storia",
+        "persuasione"
+      ]
+    },
+    {
+      "name": "Viaggiatore Straniero",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada"
+      ],
+      "skill_grants": [
+        "intuizione",
+        "percezione"
+      ]
+    }
+  ],
+  "races": [
+    {
+      "name": "Dragonide",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "str": 2,
+        "cha": 1
+      }
+    },
+    {
+      "name": "Elfo Alto",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "dex": 2,
+        "int": 1
+      },
+      "skill_grants": [
+        "percezione"
+      ]
+    },
+    {
+      "name": "Elfo dei Boschi",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "dex": 2,
+        "wis": 1
+      },
+      "skill_grants": [
+        "percezione"
+      ]
+    },
+    {
+      "name": "Elfo Oscuro",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "dex": 2,
+        "cha": 1
+      },
+      "skill_grants": [
+        "percezione"
+      ]
+    },
+    {
+      "name": "Gnomo delle Foreste",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "int": 2,
+        "dex": 1
+      }
+    },
+    {
+      "name": "Gnomo delle Rocce",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "int": 2,
+        "con": 1
+      }
+    },
+    {
+      "name": "Halfling Piedileggeri",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "dex": 2,
+        "cha": 1
+      }
+    },
+    {
+      "name": "Halfling Robusto",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "dex": 2,
+        "con": 1
+      }
+    },
+    {
+      "name": "Mezzelfo",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "cha": 2
+      },
+      "half_elf_special": true,
+      "skill_choices": {
+        "count": 2,
+        "options": "any"
+      }
+    },
+    {
+      "name": "Mezzorco",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "str": 2,
+        "con": 1
+      },
+      "skill_grants": [
+        "intimidire"
+      ]
+    },
+    {
+      "name": "Nano delle Colline",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "con": 2,
+        "wis": 1
+      }
+    },
+    {
+      "name": "Nano delle Montagne",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "con": 2,
+        "str": 2
+      }
+    },
+    {
+      "name": "Tiefling",
+      "manuals": [
+        "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+        "d_d_5th_manuale_del_giocatore",
+        "tasha_italiano"
+      ],
+      "stat_bonuses": {
+        "cha": 2,
+        "int": 1
+      }
+    },
+    {
+      "name": "Umano",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {
+        "str": 1,
+        "dex": 1,
+        "con": 1,
+        "int": 1,
+        "wis": 1,
+        "cha": 1
+      }
+    },
+    {
+      "name": "Umano Variante",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonuses": {},
+      "variant_human": true,
+      "skill_choices": {
+        "count": 1,
+        "options": "any"
+      }
+    }
+  ],
+  "feats": [
+    {
+      "name": "Abile",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ottiene competenza in una qualsiasi\ncombinazione di tre abilità o strumenti a sua scelta."
+    },
+    {
+      "name": "Adepto Elementale",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: La capacità di Janciare almeno un incantesimo\nQuando il personaggio ottiene questo talento, sceglie uno dei\ntipi di danni seguenti: acido, freddo, fulmine, fuoco o tuono.\nGli incantesimi che lancia ignorano la resistenza ai\ndanni del tipo scelto. Inoltre, quandotira per i danni di un\nincantesimo da lui lanciato che infligge danni di quel tipo,\npuò considerare ogni | ai dadi dei danni come un 2.\nUn personaggio può selezionare questo talento più volte.\nOgni volta che lo fa, deve scegliere un tipo di danno diverso."
+    },
+    {
+      "name": "Adepto Marziale",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio si è sottoposto a un addestramento marziale\nche gli permette di effettuare alcune manovre speciali in\ncombattimento, Ottiene i benefici seguenti: + Impara due manovre a sua scelta tra quelle disponibili per l'archetipo del Maestro di Battaglia nella classe del\nguerriero. Se una manovra da lui utilizzata richiede che il\nbersaglio effettui un tiro salvezza per resistere agli effetti\ndella manovra, la CD del tiro salvezza è pari a 8 + il bonus di competenza del personaggio + il modificatore di Forza o di Destrezza del personaggio (a scelta del personaggio).\n» Ottiene un dado di superiorità, un d6 (in aggiunta agli\neventuali dadi di superiorità forniti da un'altra fonte).\nUsa questo dado per alimentare le sue manovre. Un dado\ndi superiorità è considerato speso quando il personaggio\nlo usa. Il personaggio recupera i dadi di superiorità spesi\nquando completa un riposo breve o lu"
+    },
+    {
+      "name": "Aggressore Selvaggio",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Una volta per turno, quando il personaggio tira per i danni\ndi un attacco con un’arma da mischia, può ripetere il tiro\nper i danni dell'arma e scegliere quale risultato usare."
+    },
+    {
+      "name": "Allerta",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio tiene sempre gli occhi aperti in caso di\npericolo e ottiene i benefici seguenti:\n» Bonus di +Sall'iniziativa.\ne Non può essere sorpreso finché è cosciente.\n» Le altre creature non dispongono di vantaggio ai tiri per\ncolpire contro di lui quando non sono viste da lui,"
+    },
+    {
+      "name": "Appostato",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Destrezza 13 o superiore Il personaggio è abile nello sgusciare tra le ombre e ottiene i benefici seguenti:\n» Può cercare di nascondersi quando si trova in un'area\nleggermente oscurata rispetto alla creatura da cui si\nnasconde. attacco con a distanza, l'attacco sferrato non rivela la sua posizione.\n+ La luce fioca non impone svantaggio alle sue prove di\nSaggezza (Percezione) basate sulla vista."
+    },
+    {
+      "name": "Atleta",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio si è sottoposto a un intenso addestramento\nfisico e ottiene i benefici seguenti:\n= Il suo punteggio di Forza o di Destrezza aumenta di 1,\nfino a un massimo di 20. = Quando è prono, per rialzarsi utilizza solo 1,5 metri del suo movimento.\n+ Scalare non gli costa movimento extra. « Può effettuare un salto in lungo con rincorsa o un salto in alto con rincorsa dopo essersi mosso solamente di 1,5\nmetri a piedi, anziché di 3 metri."
+    },
+    {
+      "name": "Attore",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonus_value": 1,
+      "stat_options": [
+        "cha"
+      ],
+      "description": "Il personaggio è abile nella recitazione e nella gestualità e ottiene i benefici seguenti: Il suo punteggio di Carisma aumenta di 1, fino a un\nmassimo di 20.\nDispone di vantaggio alle prove di Carisma (Inganno) e\nCarisma (Intrattenere) quando cerca di spacciarsi per\nuna persona diversa. Può imitare la voce di un'altra persona o i versi di altre creature. Deve avere sentito parlare la persona\nin questione o avere udito il verso della creatura per\nalmeno 1 minuto. Superando una prova di Saggezza\n(Intuizione) contrapposta alla prova di Carisma (Inganno)\ndel personaggio, un ascoltatore può capire che l'effetto in questione è falso. CARICA Quando il personaggio usa la sua azione di Scatto, può\nusare un'azione bonus per effettuare un attacco con\nun'arma da mischia o per spingere una creatura.\nSe si muove di almeno 3 metri in linea retta subito prima\ndi effettuare questa azione bonus, sceglie s"
+    },
+    {
+      "name": "Carica",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Quando il personaggio usa la sua azione di Scatto, può\nusare un'azione bonus per effettuare un attacco con\nun'arma da mischia o per spingere una creatura.\nSe si muove di almeno 3 metri in linea retta subito prima\ndi effettuare questa azione bonus, sceglie se ottenere un"
+    },
+    {
+      "name": "Cecchino Magico",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: la capacità di lanciare almeno un incantesimo. Quando lanci un incantesimo che richiede un tiro per colpire, la sua gittata raddoppia. I tuoi attacchi con incantesimi ignorano la copertura a metà e la copertura per tre quarti. Impari un trucchetto che richiede un tiro per colpire, a scelta tra le liste di druido, mago, chierico o stregone/warlock."
+    },
+    {
+      "name": "Combattente a Due Armi",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Ottieni i benefici seguenti finché impugni un'arma da mischia in ciascuna mano: +1 alla CA. Puoi usare il combattimento con due armi anche quando le armi da mischia che impugni non hanno la proprietà Leggera. Puoi estrarre o riporre due armi a una mano quando normalmente potresti estrarne o riporne solo una."
+    },
+    {
+      "name": "Combattente in Sella",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Sei un formidabile combattente in sella e ottieni i benefici seguenti: Hai vantaggio ai tiri per colpire contro qualsiasi creatura smontata che sia di taglia inferiore alla tua cavalcatura. Puoi fare in modo che qualsiasi attacco destinato alla tua cavalcatura bersagli te. Se la tua cavalcatura è soggetta a un effetto che le permette di effettuare un tiro salvezza su Destrezza per dimezzare i danni, non subisce danni se supera il tiro e solo la metà se non lo supera."
+    },
+    {
+      "name": "Condottiero Ispiratore",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Carisma 13 o superiore\nIl personaggio può dedicare 10 minuti a ispirare i suoi\ncompagni, ravvivando la loro determinazione a combattere.\nQuando lo fa, sceglie fino a sei creature amiche (può\nincludere se stesso) situate entro 9 metri da lui e che\nsiano in grado di vederlo, di udirlo e di capirlo. Ogni\ncreatura ottiene un numero di punti ferita temporanei\npari al livello del personaggio + il modificatore di Carisma\ndel personaggio. Una creatura non può ottenere altri\npunti ferita temporanei da questo talento finché non ha\ncompletato un riposo breve o lungo."
+    },
+    {
+      "name": "Corazze Leggere",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio si è addestrato per padroneggiare l'utilizzo\ndelle armature leggere e ottiene i benefici seguenti:\n* Il suo punteggio di Forza o di Destrezza aumenta di |,\nfino a un massimo di 20.\n* Ottiene competenza nelle armature leggere."
+    },
+    {
+      "name": "Corazze Medie",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: competenza nelle armature medie. Hai imparato a indossare le armature medie in modo efficace e ottieni i benefici seguenti: indossare un'armatura media non ti impone svantaggio alle prove di Destrezza (Furtività). Puoi aggiungere 3 alla tua CA, anziché 2, se hai un punteggio di Destrezza pari o superiore a 16."
+    },
+    {
+      "name": "Corazze Pesanti",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Competenza nelle armature medie\nIl personaggio si è addestrato per padroneggiare l'utilizzo\ndelle armature pesanti e ottiene i benefici seguenti:\n* H suo punteggio di Forza aumenta di 1, fino a un\nmassimo di 20.\n* Ottiene competenza nelle armature pesanti. DUELLANTE DIFENSIVO Prerequisito: Destrezza 13 o superiore\nQuando il personaggio impugna un'arma accurata in cui è\ncompetente e un'altra creatura lo colpisce con un attacco in\nmischia, egli può usare la sua reazione per aggiungere il suo\nbonus di competenza alla sua CA per quell'attacco, cosa che\npotrebbe fare in modo che l'attacco lo manchi."
+    },
+    {
+      "name": "Duellante Difensivo",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Destrezza 13 o superiore\nQuando il personaggio impugna un'arma accurata in cui è\ncompetente e un'altra creatura lo colpisce con un attacco in\nmischia, egli può usare la sua reazione per aggiungere il suo\nbonus di competenza alla sua CA per quell'attacco, cosa che\npotrebbe fare in modo che l'attacco lo manchi."
+    },
+    {
+      "name": "Esperto di Balestre",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Grazie a un serrato addestramento nell'utilizzo della\nbalestra, il personaggio ottiene i benefici seguenti:\nIgnora la proprietà di ricarica delle balestre in cui\npossiede competenza.\npresenza di una creatura ostile a 1,5 metri da lui non\nimpone svantaggio ai suoi tiri per colpire a distanza.\nQuando usa l'azione di attacco per attaccare con un'arma\na una mano, può usare un’azione bonus per attaccare con\nuna balestra a mano da lui impugnata."
+    },
+    {
+      "name": "Esperto di Dungeon",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio sa riconoscere le trappole nascoste e le porte segrete in molti dungeon e ottiene i benefici seguenti: « Dispone di vantaggio alle prove di Saggezza (Percezione)\ne Intelligenza (Indagare) effettuate per individuare la\npresenza di porte segrete.\n* Dispone di vantaggio ai tiri salvezza effettuati per evitare\nle trappole o resistere alle trappole.\n* Dispone di resistenza ai danni inferti dalle trappole.\n« Può cercare trappole mentre si muove a passo normale,\nanziché soltanto a passo lento."
+    },
+    {
+      "name": "Fortunato",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio è dotato di una fortuna sfacciata che sembra\nintervenire nei momenti più opportuni.\nIl personaggio possiede 3 punti fortuna. Ogni volta che\neffettua un tiro per colpire, una prova di caratteristica o\nun tiro salvezza, può spendere un punto fortuna per tirare\nun d20 aggiuntivo. Può scegliere di spendere uno dei\nsuoi punti fortuna dopo che ha tirato il dado, ma prima\nche l'esito del tiro sia determinato. Il personaggio sceglie\nquale dei d20 usare per il tiro per colpire, fa prova di\ncaratteristica o il tiro salvezza.\nIl personaggio può anche spendere un punto fortuna\nquando viene effettuato un tiro per colpire contro di lui.\nTira un d20, dopodiché sceglie se l'attacco utilizzerà il tiro dell'attaccante o il suo. Se più di una creatura spende un punto fortuna per\ninfluenzare l'esito di un tiro, i punti si annullano a vicenda e\nnon si tira alcun dado aggiuntivo.\nIl personaggio"
+    },
+    {
+      "name": "Guaritore",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio è un abile guaritore, in grado di medicare le\nferite rapidamente e di consentire ai suoi alleati di tornare\na combattere. Ottiene i benefici seguenti:\n« Quando usa una borsa del guaritore per stabilizzare\nuna creatura morente, quella creatura recupera anche\n1 punto ferita.\n+ Con un'azione, può spendere un utilizzo della borsa del\nguaritore per curare una creatura e ripristinare 1d6\n+ 4 dei suoi punti ferita, più un numero di punti ferita La creatura non può recuperare altri punti ferita tramite\nquesto talento finché non completa un riposo breve o lungo."
+    },
+    {
+      "name": "Incantatore da Guerra",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: La capacità di lanciare almeno un incantesimo\nIl personaggio si è allenato a lanciare incantesimi nel bel\nmezzo di un combattimento e ha appreso le tecniche che gli forniscono i benefici seguenti: » Dispone di vantaggio ai tiri salvezza su Costituzione\nche effettua per mantenere la concentrazione su un\nincantesimo quando subisce danni.\n« Può fornire le componenti somatiche degli incantesimi\nanche quando impugna armi o uno scudo con una 0\nentrambe le mani.\n+ Quando il movimento di una creatura ostile provoca un\nattacco di opportunità da parte sua, il personaggio può\nusare la sua reazione per lanciare un incantesimo sulla\ncreatura anziché effettuare un attacco di opportunità.\nL'incantesimo deve avere un tempo di lancio di 1 azione e\ndeve bersagliare solo quella creatura."
+    },
+    {
+      "name": "Incantatore Rituale",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Intelligenza o Saggezza 13 o superiore\nIl personaggio ha imparato alcuni incantesimi che può\nlanciare come rituali. Questi incantesimi sono scritti in un\nlibro dei rituali che il personaggio deve impugnare quando\nintende lanciarli.\nQuando sceglie questo talento, il personaggio ottiene un\nlibro dei rituali che contiene due incantesimi di 1° livello\na sua scelta. Può sceglierli da una delle seguenti classi:\nbardo, chierico, druido, mago, stregone o warlock. Deve\nscegliere i suoi incantesimi dalla lista degli incantesimi\ndi quella classe e gli incantesimi che sceglie devono avere\nil descrittore rituale. La classe scelta determina anche la\nsua caratteristica da incantatore per quegli incantesimi: il chierico o il druido; Intelligenza per il mago. Se il personaggio si imbatte in un incantesimo in forma scritta, come una pergamena magica o il libro degli incantesimi di un mago, p"
+    },
+    {
+      "name": "Iniziato alla Magia",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio sceglie una classe: bardo, chierico, druido,\nmago, stregone o warlock. Apprende due trucchetti a sua\nscelta dalla lista di incantesimi di quella classe.\nSceglie inoltre un incantesimo di 1\" livello da apprendere\nda quella stessa lista. Usando questo talento, può lanciare\nquell’incantesimo una volta al suo livello più basso e deve\ncompletare un riposo lungo prima di poterlo lanciare di\nnuovo in questo modo.\nLa caratteristica da incantatore del personaggio per\nquesti incantesimi dipende dalla classe scelta: Carisma per\nCAPITOLO DI PERSONALIZZAZIONE il bardo, lo stregone o il warlock; Saggezza per il chierico o il druido; Intelligenza per il mago."
+    },
+    {
+      "name": "Linguista",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ha studiato molte lingue e codici diversi, e\nottiene i benefici seguenti:\n» Il suo punteggio di Intelligenza aumenta di 1, fino a un\nmassimo di 20.\n* Apprende tre linguaggi a sua scelta.\nÈ in grado di creare codici cifrati. Gli altri individui non\npossono decifrare il codice a meno che non vengano\nistruiti a farlo dal personaggio, o che non superino\nuna prova di Intelligenza (CD pari al punteggio di\nIntelligenza del personaggio + il bonus di competenza\ndel personaggio), oppure utilizzando una magia che\nconsenta loro di decifrarli. LOTTATORE Prerequisito: Forza 13 o superiore\nIl personaggio ha sviluppato le abilità necessarie per farsi\nvalere nella lotta corpo a corpo. Ottiene i benefici seguenti:\n* Dispone di vantaggio ai tiri per colpire contro una\ncreatura con cui sta lottando.\n* Può usare la sua azione per tentare di immobilizzare una\ncreatura da lui afferrata. Per farl"
+    },
+    {
+      "name": "Lottatore",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Forza 13 o superiore\nIl personaggio ha sviluppato le abilità necessarie per farsi\nvalere nella lotta corpo a corpo. Ottiene i benefici seguenti:\n* Dispone di vantaggio ai tiri per colpire contro una\ncreatura con cui sta lottando.\n* Può usare la sua azione per tentare di immobilizzare una\ncreatura da lui afferrata. Per farlo deve effettuare un'altra\nprova di lotta. In caso di successo, il personaggio e la\ncreatura sono entrambi trattenuti fino alla fine della lotta."
+    },
+    {
+      "name": "Lottatore da Taverna",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio è abituato ai combattimenti più rozzi e\ndiretti, dove si usa qualsiasi arma si trovi a portata di\nmano, e ottiene i benefici seguenti:\n= Il suo punteggio di Forza o di Costituzione aumenta di 1,\nfino a un massimo di 20.\n+ È competente nelle armi improvvisate.\n* Il suo colpo senz'armi usa un d4 peri danni.\nQuando colpisce una creatura con un colpo senz'armi o\nun'arma improvvisata nel suo turno, può usare un'azione\nbonus per tentare di afferrare il bersaglio."
+    },
+    {
+      "name": "Maestro d'Armi",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio si è addestrato a lungo nell'utilizzo di molte armi e ottiene i benefici seguenti: « Il suo punteggio di Forza o di Destrezza aumenta di l,\nfino a un massimo di 20.\n* Ottiene competenza in quattro armi a sua scelta. Ogni\narma deve essere un'arma semplice o un'arma da guerra. Il personaggio ha imparato a sfruttare a proprio vantaggio\nil peso di un'arma, lasciando che il suo slancio infonda\nmaggiore potenza ai suoi colpi. Ottiene i benefici seguenti:\n«Nel proprio turno, quando mette a segno un colpo critico\ncon un'arma da mischia o porta un personaggio a 0 punti\nferita con un attacco del genere, può effettuare un attacco\ncon un'arma da mischia come azione bonus.\nPrima di effettuare un attacco in mischia con un'arma\npesante in cui è competente, può scegliere di subîìre una penalità di - 5 al tiro per colpire. Se l'attacco colpisce, il personaggio aggiunge +10 ai danni dell'at"
+    },
+    {
+      "name": "Maestro d'Armi Possenti",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ha imparato a sfruttare a proprio vantaggio\nil peso di un'arma, lasciando che il suo slancio infonda\nmaggiore potenza ai suoi colpi. Ottiene i benefici seguenti:\n«Nel proprio turno, quando mette a segno un colpo critico\ncon un'arma da mischia o porta un personaggio a 0 punti\nferita con un attacco del genere, può effettuare un attacco\ncon un'arma da mischia come azione bonus.\nPrima di effettuare un attacco in mischia con un'arma\npesante in cui è competente, può scegliere di subîìre una penalità di - 5 al tiro per colpire. Se l'attacco colpisce, il personaggio aggiunge +10 ai danni dell'attacco."
+    },
+    {
+      "name": "Maestro degli Scudi",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio usa gli scudi non solo per proteggersi, ma\nanche per attaccare. Finché impugna uno scudo, ottiene i\nbenefici seguenti:\nSe effettua l'azione di Attacco nel suo turno, può usare\nun'azione bonus per cercare di spingere con il suo scudo\nuna creatura entro 1,5 metri da sé. effettui contro un incantesimo o un altro effetto dannoso che bersaglia soltanto lui.\nSe è soggetto a un effetto che gli consente di effettuare\nun tiro salvezza su Destrezza per subire solo la metà dei danni, può usare la sua reazione per non subire alcun danno qualora superi il tiro salvezza, frapponendo lo\nscudo tra se stesso e la fonte dell'effetto."
+    },
+    {
+      "name": "Maestro delle Armature Medie",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Competenza nelle armature medie\n1) personaggio si è addestrato per muoversi con efficacia quando indossa un’armatura media e ottiene i benefici seguenti:\n* Se indossa un'armatura media non subisce svantaggio\nalle proprie prove di Destrezza (Furtività).\ne Quando indossa un'armatura media, può aggiungere +3\nanziché +2 alla propria CA se possiede una Destrezza\npari o superiore a 16."
+    },
+    {
+      "name": "Maestro delle Armature Pesanti",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Prerequisito: Competenza nelle armature pesanti\nIl personaggio può usare la sua armatura per deviare colpi che\nrisulterebbero letali per gli altri. Ottiene i benefici seguenti:\nAi nat |\n* Ilsuo punteggio di Forza aumenta di 1, fino a un\nmassimo di 20.\nMentre indossa un'armatura pesante, i danni\ncontundenti, perforanti e taglienti che subisce dalle armi\nnon magiche sono ridotti di 3,"
+    },
+    {
+      "name": "Maestro delle Armi su Asta",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ottiene i benefici seguenti:\nQuando effettua l’azione di Attacco e attacca soltanto con un'alabarda, un bastone ferrato o un falcione, può usare un'azione bonus per effettuare un attacco in mischia\ncon l'estremità opposta dell'arma. Questo attacco usa\nlo stesso modificatore di caratteristica dell'attacco\nprimario. Il dado dei danni dell'arma per questo attacco è un d4 e l'arma infligge danni contundenti. Mentre impugna un'alabarda, un bastone ferrato, un\nfalcione o una picca, le altre creature provocano un\nattacco di opportunità da parte sua quando entrano nella\nportata che egli possiede con quell'arma."
+    },
+    {
+      "name": "Mente Acuta",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore",
+        "tasha_italiano"
+      ],
+      "description": "La mente del personaggio è in grado di tenere conto del\ntempo, della direzione e dei dettagli con straordinaria\nprecisione. Il personaggio ottiene i benefici seguenti.\ne Il suo punteggio di Intelligenza aumenta di 1, fino a un\nmassimo di 20.\n» Sa sempre in che direzione si trova il nord.\n» Sa sempre quante ore mancano alla prossima alba o al\nprossimo tramonto.\nRiesce a ricordare con precisione tutto ciò che ha visto o\nsentito nell'arco mese."
+    },
+    {
+      "name": "Mobilità",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio è straordinariamente agile e veloce, e\nottiene i benefici seguenti:\nLa sua velocità aumenta di 3 metri.\n« Quando usa l'azione di Scatto, il terreno difficile non gli\ncosta movimento extra in quel turno.\n+ Quando effettua un attacco in mischia contro una creatura,\nnon provoca attacchi di opportunità da parte di quella\ncreatura per il resto del turno, che l'attacco colpisca o meno."
+    },
+    {
+      "name": "Osservatore",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonus_value": 1,
+      "stat_options": [
+        "int",
+        "wis"
+      ],
+      "description": "Il personaggio nota rapidamente i dettagli dell'ambiente\ncircostante e ottiene i benefici seguenti:\n« Il suo punteggio di Intelligenza o di Saggezza aumenta di 1,\nfino a un massimo di 20.\n» Seèin grado di vedere la bocca di una creatura mentre\nquesta parla un linguaggio a lui conosciuto, riesce a\ncapire cosa sta dicendo leggendo le labbra.\n« Ottiene un bonus di +5 alle sue prove passive di\nSaggezza (Percezione) e alle sue prove passive di\nIntelligenza (Indagare)."
+    },
+    {
+      "name": "Resiliente",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "stat_bonus_value": 1,
+      "stat_options": [],
+      "save_prof": true,
+      "description": "Il personaggio sceglie un punteggio di caratteristica e ottiene i benefici seguenti: « Il suo punteggio della caratteristica scelta aumenta di 1,\nfino a un massimo di 20.\n» Ottiene competenza nei tiri salvezza che usano la\ncaratteristica scelta.\nCAPITOLO DI PERSONALIZZAZIONE ottiene i benefici seguenti: ROBUSTO Il massimo dei punti ferita del personaggio aumenta di\nun ammontare pari al doppio del suo livello quando il\npersonaggio ottiene questo talento. Da allora in poi, ogni\nvolta che il personaggio acquisisce un livello, il massimo\ndei suoi punti ferita aumenta di 2 punti ferita aggiuntivi."
+    },
+    {
+      "name": "Robusto",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il massimo dei punti ferita del personaggio aumenta di\nun ammontare pari al doppio del suo livello quando il\npersonaggio ottiene questo talento. Da allora in poi, ogni\nvolta che il personaggio acquisisce un livello, il massimo\ndei suoi punti ferita aumenta di 2 punti ferita aggiuntivi."
+    },
+    {
+      "name": "Sentinella",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ha padroneggiato le tecniche che gli\nconsentono di approfittare di ogni minuscolo varco nelle difese del nemico e ottiene i benefici seguenti: e Quando colpisce una creatura con un attacco di\nopportunità, la velocità di quella creatura diventa 0 per il\nresto del turno.\n» Le creature provocano attacchi di opportunità da parte\nsua anche quando effettuano l'azione di Disimpegno\nprima di uscire dalla sua portata.\ne Quando una creatura entro 1,5 metri dal personaggio\neffettua un attacco contro un bersaglio diverso da\nlui (e quel bersaglio non possiede questo talento), il\npersonaggio può usare la sua reazione per effettuare\nun attacco con un'arma da mischia contro la creatura\nattaccante."
+    },
+    {
+      "name": "Sterminatore di Maghi",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ha imparato varie tecniche utili nei\ncombattimenti in mischia contro gli incantatori e ottiene i\nbenefici seguenti:\ne Quando una creatura entro 1,5 metri da lui lancia un\nincantesimo, egli può usare la sua reazione per effettuare\nun attacco con un'arma da mischia contro quella creatura.\n» Quando infligge danni su una creatura concentrata su un\nincantesimo, quella creatura subisce svantaggio al tiro\nsalvezza che effettua per mantenere la concentrazione.\nDispone di vantaggio ai tiri salvezza contro gli incantesimi\nlanciati dalle creature entro 1,5 metri da lui. Il personaggio è robusto e resiliente, e ottiene i benefici seguenti: Il suo punteggio di Costituzione aumenta di 1, fino a un massimo di 20.\n» Quando tira un Dado Vita per recuperare punti ferita,\nil numero minimo di punti ferita che recupera con iltiro è\npari al doppio del suo modificatore di Costituzione (fino a\nun"
+    },
+    {
+      "name": "Tenace",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ]
+    },
+    {
+      "name": "Tiratore Scelto",
+      "manuals": [
+        "d_d_5th_manuale_del_giocatore"
+      ],
+      "description": "Il personaggio ha padroneggiato l'utilizzo delle armi a\ndistanza ed è in grado di effettuare tiri che per gli altri\nrisulterebbero impossibili. Ottiene i benefici seguenti:\nGli attacchi a gittata lunga non impongono svantaggio ai\ntiri per colpire delle sue armi a distanza.\n» Gli attacchi delle sue armi a distanza ignorano metà\ncopertura e tre quarti di copertura. cui è competente, può scegliere di subire una penalità di -5 al tiro per colpire. Se l'attacco colpisce, il personaggio\naggiunge +10 ai danni dell'attacco.\nTi]\n= di\no £\n9 ©"
+    }
+  ],
+  "spell_slots": {
+    "full_caster": [
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ]
+    ],
+    "half_caster": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        1,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        1,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        2,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        2,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2
+      ],
+      [
+        4,
+        3,
+        3,
+        3,
+        2
+      ]
+    ],
+    "third_caster": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0
+      ],
+      [
+        4,
+        3,
+        2,
+        0
+      ],
+      [
+        4,
+        3,
+        2,
+        0
+      ],
+      [
+        4,
+        3,
+        2,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        0
+      ],
+      [
+        4,
+        3,
+        3,
+        1
+      ],
+      [
+        4,
+        3,
+        3,
+        1
+      ]
+    ],
+    "pact": [
+      {
+        "slots": 1,
+        "slot_level": 1
+      },
+      {
+        "slots": 2,
+        "slot_level": 1
+      },
+      {
+        "slots": 2,
+        "slot_level": 2
+      },
+      {
+        "slots": 2,
+        "slot_level": 2
+      },
+      {
+        "slots": 2,
+        "slot_level": 3
+      },
+      {
+        "slots": 2,
+        "slot_level": 3
+      },
+      {
+        "slots": 2,
+        "slot_level": 4
+      },
+      {
+        "slots": 2,
+        "slot_level": 4
+      },
+      {
+        "slots": 2,
+        "slot_level": 5
+      },
+      {
+        "slots": 2,
+        "slot_level": 5
+      },
+      {
+        "slots": 3,
+        "slot_level": 5
+      },
+      {
+        "slots": 3,
+        "slot_level": 5
+      },
+      {
+        "slots": 3,
+        "slot_level": 5
+      },
+      {
+        "slots": 3,
+        "slot_level": 5
+      },
+      {
+        "slots": 3,
+        "slot_level": 5
+      },
+      {
+        "slots": 3,
+        "slot_level": 5
+      },
+      {
+        "slots": 4,
+        "slot_level": 5
+      },
+      {
+        "slots": 4,
+        "slot_level": 5
+      },
+      {
+        "slots": 4,
+        "slot_level": 5
+      },
+      {
+        "slots": 4,
+        "slot_level": 5
+      }
+    ]
+  },
+  "tasha_expanded": {
+    "bardo": [
+      {
+        "level": 1,
+        "name": "Benedizione"
+      },
+      {
+        "level": 1,
+        "name": "Incuti Paura"
+      },
+      {
+        "level": 1,
+        "name": "Comando"
+      },
+      {
+        "level": 1,
+        "name": "Individuazione delle Malattie e dei Veleni"
+      },
+      {
+        "level": 1,
+        "name": "Protezione dal Bene e dal Male"
+      },
+      {
+        "level": 2,
+        "name": "Aiuto"
+      },
+      {
+        "level": 2,
+        "name": "Fiamma Perenne"
+      },
+      {
+        "level": 2,
+        "name": "Ingrandire/Ridurre"
+      },
+      {
+        "level": 2,
+        "name": "Arma Magica"
+      },
+      {
+        "level": 2,
+        "name": "Arma Spirituale"
+      },
+      {
+        "level": 2,
+        "name": "Interdizione alle Lame"
+      },
+      {
+        "level": 3,
+        "name": "Spirito Guaritore"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Folletto"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Raffica"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Non Morto"
+      },
+      {
+        "level": 4,
+        "name": "Aura di Purezza"
+      },
+      {
+        "level": 4,
+        "name": "Libertà di Movimento"
+      },
+      {
+        "level": 4,
+        "name": "Evoca Aberrazione"
+      },
+      {
+        "level": 4,
+        "name": "Evoca Costrutto"
+      },
+      {
+        "level": 5,
+        "name": "Ristorare Superiore"
+      },
+      {
+        "level": 5,
+        "name": "Arma Sacra"
+      },
+      {
+        "level": 5,
+        "name": "Colpo del Vento d'Acciaio"
+      },
+      {
+        "level": 5,
+        "name": "Evoca Celestiale"
+      },
+      {
+        "level": 6,
+        "name": "Banchetto degli Eroi"
+      },
+      {
+        "level": 6,
+        "name": "Bagliore Solare"
+      },
+      {
+        "level": 6,
+        "name": "Parola del Ritiro"
+      },
+      {
+        "level": 7,
+        "name": "Parola del Potere Dolore"
+      },
+      {
+        "level": 7,
+        "name": "Rigenerazione"
+      },
+      {
+        "level": 8,
+        "name": "Aura Sacra"
+      },
+      {
+        "level": 9,
+        "name": "Guarigione di Massa"
+      },
+      {
+        "level": 9,
+        "name": "Parola del Potere Guarire"
+      }
+    ],
+    "chierico": [
+      {
+        "level": 1,
+        "name": "Individuazione del Bene e del Male"
+      },
+      {
+        "level": 1,
+        "name": "Individuazione delle Malattie e dei Veleni"
+      },
+      {
+        "level": 3,
+        "name": "Eruzione Terrestre"
+      },
+      {
+        "level": 3,
+        "name": "Tempesta di Nevischio"
+      },
+      {
+        "level": 3,
+        "name": "Onda di Marea"
+      },
+      {
+        "level": 3,
+        "name": "Muro d'Acqua"
+      },
+      {
+        "level": 4,
+        "name": "Sfera Acquea"
+      },
+      {
+        "level": 5,
+        "name": "Cono di Freddo"
+      },
+      {
+        "level": 5,
+        "name": "Arma Sacra"
+      },
+      {
+        "level": 5,
+        "name": "Evoca Celestiale"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Fiamma"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Ghiaccio"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Pietra"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Vento"
+      },
+      {
+        "level": 7,
+        "name": "Tempesta di Fuoco"
+      },
+      {
+        "level": 7,
+        "name": "Turbine"
+      },
+      {
+        "level": 8,
+        "name": "Terremoto"
+      },
+      {
+        "level": 8,
+        "name": "Aura Sacra"
+      },
+      {
+        "level": 9,
+        "name": "Parola del Potere Guarire"
+      },
+      {
+        "level": 9,
+        "name": "Tempesta di Vendetta"
+      }
+    ],
+    "druido": [
+      {
+        "level": 1,
+        "name": "Assorbire Elementi"
+      },
+      {
+        "level": 1,
+        "name": "Legame con le Bestie"
+      },
+      {
+        "level": 1,
+        "name": "Protezione dal Bene e dal Male"
+      },
+      {
+        "level": 2,
+        "name": "Aiuto"
+      },
+      {
+        "level": 2,
+        "name": "Fiamma Perenne"
+      },
+      {
+        "level": 2,
+        "name": "Ingrandire/Ridurre"
+      },
+      {
+        "level": 2,
+        "name": "Interdizione alle Lame"
+      },
+      {
+        "level": 3,
+        "name": "Arma Elementale"
+      },
+      {
+        "level": 3,
+        "name": "Rinascita"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Folletto"
+      },
+      {
+        "level": 4,
+        "name": "Aura di Vita"
+      },
+      {
+        "level": 4,
+        "name": "Evoca Costrutto"
+      },
+      {
+        "level": 5,
+        "name": "Evoca Celestiale"
+      },
+      {
+        "level": 6,
+        "name": "Banchetto degli Eroi"
+      },
+      {
+        "level": 7,
+        "name": "Rigenerazione"
+      },
+      {
+        "level": 8,
+        "name": "Aura Sacra"
+      },
+      {
+        "level": 9,
+        "name": "Guarigione di Massa"
+      },
+      {
+        "level": 9,
+        "name": "Parola del Potere Guarire"
+      }
+    ],
+    "paladino": [
+      {
+        "level": 1,
+        "name": "Comando"
+      },
+      {
+        "level": 1,
+        "name": "Duello Obbligato"
+      },
+      {
+        "level": 1,
+        "name": "Punizione Incandescente"
+      },
+      {
+        "level": 1,
+        "name": "Punizione Tonante"
+      },
+      {
+        "level": 1,
+        "name": "Punizione Collerica"
+      },
+      {
+        "level": 2,
+        "name": "Punizione Marchiante"
+      },
+      {
+        "level": 2,
+        "name": "Arma Magica"
+      },
+      {
+        "level": 2,
+        "name": "Arma Spirituale"
+      },
+      {
+        "level": 3,
+        "name": "Aura di Vitalità"
+      },
+      {
+        "level": 3,
+        "name": "Punizione Accecante"
+      },
+      {
+        "level": 3,
+        "name": "Manto del Crociato"
+      },
+      {
+        "level": 3,
+        "name": "Arma Elementale"
+      },
+      {
+        "level": 3,
+        "name": "Spirito Guaritore"
+      },
+      {
+        "level": 4,
+        "name": "Evoca Celestiale"
+      },
+      {
+        "level": 5,
+        "name": "Punizione Esiliante"
+      },
+      {
+        "level": 5,
+        "name": "Onda Distruttiva"
+      },
+      {
+        "level": 5,
+        "name": "Arma Sacra"
+      },
+      {
+        "level": 5,
+        "name": "Evoca Celestiale"
+      }
+    ],
+    "ranger": [
+      {
+        "level": 1,
+        "name": "Assorbire Elementi"
+      },
+      {
+        "level": 1,
+        "name": "Colpo Intrappolante"
+      },
+      {
+        "level": 1,
+        "name": "Intralciare"
+      },
+      {
+        "level": 1,
+        "name": "Punizione Incandescente"
+      },
+      {
+        "level": 2,
+        "name": "Arma Magica"
+      },
+      {
+        "level": 2,
+        "name": "Evoca Bestia"
+      },
+      {
+        "level": 3,
+        "name": "Arma Elementale"
+      },
+      {
+        "level": 3,
+        "name": "Rinascita"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Folletto"
+      },
+      {
+        "level": 5,
+        "name": "Colpo del Vento d'Acciaio"
+      },
+      {
+        "level": 5,
+        "name": "Faretra Rapida"
+      }
+    ],
+    "mago": [
+      {
+        "level": 1,
+        "name": "Assorbire Elementi"
+      },
+      {
+        "level": 1,
+        "name": "Dardo di Caos"
+      },
+      {
+        "level": 1,
+        "name": "Globo Cromatico"
+      },
+      {
+        "level": 1,
+        "name": "Comando"
+      },
+      {
+        "level": 1,
+        "name": "Protezione dal Bene e dal Male"
+      },
+      {
+        "level": 1,
+        "name": "Dardo Stregato"
+      },
+      {
+        "level": 2,
+        "name": "Vampa di Aganazzar"
+      },
+      {
+        "level": 2,
+        "name": "Fiamma Perenne"
+      },
+      {
+        "level": 2,
+        "name": "Lama Infuocata"
+      },
+      {
+        "level": 2,
+        "name": "Sfera Infuocata"
+      },
+      {
+        "level": 2,
+        "name": "Stretta della Terra di Maximilian"
+      },
+      {
+        "level": 2,
+        "name": "Freccia Acida di Melf"
+      },
+      {
+        "level": 2,
+        "name": "Pirotecnica"
+      },
+      {
+        "level": 2,
+        "name": "Scritta Celeste"
+      },
+      {
+        "level": 3,
+        "name": "Arma Elementale"
+      },
+      {
+        "level": 3,
+        "name": "Eruzione Terrestre"
+      },
+      {
+        "level": 3,
+        "name": "Frecce Infuocate"
+      },
+      {
+        "level": 3,
+        "name": "Minuscole Meteore di Melf"
+      },
+      {
+        "level": 3,
+        "name": "Tempesta di Nevischio"
+      },
+      {
+        "level": 3,
+        "name": "Onda di Marea"
+      },
+      {
+        "level": 3,
+        "name": "Muro d'Acqua"
+      },
+      {
+        "level": 4,
+        "name": "Sfera Acquea"
+      },
+      {
+        "level": 5,
+        "name": "Onda Distruttiva"
+      },
+      {
+        "level": 5,
+        "name": "Immolazione"
+      },
+      {
+        "level": 5,
+        "name": "Maelstrom"
+      },
+      {
+        "level": 5,
+        "name": "Trasmutare Roccia"
+      },
+      {
+        "level": 6,
+        "name": "Ossa della Terra"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Fiamma"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Ghiaccio"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Pietra"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Vento"
+      },
+      {
+        "level": 7,
+        "name": "Corona di Stelle"
+      },
+      {
+        "level": 7,
+        "name": "Turbine"
+      },
+      {
+        "level": 8,
+        "name": "Orrido Avvizzimento di Abi-Dalzim"
+      },
+      {
+        "level": 8,
+        "name": "Terremoto"
+      },
+      {
+        "level": 9,
+        "name": "Tempesta di Vendetta"
+      }
+    ],
+    "stregone": [
+      {
+        "level": 1,
+        "name": "Assorbire Elementi"
+      },
+      {
+        "level": 1,
+        "name": "Legame con le Bestie"
+      },
+      {
+        "level": 1,
+        "name": "Catapulta"
+      },
+      {
+        "level": 1,
+        "name": "Coltello di Ghiaccio"
+      },
+      {
+        "level": 1,
+        "name": "Protezione dal Bene e dal Male"
+      },
+      {
+        "level": 2,
+        "name": "Vampa di Aganazzar"
+      },
+      {
+        "level": 2,
+        "name": "Lama Infuocata"
+      },
+      {
+        "level": 2,
+        "name": "Sfera Infuocata"
+      },
+      {
+        "level": 2,
+        "name": "Stretta della Terra di Maximilian"
+      },
+      {
+        "level": 2,
+        "name": "Freccia Acida di Melf"
+      },
+      {
+        "level": 2,
+        "name": "Pirotecnica"
+      },
+      {
+        "level": 2,
+        "name": "Scritta Celeste"
+      },
+      {
+        "level": 2,
+        "name": "Vento di Interdizione"
+      },
+      {
+        "level": 3,
+        "name": "Eruzione Terrestre"
+      },
+      {
+        "level": 3,
+        "name": "Frecce Infuocate"
+      },
+      {
+        "level": 3,
+        "name": "Minuscole Meteore di Melf"
+      },
+      {
+        "level": 3,
+        "name": "Tempesta di Nevischio"
+      },
+      {
+        "level": 3,
+        "name": "Onda di Marea"
+      },
+      {
+        "level": 3,
+        "name": "Muro d'Acqua"
+      },
+      {
+        "level": 4,
+        "name": "Sfera della Tempesta"
+      },
+      {
+        "level": 4,
+        "name": "Sfera Acquea"
+      },
+      {
+        "level": 5,
+        "name": "Onda Distruttiva"
+      },
+      {
+        "level": 5,
+        "name": "Immolazione"
+      },
+      {
+        "level": 5,
+        "name": "Maelstrom"
+      },
+      {
+        "level": 5,
+        "name": "Trasmutare Roccia"
+      },
+      {
+        "level": 6,
+        "name": "Ossa della Terra"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Fiamma"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Ghiaccio"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Pietra"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Vento"
+      },
+      {
+        "level": 7,
+        "name": "Turbine"
+      },
+      {
+        "level": 8,
+        "name": "Orrido Avvizzimento di Abi-Dalzim"
+      },
+      {
+        "level": 8,
+        "name": "Terremoto"
+      },
+      {
+        "level": 9,
+        "name": "Tempesta di Vendetta"
+      }
+    ],
+    "warlock": [
+      {
+        "level": 1,
+        "name": "Incuti Paura"
+      },
+      {
+        "level": 1,
+        "name": "Charme su Persone"
+      },
+      {
+        "level": 1,
+        "name": "Comando"
+      },
+      {
+        "level": 1,
+        "name": "Individuazione del Magico"
+      },
+      {
+        "level": 1,
+        "name": "Scritto Illusorio"
+      },
+      {
+        "level": 1,
+        "name": "Raggio di Infermità"
+      },
+      {
+        "level": 1,
+        "name": "Servitore Inosservato"
+      },
+      {
+        "level": 2,
+        "name": "Oscurità"
+      },
+      {
+        "level": 2,
+        "name": "Blocca Persone"
+      },
+      {
+        "level": 2,
+        "name": "Movimenti del Ragno"
+      },
+      {
+        "level": 2,
+        "name": "Arma Spirituale"
+      },
+      {
+        "level": 2,
+        "name": "Suggestione"
+      },
+      {
+        "level": 2,
+        "name": "Evoca Bestia"
+      },
+      {
+        "level": 3,
+        "name": "Chiaroveggenza"
+      },
+      {
+        "level": 3,
+        "name": "Fortezza della Mente"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Folletto"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Raffica"
+      },
+      {
+        "level": 3,
+        "name": "Evoca Non Morto"
+      },
+      {
+        "level": 4,
+        "name": "Aura di Purezza"
+      },
+      {
+        "level": 4,
+        "name": "Charme sui Mostri"
+      },
+      {
+        "level": 4,
+        "name": "Ombra di Moil"
+      },
+      {
+        "level": 4,
+        "name": "Evoca Aberrazione"
+      },
+      {
+        "level": 4,
+        "name": "Evoca Costrutto"
+      },
+      {
+        "level": 5,
+        "name": "Arma Sacra"
+      },
+      {
+        "level": 5,
+        "name": "Modificare Memoria"
+      },
+      {
+        "level": 5,
+        "name": "Legame Planare"
+      },
+      {
+        "level": 5,
+        "name": "Evoca Celestiale"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Fiamma"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Ghiaccio"
+      },
+      {
+        "level": 6,
+        "name": "Investitura della Pietra"
+      },
+      {
+        "level": 6,
+        "name": "Investitura del Vento"
+      },
+      {
+        "level": 7,
+        "name": "Dito della Morte"
+      },
+      {
+        "level": 7,
+        "name": "Spostamento Planare"
+      },
+      {
+        "level": 8,
+        "name": "Semipiano"
+      },
+      {
+        "level": 8,
+        "name": "Loquacità"
+      },
+      {
+        "level": 9,
+        "name": "Proiezione Astrale"
+      }
+    ]
+  }
+}

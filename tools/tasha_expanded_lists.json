@@ -1,0 +1,836 @@
+{
+  "_note": "Generato da tools/build_tasha_expanded.py. Fonte: Tasha's Cauldron of Everything, Chapter 1, Class Spell List Expansions. Mappa EN -> IT via spell_name_map_it_en.json. Solo le spell presenti nel dataset IT (web/data/spells.json) sono incluse: voci EN non mappabili sono SALTATE per evitare di inquinare le liste di classe.",
+  "_todo": "33 entry ufficiali saltate (mancano dal dataset IT). Per completarle: aggiungere il mapping EN->IT in spell_name_map_it_en.json e assicurarsi che lo spell esista in web/data/spells.json.",
+  "bardo": [
+    {
+      "level": 1,
+      "name": "Benedizione"
+    },
+    {
+      "level": 1,
+      "name": "Incuti Paura"
+    },
+    {
+      "level": 1,
+      "name": "Comando"
+    },
+    {
+      "level": 1,
+      "name": "Individuazione delle Malattie e dei Veleni"
+    },
+    {
+      "level": 1,
+      "name": "Protezione dal Bene e dal Male"
+    },
+    {
+      "level": 2,
+      "name": "Aiuto"
+    },
+    {
+      "level": 2,
+      "name": "Fiamma Perenne"
+    },
+    {
+      "level": 2,
+      "name": "Ingrandire/Ridurre"
+    },
+    {
+      "level": 2,
+      "name": "Arma Magica"
+    },
+    {
+      "level": 2,
+      "name": "Arma Spirituale"
+    },
+    {
+      "level": 2,
+      "name": "Interdizione alle Lame"
+    },
+    {
+      "level": 3,
+      "name": "Spirito Guaritore"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Folletto"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Raffica"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Non Morto"
+    },
+    {
+      "level": 4,
+      "name": "Aura di Purezza"
+    },
+    {
+      "level": 4,
+      "name": "Libertà di Movimento"
+    },
+    {
+      "level": 4,
+      "name": "Evoca Aberrazione"
+    },
+    {
+      "level": 4,
+      "name": "Evoca Costrutto"
+    },
+    {
+      "level": 5,
+      "name": "Ristorare Superiore"
+    },
+    {
+      "level": 5,
+      "name": "Arma Sacra"
+    },
+    {
+      "level": 5,
+      "name": "Colpo del Vento d'Acciaio"
+    },
+    {
+      "level": 5,
+      "name": "Evoca Celestiale"
+    },
+    {
+      "level": 6,
+      "name": "Banchetto degli Eroi"
+    },
+    {
+      "level": 6,
+      "name": "Bagliore Solare"
+    },
+    {
+      "level": 6,
+      "name": "Parola del Ritiro"
+    },
+    {
+      "level": 7,
+      "name": "Parola del Potere Dolore"
+    },
+    {
+      "level": 7,
+      "name": "Rigenerazione"
+    },
+    {
+      "level": 8,
+      "name": "Aura Sacra"
+    },
+    {
+      "level": 9,
+      "name": "Guarigione di Massa"
+    },
+    {
+      "level": 9,
+      "name": "Parola del Potere Guarire"
+    }
+  ],
+  "chierico": [
+    {
+      "level": 1,
+      "name": "Individuazione del Bene e del Male"
+    },
+    {
+      "level": 1,
+      "name": "Individuazione delle Malattie e dei Veleni"
+    },
+    {
+      "level": 3,
+      "name": "Eruzione Terrestre"
+    },
+    {
+      "level": 3,
+      "name": "Tempesta di Nevischio"
+    },
+    {
+      "level": 3,
+      "name": "Onda di Marea"
+    },
+    {
+      "level": 3,
+      "name": "Muro d'Acqua"
+    },
+    {
+      "level": 4,
+      "name": "Sfera Acquea"
+    },
+    {
+      "level": 5,
+      "name": "Cono di Freddo"
+    },
+    {
+      "level": 5,
+      "name": "Arma Sacra"
+    },
+    {
+      "level": 5,
+      "name": "Evoca Celestiale"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Fiamma"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Ghiaccio"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Pietra"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Vento"
+    },
+    {
+      "level": 7,
+      "name": "Tempesta di Fuoco"
+    },
+    {
+      "level": 7,
+      "name": "Turbine"
+    },
+    {
+      "level": 8,
+      "name": "Terremoto"
+    },
+    {
+      "level": 8,
+      "name": "Aura Sacra"
+    },
+    {
+      "level": 9,
+      "name": "Parola del Potere Guarire"
+    },
+    {
+      "level": 9,
+      "name": "Tempesta di Vendetta"
+    }
+  ],
+  "druido": [
+    {
+      "level": 1,
+      "name": "Assorbire Elementi"
+    },
+    {
+      "level": 1,
+      "name": "Legame con le Bestie"
+    },
+    {
+      "level": 1,
+      "name": "Protezione dal Bene e dal Male"
+    },
+    {
+      "level": 2,
+      "name": "Aiuto"
+    },
+    {
+      "level": 2,
+      "name": "Fiamma Perenne"
+    },
+    {
+      "level": 2,
+      "name": "Ingrandire/Ridurre"
+    },
+    {
+      "level": 2,
+      "name": "Interdizione alle Lame"
+    },
+    {
+      "level": 3,
+      "name": "Arma Elementale"
+    },
+    {
+      "level": 3,
+      "name": "Rinascita"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Folletto"
+    },
+    {
+      "level": 4,
+      "name": "Aura di Vita"
+    },
+    {
+      "level": 4,
+      "name": "Evoca Costrutto"
+    },
+    {
+      "level": 5,
+      "name": "Evoca Celestiale"
+    },
+    {
+      "level": 6,
+      "name": "Banchetto degli Eroi"
+    },
+    {
+      "level": 7,
+      "name": "Rigenerazione"
+    },
+    {
+      "level": 8,
+      "name": "Aura Sacra"
+    },
+    {
+      "level": 9,
+      "name": "Guarigione di Massa"
+    },
+    {
+      "level": 9,
+      "name": "Parola del Potere Guarire"
+    }
+  ],
+  "paladino": [
+    {
+      "level": 1,
+      "name": "Comando"
+    },
+    {
+      "level": 1,
+      "name": "Duello Obbligato"
+    },
+    {
+      "level": 1,
+      "name": "Punizione Incandescente"
+    },
+    {
+      "level": 1,
+      "name": "Punizione Tonante"
+    },
+    {
+      "level": 1,
+      "name": "Punizione Collerica"
+    },
+    {
+      "level": 2,
+      "name": "Punizione Marchiante"
+    },
+    {
+      "level": 2,
+      "name": "Arma Magica"
+    },
+    {
+      "level": 2,
+      "name": "Arma Spirituale"
+    },
+    {
+      "level": 3,
+      "name": "Aura di Vitalità"
+    },
+    {
+      "level": 3,
+      "name": "Punizione Accecante"
+    },
+    {
+      "level": 3,
+      "name": "Manto del Crociato"
+    },
+    {
+      "level": 3,
+      "name": "Arma Elementale"
+    },
+    {
+      "level": 3,
+      "name": "Spirito Guaritore"
+    },
+    {
+      "level": 4,
+      "name": "Evoca Celestiale"
+    },
+    {
+      "level": 5,
+      "name": "Punizione Esiliante"
+    },
+    {
+      "level": 5,
+      "name": "Onda Distruttiva"
+    },
+    {
+      "level": 5,
+      "name": "Arma Sacra"
+    },
+    {
+      "level": 5,
+      "name": "Evoca Celestiale"
+    }
+  ],
+  "ranger": [
+    {
+      "level": 1,
+      "name": "Assorbire Elementi"
+    },
+    {
+      "level": 1,
+      "name": "Colpo Intrappolante"
+    },
+    {
+      "level": 1,
+      "name": "Intralciare"
+    },
+    {
+      "level": 1,
+      "name": "Punizione Incandescente"
+    },
+    {
+      "level": 2,
+      "name": "Arma Magica"
+    },
+    {
+      "level": 2,
+      "name": "Evoca Bestia"
+    },
+    {
+      "level": 3,
+      "name": "Arma Elementale"
+    },
+    {
+      "level": 3,
+      "name": "Rinascita"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Folletto"
+    },
+    {
+      "level": 5,
+      "name": "Colpo del Vento d'Acciaio"
+    },
+    {
+      "level": 5,
+      "name": "Faretra Rapida"
+    }
+  ],
+  "mago": [
+    {
+      "level": 1,
+      "name": "Assorbire Elementi"
+    },
+    {
+      "level": 1,
+      "name": "Dardo di Caos"
+    },
+    {
+      "level": 1,
+      "name": "Globo Cromatico"
+    },
+    {
+      "level": 1,
+      "name": "Comando"
+    },
+    {
+      "level": 1,
+      "name": "Protezione dal Bene e dal Male"
+    },
+    {
+      "level": 1,
+      "name": "Dardo Stregato"
+    },
+    {
+      "level": 2,
+      "name": "Vampa di Aganazzar"
+    },
+    {
+      "level": 2,
+      "name": "Fiamma Perenne"
+    },
+    {
+      "level": 2,
+      "name": "Lama Infuocata"
+    },
+    {
+      "level": 2,
+      "name": "Sfera Infuocata"
+    },
+    {
+      "level": 2,
+      "name": "Stretta della Terra di Maximilian"
+    },
+    {
+      "level": 2,
+      "name": "Freccia Acida di Melf"
+    },
+    {
+      "level": 2,
+      "name": "Pirotecnica"
+    },
+    {
+      "level": 2,
+      "name": "Scritta Celeste"
+    },
+    {
+      "level": 3,
+      "name": "Arma Elementale"
+    },
+    {
+      "level": 3,
+      "name": "Eruzione Terrestre"
+    },
+    {
+      "level": 3,
+      "name": "Frecce Infuocate"
+    },
+    {
+      "level": 3,
+      "name": "Minuscole Meteore di Melf"
+    },
+    {
+      "level": 3,
+      "name": "Tempesta di Nevischio"
+    },
+    {
+      "level": 3,
+      "name": "Onda di Marea"
+    },
+    {
+      "level": 3,
+      "name": "Muro d'Acqua"
+    },
+    {
+      "level": 4,
+      "name": "Sfera Acquea"
+    },
+    {
+      "level": 5,
+      "name": "Onda Distruttiva"
+    },
+    {
+      "level": 5,
+      "name": "Immolazione"
+    },
+    {
+      "level": 5,
+      "name": "Maelstrom"
+    },
+    {
+      "level": 5,
+      "name": "Trasmutare Roccia"
+    },
+    {
+      "level": 6,
+      "name": "Ossa della Terra"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Fiamma"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Ghiaccio"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Pietra"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Vento"
+    },
+    {
+      "level": 7,
+      "name": "Corona di Stelle"
+    },
+    {
+      "level": 7,
+      "name": "Turbine"
+    },
+    {
+      "level": 8,
+      "name": "Orrido Avvizzimento di Abi-Dalzim"
+    },
+    {
+      "level": 8,
+      "name": "Terremoto"
+    },
+    {
+      "level": 9,
+      "name": "Tempesta di Vendetta"
+    }
+  ],
+  "stregone": [
+    {
+      "level": 1,
+      "name": "Assorbire Elementi"
+    },
+    {
+      "level": 1,
+      "name": "Legame con le Bestie"
+    },
+    {
+      "level": 1,
+      "name": "Catapulta"
+    },
+    {
+      "level": 1,
+      "name": "Coltello di Ghiaccio"
+    },
+    {
+      "level": 1,
+      "name": "Protezione dal Bene e dal Male"
+    },
+    {
+      "level": 2,
+      "name": "Vampa di Aganazzar"
+    },
+    {
+      "level": 2,
+      "name": "Lama Infuocata"
+    },
+    {
+      "level": 2,
+      "name": "Sfera Infuocata"
+    },
+    {
+      "level": 2,
+      "name": "Stretta della Terra di Maximilian"
+    },
+    {
+      "level": 2,
+      "name": "Freccia Acida di Melf"
+    },
+    {
+      "level": 2,
+      "name": "Pirotecnica"
+    },
+    {
+      "level": 2,
+      "name": "Scritta Celeste"
+    },
+    {
+      "level": 2,
+      "name": "Vento di Interdizione"
+    },
+    {
+      "level": 3,
+      "name": "Eruzione Terrestre"
+    },
+    {
+      "level": 3,
+      "name": "Frecce Infuocate"
+    },
+    {
+      "level": 3,
+      "name": "Minuscole Meteore di Melf"
+    },
+    {
+      "level": 3,
+      "name": "Tempesta di Nevischio"
+    },
+    {
+      "level": 3,
+      "name": "Onda di Marea"
+    },
+    {
+      "level": 3,
+      "name": "Muro d'Acqua"
+    },
+    {
+      "level": 4,
+      "name": "Sfera della Tempesta"
+    },
+    {
+      "level": 4,
+      "name": "Sfera Acquea"
+    },
+    {
+      "level": 5,
+      "name": "Onda Distruttiva"
+    },
+    {
+      "level": 5,
+      "name": "Immolazione"
+    },
+    {
+      "level": 5,
+      "name": "Maelstrom"
+    },
+    {
+      "level": 5,
+      "name": "Trasmutare Roccia"
+    },
+    {
+      "level": 6,
+      "name": "Ossa della Terra"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Fiamma"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Ghiaccio"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Pietra"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Vento"
+    },
+    {
+      "level": 7,
+      "name": "Turbine"
+    },
+    {
+      "level": 8,
+      "name": "Orrido Avvizzimento di Abi-Dalzim"
+    },
+    {
+      "level": 8,
+      "name": "Terremoto"
+    },
+    {
+      "level": 9,
+      "name": "Tempesta di Vendetta"
+    }
+  ],
+  "warlock": [
+    {
+      "level": 1,
+      "name": "Incuti Paura"
+    },
+    {
+      "level": 1,
+      "name": "Charme su Persone"
+    },
+    {
+      "level": 1,
+      "name": "Comando"
+    },
+    {
+      "level": 1,
+      "name": "Individuazione del Magico"
+    },
+    {
+      "level": 1,
+      "name": "Scritto Illusorio"
+    },
+    {
+      "level": 1,
+      "name": "Raggio di Infermità"
+    },
+    {
+      "level": 1,
+      "name": "Servitore Inosservato"
+    },
+    {
+      "level": 2,
+      "name": "Oscurità"
+    },
+    {
+      "level": 2,
+      "name": "Blocca Persone"
+    },
+    {
+      "level": 2,
+      "name": "Movimenti del Ragno"
+    },
+    {
+      "level": 2,
+      "name": "Arma Spirituale"
+    },
+    {
+      "level": 2,
+      "name": "Suggestione"
+    },
+    {
+      "level": 2,
+      "name": "Evoca Bestia"
+    },
+    {
+      "level": 3,
+      "name": "Chiaroveggenza"
+    },
+    {
+      "level": 3,
+      "name": "Fortezza della Mente"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Folletto"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Raffica"
+    },
+    {
+      "level": 3,
+      "name": "Evoca Non Morto"
+    },
+    {
+      "level": 4,
+      "name": "Aura di Purezza"
+    },
+    {
+      "level": 4,
+      "name": "Charme sui Mostri"
+    },
+    {
+      "level": 4,
+      "name": "Ombra di Moil"
+    },
+    {
+      "level": 4,
+      "name": "Evoca Aberrazione"
+    },
+    {
+      "level": 4,
+      "name": "Evoca Costrutto"
+    },
+    {
+      "level": 5,
+      "name": "Arma Sacra"
+    },
+    {
+      "level": 5,
+      "name": "Modificare Memoria"
+    },
+    {
+      "level": 5,
+      "name": "Legame Planare"
+    },
+    {
+      "level": 5,
+      "name": "Evoca Celestiale"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Fiamma"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Ghiaccio"
+    },
+    {
+      "level": 6,
+      "name": "Investitura della Pietra"
+    },
+    {
+      "level": 6,
+      "name": "Investitura del Vento"
+    },
+    {
+      "level": 7,
+      "name": "Dito della Morte"
+    },
+    {
+      "level": 7,
+      "name": "Spostamento Planare"
+    },
+    {
+      "level": 8,
+      "name": "Semipiano"
+    },
+    {
+      "level": 8,
+      "name": "Loquacità"
+    },
+    {
+      "level": 9,
+      "name": "Proiezione Astrale"
+    }
+  ]
+}

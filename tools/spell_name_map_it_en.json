@@ -1,0 +1,1812 @@
+{
+  "_doc": "Mappa nome IT (come appare nel nostro dataset OCR, raw) -> {en: nome EN canonico in lowercase | null se non e' uno spell, canon_it: nome IT pulito (per UI), note?: stringa}. EN canonical e' la chiave usata in tools/spell_classes_en_5etools.json. Valida con: python3 tools/spell_validate_map.py",
+  "4 Fresco 4 Burrasca": {
+    "en": null,
+    "canon_it": null,
+    "note": "header tabella OCR"
+  },
+  "ABILITÀ POTENZIATA": {
+    "en": "enhance ability",
+    "canon_it": "Abilità Potenziata"
+  },
+  "AIUTO": {
+    "en": "aid",
+    "canon_it": "Aiuto"
+  },
+  "ALLARME": {
+    "en": "alarm",
+    "canon_it": "Allarme"
+  },
+  "ALLEATO PLANARE": {
+    "en": "planar ally",
+    "canon_it": "Alleato Planare"
+  },
+  "ALLUCINAZIONE DI FORZA": {
+    "en": "phantasmal force",
+    "canon_it": "Allucinazione di Forza"
+  },
+  "ALLUCINAZIONE MORTALE": {
+    "en": "phantasmal killer",
+    "canon_it": "Allucinazione Mortale"
+  },
+  "ALTERARE SE STESSO": {
+    "en": "alter self",
+    "canon_it": "Alterare Se Stesso"
+  },
+  "AMICIZIA": {
+    "en": "friends",
+    "canon_it": "Amicizia"
+  },
+  "AMICIZIA CON GLI ANIMALI": {
+    "en": "animal friendship",
+    "canon_it": "Amicizia con gli Animali"
+  },
+  "ANATEMA": {
+    "en": "bane",
+    "canon_it": "Anatema"
+  },
+  "ANIMALE MESSAGGERO": {
+    "en": "animal messenger",
+    "canon_it": "Animale Messaggero"
+  },
+  "ANIMARE MORTI": {
+    "en": "animate dead",
+    "canon_it": "Animare Morti"
+  },
+  "ANIMARE OGGETTI": {
+    "en": "animate objects",
+    "canon_it": "Animare Oggetti"
+  },
+  "ANTI-INDIVIDUAZIONE": {
+    "en": "nondetection",
+    "canon_it": "Anti-Individuazione"
+  },
+  "ANTIPATIA/SIMPATIA": {
+    "en": "antipathy/sympathy",
+    "canon_it": "Antipatia/Simpatia"
+  },
+  "ARMA ELEMENTALE": {
+    "en": "elemental weapon",
+    "canon_it": "Arma Elementale"
+  },
+  "ARMA MAGICA": {
+    "en": "magic weapon",
+    "canon_it": "Arma Magica"
+  },
+  "ARMA SACRA": {
+    "en": "holy weapon",
+    "canon_it": "Arma Sacra"
+  },
+  "ARMA SPIRITUALE": {
+    "en": "spiritual weapon",
+    "canon_it": "Arma Spirituale"
+  },
+  "ARMATURA DI AGATHYS": {
+    "en": "armor of agathys",
+    "canon_it": "Armatura di Agathys"
+  },
+  "ARMATURA MAGICA": {
+    "en": "mage armor",
+    "canon_it": "Armatura Magica"
+  },
+  "ARTIFICIO DRUIDICO": {
+    "en": "druidcraft",
+    "canon_it": "Artificio Druidico"
+  },
+  "ASSORBIRE ELEMENTI": {
+    "en": "absorb elements",
+    "canon_it": "Assorbire Elementi"
+  },
+  "AURA DI PUREZZA": {
+    "en": "aura of purity",
+    "canon_it": "Aura di Purezza"
+  },
+  "AURA DI VITA": {
+    "en": "aura of life",
+    "canon_it": "Aura di Vita"
+  },
+  "AURA DI VITALITÀ": {
+    "en": "aura of vitality",
+    "canon_it": "Aura di Vitalità"
+  },
+  "AURA MAGICA DI NYSTUL": {
+    "en": "nystul's magic aura",
+    "canon_it": "Aura Magica di Nystul"
+  },
+  "AURA SACRA": {
+    "en": "holy aura",
+    "canon_it": "Aura Sacra"
+  },
+  "AZIONI": {
+    "en": null,
+    "canon_it": null,
+    "note": "header sezione"
+  },
+  "BACCHE BENEFICHE": {
+    "en": "goodberry",
+    "canon_it": "Bacche Benefiche"
+  },
+  "BAGLIORE LUNARE": {
+    "en": "moonbeam",
+    "canon_it": "Bagliore Lunare"
+  },
+  "BAGLIORE SOLARE": {
+    "en": "sunbeam",
+    "canon_it": "Bagliore Solare"
+  },
+  "BANCHETTO DEGLI EROI": {
+    "en": "heroes' feast",
+    "canon_it": "Banchetto degli Eroi"
+  },
+  "BEFFA CRUDELE": {
+    "en": "vicious mockery",
+    "canon_it": "Beffa Crudele"
+  },
+  "BENEDIZIONE": {
+    "en": "bless",
+    "canon_it": "Benedizione"
+  },
+  "BLOCCA PERSONE": {
+    "en": "hold person",
+    "canon_it": "Blocca Persone"
+  },
+  "BLocca MOSTRI": {
+    "en": "hold monster",
+    "canon_it": "Blocca Mostri"
+  },
+  "BRACCIA DI HADAR": {
+    "en": "arms of hadar",
+    "canon_it": "Braccia di Hadar"
+  },
+  "Bocca Magica": {
+    "en": "magic mouth",
+    "canon_it": "Bocca Magica"
+  },
+  "CADUTA MORBIDA": {
+    "en": "feather fall",
+    "canon_it": "Caduta Morbida"
+  },
+  "CALMARE EMOZIONI": {
+    "en": "calm emotions",
+    "canon_it": "Calmare Emozioni"
+  },
+  "CAMMINARE NEL VENTO": {
+    "en": "wind walk",
+    "canon_it": "Camminare nel Vento"
+  },
+  "CAMMINARE SULL'ACQUA": {
+    "en": "water walk",
+    "canon_it": "Camminare sull'Acqua"
+  },
+  "CAMPO ANTI-MAGIA": {
+    "en": "antimagic field",
+    "canon_it": "Campo Anti-Magia"
+  },
+  "CAMUFFARE SE STESSO": {
+    "en": "disguise self",
+    "canon_it": "Camuffare Se Stesso"
+  },
+  "CAPANNA DI LEOMUND": {
+    "en": "leomund's tiny hut",
+    "canon_it": "Capanna di Leomund"
+  },
+  "CAPITOLO ll | 239": {
+    "en": null,
+    "canon_it": null,
+    "note": "header pagina"
+  },
+  "CARATTERISTICA POTENZIATA": {
+    "en": "enhance ability",
+    "canon_it": "Abilità Potenziata",
+    "note": "duplicato di 'Abilità Potenziata'"
+  },
+  "CATAPULTA": {
+    "en": "catapult",
+    "canon_it": "Catapulta"
+  },
+  "CATENA DI FULMINI": {
+    "en": "chain lightning",
+    "canon_it": "Catena di Fulmini"
+  },
+  "CECITÀ/SORDITÀ": {
+    "en": "blindness/deafness",
+    "canon_it": "Cecità/Sordità"
+  },
+  "CELARE": {
+    "en": "sequester",
+    "canon_it": "Celare"
+  },
+  "CERCHIO DI MORTE": {
+    "en": "circle of death",
+    "canon_it": "Cerchio di Morte"
+  },
+  "CERCHIO DI POTERE": {
+    "en": "circle of power",
+    "canon_it": "Cerchio di Potere"
+  },
+  "CERCHIO DI TELETRASPORTO": {
+    "en": "teleportation circle",
+    "canon_it": "Cerchio di Teletrasporto"
+  },
+  "CERIMONIA": {
+    "en": "ceremony",
+    "canon_it": "Cerimonia"
+  },
+  "CHARME SU PERSONE": {
+    "en": "charm person",
+    "canon_it": "Charme su Persone"
+  },
+  "CHARME SUI MOSTRI": {
+    "en": "charm monster",
+    "canon_it": "Charme sui Mostri"
+  },
+  "CHIAROVEGGENZA": {
+    "en": "clairvoyance",
+    "canon_it": "Chiaroveggenza"
+  },
+  "CLONE": {
+    "en": "clone",
+    "canon_it": "Clone"
+  },
+  "COLPO ACCURATO": {
+    "en": "true strike",
+    "canon_it": "Colpo Accurato"
+  },
+  "COLPO DEL VENTO D'AcmAIO": {
+    "en": "steel wind strike",
+    "canon_it": "Colpo del Vento d'Acciaio"
+  },
+  "COLPO DELLO ZEFIRO": {
+    "en": "zephyr strike",
+    "canon_it": "Colpo dello Zefiro"
+  },
+  "COLPO INTRAPPOLANTE": {
+    "en": "ensnaring strike",
+    "canon_it": "Colpo Intrappolante"
+  },
+  "COLTELLO DI GHIACCIO": {
+    "en": "ice knife",
+    "canon_it": "Coltello di Ghiaccio"
+  },
+  "COMPRENSIONE DEI LINGUAGGI": {
+    "en": "comprehend languages",
+    "canon_it": "Comprensione dei Linguaggi"
+  },
+  "COMUNIONE": {
+    "en": "commune",
+    "canon_it": "Comunione"
+  },
+  "COMUNIONE CON LA NATURA": {
+    "en": "commune with nature",
+    "canon_it": "Comunione con la Natura"
+  },
+  "CONFUSIONE": {
+    "en": "confusion",
+    "canon_it": "Confusione"
+  },
+  "CONOSCENZA DELLE LEGGENDE": {
+    "en": "legend lore",
+    "canon_it": "Conoscenza delle Leggende"
+  },
+  "CONTAGIO": {
+    "en": "contagion",
+    "canon_it": "Contagio"
+  },
+  "CONTATTARE ALTRI PIANI": {
+    "en": "contact other plane",
+    "canon_it": "Contattare altri Piani"
+  },
+  "CONTINGENZA": {
+    "en": "contingency",
+    "canon_it": "Contingenza"
+  },
+  "CONTROLLARE ACQUA": {
+    "en": "control water",
+    "canon_it": "Controllare Acqua"
+  },
+  "CONTROLLARE FIAMME": {
+    "en": "control flames",
+    "canon_it": "Controllare Fiamme"
+  },
+  "CONTROLLARE TEMPO ATMOSFERICO": {
+    "en": "control weather",
+    "canon_it": "Controllare Tempo Atmosferico"
+  },
+  "CORONA DI FOLLIA": {
+    "en": "crown of madness",
+    "canon_it": "Corona di Follia"
+  },
+  "CORONA DI STELLE": {
+    "en": "crown of stars",
+    "canon_it": "Corona di Stelle"
+  },
+  "COSTRIZIONE": {
+    "en": "compulsion",
+    "canon_it": "Costrizione"
+  },
+  "CREARE CIBO E ACQUA": {
+    "en": "create food and water",
+    "canon_it": "Creare Cibo e Acqua"
+  },
+  "CREARE FALÒ": {
+    "en": "create bonfire",
+    "canon_it": "Creare Falò"
+  },
+  "CREARE Non MORTI": {
+    "en": "create undead",
+    "canon_it": "Creare Non Morti"
+  },
+  "CREARE O DISTRUGGERE ACQUA": {
+    "en": "create or destroy water",
+    "canon_it": "Creare o Distruggere Acqua"
+  },
+  "CREARE OMUNCOLO": {
+    "en": "create homunculus",
+    "canon_it": "Creare Omuncolo"
+  },
+  "CREAZIONE": {
+    "en": "creation",
+    "canon_it": "Creazione"
+  },
+  "CRESCITA DI SPINE": {
+    "en": "spike growth",
+    "canon_it": "Crescita di Spine"
+  },
+  "CRESCITA VEGETALE": {
+    "en": "plant growth",
+    "canon_it": "Crescita Vegetale"
+  },
+  "ComanDO": {
+    "en": "command",
+    "canon_it": "Comando"
+  },
+  "Cono pi FREDDO": {
+    "en": "cone of cold",
+    "canon_it": "Cono di Freddo"
+  },
+  "Cura FERITE": {
+    "en": "cure wounds",
+    "canon_it": "Cura Ferite"
+  },
+  "Cura FERITE DI MASSA": {
+    "en": "mass cure wounds",
+    "canon_it": "Cura Ferite di Massa"
+  },
+  "DANZA MACABRA": {
+    "en": "danse macabre",
+    "canon_it": "Danza Macabra"
+  },
+  "DARDO DI CAOS": {
+    "en": "chaos bolt",
+    "canon_it": "Dardo di Caos"
+  },
+  "DARDO INCANTATO": {
+    "en": "magic missile",
+    "canon_it": "Dardo Incantato"
+  },
+  "DARDO STREGATO": {
+    "en": "witch bolt",
+    "canon_it": "Dardo Stregato"
+  },
+  "DARDO TRACCIANTE": {
+    "en": "guiding bolt",
+    "canon_it": "Dardo Tracciante"
+  },
+  "DEBILITAZIONE": {
+    "en": "enervation",
+    "canon_it": "Debilitazione"
+  },
+  "DEFLAGRAZIONE OCCULTA": {
+    "en": "eldritch blast",
+    "canon_it": "Deflagrazione Occulta"
+  },
+  "DESCRIZIONE": {
+    "en": null,
+    "canon_it": null,
+    "note": "header"
+  },
+  "DESIDERIO": {
+    "en": "wish",
+    "canon_it": "Desiderio"
+  },
+  "DESTRIERO FANTOMATICO": {
+    "en": "phantom steed",
+    "canon_it": "Destriero Fantomatico"
+  },
+  "DI GELO": {
+    "en": null,
+    "canon_it": null,
+    "note": "frammento OCR"
+  },
+  "DIAVOLETTO DI POLVERE": {
+    "en": "dust devil",
+    "canon_it": "Diavoletto di Polvere"
+  },
+  "DISINTEGRAZIONE": {
+    "en": "disintegrate",
+    "canon_it": "Disintegrazione"
+  },
+  "DISPERDERE": {
+    "en": "dispel magic",
+    "canon_it": "Dissolvi Magie",
+    "note": "frammento di 'Dissolvi Magie' o 'Disperdere il Bene/Male'"
+  },
+  "DITO DELLA MORTE": {
+    "en": "finger of death",
+    "canon_it": "Dito della Morte"
+  },
+  "DOMINARE BESTIE": {
+    "en": "dominate beast",
+    "canon_it": "Dominare Bestie"
+  },
+  "DOMINARE MOSTRI": {
+    "en": "dominate monster",
+    "canon_it": "Dominare Mostri"
+  },
+  "DOMINARE PERSONE": {
+    "en": "dominate person",
+    "canon_it": "Dominare Persone"
+  },
+  "DUELLO OBBLIGATO": {
+    "en": "compelled duel",
+    "canon_it": "Duello Obbligato"
+  },
+  "Darpo DI Fuoco": {
+    "en": "fire bolt",
+    "canon_it": "Dardo di Fuoco"
+  },
+  "Disco FLUTTUANTE DI TENSER": {
+    "en": "tenser's floating disk",
+    "canon_it": "Disco Fluttuante di Tenser"
+  },
+  "DissoLvIi MAGIE": {
+    "en": "dispel magic",
+    "canon_it": "Dissolvi Magie"
+  },
+  "DissoLvi IL BENE E IL MALE": {
+    "en": "dispel evil and good",
+    "canon_it": "Dissolvi il Bene e il Male"
+  },
+  "EROISMO": {
+    "en": "heroism",
+    "canon_it": "Eroismo"
+  },
+  "ERUZIONE TERRESTRE": {
+    "en": "erupting earth",
+    "canon_it": "Eruzione Terrestre"
+  },
+  "ESPLOSIONE DI SPADE": {
+    "en": "sword burst",
+    "canon_it": "Esplosione di Spade"
+  },
+  "ESPLOSIONE SOLARE": {
+    "en": "sunburst",
+    "canon_it": "Esplosione Solare"
+  },
+  "ESTASIARE": {
+    "en": "enthrall",
+    "canon_it": "Estasiare"
+  },
+  "EVOCA ANIMALI": {
+    "en": "conjure animals",
+    "canon_it": "Evoca Animali"
+  },
+  "EVOCA DEMONI MINORI": {
+    "en": "summon lesser demons",
+    "canon_it": "Evoca Demoni Minori"
+  },
+  "EVOCARE BESTIA": {
+    "en": "summon beast",
+    "canon_it": "Evoca Bestia"
+  },
+  "EVOCAZIONI ISTANTANEE DI DRAWMIJ": {
+    "en": "drawmij's instant summons",
+    "canon_it": "Evocazioni Istantanee di Drawmij"
+  },
+  "EsILIO": {
+    "en": "banishment",
+    "canon_it": "Esilio"
+  },
+  "Evoca CELESTIALE": {
+    "en": "summon celestial",
+    "canon_it": "Evoca Celestiale"
+  },
+  "Evoca COSTRUTTO": {
+    "en": "summon construct",
+    "canon_it": "Evoca Costrutto"
+  },
+  "Evoca CREATURE BOSCHIVE": {
+    "en": "conjure woodland beings",
+    "canon_it": "Evoca Creature Boschive"
+  },
+  "Evoca DI ARMI": {
+    "en": "conjure barrage",
+    "canon_it": "Evoca di Armi",
+    "note": "incerto; potrebbe essere 'Conjure Barrage' o spell Tasha"
+  },
+  "Evoca ELEMENTALE": {
+    "en": "conjure elemental",
+    "canon_it": "Evoca Elementale"
+  },
+  "Evoca ELEMENTALI MINORI": {
+    "en": "conjure minor elementals",
+    "canon_it": "Evoca Elementali Minori"
+  },
+  "Evoca FOLLETTO": {
+    "en": "summon fey",
+    "canon_it": "Evoca Folletto"
+  },
+  "Evoca NON MortTo": {
+    "en": "summon undead",
+    "canon_it": "Evoca Non Morto"
+  },
+  "Evoca RAFFICA": {
+    "en": "summon shadowspawn",
+    "canon_it": "Evoca Raffica",
+    "note": "incerto"
+  },
+  "EvocaA IMMONDO": {
+    "en": "summon fiend",
+    "canon_it": "Evoca Immondo"
+  },
+  "FABBRICARE": {
+    "en": "fabricate",
+    "canon_it": "Fabbricare"
+  },
+  "FAME DI HADAR": {
+    "en": "hunger of hadar",
+    "canon_it": "Fame di Hadar"
+  },
+  "FARETRA RAPIDA": {
+    "en": "swift quiver",
+    "canon_it": "Faretra Rapida"
+  },
+  "FARO DI SPERANZA": {
+    "en": "beacon of hope",
+    "canon_it": "Faro di Speranza"
+  },
+  "FATALE": {
+    "en": null,
+    "canon_it": null,
+    "note": "frammento OCR (potrebbe essere 'Tocco Fatale')"
+  },
+  "FAVORE Divino": {
+    "en": "divine favor",
+    "canon_it": "Favore Divino"
+  },
+  "FERIRE": {
+    "en": "inflict wounds",
+    "canon_it": "Infliggi Ferite",
+    "note": "duplicato di Infliggi Ferite"
+  },
+  "FERMARE IL TEMPO": {
+    "en": "time stop",
+    "canon_it": "Fermare il Tempo"
+  },
+  "FEROCIA PRIMORDIALE": {
+    "en": "primal savagery",
+    "canon_it": "Ferocia Primordiale"
+  },
+  "FIAMMA PERENNE": {
+    "en": "continual flame",
+    "canon_it": "Fiamma Perenne"
+  },
+  "FIAMMA SACRA": {
+    "en": "sacred flame",
+    "canon_it": "Fiamma Sacra"
+  },
+  "FIOTTO AcIDO": {
+    "en": "acid splash",
+    "canon_it": "Fiotto Acido"
+  },
+  "FLUSSO DI ENERGIA NEGATIVA": {
+    "en": "negative energy flood",
+    "canon_it": "Flusso di Energia Negativa"
+  },
+  "FOLATA DI VENTO": {
+    "en": "gust of wind",
+    "canon_it": "Folata di Vento"
+  },
+  "FONDERSI NELLA PIETRA": {
+    "en": "meld into stone",
+    "canon_it": "Fondersi nella Pietra"
+  },
+  "FORMA ETEREA": {
+    "en": "etherealness",
+    "canon_it": "Forma Eterea"
+  },
+  "FORMA GASSOSA": {
+    "en": "gaseous form",
+    "canon_it": "Forma Gassosa"
+  },
+  "FORME ANIMALI": {
+    "en": "animal shapes",
+    "canon_it": "Forme Animali"
+  },
+  "FORTEZZA DELLA MENTE": {
+    "en": "intellect fortress",
+    "canon_it": "Fortezza della Mente",
+    "note": "Tasha — Intellect Fortress, NON Mind Blank"
+  },
+  "FRANTUMARE": {
+    "en": "shatter",
+    "canon_it": "Frantumare"
+  },
+  "FRECCE INFUOCATE": {
+    "en": "flame arrows",
+    "canon_it": "Frecce Infuocate"
+  },
+  "FRECCIA ACIDA DI MELF": {
+    "en": "melf's acid arrow",
+    "canon_it": "Freccia Acida di Melf"
+  },
+  "FRECCIA FOLGORANTE": {
+    "en": "lightning arrow",
+    "canon_it": "Freccia Folgorante"
+  },
+  "FRUSTA DI SPINE": {
+    "en": "thorn whip",
+    "canon_it": "Frusta di Spine"
+  },
+  "FULMINE": {
+    "en": "lightning bolt",
+    "canon_it": "Fulmine"
+  },
+  "FULMINE ADESCANTE": {
+    "en": "lightning lure",
+    "canon_it": "Fulmine Adescante"
+  },
+  "FUORVIARE": {
+    "en": "mislead",
+    "canon_it": "Fuorviare"
+  },
+  "GABBIA DI FORZA": {
+    "en": "forcecage",
+    "canon_it": "Gabbia di Forza"
+  },
+  "GIARA MAGICA": {
+    "en": "magic jar",
+    "canon_it": "Giara Magica"
+  },
+  "GLIFO DI INTERDIZIONE": {
+    "en": "glyph of warding",
+    "canon_it": "Glifo di Interdizione"
+  },
+  "GLOBO CROMATICO": {
+    "en": "chromatic orb",
+    "canon_it": "Globo Cromatico"
+  },
+  "GLOBO DI INVULNERABILITÀ": {
+    "en": "globe of invulnerability",
+    "canon_it": "Globo di Invulnerabilità"
+  },
+  "GUARDIANO DELLA FEDE": {
+    "en": "guardian of faith",
+    "canon_it": "Guardiano della Fede"
+  },
+  "GUARDIANO DELLA NATURA": {
+    "en": "guardian of nature",
+    "canon_it": "Guardiano della Natura"
+  },
+  "GUARIGIONE": {
+    "en": "heal",
+    "canon_it": "Guarigione"
+  },
+  "GUARIGIONE DI MASSA": {
+    "en": "mass heal",
+    "canon_it": "Guarigione di Massa"
+  },
+  "GUIDA": {
+    "en": "guidance",
+    "canon_it": "Guida"
+  },
+  "Guscio ANTI-VITA": {
+    "en": "antilife shell",
+    "canon_it": "Guscio Anti-Vita"
+  },
+  "IDENTIFICARE": {
+    "en": "identify",
+    "canon_it": "Identificare"
+  },
+  "IMMAGINE MAGGIORE": {
+    "en": "major image",
+    "canon_it": "Immagine Maggiore"
+  },
+  "IMMAGINE PROIETTATA": {
+    "en": "project image",
+    "canon_it": "Immagine Proiettata"
+  },
+  "IMMAGINE SILENZIOSA": {
+    "en": "silent image",
+    "canon_it": "Immagine Silenziosa"
+  },
+  "IMMAGINE SPECULARE": {
+    "en": "mirror image",
+    "canon_it": "Immagine Speculare"
+  },
+  "IMMOLAZIONE": {
+    "en": "immolation",
+    "canon_it": "Immolazione"
+  },
+  "IMPRIGIONARE": {
+    "en": "imprisonment",
+    "canon_it": "Imprigionare"
+  },
+  "INARIDIRE": {
+    "en": "blight",
+    "canon_it": "Inaridire"
+  },
+  "INCUTI PAURA": {
+    "en": "cause fear",
+    "canon_it": "Incuti Paura"
+  },
+  "INDIVIDUAZIONE DEI PENSIERI": {
+    "en": "detect thoughts",
+    "canon_it": "Individuazione dei Pensieri"
+  },
+  "INDIVIDUAZIONE DEL BENE E DELMALE": {
+    "en": "detect evil and good",
+    "canon_it": "Individuazione del Bene e del Male"
+  },
+  "INDIVIDUAZIONE DEL MAGICO": {
+    "en": "detect magic",
+    "canon_it": "Individuazione del Magico"
+  },
+  "INDIVIDUAZIONE DELLE MALATTIE E DEI VELENI": {
+    "en": "detect poison and disease",
+    "canon_it": "Individuazione delle Malattie e dei Veleni"
+  },
+  "INFLIGGI FERITE": {
+    "en": "inflict wounds",
+    "canon_it": "Infliggi Ferite"
+  },
+  "INFUOCATO": {
+    "en": null,
+    "canon_it": null,
+    "note": "frammento OCR"
+  },
+  "INGRANDIRE/RIDURRE": {
+    "en": "enlarge/reduce",
+    "canon_it": "Ingrandire/Ridurre"
+  },
+  "INSETTO GIGANTE": {
+    "en": "giant insect",
+    "canon_it": "Insetto Gigante"
+  },
+  "INTERDIZIONE ALLA MORTE": {
+    "en": "death ward",
+    "canon_it": "Interdizione alla Morte"
+  },
+  "INTERDIZIONE ALLE LAME": {
+    "en": "warding bond",
+    "canon_it": "Interdizione alle Lame",
+    "note": "incerto - 'Blade Ward' o 'Warding Bond'?"
+  },
+  "INTERMITTENZA": {
+    "en": "blink",
+    "canon_it": "Intermittenza"
+  },
+  "INTIMORIRE INFERNALE": {
+    "en": "hellish rebuke",
+    "canon_it": "Intimorire Infernale",
+    "note": "controllare - potrebbe essere 'Frightful Presence'"
+  },
+  "INTRALCIARE": {
+    "en": "entangle",
+    "canon_it": "Intralciare"
+  },
+  "INVERSIONE DELLA GRAVITÀ": {
+    "en": "reverse gravity",
+    "canon_it": "Inversione della Gravità"
+  },
+  "INVESTITURA DEL GHIACCIO": {
+    "en": "investiture of ice",
+    "canon_it": "Investitura del Ghiaccio"
+  },
+  "INVESTITURA DEL VENTO": {
+    "en": "investiture of wind",
+    "canon_it": "Investitura del Vento"
+  },
+  "INVESTITURA DELLA FIAMMA": {
+    "en": "investiture of flame",
+    "canon_it": "Investitura della Fiamma"
+  },
+  "INVESTITURA DELLA PIETRA": {
+    "en": "investiture of stone",
+    "canon_it": "Investitura della Pietra"
+  },
+  "INVIARE": {
+    "en": "sending",
+    "canon_it": "Inviare"
+  },
+  "INVISIBILITÀ": {
+    "en": "invisibility",
+    "canon_it": "Invisibilità"
+  },
+  "INVISIBILITÀ SUPERIORE": {
+    "en": "greater invisibility",
+    "canon_it": "Invisibilità Superiore"
+  },
+  "INVOCARE IL FULMINE": {
+    "en": "call lightning",
+    "canon_it": "Invocare il Fulmine"
+  },
+  "INVULNERABILITÀ": {
+    "en": "invulnerability",
+    "canon_it": "Invulnerabilità"
+  },
+  "LABIRINTO": {
+    "en": "maze",
+    "canon_it": "Labirinto"
+  },
+  "LAMA D'OMBRA": {
+    "en": "shadow blade",
+    "canon_it": "Lama d'Ombra"
+  },
+  "LAMA DEL DISASTRO": {
+    "en": "blade of disaster",
+    "canon_it": "Lama del Disastro"
+  },
+  "LAMA DI FIAMMA VERDE": {
+    "en": "green-flame blade",
+    "canon_it": "Lama di Fiamma Verde"
+  },
+  "LAMA INFUOCATA": {
+    "en": "flame blade",
+    "canon_it": "Lama Infuocata"
+  },
+  "LAMA ROMBANTE": {
+    "en": "booming blade",
+    "canon_it": "Lama Rombante"
+  },
+  "LAMA VERDEFIAMMA": {
+    "en": "green-flame blade",
+    "canon_it": "Lama Verdefiamma",
+    "note": "duplicato di 'Lama di Fiamma Verde'"
+  },
+  "LEGAME CON LE BESTIE": {
+    "en": "beast bond",
+    "canon_it": "Legame con le Bestie"
+  },
+  "LEGAME PLANARE": {
+    "en": "planar binding",
+    "canon_it": "Legame Planare"
+  },
+  "LEGAME TELEPATICO DI RARY": {
+    "en": "rary's telepathic bond",
+    "canon_it": "Legame Telepatico di Rary"
+  },
+  "LENTEZZA": {
+    "en": "slow",
+    "canon_it": "Lentezza"
+  },
+  "LEVITAZIONE": {
+    "en": "levitate",
+    "canon_it": "Levitazione"
+  },
+  "LIBERTÀ DI MOVIMENTO": {
+    "en": "freedom of movement",
+    "canon_it": "Libertà di Movimento"
+  },
+  "LINGUAGGI": {
+    "en": "tongues",
+    "canon_it": "Linguaggi"
+  },
+  "LOCALIZZA ANIMALI O VEGETALI": {
+    "en": "locate animals or plants",
+    "canon_it": "Localizza Animali o Vegetali"
+  },
+  "LOCALIZZA CREATURA": {
+    "en": "locate creature",
+    "canon_it": "Localizza Creatura"
+  },
+  "LOCALIZZA OGGETTO": {
+    "en": "locate object",
+    "canon_it": "Localizza Oggetto"
+  },
+  "LOQUACITÀ": {
+    "en": "glibness",
+    "canon_it": "Loquacità"
+  },
+  "LUMINESCENZA": {
+    "en": "faerie fire",
+    "canon_it": "Luminescenza"
+  },
+  "Luce": {
+    "en": "light",
+    "canon_it": "Luce"
+  },
+  "Luce DIURNA": {
+    "en": "daylight",
+    "canon_it": "Luce Diurna"
+  },
+  "Luci DANZANTI": {
+    "en": "dancing lights",
+    "canon_it": "Luci Danzanti"
+  },
+  "MAELSTROM": {
+    "en": "maelstrom",
+    "canon_it": "Maelstrom"
+  },
+  "MANI BRUCIANTI": {
+    "en": "burning hands",
+    "canon_it": "Mani Brucianti"
+  },
+  "MANO MAGICA": {
+    "en": "mage hand",
+    "canon_it": "Mano Magica"
+  },
+  "MANO pi BiGBy": {
+    "en": "bigby's hand",
+    "canon_it": "Mano di Bigby"
+  },
+  "MANTO DEL CROCIATO": {
+    "en": "crusader's mantle",
+    "canon_it": "Manto del Crociato"
+  },
+  "MARCHIO DEL CACCIATORE": {
+    "en": "hunter's mark",
+    "canon_it": "Marchio del Cacciatore"
+  },
+  "MESSAGGIO": {
+    "en": "message",
+    "canon_it": "Messaggio"
+  },
+  "METAMORFOSI": {
+    "en": "polymorph",
+    "canon_it": "Metamorfosi"
+  },
+  "METAMORFOSI DI MASSA": {
+    "en": "mass polymorph",
+    "canon_it": "Metamorfosi di Massa"
+  },
+  "METAMORFOSI PURA": {
+    "en": "true polymorph",
+    "canon_it": "Metamorfosi Pura"
+  },
+  "MINUSCOLE METEORE DI MELF": {
+    "en": "melf's minute meteors",
+    "canon_it": "Minuscole Meteore di Melf"
+  },
+  "MIRAGGIO ARCANO": {
+    "en": "mirage arcane",
+    "canon_it": "Miraggio Arcano"
+  },
+  "MISCELA CAUSTICA DI TASHA": {
+    "en": "tasha's caustic brew",
+    "canon_it": "Miscela Caustica di Tasha"
+  },
+  "MODELLARE ACQUA": {
+    "en": "shape water",
+    "canon_it": "Modellare Acqua"
+  },
+  "MODELLARE TERRA": {
+    "en": "mold earth",
+    "canon_it": "Modellare Terra"
+  },
+  "MODIFICARE MEMORIA": {
+    "en": "modify memory",
+    "canon_it": "Modificare Memoria"
+  },
+  "MORSA DEL GELO": {
+    "en": "ray of frost",
+    "canon_it": "Morsa del Gelo",
+    "note": "alt 'Frostbite'"
+  },
+  "MORTE APPARENTE": {
+    "en": "feign death",
+    "canon_it": "Morte Apparente"
+  },
+  "MOVIMENTI DEL RAGNO": {
+    "en": "spider climb",
+    "canon_it": "Movimenti del Ragno"
+  },
+  "MUOVERE IL TERRENO": {
+    "en": "move earth",
+    "canon_it": "Muovere il Terreno"
+  },
+  "MURO D'ACQUA": {
+    "en": "wall of water",
+    "canon_it": "Muro d'Acqua"
+  },
+  "MURO DI LUCE": {
+    "en": "wall of light",
+    "canon_it": "Muro di Luce"
+  },
+  "MURO DI SABBIA": {
+    "en": "wall of sand",
+    "canon_it": "Muro di Sabbia"
+  },
+  "Magico": {
+    "en": null,
+    "canon_it": null,
+    "note": "frammento OCR"
+  },
+  "MuRO DI PIETRA": {
+    "en": "wall of stone",
+    "canon_it": "Muro di Pietra"
+  },
+  "MuRO DI SPINE": {
+    "en": "wall of thorns",
+    "canon_it": "Muro di Spine"
+  },
+  "Muro DI FORZA": {
+    "en": "wall of force",
+    "canon_it": "Muro di Forza"
+  },
+  "Muro DI GHIACCIO": {
+    "en": "wall of ice",
+    "canon_it": "Muro di Ghiaccio"
+  },
+  "Muro DI VENTO": {
+    "en": "wind wall",
+    "canon_it": "Muro di Vento"
+  },
+  "Muro PRISMATICO": {
+    "en": "prismatic wall",
+    "canon_it": "Muro Prismatico"
+  },
+  "Muro pi Fuoco": {
+    "en": "wall of fire",
+    "canon_it": "Muro di Fuoco"
+  },
+  "NEMICI IN ABBONDANZA": {
+    "en": "hex",
+    "canon_it": "Maledizione",
+    "note": "alt 'Hex' tradotto 'Nemici in Abbondanza'? incerto"
+  },
+  "NERI DI EVARD": {
+    "en": "evard's black tentacles",
+    "canon_it": "Tentacoli Neri di Evard"
+  },
+  "NUBE DI NEBBIA": {
+    "en": "fog cloud",
+    "canon_it": "Nube di Nebbia"
+  },
+  "NUBE DI PUGNALI": {
+    "en": "cloud of daggers",
+    "canon_it": "Nube di Pugnali"
+  },
+  "NUBE INCENDIARIA": {
+    "en": "incendiary cloud",
+    "canon_it": "Nube Incendiaria"
+  },
+  "NUBE MALEODORANTE": {
+    "en": "stinking cloud",
+    "canon_it": "Nube Maleodorante"
+  },
+  "NuBE MORTALE": {
+    "en": "cloudkill",
+    "canon_it": "Nube Mortale"
+  },
+  "OCCHIO ARCANO": {
+    "en": "arcane eye",
+    "canon_it": "Occhio Arcano"
+  },
+  "OMBRA DI MOIL": {
+    "en": "shadow of moil",
+    "canon_it": "Ombra di Moil"
+  },
+  "ONDA DI MAREA": {
+    "en": "tidal wave",
+    "canon_it": "Onda di Marea"
+  },
+  "ONDA DISTRUTTIVA": {
+    "en": "destructive wave",
+    "canon_it": "Onda Distruttiva"
+  },
+  "ONDA TONANTE": {
+    "en": "thunderwave",
+    "canon_it": "Onda Tonante"
+  },
+  "ORRIDO AVVIZZIMENTO DI ABI-DALZIM": {
+    "en": "abi-dalzim's horrid wilting",
+    "canon_it": "Orrido Avvizzimento di Abi-Dalzim"
+  },
+  "OSCURITÀ": {
+    "en": "darkness",
+    "canon_it": "Oscurità"
+  },
+  "OSCURITÀ DELLA FOLLIA": {
+    "en": "darkness",
+    "canon_it": "Oscurità della Follia",
+    "note": "incerto - frammento"
+  },
+  "OSSA DELLA TERRA": {
+    "en": "bones of the earth",
+    "canon_it": "Ossa della Terra"
+  },
+  "P RIGIONE MENTALE": {
+    "en": "mental prison",
+    "canon_it": "Prigione Mentale"
+  },
+  "PALLA DI Fuoco": {
+    "en": "fireball",
+    "canon_it": "Palla di Fuoco"
+  },
+  "PALLA DI RITARDATA": {
+    "en": "delayed blast fireball",
+    "canon_it": "Palla di Fuoco Ritardata"
+  },
+  "PARLARE CON GLI ANIMALI": {
+    "en": "speak with animals",
+    "canon_it": "Parlare con gli Animali"
+  },
+  "PARLARE CON I MORTI": {
+    "en": "speak with dead",
+    "canon_it": "Parlare con i Morti"
+  },
+  "PARLARE CON I VEGETALI": {
+    "en": "speak with plants",
+    "canon_it": "Parlare con i Vegetali"
+  },
+  "PAROLA DEL P OTERE D OLORE": {
+    "en": "power word pain",
+    "canon_it": "Parola del Potere Dolore"
+  },
+  "PAROLA DEL POTERE GUARIRE": {
+    "en": "power word heal",
+    "canon_it": "Parola del Potere Guarire"
+  },
+  "PAROLA DEL POTERE STORDIRE": {
+    "en": "power word stun",
+    "canon_it": "Parola del Potere Stordire"
+  },
+  "PAROLA DEL POTERE UCCIDERE": {
+    "en": "power word kill",
+    "canon_it": "Parola del Potere Uccidere"
+  },
+  "PAROLA DEL RITIRO": {
+    "en": "word of recall",
+    "canon_it": "Parola del Ritiro"
+  },
+  "PAROLA DIVINA": {
+    "en": "divine word",
+    "canon_it": "Parola Divina"
+  },
+  "PAROLA GUARITRICE": {
+    "en": "healing word",
+    "canon_it": "Parola Guaritrice"
+  },
+  "PAROLA GUARITRICE DI MASSA": {
+    "en": "mass healing word",
+    "canon_it": "Parola Guaritrice di Massa"
+  },
+  "PAROLA RADIOSA": {
+    "en": "word of radiance",
+    "canon_it": "Parola Radiosa"
+  },
+  "PASSAPARETI": {
+    "en": "passwall",
+    "canon_it": "Passapareti"
+  },
+  "PASSARE SENZA TRACCE": {
+    "en": "pass without trace",
+    "canon_it": "Passare senza Tracce"
+  },
+  "PASSO DEL TUONO": {
+    "en": "thunder step",
+    "canon_it": "Passo del Tuono"
+  },
+  "PAURA": {
+    "en": "fear",
+    "canon_it": "Paura"
+  },
+  "PELLE CORIACEA": {
+    "en": "barkskin",
+    "canon_it": "Pelle Coriacea"
+  },
+  "PELLE DI PIETRA": {
+    "en": "stoneskin",
+    "canon_it": "Pelle di Pietra"
+  },
+  "PERCEZIONE DELLE BESTIE": {
+    "en": "beast sense",
+    "canon_it": "Percezione delle Bestie"
+  },
+  "PIAGA DEGLI INSETTI": {
+    "en": "insect plague",
+    "canon_it": "Piaga degli Insetti"
+  },
+  "PIETRA MAGICA": {
+    "en": "magic stone",
+    "canon_it": "Pietra Magica"
+  },
+  "PIROTECNICA": {
+    "en": "pyrotechnics",
+    "canon_it": "Pirotecnica"
+  },
+  "PORTA DIMENSIONALE": {
+    "en": "dimension door",
+    "canon_it": "Porta Dimensionale"
+  },
+  "PORTALE": {
+    "en": "gate",
+    "canon_it": "Portale"
+  },
+  "PORTALE ARCANO": {
+    "en": "arcane gate",
+    "canon_it": "Portale Arcano"
+  },
+  "PREGHIERA DI GUARIGIONE": {
+    "en": "prayer of healing",
+    "canon_it": "Preghiera di Guarigione"
+  },
+  "PRESAGIO": {
+    "en": "augury",
+    "canon_it": "Presagio"
+  },
+  "PRESTIDIGITAZIONE": {
+    "en": "prestidigitation",
+    "canon_it": "Prestidigitazione"
+  },
+  "PREVISIONE": {
+    "en": "foresight",
+    "canon_it": "Previsione"
+  },
+  "PRODURRE FIAMMA": {
+    "en": "produce flame",
+    "canon_it": "Produrre Fiamma"
+  },
+  "PROIBIZIONE": {
+    "en": "forbiddance",
+    "canon_it": "Proibizione"
+  },
+  "PROIEZIONE ASTRALE": {
+    "en": "astral projection",
+    "canon_it": "Proiezione Astrale"
+  },
+  "PROTEZIONE DAI VELENI -": {
+    "en": "protection from poison",
+    "canon_it": "Protezione dai Veleni"
+  },
+  "PROTEZIONE DAL BENE E DAL MALE": {
+    "en": "protection from evil and good",
+    "canon_it": "Protezione dal Bene e dal Male"
+  },
+  "PROTEZIONE DALL'ENERGIA": {
+    "en": "protection from energy",
+    "canon_it": "Protezione dall'Energia"
+  },
+  "PUNIZIONE ACCECANTE": {
+    "en": "blinding smite",
+    "canon_it": "Punizione Accecante"
+  },
+  "PUNIZIONE COLLERICA": {
+    "en": "wrathful smite",
+    "canon_it": "Punizione Collerica"
+  },
+  "PUNIZIONE DEMORALIZZANTE": {
+    "en": "banishing smite",
+    "canon_it": "Punizione Esiliante",
+    "note": "alt 'Punizione Esiliante'"
+  },
+  "PUNIZIONE ESILIANTE": {
+    "en": "banishing smite",
+    "canon_it": "Punizione Esiliante"
+  },
+  "PUNIZIONE INCANDESCENTE": {
+    "en": "searing smite",
+    "canon_it": "Punizione Incandescente"
+  },
+  "PUNIZIONE MARCHIANTE": {
+    "en": "branding smite",
+    "canon_it": "Punizione Marchiante"
+  },
+  "PUNIZIONE TONANTE": {
+    "en": "thunderous smite",
+    "canon_it": "Punizione Tonante"
+  },
+  "PURIFICARE CIBO E BEVANDE": {
+    "en": "purify food and drink",
+    "canon_it": "Purificare Cibo e Bevande"
+  },
+  "Passo VELATO": {
+    "en": "misty step",
+    "canon_it": "Passo Velato",
+    "note": "alt traduzione 'Passo Nebbioso'"
+  },
+  "Passo VELOCE": {
+    "en": "expeditious retreat",
+    "canon_it": "Passo Veloce"
+  },
+  "RAFFICA DI SPINE": {
+    "en": "thorn whip",
+    "canon_it": "Raffica di Spine",
+    "note": "incerto - probabile duplicato di 'Frusta di Spine'"
+  },
+  "RAGGIO DI AFFATICAMENTO": {
+    "en": "ray of enfeeblement",
+    "canon_it": "Raggio di Affaticamento"
+  },
+  "RAGGIO DI INFERMITÀ": {
+    "en": "ray of sickness",
+    "canon_it": "Raggio di Infermità"
+  },
+  "RAGGIO ROVENTE": {
+    "en": "scorching ray",
+    "canon_it": "Raggio Rovente"
+  },
+  "RAGNATELA": {
+    "en": "web",
+    "canon_it": "Ragnatela"
+  },
+  "RAMPICANTE AFFERRANTE": {
+    "en": "grasping vine",
+    "canon_it": "Rampicante Afferrante"
+  },
+  "RANDELLO INCANTATO": {
+    "en": "shillelagh",
+    "canon_it": "Randello Incantato"
+  },
+  "REGGIA MERAVIGLIOSA DI MORDENKAINEN": {
+    "en": "mordenkainen's magnificent mansion",
+    "canon_it": "Reggia Meravigliosa di Mordenkainen"
+  },
+  "REGRESSIONE MENTALE": {
+    "en": "feeblemind",
+    "canon_it": "Regressione Mentale"
+  },
+  "REINCARNAZIONE": {
+    "en": "reincarnate",
+    "canon_it": "Reincarnazione"
+  },
+  "RESISTENZA": {
+    "en": "resistance",
+    "canon_it": "Resistenza"
+  },
+  "RESPIRARE SOTT'ACQUA": {
+    "en": "water breathing",
+    "canon_it": "Respirare Sott'Acqua"
+  },
+  "RESURREZIONE": {
+    "en": "raise dead",
+    "canon_it": "Rianimare Morti",
+    "note": "alt; 'Resurrezione' = 'Resurrection'"
+  },
+  "RESURREZIONE PURA": {
+    "en": "true resurrection",
+    "canon_it": "Resurrezione Pura"
+  },
+  "RIANIMARE MORTI": {
+    "en": "raise dead",
+    "canon_it": "Rianimare Morti"
+  },
+  "RIGENERAZIONE": {
+    "en": "regenerate",
+    "canon_it": "Rigenerazione"
+  },
+  "RIMUOVI MALEDIZIONE": {
+    "en": "remove curse",
+    "canon_it": "Rimuovi Maledizione"
+  },
+  "RINASCITA": {
+    "en": "revivify",
+    "canon_it": "Rinascita"
+  },
+  "RINTOCCO DEI MORTI": {
+    "en": "toll the dead",
+    "canon_it": "Rintocco dei Morti"
+  },
+  "RIPARARE": {
+    "en": "mending",
+    "canon_it": "Riparare"
+  },
+  "RIPOSO INVIOLATO": {
+    "en": "mordenkainen's private sanctum",
+    "canon_it": "Riposo Inviolato",
+    "note": "alt 'Santuario Privato di Mordenkainen'"
+  },
+  "RISATA INCONTENIBILE DI TASHA": {
+    "en": "tasha's hideous laughter",
+    "canon_it": "Risata Incontenibile di Tasha"
+  },
+  "RISCALDARE IL METALLO": {
+    "en": "heat metal",
+    "canon_it": "Riscaldare il Metallo"
+  },
+  "RISTORARE INFERIORE": {
+    "en": "lesser restoration",
+    "canon_it": "Ristorare Inferiore"
+  },
+  "RISTORARE SUPERIORE": {
+    "en": "greater restoration",
+    "canon_it": "Ristorare Superiore"
+  },
+  "RITIRATA RAPIDA": {
+    "en": "expeditious retreat",
+    "canon_it": "Ritirata Rapida"
+  },
+  "ROMBO DI TUONO": {
+    "en": "thunderclap",
+    "canon_it": "Rombo di Tuono"
+  },
+  "SALTARE": {
+    "en": "jump",
+    "canon_it": "Saltare"
+  },
+  "SALVARE I MORENTI": {
+    "en": "spare the dying",
+    "canon_it": "Salvare i Morenti"
+  },
+  "SANTIFICARE": {
+    "en": "hallow",
+    "canon_it": "Santificare"
+  },
+  "SANTUARIO": {
+    "en": "sanctuary",
+    "canon_it": "Santuario"
+  },
+  "SANTUARIO PRIVATO DI MORDENKAINEN": {
+    "en": "mordenkainen's private sanctum",
+    "canon_it": "Santuario Privato di Mordenkainen"
+  },
+  "SCAGLIARE MALEDIZIONE": {
+    "en": "bestow curse",
+    "canon_it": "Scagliare Maledizione"
+  },
+  "SCASSINARE": {
+    "en": "knock",
+    "canon_it": "Scassinare"
+  },
+  "SCHEGGIA DELLA MENTE": {
+    "en": "mind sliver",
+    "canon_it": "Scheggia della Mente"
+  },
+  "SCIAME DI METEORE": {
+    "en": "meteor swarm",
+    "canon_it": "Sciame di Meteore"
+  },
+  "SCOLPIRE PIETRA": {
+    "en": "stone shape",
+    "canon_it": "Scolpire Pietra"
+  },
+  "SCOPRI IL PERCORSO": {
+    "en": "find the path",
+    "canon_it": "Scopri il Percorso"
+  },
+  "SCOPRI TRAPPOLE": {
+    "en": "find traps",
+    "canon_it": "Scopri Trappole"
+  },
+  "SCOSSA SINAPTICA": {
+    "en": "synaptic static",
+    "canon_it": "Scossa Sinaptica"
+  },
+  "SCRITTA CELESTE": {
+    "en": "skywrite",
+    "canon_it": "Scritta Celeste"
+  },
+  "SCRITTO ILLUSORIO": {
+    "en": "illusory script",
+    "canon_it": "Scritto Illusorio"
+  },
+  "SCRUTARE": {
+    "en": "scrying",
+    "canon_it": "Scrutare"
+  },
+  "SCUDISCIO MENTALE DI TASHA": {
+    "en": "tasha's mind whip",
+    "canon_it": "Scudiscio Mentale di Tasha"
+  },
+  "SCUROVISIONE": {
+    "en": "darkvision",
+    "canon_it": "Scurovisione"
+  },
+  "SEMBRARE": {
+    "en": "seeming",
+    "canon_it": "Sembrare"
+  },
+  "SEMIPIANO": {
+    "en": "demiplane",
+    "canon_it": "Semipiano"
+  },
+  "SERRATURA ARCANA": {
+    "en": "arcane lock",
+    "canon_it": "Serratura Arcana"
+  },
+  "SERVITORE INOSSERVATO": {
+    "en": "unseen servant",
+    "canon_it": "Servitore Inosservato"
+  },
+  "SERVITORE MINUSCOLO": {
+    "en": "tiny servant",
+    "canon_it": "Servitore Minuscolo"
+  },
+  "SFERA ACQUEA": {
+    "en": "watery sphere",
+    "canon_it": "Sfera Acquea"
+  },
+  "SFERA CONGELANTE DI OTILUKE": {
+    "en": "otiluke's freezing sphere",
+    "canon_it": "Sfera Congelante di Otiluke"
+  },
+  "SFERA DELLA TEMPESTA": {
+    "en": "storm sphere",
+    "canon_it": "Sfera della Tempesta"
+  },
+  "SFERA ELASTICA DI OTILUKE": {
+    "en": "otiluke's resilient sphere",
+    "canon_it": "Sfera Elastica di Otiluke"
+  },
+  "SFERA INFUOCATA": {
+    "en": "flaming sphere",
+    "canon_it": "Sfera Infuocata"
+  },
+  "SFOCATURA": {
+    "en": "blur",
+    "canon_it": "Sfocatura"
+  },
+  "SGUARDO PENETRANTE": {
+    "en": "true seeing",
+    "canon_it": "Visione del Vero",
+    "note": "duplicato di 'Visione del Vero'?"
+  },
+  "SILENZIO": {
+    "en": "silence",
+    "canon_it": "Silenzio"
+  },
+  "SIMBOLO": {
+    "en": "symbol",
+    "canon_it": "Simbolo"
+  },
+  "SIMULACRO": {
+    "en": "simulacrum",
+    "canon_it": "Simulacro"
+  },
+  "SOGNO DEL VELO CELESTE": {
+    "en": "dream of the blue veil",
+    "canon_it": "Sogno del Velo Celeste"
+  },
+  "SONNELLINO": {
+    "en": "catnap",
+    "canon_it": "Sonnellino"
+  },
+  "SORTILEGIO": {
+    "en": "hex",
+    "canon_it": "Maleficio",
+    "note": "OCR italiano 'SORTILEGIO' = HEX (warlock L1), non Geas. Verificato da descrizione PHB."
+  },
+  "SPADA DI MORDENKAINEN": {
+    "en": "mordenkainen's sword",
+    "canon_it": "Spada di Mordenkainen"
+  },
+  "SPIRITO ABERRANTE": {
+    "en": "summon aberration",
+    "canon_it": "Evoca Aberrazione",
+    "note": "potrebbe essere 'Summon Aberration'"
+  },
+  "SPIRITO GUARITORE": {
+    "en": "spirit shroud",
+    "canon_it": "Spirito Guaritore",
+    "note": "incerto - 'Healing Spirit'"
+  },
+  "SPOSTAMENTO PLANARE": {
+    "en": "plane shift",
+    "canon_it": "Spostamento Planare"
+  },
+  "SPRUZZO COLORATO": {
+    "en": "color spray",
+    "canon_it": "Spruzzo Colorato"
+  },
+  "SPRUZZO PRISMATICO": {
+    "en": "prismatic spray",
+    "canon_it": "Spruzzo Prismatico"
+  },
+  "SPRUZZO VELENOSO": {
+    "en": "poison spray",
+    "canon_it": "Spruzzo Velenoso"
+  },
+  "STRETTA DELLA TERRA DI MAXIMILIAN": {
+    "en": "maximilian's earthen grasp",
+    "canon_it": "Stretta della Terra di Maximilian"
+  },
+  "STRETTA FOLGORANTE": {
+    "en": "shocking grasp",
+    "canon_it": "Stretta Folgorante"
+  },
+  "SUDARIO SPIRITUALE": {
+    "en": "spirit shroud",
+    "canon_it": "Sudario Spirituale"
+  },
+  "SUGGESTIONE": {
+    "en": "suggestion",
+    "canon_it": "Suggestione"
+  },
+  "SUGGESTIONE DI MASSA": {
+    "en": "mass suggestion",
+    "canon_it": "Suggestione di Massa"
+  },
+  "Sait": {
+    "en": null,
+    "canon_it": null,
+    "note": "frammento OCR"
+  },
+  "ScRrIGNO SEGRETO DI LEOMUND": {
+    "en": "leomund's secret chest",
+    "canon_it": "Scrigno Segreto di Leomund"
+  },
+  "ScuDO DELLA FEDE": {
+    "en": "shield of faith",
+    "canon_it": "Scudo della Fede"
+  },
+  "Scupo": {
+    "en": "shield",
+    "canon_it": "Scudo"
+  },
+  "Scupo DI Fuoco": {
+    "en": "fire shield",
+    "canon_it": "Scudo di Fuoco"
+  },
+  "SeGUGIO FEDELE DI MORDENKAINEN": {
+    "en": "mordenkainen's faithful hound",
+    "canon_it": "Segugio Fedele di Mordenkainen"
+  },
+  "Sonno": {
+    "en": "sleep",
+    "canon_it": "Sonno"
+  },
+  "TAUMATURGIA": {
+    "en": "thaumaturgy",
+    "canon_it": "Taumaturgia"
+  },
+  "TELECINESI": {
+    "en": "telekinesis",
+    "canon_it": "Telecinesi"
+  },
+  "TELEPATIA": {
+    "en": "telepathy",
+    "canon_it": "Telepatia"
+  },
+  "TELETRASPORTO": {
+    "en": "teleport",
+    "canon_it": "Teletrasporto"
+  },
+  "TEMPESTA DI FuocO": {
+    "en": "fire storm",
+    "canon_it": "Tempesta di Fuoco"
+  },
+  "TEMPESTA DI GHIACCIO": {
+    "en": "ice storm",
+    "canon_it": "Tempesta di Ghiaccio"
+  },
+  "TEMPESTA DI NEVISCHIO": {
+    "en": "sleet storm",
+    "canon_it": "Tempesta di Nevischio"
+  },
+  "TEMPESTA DI VENDETTA": {
+    "en": "storm of vengeance",
+    "canon_it": "Tempesta di Vendetta"
+  },
+  "TEMPIO DEGLI DÈI": {
+    "en": "temple of the gods",
+    "canon_it": "Tempio degli Dèi"
+  },
+  "TERREMOTO": {
+    "en": "earthquake",
+    "canon_it": "Terremoto"
+  },
+  "TERRENO ILLUSORIO": {
+    "en": "hallucinatory terrain",
+    "canon_it": "Terreno Illusorio"
+  },
+  "TRABOCCHETTO": {
+    "en": "snare",
+    "canon_it": "Trabocchetto"
+  },
+  "TRAMA IPNOTICA": {
+    "en": "hypnotic pattern",
+    "canon_it": "Trama Ipnotica"
+  },
+  "TRASFERIME NTO DI VITA": {
+    "en": "life transference",
+    "canon_it": "Trasferimento di Vita"
+  },
+  "TRASFORMAZIONE": {
+    "en": "shapechange",
+    "canon_it": "Trasformazione"
+  },
+  "TRASFORMAZIONE DI ThNSER": {
+    "en": "tenser's transformation",
+    "canon_it": "Trasformazione di Tenser"
+  },
+  "TRASLAZIONE ARBOREA": {
+    "en": "tree stride",
+    "canon_it": "Traslazione Arborea"
+  },
+  "TRASMUTARE ROCCIA": {
+    "en": "transmute rock",
+    "canon_it": "Trasmutare Roccia"
+  },
+  "TRASPORTO VEGETALE": {
+    "en": "plant growth",
+    "canon_it": "Trasporto Vegetale",
+    "note": "incerto - 'Transport via Plants'"
+  },
+  "TROVA CAVALCATURA": {
+    "en": "find steed",
+    "canon_it": "Trova Cavalcatura"
+  },
+  "TROVA FAMIGLIO": {
+    "en": "find familiar",
+    "canon_it": "Trova Famiglio"
+  },
+  "TRUCCO DELLA CORDA": {
+    "en": "rope trick",
+    "canon_it": "Trucco della Corda"
+  },
+  "TSUNAMI": {
+    "en": "tsunami",
+    "canon_it": "Tsunami"
+  },
+  "TURBINE": {
+    "en": "whirlwind",
+    "canon_it": "Turbine"
+  },
+  "TURBINE DI SPADE": {
+    "en": "steel wind strike",
+    "canon_it": "Turbine di Spade",
+    "note": "incerto - alt 'Steel Wind Strike'"
+  },
+  "Tocco DEL VAMPIRO": {
+    "en": "vampiric touch",
+    "canon_it": "Tocco del Vampiro"
+  },
+  "Tocco GELIDO": {
+    "en": "chill touch",
+    "canon_it": "Tocco Gelido"
+  },
+  "UNTO": {
+    "en": "grease",
+    "canon_it": "Unto"
+  },
+  "VAMPA DI AGANAZZAR": {
+    "en": "aganazzar's scorcher",
+    "canon_it": "Vampa di Aganazzar"
+  },
+  "VEDERE INVISIBILITÀ": {
+    "en": "see invisibility",
+    "canon_it": "Vedere Invisibilità"
+  },
+  "VELOCITÀ": {
+    "en": "haste",
+    "canon_it": "Velocità"
+  },
+  "VENTO DI INTERDIZIONE": {
+    "en": "warding wind",
+    "canon_it": "Vento di Interdizione"
+  },
+  "VIGILANZA E INTERDIZIONE": {
+    "en": "guards and wards",
+    "canon_it": "Vigilanza e Interdizione"
+  },
+  "VINCOLO DELLA TERRA": {
+    "en": "earthbind",
+    "canon_it": "Vincolo della Terra"
+  },
+  "VINCOLO DI INTERDIZIONE": {
+    "en": "warding bond",
+    "canon_it": "Vincolo di Interdizione"
+  },
+  "VISIONE DEL VERO": {
+    "en": "true seeing",
+    "canon_it": "Visione del Vero"
+  },
+  "VOLARE": {
+    "en": "fly",
+    "canon_it": "Volare"
+  },
+  "Via FALSATA": {
+    "en": "misty step",
+    "canon_it": "Via Falsata",
+    "note": "incerto - probabile duplicato di Misty Step"
+  },
+  "VuoTo MENTALE": {
+    "en": "mind blank",
+    "canon_it": "Vuoto Mentale"
+  },
+  "ZONA DI VERITÀ": {
+    "en": "zone of truth",
+    "canon_it": "Zona di Verità"
+  }
+}
