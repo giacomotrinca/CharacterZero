@@ -1,0 +1,906 @@
+{
+ "pdf_page_index": 87,
+ "page_label": 88,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 128,
+ "lines": [
+  {
+   "x1": 111.0,
+   "y1": 86.0,
+   "x2": 362.0,
+   "y2": 110.0,
+   "text": "Servitori Non Morti"
+  },
+  {
+   "x1": 663.0,
+   "y1": 86.0,
+   "x2": 1163.0,
+   "y2": 110.0,
+   "text": "gemme), ferro, rame o argento, trasformandolo in un oggetto"
+  },
+  {
+   "x1": 109.0,
+   "y1": 113.0,
+   "x2": 604.0,
+   "y2": 137.0,
+   "text": "A1 6° livello, il mago aggiunge l'incantesimo animare morti"
+  },
+  {
+   "x1": 661.0,
+   "y1": 108.0,
+   "x2": 1117.0,
+   "y2": 132.0,
+   "text": "diverso fatto di quei materiali. Ogni 10 minuti trascorsi"
+  },
+  {
+   "x1": 107.0,
+   "y1": 137.0,
+   "x2": 569.0,
+   "y2": 161.0,
+   "text": "al suo libro degli incantesimi, se non lo possedeva già."
+  },
+  {
+   "x1": 661.0,
+   "y1": 132.0,
+   "x2": 1127.0,
+   "y2": 155.0,
+   "text": "ad applicare la procedura gli consentono di trasformare"
+  },
+  {
+   "x1": 109.0,
+   "y1": 159.0,
+   "x2": 609.0,
+   "y2": 183.0,
+   "text": "Quando lancia animare morti, può bersagliare un cadavere"
+  },
+  {
+   "x1": 659.0,
+   "y1": 152.0,
+   "x2": 1143.0,
+   "y2": 175.0,
+   "text": "materiale pari a un cubo con spigolo di 30 cm. Dopo 1 ora,"
+  },
+  {
+   "x1": 109.0,
+   "y1": 181.0,
+   "x2": 537.0,
+   "y2": 205.0,
+   "text": "o un cumulo di ossa aggiuntivo per creare un altro"
+  },
+  {
+   "x1": 661.0,
+   "y1": 177.0,
+   "x2": 1130.0,
+   "y2": 201.0,
+   "text": "o finché il mago non perde la concentrazione (come se si"
+  },
+  {
+   "x1": 109.0,
+   "y1": 203.0,
+   "x2": 423.0,
+   "y2": 227.0,
+   "text": "scheletro o zombi, come appropriato."
+  },
+  {
+   "x1": 659.0,
+   "y1": 199.0,
+   "x2": 1115.0,
+   "y2": 223.0,
+   "text": "stesse concentrando su un incantesimo), il materiale si"
+  },
+  {
+   "x1": 126.0,
+   "y1": 227.0,
+   "x2": 569.0,
+   "y2": 250.0,
+   "text": "Ogni volta che il mago crea un non morto usando un"
+  },
+  {
+   "x1": 661.0,
+   "y1": 219.0,
+   "x2": 999.0,
+   "y2": 245.0,
+   "text": "ritrasforma nella sua sostanza originale."
+  },
+  {
+   "x1": 109.0,
+   "y1": 248.0,
+   "x2": 563.0,
+   "y2": 272.0,
+   "text": "incantesimo di necromanzia, quella creatura ottiene i"
+  },
+  {
+   "x1": 663.0,
+   "y1": 263.0,
+   "x2": 966.0,
+   "y2": 287.0,
+   "text": "Pietra del Trasmutatore"
+  },
+  {
+   "x1": 111.0,
+   "y1": 274.0,
+   "x2": 262.0,
+   "y2": 292.0,
+   "text": "benefici seguenti:"
+  },
+  {
+   "x1": 659.0,
+   "y1": 287.0,
+   "x2": 1115.0,
+   "y2": 311.0,
+   "text": "A partire dal 6° livello, il mago può trascorrere 8 ore a"
+  },
+  {
+   "x1": 107.0,
+   "y1": 301.0,
+   "x2": 600.0,
+   "y2": 327.0,
+   "text": ".Il massimo dei punti ferita della creatura aumenta di un"
+  },
+  {
+   "x1": 661.0,
+   "y1": 312.0,
+   "x2": 1147.0,
+   "y2": 336.0,
+   "text": "creare una pietra del trasmutatore che accumuli la magia"
+  },
+  {
+   "x1": 126.0,
+   "y1": 327.0,
+   "x2": 428.0,
+   "y2": 351.0,
+   "text": "ammontare pari al livello del mago."
+  },
+  {
+   "x1": 661.0,
+   "y1": 334.0,
+   "x2": 1115.0,
+   "y2": 358.0,
+   "text": "di trasmutazione. Il mago può beneficiare della pietra"
+  },
+  {
+   "x1": 124.0,
+   "y1": 349.0,
+   "x2": 611.0,
+   "y2": 373.0,
+   "text": "La creatura aggiunge il bonus di competenza del mago ai"
+  },
+  {
+   "x1": 663.0,
+   "y1": 360.0,
+   "x2": 1152.0,
+   "y2": 378.0,
+   "text": "personalmente o cederla a un'altra creatura. Una creatura"
+  },
+  {
+   "x1": 127.0,
+   "y1": 375.0,
+   "x2": 395.0,
+   "y2": 393.0,
+   "text": "suoi tiri per i danni con le armi."
+  },
+  {
+   "x1": 663.0,
+   "y1": 382.0,
+   "x2": 1156.0,
+   "y2": 400.0,
+   "text": "ottiene un beneficio a scelta del mago fintanto che la pietra"
+  },
+  {
+   "x1": 661.0,
+   "y1": 402.0,
+   "x2": 1108.0,
+   "y2": 426.0,
+   "text": "resta in suo possesso. Quando il mago crea la pietra,"
+  },
+  {
+   "x1": 111.0,
+   "y1": 413.0,
+   "x2": 417.0,
+   "y2": 437.0,
+   "text": "Impervio alla Non Morte"
+  },
+  {
+   "x1": 661.0,
+   "y1": 424.0,
+   "x2": 1016.0,
+   "y2": 448.0,
+   "text": "sceglie il beneficio tra le opzioni seguenti:"
+  },
+  {
+   "x1": 109.0,
+   "y1": 438.0,
+   "x2": 560.0,
+   "y2": 462.0,
+   "text": "A partire dal 10°livello, il mago dispone di resistenza"
+  },
+  {
+   "x1": 107.0,
+   "y1": 460.0,
+   "x2": 571.0,
+   "y2": 484.0,
+   "text": "ai danni necrotici e il suo massimo dei punti ferita non"
+  },
+  {
+   "x1": 665.0,
+   "y1": 457.0,
+   "x2": 1152.0,
+   "y2": 481.0,
+   "text": "Scurovisione entro 18 metri, come descritto nel capitolo"
+  },
+  {
+   "x1": 109.0,
+   "y1": 484.0,
+   "x2": 571.0,
+   "y2": 508.0,
+   "text": "può essere ridotto. Il mago ha trascorso tanto tempo a"
+  },
+  {
+   "x1": 678.0,
+   "y1": 479.0,
+   "x2": 838.0,
+   "y2": 502.0,
+   "text": "8, \"All'Avventura\""
+  },
+  {
+   "x1": 107.0,
+   "y1": 506.0,
+   "x2": 596.0,
+   "y2": 530.0,
+   "text": "occuparsi dei non morti e delle forze che li animano che è"
+  },
+  {
+   "x1": 667.0,
+   "y1": 501.0,
+   "x2": 1110.0,
+   "y2": 524.0,
+   "text": "Un aumento della velocità di 3 metri fintanto che la"
+  },
+  {
+   "x1": 107.0,
+   "y1": 526.0,
+   "x2": 550.0,
+   "y2": 554.0,
+   "text": "diventato impervio ad alcuni dei loro effetti peggiori."
+  },
+  {
+   "x1": 676.0,
+   "y1": 523.0,
+   "x2": 923.0,
+   "y2": 546.0,
+   "text": "creatura è priva di ingombro"
+  },
+  {
+   "x1": 672.0,
+   "y1": 546.0,
+   "x2": 1060.0,
+   "y2": 570.0,
+   "text": "Competenza nei tiri salvezza su Costituzione"
+  },
+  {
+   "x1": 111.0,
+   "y1": 570.0,
+   "x2": 386.0,
+   "y2": 594.0,
+   "text": "Comandare Non Morti"
+  },
+  {
+   "x1": 672.0,
+   "y1": 566.0,
+   "x2": 1132.0,
+   "y2": 590.0,
+   "text": "Resistenza ai danni da acido, freddo, fulmine, fuoco o"
+  },
+  {
+   "x1": 109.0,
+   "y1": 597.0,
+   "x2": 572.0,
+   "y2": 621.0,
+   "text": "A partire dal 14°livello, il mago può usare la magia per"
+  },
+  {
+   "x1": 680.0,
+   "y1": 594.0,
+   "x2": 1121.0,
+   "y2": 612.0,
+   "text": "tuono (a scelta del mago al momento di determinare"
+  },
+  {
+   "x1": 107.0,
+   "y1": 618.0,
+   "x2": 573.0,
+   "y2": 643.0,
+   "text": "condurre sotto il suo controllo anche i non morti creati"
+  },
+  {
+   "x1": 678.0,
+   "y1": 614.0,
+   "x2": 827.0,
+   "y2": 638.0,
+   "text": "questo beneficio)"
+  },
+  {
+   "x1": 107.0,
+   "y1": 639.0,
+   "x2": 597.0,
+   "y2": 665.0,
+   "text": "da altri maghi. Con un'azione può scegliere un non morto"
+  },
+  {
+   "x1": 663.0,
+   "y1": 647.0,
+   "x2": 1064.0,
+   "y2": 671.0,
+   "text": "Ogni volta che il mago lancia un incantesimo di"
+  },
+  {
+   "x1": 111.0,
+   "y1": 667.0,
+   "x2": 552.0,
+   "y2": 685.0,
+   "text": "situato entro 18 metri da lui e che egli sia in grado di"
+  },
+  {
+   "x1": 661.0,
+   "y1": 669.0,
+   "x2": 1165.0,
+   "y2": 692.0,
+   "text": "trasmutazione di livello pari o superiore al l', può cambiare"
+  },
+  {
+   "x1": 109.0,
+   "y1": 687.0,
+   "x2": 593.0,
+   "y2": 711.0,
+   "text": "vedere. Quella creatura deve superare un tiro salvezza su"
+  },
+  {
+   "x1": 661.0,
+   "y1": 692.0,
+   "x2": 1151.0,
+   "y2": 716.0,
+   "text": "l'effetto della pietra, se la pietra si trova sulla sua persona."
+  },
+  {
+   "x1": 109.0,
+   "y1": 709.0,
+   "x2": 580.0,
+   "y2": 733.0,
+   "text": "Carisma contro la CD degli incantesimi del mago. Se lo"
+  },
+  {
+   "x1": 678.0,
+   "y1": 714.0,
+   "x2": 1165.0,
+   "y2": 738.0,
+   "text": "Se il mago crea una nuova pietra del trasmutatore, quella"
+  },
+  {
+   "x1": 107.0,
+   "y1": 733.0,
+   "x2": 574.0,
+   "y2": 756.0,
+   "text": "supera, il mago non può più utilizzare questo privilegio"
+  },
+  {
+   "x1": 659.0,
+   "y1": 736.0,
+   "x2": 933.0,
+   "y2": 762.0,
+   "text": "precedente cessa di funzionare."
+  },
+  {
+   "x1": 107.0,
+   "y1": 755.0,
+   "x2": 598.0,
+   "y2": 778.0,
+   "text": "contro di lei. Se lo fallisce, la creatura diventa amichevole"
+  },
+  {
+   "x1": 107.0,
+   "y1": 777.0,
+   "x2": 613.0,
+   "y2": 800.0,
+   "text": "nei confronti del mago e obbedisce ai suoi comandi finché il"
+  },
+  {
+   "x1": 659.0,
+   "y1": 776.0,
+   "x2": 805.0,
+   "y2": 804.0,
+   "text": "MUTAFoRma"
+  },
+  {
+   "x1": 109.0,
+   "y1": 800.0,
+   "x2": 488.0,
+   "y2": 824.0,
+   "text": "mago non utilizza di nuovo questo privilegio,"
+  },
+  {
+   "x1": 659.0,
+   "y1": 802.0,
+   "x2": 1152.0,
+   "y2": 830.0,
+   "text": "Al 10* livello, il mago aggiunge l'incantesimo metamorfosi"
+  },
+  {
+   "x1": 126.0,
+   "y1": 822.0,
+   "x2": 584.0,
+   "y2": 846.0,
+   "text": "I non morti intelligenti sono più difficili da controllare"
+  },
+  {
+   "x1": 661.0,
+   "y1": 828.0,
+   "x2": 1158.0,
+   "y2": 851.0,
+   "text": "al suo libro degli incantesimi, se non lo possedeva già. Può"
+  },
+  {
+   "x1": 107.0,
+   "y1": 846.0,
+   "x2": 582.0,
+   "y2": 870.0,
+   "text": "in questo modo. Se il bersaglio possiede un'Intelligenza"
+  },
+  {
+   "x1": 663.0,
+   "y1": 851.0,
+   "x2": 1163.0,
+   "y2": 875.0,
+   "text": "lanciare metamorfosi senza spendere uno slot incantesimo."
+  },
+  {
+   "x1": 107.0,
+   "y1": 868.0,
+   "x2": 593.0,
+   "y2": 892.0,
+   "text": "pari o superiore a8, dispone di vantaggio al tiro salvezza."
+  },
+  {
+   "x1": 663.0,
+   "y1": 873.0,
+   "x2": 1160.0,
+   "y2": 897.0,
+   "text": "Quando lo fa, può bersagliare solo se stesso e trasformarsi"
+  },
+  {
+   "x1": 109.0,
+   "y1": 890.0,
+   "x2": 604.0,
+   "y2": 914.0,
+   "text": "Se fallisce il tiro salvezza e possiede un'Intelligenza pario"
+  },
+  {
+   "x1": 659.0,
+   "y1": 895.0,
+   "x2": 1130.0,
+   "y2": 919.0,
+   "text": "in una bestia il cui grado di sfida sia pari o inferiore a 1."
+  },
+  {
+   "x1": 109.0,
+   "y1": 914.0,
+   "x2": 604.0,
+   "y2": 937.0,
+   "text": "superiore a 12, può ripetere il tiro salvezza alla fine di ogni"
+  },
+  {
+   "x1": 676.0,
+   "y1": 919.0,
+   "x2": 1151.0,
+   "y2": 943.0,
+   "text": "Una volta lanciato metamorfosi in questo modo, il mago"
+  },
+  {
+   "x1": 109.0,
+   "y1": 935.0,
+   "x2": 408.0,
+   "y2": 959.0,
+   "text": "ora, finché non lo supera e si libera."
+  },
+  {
+   "x1": 661.0,
+   "y1": 941.0,
+   "x2": 1143.0,
+   "y2": 965.0,
+   "text": "non può più farlo di nuovo finché non completa un riposo"
+  },
+  {
+   "x1": 659.0,
+   "y1": 961.0,
+   "x2": 1141.0,
+   "y2": 987.0,
+   "text": "breve o lungo, ma può comunque lanciarlo normalmente"
+  },
+  {
+   "x1": 107.0,
+   "y1": 974.0,
+   "x2": 495.0,
+   "y2": 1009.0,
+   "text": "ScuoLa di TRasmutazionE"
+  },
+  {
+   "x1": 661.0,
+   "y1": 988.0,
+   "x2": 1006.0,
+   "y2": 1007.0,
+   "text": "usando uno slot incantesimo disponibile."
+  },
+  {
+   "x1": 111.0,
+   "y1": 1016.0,
+   "x2": 517.0,
+   "y2": 1040.0,
+   "text": "Un trasmutatore si specializza nello studio degli"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1029.0,
+   "x2": 946.0,
+   "y2": 1052.0,
+   "text": "MaeStro TRasmuTatore"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1040.0,
+   "x2": 563.0,
+   "y2": 1063.0,
+   "text": "incantesimi che modificano l'energia e la materia. Per"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1052.0,
+   "x2": 1152.0,
+   "y2": 1080.0,
+   "text": "A partire dal 14° livello, il mago può usare la sua azione per"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1063.0,
+   "x2": 571.0,
+   "y2": 1082.0,
+   "text": "lui il mondo non è qualcosa di fisso, bensì di altamente"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1083.0,
+   "x2": 591.0,
+   "y2": 1107.0,
+   "text": "mutevole, e il trasmutatore ama l'idea di essere una delle"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1078.0,
+   "x2": 1160.0,
+   "y2": 1102.0,
+   "text": "consumare la riserva di magia di trasmutazione accumulata"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1107.0,
+   "x2": 608.0,
+   "y2": 1131.0,
+   "text": "cause di questo mutamento, manipolando la materia prima"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1098.0,
+   "x2": 1112.0,
+   "y2": 1122.0,
+   "text": "all'interno della sua pietra del trasmutatore in un'unica"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1129.0,
+   "x2": 608.0,
+   "y2": 1153.0,
+   "text": "della creazione e imparando ad alterare sia le forme fisiche"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1124.0,
+   "x2": 1134.0,
+   "y2": 1147.0,
+   "text": "soluzione. Quando lo fa, sceglie uno degli effetti seguenti."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1153.0,
+   "x2": 578.0,
+   "y2": 1177.0,
+   "text": "che le qualità mentali. La magia gli fornisce i mezzi per"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1147.0,
+   "x2": 1158.0,
+   "y2": 1171.0,
+   "text": "La sua pietra del trasmutatore si distrugge e non può essere"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1173.0,
+   "x2": 477.0,
+   "y2": 1199.0,
+   "text": "diventare un fabbro della forgia della realtà."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1167.0,
+   "x2": 1103.0,
+   "y2": 1193.0,
+   "text": "ricreata finché il mago non completa un riposo lungo."
+  },
+  {
+   "x1": 122.0,
+   "y1": 1195.0,
+   "x2": 595.0,
+   "y2": 1222.0,
+   "text": "Alcuni trasmutatori amano gli scherzi e gli esperimenti"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1191.0,
+   "x2": 1151.0,
+   "y2": 1215.0,
+   "text": "Panacea. Il mago rimuove tutte le maledizioni, malattie"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1217.0,
+   "x2": 587.0,
+   "y2": 1244.0,
+   "text": "folli: trasformano le persone in rospi e il rame in argento"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1217.0,
+   "x2": 1149.0,
+   "y2": 1235.0,
+   "text": "e veleni che influenzano una creatura da lui toccata con la"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1244.0,
+   "x2": 560.0,
+   "y2": 1263.0,
+   "text": "al puro scopo di divertirsi o di trarne un profitto. Altri"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1235.0,
+   "x2": 1149.0,
+   "y2": 1259.0,
+   "text": "pietra del trasmutatore. La creatura recupera anche tutti i"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1266.0,
+   "x2": 552.0,
+   "y2": 1290.0,
+   "text": "si dedicano ai loro studi magici con grande serietà e"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1259.0,
+   "x2": 807.0,
+   "y2": 1283.0,
+   "text": "suoi punti ferita."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1286.0,
+   "x2": 598.0,
+   "y2": 1314.0,
+   "text": "ambiscono a eguagliare il potere di un dio nel creare o nel"
+  },
+  {
+   "x1": 676.0,
+   "y1": 1279.0,
+   "x2": 1130.0,
+   "y2": 1306.0,
+   "text": "Ripristinare Giovinezza. Il mago tocca una creatura"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1308.0,
+   "x2": 307.0,
+   "y2": 1336.0,
+   "text": "distruggere un mondo."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1305.0,
+   "x2": 1080.0,
+   "y2": 1328.0,
+   "text": "consenziente con la pietra del trasmutatore e l'età"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1325.0,
+   "x2": 1143.0,
+   "y2": 1352.0,
+   "text": "apparente di quella creatura è ridotta di 3d10 anni, fino a"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1354.0,
+   "x2": 390.0,
+   "y2": 1378.0,
+   "text": "TRASMUTATORE SAPIENTE"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1350.0,
+   "x2": 1139.0,
+   "y2": 1374.0,
+   "text": "un minimo di 13 anni. Questo efetto non prolunga l'arco"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1378.0,
+   "x2": 569.0,
+   "y2": 1403.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2°"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1374.0,
+   "x2": 840.0,
+   "y2": 1398.0,
+   "text": "vitale della creatura."
+  },
+  {
+   "x1": 105.0,
+   "y1": 1403.0,
+   "x2": 561.0,
+   "y2": 1427.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 674.0,
+   "y1": 1394.0,
+   "x2": 1154.0,
+   "y2": 1418.0,
+   "text": "Ripristinare Vita. Il mago lancia l'incantesimo rianimare"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1427.0,
+   "x2": 608.0,
+   "y2": 1451.0,
+   "text": "copiare un incantesimo di trasmutazione nel suo libro degli"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1420.0,
+   "x2": 1088.0,
+   "y2": 1443.0,
+   "text": "morti su una creatura da lui toccata con la pietra del"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1449.0,
+   "x2": 345.0,
+   "y2": 1471.0,
+   "text": "incantesimi sono dimezzati."
+  },
+  {
+   "x1": 661.0,
+   "y1": 1445.0,
+   "x2": 1149.0,
+   "y2": 1463.0,
+   "text": "trasmutatore, senza spendere uno slot incantesimo e senza"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1463.0,
+   "x2": 1102.0,
+   "y2": 1487.0,
+   "text": "che debba possedere l'inc antesimo nel suo libro degli"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1491.0,
+   "x2": 319.0,
+   "y2": 1515.0,
+   "text": "Alchimia Minore"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1489.0,
+   "x2": 765.0,
+   "y2": 1509.0,
+   "text": "incantesimi."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1516.0,
+   "x2": 569.0,
+   "y2": 1540.0,
+   "text": "A partire da quando sceglie questa scuola al 2° livello, il"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1507.0,
+   "x2": 1128.0,
+   "y2": 1535.0,
+   "text": "Trasformazione Maggiore. Il mago può trasmutare un"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1538.0,
+   "x2": 593.0,
+   "y2": 1566.0,
+   "text": "mago può alterare temporaneamente le proprietà fisiche di"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1531.0,
+   "x2": 1136.0,
+   "y2": 1559.0,
+   "text": "oggetto non magico (che non sia più grande di un cubo con"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1564.0,
+   "x2": 574.0,
+   "y2": 1588.0,
+   "text": "un oggetto non magico, trasformandolo da una sostanza"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1559.0,
+   "x2": 1141.0,
+   "y2": 1577.0,
+   "text": "spigolo di 1,5 metri) in un altro oggetto non magico di taglia"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1586.0,
+   "x2": 595.0,
+   "y2": 1610.0,
+   "text": "all'altra. Il mago applica una procedura alchemica speciale"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1579.0,
+   "x2": 1154.0,
+   "y2": 1602.0,
+   "text": "e massa analoga e di valore pari o inferiore. Deve trascorrere"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1599.0,
+   "x2": 1128.0,
+   "y2": 1626.0,
+   "text": "10 minuti a maneggiare l'oggetto che intende trasformare."
+  },
+  {
+   "x1": 105.0,
+   "y1": 1610.0,
+   "x2": 600.0,
+   "y2": 1633.0,
+   "text": "a un oggetto composto interamente di legno, pietra (ma non"
+  },
+  {
+   "x1": 18.0,
+   "y1": 1686.0,
+   "x2": 46.0,
+   "y2": 1708.0,
+   "text": "88"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1679.0,
+   "x2": 284.0,
+   "y2": 1697.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  }
+ ],
+ "reading_text": "Servitori Non Morti\nA1 6° livello, il mago aggiunge l'incantesimo animare morti\nal suo libro degli incantesimi, se non lo possedeva già.\nQuando lancia animare morti, può bersagliare un cadavere\no un cumulo di ossa aggiuntivo per creare un altro\nscheletro o zombi, come appropriato.\nOgni volta che il mago crea un non morto usando un\nincantesimo di necromanzia, quella creatura ottiene i\nbenefici seguenti:\n.Il massimo dei punti ferita della creatura aumenta di un\nammontare pari al livello del mago.\nLa creatura aggiunge il bonus di competenza del mago ai\nsuoi tiri per i danni con le armi.\nImpervio alla Non Morte\nA partire dal 10°livello, il mago dispone di resistenza\nai danni necrotici e il suo massimo dei punti ferita non\npuò essere ridotto. Il mago ha trascorso tanto tempo a\noccuparsi dei non morti e delle forze che li animano che è\ndiventato impervio ad alcuni dei loro effetti peggiori.\nComandare Non Morti\nA partire dal 14°livello, il mago può usare la magia per\ncondurre sotto il suo controllo anche i non morti creati\nda altri maghi. Con un'azione può scegliere un non morto\nsituato entro 18 metri da lui e che egli sia in grado di\nvedere. Quella creatura deve superare un tiro salvezza su\nCarisma contro la CD degli incantesimi del mago. Se lo\nsupera, il mago non può più utilizzare questo privilegio\ncontro di lei. Se lo fallisce, la creatura diventa amichevole\nnei confronti del mago e obbedisce ai suoi comandi finché il\nmago non utilizza di nuovo questo privilegio,\nI non morti intelligenti sono più difficili da controllare\nin questo modo. Se il bersaglio possiede un'Intelligenza\npari o superiore a8, dispone di vantaggio al tiro salvezza.\nSe fallisce il tiro salvezza e possiede un'Intelligenza pario\nsuperiore a 12, può ripetere il tiro salvezza alla fine di ogni\nora, finché non lo supera e si libera.\nScuoLa di TRasmutazionE\nUn trasmutatore si specializza nello studio degli\nincantesimi che modificano l'energia e la materia. Per\nlui il mondo non è qualcosa di fisso, bensì di altamente\nmutevole, e il trasmutatore ama l'idea di essere una delle\ncause di questo mutamento, manipolando la materia prima\ndella creazione e imparando ad alterare sia le forme fisiche\nche le qualità mentali. La magia gli fornisce i mezzi per\ndiventare un fabbro della forgia della realtà.\nAlcuni trasmutatori amano gli scherzi e gli esperimenti\nfolli: trasformano le persone in rospi e il rame in argento\nal puro scopo di divertirsi o di trarne un profitto. Altri\nsi dedicano ai loro studi magici con grande serietà e\nambiscono a eguagliare il potere di un dio nel creare o nel\ndistruggere un mondo.\nTRASMUTATORE SAPIENTE\nA partire da quando il mago sceglie questa scuola al 2°\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di trasmutazione nel suo libro degli\nincantesimi sono dimezzati.\nAlchimia Minore\nA partire da quando sceglie questa scuola al 2° livello, il\nmago può alterare temporaneamente le proprietà fisiche di\nun oggetto non magico, trasformandolo da una sostanza\nall'altra. Il mago applica una procedura alchemica speciale\na un oggetto composto interamente di legno, pietra (ma non\nCAPITOLO 3 |CLASSI\n88\ngemme), ferro, rame o argento, trasformandolo in un oggetto\ndiverso fatto di quei materiali. Ogni 10 minuti trascorsi\nad applicare la procedura gli consentono di trasformare\nmateriale pari a un cubo con spigolo di 30 cm. Dopo 1 ora,\no finché il mago non perde la concentrazione (come se si\nstesse concentrando su un incantesimo), il materiale si\nritrasforma nella sua sostanza originale.\nPietra del Trasmutatore\nA partire dal 6° livello, il mago può trascorrere 8 ore a\ncreare una pietra del trasmutatore che accumuli la magia\ndi trasmutazione. Il mago può beneficiare della pietra\npersonalmente o cederla a un'altra creatura. Una creatura\nottiene un beneficio a scelta del mago fintanto che la pietra\nresta in suo possesso. Quando il mago crea la pietra,\nsceglie il beneficio tra le opzioni seguenti:\nScurovisione entro 18 metri, come descritto nel capitolo\n8, \"All'Avventura\"\nUn aumento della velocità di 3 metri fintanto che la\ncreatura è priva di ingombro\nCompetenza nei tiri salvezza su Costituzione\nResistenza ai danni da acido, freddo, fulmine, fuoco o\ntuono (a scelta del mago al momento di determinare\nquesto beneficio)\nOgni volta che il mago lancia un incantesimo di\ntrasmutazione di livello pari o superiore al l', può cambiare\nl'effetto della pietra, se la pietra si trova sulla sua persona.\nSe il mago crea una nuova pietra del trasmutatore, quella\nprecedente cessa di funzionare.\nMUTAFoRma\nAl 10* livello, il mago aggiunge l'incantesimo metamorfosi\nal suo libro degli incantesimi, se non lo possedeva già. Può\nlanciare metamorfosi senza spendere uno slot incantesimo.\nQuando lo fa, può bersagliare solo se stesso e trasformarsi\nin una bestia il cui grado di sfida sia pari o inferiore a 1.\nUna volta lanciato metamorfosi in questo modo, il mago\nnon può più farlo di nuovo finché non completa un riposo\nbreve o lungo, ma può comunque lanciarlo normalmente\nusando uno slot incantesimo disponibile.\nMaeStro TRasmuTatore\nA partire dal 14° livello, il mago può usare la sua azione per\nconsumare la riserva di magia di trasmutazione accumulata\nall'interno della sua pietra del trasmutatore in un'unica\nsoluzione. Quando lo fa, sceglie uno degli effetti seguenti.\nLa sua pietra del trasmutatore si distrugge e non può essere\nricreata finché il mago non completa un riposo lungo.\nPanacea. Il mago rimuove tutte le maledizioni, malattie\ne veleni che influenzano una creatura da lui toccata con la\npietra del trasmutatore. La creatura recupera anche tutti i\nsuoi punti ferita.\nRipristinare Giovinezza. Il mago tocca una creatura\nconsenziente con la pietra del trasmutatore e l'età\napparente di quella creatura è ridotta di 3d10 anni, fino a\nun minimo di 13 anni. Questo efetto non prolunga l'arco\nvitale della creatura.\nRipristinare Vita. Il mago lancia l'incantesimo rianimare\nmorti su una creatura da lui toccata con la pietra del\ntrasmutatore, senza spendere uno slot incantesimo e senza\nche debba possedere l'inc antesimo nel suo libro degli\nincantesimi.\nTrasformazione Maggiore. Il mago può trasmutare un\noggetto non magico (che non sia più grande di un cubo con\nspigolo di 1,5 metri) in un altro oggetto non magico di taglia\ne massa analoga e di valore pari o inferiore. Deve trascorrere\n10 minuti a maneggiare l'oggetto che intende trasformare."
+}

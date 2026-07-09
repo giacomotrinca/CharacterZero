@@ -1,0 +1,885 @@
+{
+ "pdf_page_index": 108,
+ "page_label": 109,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 125,
+ "lines": [
+  {
+   "x1": 643.0,
+   "y1": 82.0,
+   "x2": 1149.0,
+   "y2": 115.0,
+   "text": "CD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza"
+  },
+  {
+   "x1": 92.0,
+   "y1": 93.0,
+   "x2": 305.0,
+   "y2": 117.0,
+   "text": "EQuipaggiamento"
+  },
+  {
+   "x1": 87.0,
+   "y1": 113.0,
+   "x2": 558.0,
+   "y2": 141.0,
+   "text": "Uno stregone inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 678.0,
+   "y1": 115.0,
+   "x2": 1117.0,
+   "y2": 141.0,
+   "text": "dello stregone + il modificatore di Carisma dello stregone"
+  },
+  {
+   "x1": 87.0,
+   "y1": 137.0,
+   "x2": 597.0,
+   "y2": 166.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 646.0,
+   "y1": 150.0,
+   "x2": 1147.0,
+   "y2": 177.0,
+   "text": "Modificatore di attacco dell'incantesimo - il bonus di competenza"
+  },
+  {
+   "x1": 102.0,
+   "y1": 172.0,
+   "x2": 587.0,
+   "y2": 197.0,
+   "text": "a) una balestra leggera e 20 quadrelli o (b) una qualsiasi"
+  },
+  {
+   "x1": 678.0,
+   "y1": 181.0,
+   "x2": 1117.0,
+   "y2": 205.0,
+   "text": "dello stregone + il modificatore di Carisma dello stregone"
+  },
+  {
+   "x1": 105.0,
+   "y1": 195.0,
+   "x2": 238.0,
+   "y2": 218.0,
+   "text": "arma semplice"
+  },
+  {
+   "x1": 101.0,
+   "y1": 212.0,
+   "x2": 541.0,
+   "y2": 247.0,
+   "text": "(a) una borsa per componenti o (b) un focus arcano"
+  },
+  {
+   "x1": 103.0,
+   "y1": 237.0,
+   "x2": 582.0,
+   "y2": 267.0,
+   "text": "(a) una dotazione da avventuriero o (b) una dotazione da"
+  },
+  {
+   "x1": 643.0,
+   "y1": 234.0,
+   "x2": 910.0,
+   "y2": 258.0,
+   "text": "Focus da Incantatore"
+  },
+  {
+   "x1": 103.0,
+   "y1": 259.0,
+   "x2": 211.0,
+   "y2": 289.0,
+   "text": "esploratore"
+  },
+  {
+   "x1": 643.0,
+   "y1": 256.0,
+   "x2": 1139.0,
+   "y2": 283.0,
+   "text": "Uno stregone può usare un focus arcano (vedi il capitolo 5,"
+  },
+  {
+   "x1": 102.0,
+   "y1": 283.0,
+   "x2": 216.0,
+   "y2": 309.0,
+   "text": "Due pugnali"
+  },
+  {
+   "x1": 644.0,
+   "y1": 278.0,
+   "x2": 1130.0,
+   "y2": 307.0,
+   "text": "\"Equipaggiamento\") come focus da incantatore per i suoi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 294.0,
+   "x2": 103.0,
+   "y2": 305.0,
+   "text": "."
+  },
+  {
+   "x1": 643.0,
+   "y1": 301.0,
+   "x2": 857.0,
+   "y2": 329.0,
+   "text": "incantesimi da stregone."
+  },
+  {
+   "x1": 89.0,
+   "y1": 331.0,
+   "x2": 273.0,
+   "y2": 356.0,
+   "text": "INCANTESIMI"
+  },
+  {
+   "x1": 644.0,
+   "y1": 343.0,
+   "x2": 968.0,
+   "y2": 376.0,
+   "text": "OrigInE StreGoNeSca"
+  },
+  {
+   "x1": 89.0,
+   "y1": 365.0,
+   "x2": 582.0,
+   "y2": 391.0,
+   "text": "Un evento nel passato dello stregone o nella vita di un suo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 382.0,
+   "x2": 593.0,
+   "y2": 417.0,
+   "text": "parente o antenato ha lasciato su di lui un segno indelebile,"
+  },
+  {
+   "x1": 641.0,
+   "y1": 380.0,
+   "x2": 1138.0,
+   "y2": 407.0,
+   "text": "Il giocatore sceglie un'origine stregonesca che definisca la"
+  },
+  {
+   "x1": 89.0,
+   "y1": 411.0,
+   "x2": 567.0,
+   "y2": 435.0,
+   "text": "infondendogli una fonte di magia arcana.È questa fonte"
+  },
+  {
+   "x1": 641.0,
+   "y1": 404.0,
+   "x2": 1134.0,
+   "y2": 431.0,
+   "text": "fonte dei poteri magici innatidello stregone: Discendenza"
+  },
+  {
+   "x1": 89.0,
+   "y1": 433.0,
+   "x2": 550.0,
+   "y2": 457.0,
+   "text": "di magia, qualunque sia la sua origine, ad alimentare i"
+  },
+  {
+   "x1": 641.0,
+   "y1": 426.0,
+   "x2": 1128.0,
+   "y2": 453.0,
+   "text": "Draconica o Magia Selvaggia, entrambi descritti alla fine"
+  },
+  {
+   "x1": 87.0,
+   "y1": 455.0,
+   "x2": 574.0,
+   "y2": 479.0,
+   "text": "suoi incantesimi. Vedi il capitolo 10 per le regole generali"
+  },
+  {
+   "x1": 643.0,
+   "y1": 451.0,
+   "x2": 899.0,
+   "y2": 475.0,
+   "text": "della sezione di questa classe."
+  },
+  {
+   "x1": 89.0,
+   "y1": 479.0,
+   "x2": 515.0,
+   "y2": 502.0,
+   "text": "relative alla magia e il capitolo 1 1 per la lista degli"
+  },
+  {
+   "x1": 659.0,
+   "y1": 473.0,
+   "x2": 1136.0,
+   "y2": 497.0,
+   "text": "Questa scelta conferisce allo stregone alcuni privilegi al"
+  },
+  {
+   "x1": 89.0,
+   "y1": 502.0,
+   "x2": 303.0,
+   "y2": 526.0,
+   "text": "incantesimi da stregone."
+  },
+  {
+   "x1": 87.0,
+   "y1": 541.0,
+   "x2": 231.0,
+   "y2": 568.0,
+   "text": "TRucchetti"
+  },
+  {
+   "x1": 648.0,
+   "y1": 541.0,
+   "x2": 877.0,
+   "y2": 566.0,
+   "text": "FoNte dI MAGia"
+  },
+  {
+   "x1": 89.0,
+   "y1": 568.0,
+   "x2": 550.0,
+   "y2": 592.0,
+   "text": "Al 1*livello, uno stregone conosce quattro trucchetti a"
+  },
+  {
+   "x1": 639.0,
+   "y1": 570.0,
+   "x2": 1121.0,
+   "y2": 605.0,
+   "text": "A livello, uno stregone attinge a una profonda sorgente di"
+  },
+  {
+   "x1": 89.0,
+   "y1": 592.0,
+   "x2": 567.0,
+   "y2": 616.0,
+   "text": "sua scelta tratti dalla lista degli incantesimi da stregone."
+  },
+  {
+   "x1": 641.0,
+   "y1": 597.0,
+   "x2": 1151.0,
+   "y2": 625.0,
+   "text": "magia interiore. Essa è rappresentata dai punti stregoneria, che"
+  },
+  {
+   "x1": 89.0,
+   "y1": 614.0,
+   "x2": 565.0,
+   "y2": 638.0,
+   "text": "Apprende ulterioritrucchetti da stregone a sua scelta ai"
+  },
+  {
+   "x1": 641.0,
+   "y1": 621.0,
+   "x2": 1110.0,
+   "y2": 645.0,
+   "text": "gli consentono di creare una vasta gamma di effetti magici."
+  },
+  {
+   "x1": 87.0,
+   "y1": 634.0,
+   "x2": 578.0,
+   "y2": 660.0,
+   "text": "livelli successivi, come indicato dalla colonna \"Trucchetti"
+  },
+  {
+   "x1": 90.0,
+   "y1": 660.0,
+   "x2": 399.0,
+   "y2": 683.0,
+   "text": "Conosciuti\" nella tabella \"Stregone\"."
+  },
+  {
+   "x1": 645.0,
+   "y1": 665.0,
+   "x2": 875.0,
+   "y2": 689.0,
+   "text": "Punti Stregoneria"
+  },
+  {
+   "x1": 641.0,
+   "y1": 687.0,
+   "x2": 1082.0,
+   "y2": 716.0,
+   "text": "Uno stregone parte con 2 punti stregoneria e ne ottiene"
+  },
+  {
+   "x1": 89.0,
+   "y1": 702.0,
+   "x2": 305.0,
+   "y2": 725.0,
+   "text": "SLot Incantesimo"
+  },
+  {
+   "x1": 643.0,
+   "y1": 714.0,
+   "x2": 1104.0,
+   "y2": 738.0,
+   "text": "altri ai livelli superiori, come indicato nella colonna \"Punti"
+  },
+  {
+   "x1": 89.0,
+   "y1": 727.0,
+   "x2": 580.0,
+   "y2": 751.0,
+   "text": "La tabella \"Stregone\" indicaquanti slot incantesimo possiede"
+  },
+  {
+   "x1": 641.0,
+   "y1": 736.0,
+   "x2": 1121.0,
+   "y2": 760.0,
+   "text": "Stregoneria\" nella tabella \"Stregone\". Uno stregone non può"
+  },
+  {
+   "x1": 89.0,
+   "y1": 751.0,
+   "x2": 558.0,
+   "y2": 775.0,
+   "text": "uno stregone per lanciare i suoi incantesimi di 1º livello e di"
+  },
+  {
+   "x1": 643.0,
+   "y1": 760.0,
+   "x2": 1141.0,
+   "y2": 784.0,
+   "text": "mai avere un numero di punti stregoneria superiore al numero"
+  },
+  {
+   "x1": 89.0,
+   "y1": 773.0,
+   "x2": 554.0,
+   "y2": 797.0,
+   "text": "livello superiore. Per lanciare uno di questi incantesimi, lo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 782.0,
+   "x2": 1115.0,
+   "y2": 806.0,
+   "text": "indicato sulla tabella per il suo livello. Lo stregone recupera"
+  },
+  {
+   "x1": 89.0,
+   "y1": 797.0,
+   "x2": 569.0,
+   "y2": 820.0,
+   "text": "stregone deve spendere uno slot incantesimo di livello pari o"
+  },
+  {
+   "x1": 641.0,
+   "y1": 802.0,
+   "x2": 1145.0,
+   "y2": 830.0,
+   "text": "tutti i punti stregoneria spesi quando completa un riposo lungo."
+  },
+  {
+   "x1": 87.0,
+   "y1": 819.0,
+   "x2": 585.0,
+   "y2": 842.0,
+   "text": "superiore al livello dell'incantesimo. Lo stregone recupera tutti"
+  },
+  {
+   "x1": 87.0,
+   "y1": 839.0,
+   "x2": 565.0,
+   "y2": 866.0,
+   "text": "gli slot incantesimo spesi quando completa un riposo lungo."
+  },
+  {
+   "x1": 643.0,
+   "y1": 846.0,
+   "x2": 912.0,
+   "y2": 870.0,
+   "text": "IncaNtesimi FLessibili"
+  },
+  {
+   "x1": 107.0,
+   "y1": 864.0,
+   "x2": 574.0,
+   "y2": 888.0,
+   "text": "Per esempio, se uno stregone conosce l'incantesimo di"
+  },
+  {
+   "x1": 643.0,
+   "y1": 870.0,
+   "x2": 1082.0,
+   "y2": 897.0,
+   "text": "Uno stregone può usare i suoi punti stregoneria per"
+  },
+  {
+   "x1": 87.0,
+   "y1": 882.0,
+   "x2": 587.0,
+   "y2": 910.0,
+   "text": "1° livello mani brucianti e possiede uno slot incantesimo di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 893.0,
+   "x2": 1103.0,
+   "y2": 921.0,
+   "text": "ottenere degli slot incantesimo aggiuntivi, oppure può"
+  },
+  {
+   "x1": 87.0,
+   "y1": 906.0,
+   "x2": 571.0,
+   "y2": 934.0,
+   "text": "1° livello e uno slot incantesimo di 2° livello, può lanciare"
+  },
+  {
+   "x1": 643.0,
+   "y1": 919.0,
+   "x2": 1115.0,
+   "y2": 943.0,
+   "text": "sacrificare degli slot incantesimo per ottenere dei punti"
+  },
+  {
+   "x1": 89.0,
+   "y1": 934.0,
+   "x2": 502.0,
+   "y2": 952.0,
+   "text": "mani bruciantiusando uno qualsiasi dei due slot."
+  },
+  {
+   "x1": 641.0,
+   "y1": 939.0,
+   "x2": 1123.0,
+   "y2": 963.0,
+   "text": "stregoneria aggiuntivi. Apprende altri modi in cui usare i"
+  },
+  {
+   "x1": 641.0,
+   "y1": 963.0,
+   "x2": 1110.0,
+   "y2": 987.0,
+   "text": "suoi punti stregoneria quando arriva ai livelli superiori."
+  },
+  {
+   "x1": 89.0,
+   "y1": 974.0,
+   "x2": 536.0,
+   "y2": 998.0,
+   "text": "Incantesimi Conosciuti di lo Livello"
+  },
+  {
+   "x1": 661.0,
+   "y1": 988.0,
+   "x2": 1090.0,
+   "y2": 1007.0,
+   "text": "Creare Slot Incantesimo. Usando un'azione bonus"
+  },
+  {
+   "x1": 89.0,
+   "y1": 998.0,
+   "x2": 362.0,
+   "y2": 1023.0,
+   "text": "E DI LIVELLO SUPEriore"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1009.0,
+   "x2": 1101.0,
+   "y2": 1032.0,
+   "text": "nel proprio turno, uno stregone può trasformare i punti"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1021.0,
+   "x2": 565.0,
+   "y2": 1049.0,
+   "text": "Uno stregone conosce due incantesimi di 1° livello a sua"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1029.0,
+   "x2": 1110.0,
+   "y2": 1052.0,
+   "text": "stregoneria non spesi in uno slot incantesimo. La tabella"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1047.0,
+   "x2": 484.0,
+   "y2": 1071.0,
+   "text": "scelta dalla lista degli incantesimi da stregone."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1050.0,
+   "x2": 1079.0,
+   "y2": 1078.0,
+   "text": "\"Creazione degli Slot Incantesimo\" indica il costo di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1067.0,
+   "x2": 528.0,
+   "y2": 1091.0,
+   "text": "La colonna \"Incantesimi Conosciuti\"nella tabella"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1074.0,
+   "x2": 1145.0,
+   "y2": 1102.0,
+   "text": "creazione di uno slot incantesimo di ogni livello. Lo stregone"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1085.0,
+   "x2": 532.0,
+   "y2": 1118.0,
+   "text": "Stregone\" indica quando uno stregone impara altri"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1096.0,
+   "x2": 1112.0,
+   "y2": 1126.0,
+   "text": "non può creare slot incantesimo di livello superiore al 5°."
+  },
+  {
+   "x1": 89.0,
+   "y1": 1118.0,
+   "x2": 550.0,
+   "y2": 1136.0,
+   "text": "incantesimi da stregone a sua scelta. Ognuno di questi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1122.0,
+   "x2": 1117.0,
+   "y2": 1146.0,
+   "text": "Ogni slot incantesimo creato tramite questo privilegio"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1138.0,
+   "x2": 512.0,
+   "y2": 1162.0,
+   "text": "incantesimi deve appartenere a un livello di cui lo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1147.0,
+   "x2": 1108.0,
+   "y2": 1171.0,
+   "text": "svanisce quando lo stregone completa un riposo lungo."
+  },
+  {
+   "x1": 87.0,
+   "y1": 1160.0,
+   "x2": 563.0,
+   "y2": 1184.0,
+   "text": "stregone possiede degli slot incantesimo, come indicato"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1180.0,
+   "x2": 552.0,
+   "y2": 1204.0,
+   "text": "dalla tabella. Per esempio, quando uno stregone arriva"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1191.0,
+   "x2": 1045.0,
+   "y2": 1219.0,
+   "text": "CReAZiOne DEGLI SLOT ÍnCANTESImO"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1204.0,
+   "x2": 554.0,
+   "y2": 1228.0,
+   "text": "al3° livello, può imparare un nuovo incantesimo di 1º o"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1224.0,
+   "x2": 196.0,
+   "y2": 1254.0,
+   "text": "di 2º livello."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1226.0,
+   "x2": 907.0,
+   "y2": 1252.0,
+   "text": "Livello dello Slot Costo in Punti"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1252.0,
+   "x2": 534.0,
+   "y2": 1275.0,
+   "text": "Inoltre, quando uno stregone acquisisce un livello,"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1252.0,
+   "x2": 766.0,
+   "y2": 1272.0,
+   "text": "Incantesimo"
+  },
+  {
+   "x1": 803.0,
+   "y1": 1248.0,
+   "x2": 900.0,
+   "y2": 1279.0,
+   "text": "Stregoneria"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1275.0,
+   "x2": 550.0,
+   "y2": 1299.0,
+   "text": "può scegliere unincantesimo da stregone che conosce"
+  },
+  {
+   "x1": 705.0,
+   "y1": 1275.0,
+   "x2": 728.0,
+   "y2": 1303.0,
+   "text": "1"
+  },
+  {
+   "x1": 840.0,
+   "y1": 1277.0,
+   "x2": 862.0,
+   "y2": 1305.0,
+   "text": "2"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1299.0,
+   "x2": 536.0,
+   "y2": 1317.0,
+   "text": "e sostituirlo con un altro incantesimo della lista degli"
+  },
+  {
+   "x1": 704.0,
+   "y1": 1303.0,
+   "x2": 728.0,
+   "y2": 1332.0,
+   "text": "2°"
+  },
+  {
+   "x1": 842.0,
+   "y1": 1306.0,
+   "x2": 861.0,
+   "y2": 1326.0,
+   "text": "3"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1321.0,
+   "x2": 534.0,
+   "y2": 1345.0,
+   "text": "incantesimi da stregone; anche il nuovo incantesimo"
+  },
+  {
+   "x1": 700.0,
+   "y1": 1325.0,
+   "x2": 729.0,
+   "y2": 1357.0,
+   "text": "3°"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1341.0,
+   "x2": 565.0,
+   "y2": 1365.0,
+   "text": "deve essere di un livello di cui lo stregone possiede degli"
+  },
+  {
+   "x1": 844.0,
+   "y1": 1334.0,
+   "x2": 859.0,
+   "y2": 1352.0,
+   "text": "5"
+  },
+  {
+   "x1": 704.0,
+   "y1": 1356.0,
+   "x2": 728.0,
+   "y2": 1385.0,
+   "text": "4*"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1367.0,
+   "x2": 238.0,
+   "y2": 1390.0,
+   "text": "slot incantesimo."
+  },
+  {
+   "x1": 844.0,
+   "y1": 1361.0,
+   "x2": 859.0,
+   "y2": 1379.0,
+   "text": "6"
+  },
+  {
+   "x1": 704.0,
+   "y1": 1383.0,
+   "x2": 728.0,
+   "y2": 1409.0,
+   "text": "5°"
+  },
+  {
+   "x1": 848.0,
+   "y1": 1389.0,
+   "x2": 859.0,
+   "y2": 1405.0,
+   "text": "7"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1405.0,
+   "x2": 469.0,
+   "y2": 1434.0,
+   "text": "Caratteristica da Incantatore"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1432.0,
+   "x2": 501.0,
+   "y2": 1460.0,
+   "text": "Carisma è la caratteristica da incantatore per gli"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1436.0,
+   "x2": 1145.0,
+   "y2": 1460.0,
+   "text": "Convertire uno Slot Incantesimo in Punti Stregoneria."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1458.0,
+   "x2": 587.0,
+   "y2": 1482.0,
+   "text": "incantesimi da stregone, dal momento che il potere magico"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1456.0,
+   "x2": 1119.0,
+   "y2": 1484.0,
+   "text": "Come azione bonus nel proprio turno, uno stregone può"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1480.0,
+   "x2": 582.0,
+   "y2": 1506.0,
+   "text": "di uno stregone dipende dall'intensità con cui egli riesce a"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1482.0,
+   "x2": 1127.0,
+   "y2": 1506.0,
+   "text": "spendere uno slot incantesimo per ottenere un numero di"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1506.0,
+   "x2": 580.0,
+   "y2": 1529.0,
+   "text": "proiettare la sua volontà nel mondo esterno.Uno stregone"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1506.0,
+   "x2": 992.0,
+   "y2": 1529.0,
+   "text": "punti stregoneria pari al livello dello slot."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1527.0,
+   "x2": 574.0,
+   "y2": 1551.0,
+   "text": "usa Carisma ogni volta che un incantesimo fa riferimento"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1549.0,
+   "x2": 556.0,
+   "y2": 1573.0,
+   "text": "alla sua caratteristica da incantatore. Usa inoltre il suo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1544.0,
+   "x2": 813.0,
+   "y2": 1579.0,
+   "text": "METAMAGIA"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1573.0,
+   "x2": 593.0,
+   "y2": 1597.0,
+   "text": "modificatore di Carisma per definire la CD del tiro salvezza"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1593.0,
+   "x2": 550.0,
+   "y2": 1621.0,
+   "text": "di un incantesimo da stregone da lui lanciato e quando"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1584.0,
+   "x2": 1136.0,
+   "y2": 1612.0,
+   "text": "Al 3° livello, uno stregone sviluppa la capacità di plasmare"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1617.0,
+   "x2": 486.0,
+   "y2": 1644.0,
+   "text": "effettua un tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1610.0,
+   "x2": 1143.0,
+   "y2": 1633.0,
+   "text": "i suoi incantesimi per adattarliai suoi bisogni e ottiene due"
+  },
+  {
+   "x1": 966.0,
+   "y1": 1686.0,
+   "x2": 1147.0,
+   "y2": 1710.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1204.0,
+   "y1": 1699.0,
+   "x2": 1239.0,
+   "y2": 1723.0,
+   "text": "109"
+  }
+ ],
+ "reading_text": "EQuipaggiamento\nUno stregone inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\na) una balestra leggera e 20 quadrelli o (b) una qualsiasi\narma semplice\n(a) una borsa per componenti o (b) un focus arcano\n(a) una dotazione da avventuriero o (b) una dotazione da\nesploratore\nDue pugnali\n.\nINCANTESIMI\nUn evento nel passato dello stregone o nella vita di un suo\nparente o antenato ha lasciato su di lui un segno indelebile,\ninfondendogli una fonte di magia arcana.È questa fonte\ndi magia, qualunque sia la sua origine, ad alimentare i\nsuoi incantesimi. Vedi il capitolo 10 per le regole generali\nrelative alla magia e il capitolo 1 1 per la lista degli\nincantesimi da stregone.\nTRucchetti\nAl 1*livello, uno stregone conosce quattro trucchetti a\nsua scelta tratti dalla lista degli incantesimi da stregone.\nApprende ulterioritrucchetti da stregone a sua scelta ai\nlivelli successivi, come indicato dalla colonna \"Trucchetti\nConosciuti\" nella tabella \"Stregone\".\nSLot Incantesimo\nLa tabella \"Stregone\" indicaquanti slot incantesimo possiede\nuno stregone per lanciare i suoi incantesimi di 1º livello e di\nlivello superiore. Per lanciare uno di questi incantesimi, lo\nstregone deve spendere uno slot incantesimo di livello pari o\nsuperiore al livello dell'incantesimo. Lo stregone recupera tutti\ngli slot incantesimo spesi quando completa un riposo lungo.\nPer esempio, se uno stregone conosce l'incantesimo di\n1° livello mani brucianti e possiede uno slot incantesimo di\n1° livello e uno slot incantesimo di 2° livello, può lanciare\nmani bruciantiusando uno qualsiasi dei due slot.\nIncantesimi Conosciuti di lo Livello\nE DI LIVELLO SUPEriore\nUno stregone conosce due incantesimi di 1° livello a sua\nscelta dalla lista degli incantesimi da stregone.\nLa colonna \"Incantesimi Conosciuti\"nella tabella\nStregone\" indica quando uno stregone impara altri\nincantesimi da stregone a sua scelta. Ognuno di questi\nincantesimi deve appartenere a un livello di cui lo\nstregone possiede degli slot incantesimo, come indicato\ndalla tabella. Per esempio, quando uno stregone arriva\nal3° livello, può imparare un nuovo incantesimo di 1º o\ndi 2º livello.\nInoltre, quando uno stregone acquisisce un livello,\npuò scegliere unincantesimo da stregone che conosce\ne sostituirlo con un altro incantesimo della lista degli\nincantesimi da stregone; anche il nuovo incantesimo\ndeve essere di un livello di cui lo stregone possiede degli\nslot incantesimo.\nCaratteristica da Incantatore\nCarisma è la caratteristica da incantatore per gli\nincantesimi da stregone, dal momento che il potere magico\ndi uno stregone dipende dall'intensità con cui egli riesce a\nproiettare la sua volontà nel mondo esterno.Uno stregone\nusa Carisma ogni volta che un incantesimo fa riferimento\nalla sua caratteristica da incantatore. Usa inoltre il suo\nmodificatore di Carisma per definire la CD del tiro salvezza\ndi un incantesimo da stregone da lui lanciato e quando\neffettua un tiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza\ndello stregone + il modificatore di Carisma dello stregone\nModificatore di attacco dell'incantesimo - il bonus di competenza\ndello stregone + il modificatore di Carisma dello stregone\nFocus da Incantatore\nUno stregone può usare un focus arcano (vedi il capitolo 5,\n\"Equipaggiamento\") come focus da incantatore per i suoi\nincantesimi da stregone.\nOrigInE StreGoNeSca\nIl giocatore sceglie un'origine stregonesca che definisca la\nfonte dei poteri magici innatidello stregone: Discendenza\nDraconica o Magia Selvaggia, entrambi descritti alla fine\ndella sezione di questa classe.\nQuesta scelta conferisce allo stregone alcuni privilegi al\nFoNte dI MAGia\nA livello, uno stregone attinge a una profonda sorgente di\nmagia interiore. Essa è rappresentata dai punti stregoneria, che\ngli consentono di creare una vasta gamma di effetti magici.\nPunti Stregoneria\nUno stregone parte con 2 punti stregoneria e ne ottiene\naltri ai livelli superiori, come indicato nella colonna \"Punti\nStregoneria\" nella tabella \"Stregone\". Uno stregone non può\nmai avere un numero di punti stregoneria superiore al numero\nindicato sulla tabella per il suo livello. Lo stregone recupera\ntutti i punti stregoneria spesi quando completa un riposo lungo.\nIncaNtesimi FLessibili\nUno stregone può usare i suoi punti stregoneria per\nottenere degli slot incantesimo aggiuntivi, oppure può\nsacrificare degli slot incantesimo per ottenere dei punti\nstregoneria aggiuntivi. Apprende altri modi in cui usare i\nsuoi punti stregoneria quando arriva ai livelli superiori.\nCreare Slot Incantesimo. Usando un'azione bonus\nnel proprio turno, uno stregone può trasformare i punti\nstregoneria non spesi in uno slot incantesimo. La tabella\n\"Creazione degli Slot Incantesimo\" indica il costo di\ncreazione di uno slot incantesimo di ogni livello. Lo stregone\nnon può creare slot incantesimo di livello superiore al 5°.\nOgni slot incantesimo creato tramite questo privilegio\nsvanisce quando lo stregone completa un riposo lungo.\nCReAZiOne DEGLI SLOT ÍnCANTESImO\nLivello dello Slot Costo in Punti\nStregoneria\nIncantesimo\n1\n2\n2°\n3\n3°\n5\n4*\n6\n5°\n7\nConvertire uno Slot Incantesimo in Punti Stregoneria.\nCome azione bonus nel proprio turno, uno stregone può\nspendere uno slot incantesimo per ottenere un numero di\npunti stregoneria pari al livello dello slot.\nMETAMAGIA\nAl 3° livello, uno stregone sviluppa la capacità di plasmare\ni suoi incantesimi per adattarliai suoi bisogni e ottiene due\nCAPITOLO 3 |CLASSI\n109"
+}

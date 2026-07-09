@@ -1,0 +1,1060 @@
+{
+ "pdf_page_index": 76,
+ "page_label": 77,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 150,
+ "lines": [
+  {
+   "x1": 84.0,
+   "y1": 105.0,
+   "x2": 161.0,
+   "y2": 138.0,
+   "text": "LADRO"
+  },
+  {
+   "x1": 156.0,
+   "y1": 133.0,
+   "x2": 237.0,
+   "y2": 163.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 249.0,
+   "y1": 137.0,
+   "x2": 312.0,
+   "y2": 157.0,
+   "text": "Attacco"
+  },
+  {
+   "x1": 179.0,
+   "y1": 186.0,
+   "x2": 211.0,
+   "y2": 212.0,
+   "text": "+2"
+  },
+  {
+   "x1": 264.0,
+   "y1": 185.0,
+   "x2": 303.0,
+   "y2": 210.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 314.0,
+   "y1": 179.0,
+   "x2": 565.0,
+   "y2": 214.0,
+   "text": "Maestria, Attacco Furtivo, Gergo"
+  },
+  {
+   "x1": 107.0,
+   "y1": 194.0,
+   "x2": 127.0,
+   "y2": 212.0,
+   "text": "1°"
+  },
+  {
+   "x1": 318.0,
+   "y1": 206.0,
+   "x2": 393.0,
+   "y2": 232.0,
+   "text": "Ladresco"
+  },
+  {
+   "x1": 183.0,
+   "y1": 236.0,
+   "x2": 211.0,
+   "y2": 259.0,
+   "text": "+2"
+  },
+  {
+   "x1": 266.0,
+   "y1": 236.0,
+   "x2": 301.0,
+   "y2": 256.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 318.0,
+   "y1": 232.0,
+   "x2": 434.0,
+   "y2": 258.0,
+   "text": "Azione Scaltra"
+  },
+  {
+   "x1": 98.0,
+   "y1": 236.0,
+   "x2": 133.0,
+   "y2": 268.0,
+   "text": "2°"
+  },
+  {
+   "x1": 103.0,
+   "y1": 265.0,
+   "x2": 129.0,
+   "y2": 292.0,
+   "text": "3°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 259.0,
+   "x2": 212.0,
+   "y2": 285.0,
+   "text": "+2"
+  },
+  {
+   "x1": 264.0,
+   "y1": 258.0,
+   "x2": 303.0,
+   "y2": 283.0,
+   "text": "2d6"
+  },
+  {
+   "x1": 316.0,
+   "y1": 259.0,
+   "x2": 473.0,
+   "y2": 283.0,
+   "text": "Archetipo Ladresco"
+  },
+  {
+   "x1": 105.0,
+   "y1": 291.0,
+   "x2": 129.0,
+   "y2": 316.0,
+   "text": "4°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 287.0,
+   "x2": 212.0,
+   "y2": 311.0,
+   "text": "+2"
+  },
+  {
+   "x1": 262.0,
+   "y1": 283.0,
+   "x2": 305.0,
+   "y2": 311.0,
+   "text": "2d6"
+  },
+  {
+   "x1": 318.0,
+   "y1": 283.0,
+   "x2": 514.0,
+   "y2": 311.0,
+   "text": "Aumento dei Punteggi di"
+  },
+  {
+   "x1": 319.0,
+   "y1": 305.0,
+   "x2": 427.0,
+   "y2": 331.0,
+   "text": "Caratteristica"
+  },
+  {
+   "x1": 100.0,
+   "y1": 336.0,
+   "x2": 133.0,
+   "y2": 367.0,
+   "text": "5°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 336.0,
+   "x2": 211.0,
+   "y2": 360.0,
+   "text": "+3"
+  },
+  {
+   "x1": 260.0,
+   "y1": 333.0,
+   "x2": 303.0,
+   "y2": 360.0,
+   "text": "3d6"
+  },
+  {
+   "x1": 318.0,
+   "y1": 333.0,
+   "x2": 475.0,
+   "y2": 358.0,
+   "text": "Schivata Prodigiosa"
+  },
+  {
+   "x1": 103.0,
+   "y1": 365.0,
+   "x2": 129.0,
+   "y2": 391.0,
+   "text": "6°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 362.0,
+   "x2": 211.0,
+   "y2": 386.0,
+   "text": "+3"
+  },
+  {
+   "x1": 260.0,
+   "y1": 358.0,
+   "x2": 305.0,
+   "y2": 386.0,
+   "text": "3d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 362.0,
+   "x2": 393.0,
+   "y2": 387.0,
+   "text": "Maestria"
+  },
+  {
+   "x1": 102.0,
+   "y1": 389.0,
+   "x2": 131.0,
+   "y2": 415.0,
+   "text": "7°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 387.0,
+   "x2": 212.0,
+   "y2": 413.0,
+   "text": "+3"
+  },
+  {
+   "x1": 262.0,
+   "y1": 386.0,
+   "x2": 305.0,
+   "y2": 413.0,
+   "text": "4d6"
+  },
+  {
+   "x1": 315.0,
+   "y1": 383.0,
+   "x2": 394.0,
+   "y2": 415.0,
+   "text": "Elusione"
+  },
+  {
+   "x1": 102.0,
+   "y1": 417.0,
+   "x2": 131.0,
+   "y2": 442.0,
+   "text": "8°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 415.0,
+   "x2": 211.0,
+   "y2": 438.0,
+   "text": "+3"
+  },
+  {
+   "x1": 264.0,
+   "y1": 413.0,
+   "x2": 303.0,
+   "y2": 438.0,
+   "text": "4d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 413.0,
+   "x2": 515.0,
+   "y2": 438.0,
+   "text": "Aumento dei Punteggi di"
+  },
+  {
+   "x1": 319.0,
+   "y1": 431.0,
+   "x2": 429.0,
+   "y2": 461.0,
+   "text": "Caratteristica"
+  },
+  {
+   "x1": 98.0,
+   "y1": 462.0,
+   "x2": 133.0,
+   "y2": 493.0,
+   "text": "9°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 462.0,
+   "x2": 212.0,
+   "y2": 486.0,
+   "text": "+4"
+  },
+  {
+   "x1": 264.0,
+   "y1": 462.0,
+   "x2": 303.0,
+   "y2": 488.0,
+   "text": "5d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 460.0,
+   "x2": 580.0,
+   "y2": 486.0,
+   "text": "Privilegio dell'Archetipo Ladresco"
+  },
+  {
+   "x1": 100.0,
+   "y1": 491.0,
+   "x2": 133.0,
+   "y2": 515.0,
+   "text": "10°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 490.0,
+   "x2": 212.0,
+   "y2": 513.0,
+   "text": "+4"
+  },
+  {
+   "x1": 264.0,
+   "y1": 488.0,
+   "x2": 303.0,
+   "y2": 513.0,
+   "text": "5d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 488.0,
+   "x2": 513.0,
+   "y2": 513.0,
+   "text": "Aumento dei Punteggi di"
+  },
+  {
+   "x1": 323.0,
+   "y1": 512.0,
+   "x2": 428.0,
+   "y2": 532.0,
+   "text": "Caratteristica"
+  },
+  {
+   "x1": 98.0,
+   "y1": 537.0,
+   "x2": 137.0,
+   "y2": 568.0,
+   "text": "11°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 537.0,
+   "x2": 212.0,
+   "y2": 563.0,
+   "text": "+4"
+  },
+  {
+   "x1": 262.0,
+   "y1": 537.0,
+   "x2": 303.0,
+   "y2": 559.0,
+   "text": "6d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 535.0,
+   "x2": 438.0,
+   "y2": 561.0,
+   "text": "Dote Affidabile"
+  },
+  {
+   "x1": 100.0,
+   "y1": 563.0,
+   "x2": 135.0,
+   "y2": 594.0,
+   "text": "12°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 565.0,
+   "x2": 211.0,
+   "y2": 588.0,
+   "text": "+4"
+  },
+  {
+   "x1": 260.0,
+   "y1": 561.0,
+   "x2": 303.0,
+   "y2": 588.0,
+   "text": "6d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 561.0,
+   "x2": 515.0,
+   "y2": 588.0,
+   "text": "Aumento dei Punteggi di"
+  },
+  {
+   "x1": 319.0,
+   "y1": 583.0,
+   "x2": 429.0,
+   "y2": 612.0,
+   "text": "Caratteristica"
+  },
+  {
+   "x1": 98.0,
+   "y1": 612.0,
+   "x2": 135.0,
+   "y2": 641.0,
+   "text": "13°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 610.0,
+   "x2": 216.0,
+   "y2": 639.0,
+   "text": "+5"
+  },
+  {
+   "x1": 262.0,
+   "y1": 612.0,
+   "x2": 301.0,
+   "y2": 634.0,
+   "text": "7d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 612.0,
+   "x2": 582.0,
+   "y2": 636.0,
+   "text": "Privilegio dell'Archetipo Ladresco"
+  },
+  {
+   "x1": 102.0,
+   "y1": 639.0,
+   "x2": 133.0,
+   "y2": 665.0,
+   "text": "14°"
+  },
+  {
+   "x1": 183.0,
+   "y1": 638.0,
+   "x2": 212.0,
+   "y2": 661.0,
+   "text": "+5"
+  },
+  {
+   "x1": 262.0,
+   "y1": 636.0,
+   "x2": 305.0,
+   "y2": 663.0,
+   "text": "7d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 634.0,
+   "x2": 455.0,
+   "y2": 664.0,
+   "text": "Percezione Cieca"
+  },
+  {
+   "x1": 98.0,
+   "y1": 663.0,
+   "x2": 135.0,
+   "y2": 692.0,
+   "text": "15°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 661.0,
+   "x2": 214.0,
+   "y2": 692.0,
+   "text": "+5"
+  },
+  {
+   "x1": 260.0,
+   "y1": 663.0,
+   "x2": 303.0,
+   "y2": 691.0,
+   "text": "8d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 665.0,
+   "x2": 456.0,
+   "y2": 691.0,
+   "text": "Mente Sfuggente"
+  },
+  {
+   "x1": 102.0,
+   "y1": 692.0,
+   "x2": 133.0,
+   "y2": 718.0,
+   "text": "16°"
+  },
+  {
+   "x1": 183.0,
+   "y1": 691.0,
+   "x2": 212.0,
+   "y2": 716.0,
+   "text": "+5"
+  },
+  {
+   "x1": 262.0,
+   "y1": 689.0,
+   "x2": 305.0,
+   "y2": 716.0,
+   "text": "8d6"
+  },
+  {
+   "x1": 321.0,
+   "y1": 691.0,
+   "x2": 513.0,
+   "y2": 716.0,
+   "text": "Aumento dei Punteggi di"
+  },
+  {
+   "x1": 321.0,
+   "y1": 710.0,
+   "x2": 427.0,
+   "y2": 737.0,
+   "text": "Caratteristica"
+  },
+  {
+   "x1": 100.0,
+   "y1": 740.0,
+   "x2": 133.0,
+   "y2": 764.0,
+   "text": "17°"
+  },
+  {
+   "x1": 181.0,
+   "y1": 740.0,
+   "x2": 212.0,
+   "y2": 764.0,
+   "text": "+6"
+  },
+  {
+   "x1": 260.0,
+   "y1": 738.0,
+   "x2": 305.0,
+   "y2": 766.0,
+   "text": "9d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 740.0,
+   "x2": 582.0,
+   "y2": 764.0,
+   "text": "Privilegio dell'Archetipo Ladresco"
+  },
+  {
+   "x1": 98.0,
+   "y1": 766.0,
+   "x2": 135.0,
+   "y2": 795.0,
+   "text": "18*"
+  },
+  {
+   "x1": 181.0,
+   "y1": 767.0,
+   "x2": 212.0,
+   "y2": 791.0,
+   "text": "+6"
+  },
+  {
+   "x1": 260.0,
+   "y1": 764.0,
+   "x2": 305.0,
+   "y2": 791.0,
+   "text": "9d6"
+  },
+  {
+   "x1": 321.0,
+   "y1": 767.0,
+   "x2": 417.0,
+   "y2": 787.0,
+   "text": "Inafferrabile"
+  },
+  {
+   "x1": 641.0,
+   "y1": 769.0,
+   "x2": 962.0,
+   "y2": 797.0,
+   "text": "O forse ha fatto amicizia con un altro"
+  },
+  {
+   "x1": 94.0,
+   "y1": 786.0,
+   "x2": 136.0,
+   "y2": 822.0,
+   "text": "19°"
+  },
+  {
+   "x1": 183.0,
+   "y1": 793.0,
+   "x2": 211.0,
+   "y2": 819.0,
+   "text": "+6"
+  },
+  {
+   "x1": 259.0,
+   "y1": 789.0,
+   "x2": 307.0,
+   "y2": 817.0,
+   "text": "10d6"
+  },
+  {
+   "x1": 319.0,
+   "y1": 791.0,
+   "x2": 515.0,
+   "y2": 817.0,
+   "text": "Aumento dei Punteggi di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 795.0,
+   "x2": 949.0,
+   "y2": 820.0,
+   "text": "membro del gruppo di avventurieri,"
+  },
+  {
+   "x1": 323.0,
+   "y1": 817.0,
+   "x2": 427.0,
+   "y2": 837.0,
+   "text": "Caratteristica"
+  },
+  {
+   "x1": 641.0,
+   "y1": 819.0,
+   "x2": 977.0,
+   "y2": 842.0,
+   "text": "che gli ha mostrato un nuovo modo per"
+  },
+  {
+   "x1": 100.0,
+   "y1": 842.0,
+   "x2": 133.0,
+   "y2": 866.0,
+   "text": "20°"
+  },
+  {
+   "x1": 183.0,
+   "y1": 842.0,
+   "x2": 211.0,
+   "y2": 866.0,
+   "text": "+6"
+  },
+  {
+   "x1": 260.0,
+   "y1": 842.0,
+   "x2": 305.0,
+   "y2": 864.0,
+   "text": "10d6"
+  },
+  {
+   "x1": 316.0,
+   "y1": 838.0,
+   "x2": 453.0,
+   "y2": 868.0,
+   "text": "Colpo di Fortuna"
+  },
+  {
+   "x1": 641.0,
+   "y1": 840.0,
+   "x2": 1003.0,
+   "y2": 864.0,
+   "text": "guadagnarsi da vivere e per fare buon uso"
+  },
+  {
+   "x1": 641.0,
+   "y1": 862.0,
+   "x2": 872.0,
+   "y2": 886.0,
+   "text": "dei suoi particolari talenti."
+  },
+  {
+   "x1": 643.0,
+   "y1": 904.0,
+   "x2": 861.0,
+   "y2": 930.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 643.0,
+   "y1": 928.0,
+   "x2": 988.0,
+   "y2": 954.0,
+   "text": "È possibile creare un ladro rapidamente"
+  },
+  {
+   "x1": 639.0,
+   "y1": 952.0,
+   "x2": 995.0,
+   "y2": 979.0,
+   "text": "seguendo questi suggerimenti. Per prima"
+  },
+  {
+   "x1": 89.0,
+   "y1": 974.0,
+   "x2": 560.0,
+   "y2": 992.0,
+   "text": "che può risultare molto pericoloso in un mondo in cui le"
+  },
+  {
+   "x1": 641.0,
+   "y1": 977.0,
+   "x2": 1030.0,
+   "y2": 1001.0,
+   "text": "cosa, Destrezza dovrebbe essere il punteggio"
+  },
+  {
+   "x1": 87.0,
+   "y1": 994.0,
+   "x2": 515.0,
+   "y2": 1018.0,
+   "text": "fognature sono infestate da topi feroci (o mannari)."
+  },
+  {
+   "x1": 641.0,
+   "y1": 999.0,
+   "x2": 1064.0,
+   "y2": 1023.0,
+   "text": "di caratteristica più alto. Il secondo punteggio più"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1016.0,
+   "x2": 532.0,
+   "y2": 1040.0,
+   "text": "Nel caso degli avventurieri, esistono ladri attivi da"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1019.0,
+   "x2": 1104.0,
+   "y2": 1047.0,
+   "text": "alto dovrebbe essere Intelligenza, se si vuole eccellere"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1038.0,
+   "x2": 589.0,
+   "y2": 1063.0,
+   "text": "entrambe le barricate quando si parla di legge. Alcuni sono"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1045.0,
+   "x2": 1102.0,
+   "y2": 1069.0,
+   "text": "in Indagare o per adottare l'archetipo del Mistificatore"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1062.0,
+   "x2": 585.0,
+   "y2": 1085.0,
+   "text": "criminali incalliti che decidono di sfidare la fortuna dando"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1069.0,
+   "x2": 1099.0,
+   "y2": 1093.0,
+   "text": "Arcano, oppure Carisma se si preferisce concentrarsi"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1085.0,
+   "x2": 563.0,
+   "y2": 1109.0,
+   "text": "la caccia a un tesoro, mentre altri si danno all'avventura"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1091.0,
+   "x2": 1102.0,
+   "y2": 1116.0,
+   "text": "sull'inganno e sulle interazioni sociali. Poi si sceglie il"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1109.0,
+   "x2": 565.0,
+   "y2": 1133.0,
+   "text": "per sfuggire alle forze della legge. Alcuni hanno appreso"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1111.0,
+   "x2": 870.0,
+   "y2": 1135.0,
+   "text": "background del ciarlatano."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1129.0,
+   "x2": 563.0,
+   "y2": 1153.0,
+   "text": "e perfezionato le loro abilità esplicitamente allo scopo di"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1151.0,
+   "x2": 561.0,
+   "y2": 1175.0,
+   "text": "infiltrarsi negli antichi complessi di rovine e nelle cripte"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1155.0,
+   "x2": 1021.0,
+   "y2": 1197.0,
+   "text": "PriVILEGI DI CLASsE"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1173.0,
+   "x2": 316.0,
+   "y2": 1201.0,
+   "text": "nascoste in cerca di tesori."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1197.0,
+   "x2": 1027.0,
+   "y2": 1224.0,
+   "text": "Un ladro ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1215.0,
+   "x2": 349.0,
+   "y2": 1248.0,
+   "text": "Creare un Ladro"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1240.0,
+   "x2": 802.0,
+   "y2": 1268.0,
+   "text": "Punti Ferita"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1257.0,
+   "x2": 574.0,
+   "y2": 1281.0,
+   "text": "Al momento di creare un personaggio ladro, un giocatore"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1268.0,
+   "x2": 977.0,
+   "y2": 1294.0,
+   "text": "Dadi Vita: 1d8 per ogni livello da ladro"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1281.0,
+   "x2": 550.0,
+   "y2": 1305.0,
+   "text": "dovrebbe riflettere sul rapporto del personaggio con la"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1292.0,
+   "x2": 1045.0,
+   "y2": 1316.0,
+   "text": "Punti Ferita al 1'Livello: 8 + il modifcatore di"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1303.0,
+   "x2": 582.0,
+   "y2": 1328.0,
+   "text": "legge. È stato un criminale in passato.. o lo è ancora? È in"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1312.0,
+   "x2": 852.0,
+   "y2": 1339.0,
+   "text": "Costituzione del ladro"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1326.0,
+   "x2": 576.0,
+   "y2": 1350.0,
+   "text": "fuga dalle forze della legge o dalla collera di un signore di"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1334.0,
+   "x2": 1051.0,
+   "y2": 1361.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d8 (o 5) + il"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1347.0,
+   "x2": 573.0,
+   "y2": 1374.0,
+   "text": "una gilda dei ladri? Oppure ha lasciato la propria gilda in"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1361.0,
+   "x2": 1058.0,
+   "y2": 1385.0,
+   "text": "modificatore di Costituzione del ladro per ogni"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1372.0,
+   "x2": 584.0,
+   "y2": 1396.0,
+   "text": "cerca di rischi e di ricompense maggiori? È l'avidità che lo"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1383.0,
+   "x2": 874.0,
+   "y2": 1407.0,
+   "text": "livello da ladro dopo il 1°"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1396.0,
+   "x2": 593.0,
+   "y2": 1420.0,
+   "text": "spinge ad andare all'avventura, o è mosso da un desiderio o"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1412.0,
+   "x2": 244.0,
+   "y2": 1442.0,
+   "text": "un ideale diverso?"
+  },
+  {
+   "x1": 640.0,
+   "y1": 1423.0,
+   "x2": 793.0,
+   "y2": 1455.0,
+   "text": "CompeTEnze"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1438.0,
+   "x2": 502.0,
+   "y2": 1465.0,
+   "text": "Cosa lo ha spinto ad allontanarsi dalla vita che"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1449.0,
+   "x2": 898.0,
+   "y2": 1478.0,
+   "text": "Armature: Armature leggere"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1463.0,
+   "x2": 589.0,
+   "y2": 1487.0,
+   "text": "conduceva in passato? Una grande truffa o un colpo grosso"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1485.0,
+   "x2": 541.0,
+   "y2": 1509.0,
+   "text": "è andato storto e lo ha indotto a cambiare carriera? O"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1476.0,
+   "x2": 1134.0,
+   "y2": 1500.0,
+   "text": "Armi: Armi semplici, balestre a mano, spade corte, spade"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1502.0,
+   "x2": 550.0,
+   "y2": 1537.0,
+   "text": "forse ha avuto fortuna e un furto andato a buon fine gli"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1496.0,
+   "x2": 796.0,
+   "y2": 1524.0,
+   "text": "lunghe, stocchi"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1522.0,
+   "x2": 894.0,
+   "y2": 1546.0,
+   "text": "Strumenti: Arnesi da scasso"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1547.0,
+   "x2": 538.0,
+   "y2": 1584.0,
+   "text": "allo squallore della sua vita? Il desiderio di viaggiare"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1553.0,
+   "x2": 968.0,
+   "y2": 1580.0,
+   "text": "Tiri Salvezza: Destrezza, Intelligenza"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1579.0,
+   "x2": 1130.0,
+   "y2": 1602.0,
+   "text": "Abilità: Quattro a scelta tra Acrobazia, Atletica, Furtività,"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1591.0,
+   "x2": 552.0,
+   "y2": 1632.0,
+   "text": "improvvisamente separato dalla sua famiglia o dal suo"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1602.0,
+   "x2": 1127.0,
+   "y2": 1626.0,
+   "text": "Indagare, Inganno, Intimidire, Intrattenere, Intuizione,"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1621.0,
+   "x2": 587.0,
+   "y2": 1650.0,
+   "text": "mentore e ha dovuto trovare nuovi mezzi di sostentamento."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1622.0,
+   "x2": 1040.0,
+   "y2": 1650.0,
+   "text": "Percezione, Persuasione e Rapidità di Mano"
+  },
+  {
+   "x1": 968.0,
+   "y1": 1681.0,
+   "x2": 1151.0,
+   "y2": 1705.0,
+   "text": "CAPITOLO 3 CLASSI"
+  }
+ ],
+ "reading_text": "LADRO\nBonus di\nAttacco\nMaestria, Attacco Furtivo, Gergo\n1d6\n+2\n1°\nLadresco\nAzione Scaltra\n+2\n1d6\n2°\n2d6\n+2\nArchetipo Ladresco\n3°\n2d6\nAumento dei Punteggi di\n+2\n4°\nCaratteristica\n3d6\nSchivata Prodigiosa\n5°\n+3\n3d6\n+3\nMaestria\n6°\nElusione\n4d6\n+3\n7°\n4d6\nAumento dei Punteggi di\n+3\n8°\nCaratteristica\nPrivilegio dell'Archetipo Ladresco\n9°\n+4\n5d6\n5d6\nAumento dei Punteggi di\n+4\n10°\nCaratteristica\nDote Affidabile\n11°\n+4\n6d6\n6d6\nAumento dei Punteggi di\n12°\n+4\nCaratteristica\n+5\n13°\n7d6\nPrivilegio dell'Archetipo Ladresco\nPercezione Cieca\n7d6\n+5\n14°\n+5\n15°\n8d6\nMente Sfuggente\n8d6\n+5\nAumento dei Punteggi di\n16°\nCaratteristica\n9d6\n17°\n+6\nPrivilegio dell'Archetipo Ladresco\n9d6\n18*\n+6\nInafferrabile\n19°\n10d6\nAumento dei Punteggi di\n+6\nCaratteristica\nColpo di Fortuna\n20°\n+6\n10d6\nche può risultare molto pericoloso in un mondo in cui le\nfognature sono infestate da topi feroci (o mannari).\nNel caso degli avventurieri, esistono ladri attivi da\nentrambe le barricate quando si parla di legge. Alcuni sono\ncriminali incalliti che decidono di sfidare la fortuna dando\nla caccia a un tesoro, mentre altri si danno all'avventura\nper sfuggire alle forze della legge. Alcuni hanno appreso\ne perfezionato le loro abilità esplicitamente allo scopo di\ninfiltrarsi negli antichi complessi di rovine e nelle cripte\nnascoste in cerca di tesori.\nCreare un Ladro\nAl momento di creare un personaggio ladro, un giocatore\ndovrebbe riflettere sul rapporto del personaggio con la\nlegge. È stato un criminale in passato.. o lo è ancora? È in\nfuga dalle forze della legge o dalla collera di un signore di\nuna gilda dei ladri? Oppure ha lasciato la propria gilda in\ncerca di rischi e di ricompense maggiori? È l'avidità che lo\nspinge ad andare all'avventura, o è mosso da un desiderio o\nun ideale diverso?\nCosa lo ha spinto ad allontanarsi dalla vita che\nconduceva in passato? Una grande truffa o un colpo grosso\nè andato storto e lo ha indotto a cambiare carriera? O\nforse ha avuto fortuna e un furto andato a buon fine gli\nallo squallore della sua vita? Il desiderio di viaggiare\nimprovvisamente separato dalla sua famiglia o dal suo\nmentore e ha dovuto trovare nuovi mezzi di sostentamento.\nO forse ha fatto amicizia con un altro\nmembro del gruppo di avventurieri,\nche gli ha mostrato un nuovo modo per\nguadagnarsi da vivere e per fare buon uso\ndei suoi particolari talenti.\nCreazione Rapida\nÈ possibile creare un ladro rapidamente\nseguendo questi suggerimenti. Per prima\ncosa, Destrezza dovrebbe essere il punteggio\ndi caratteristica più alto. Il secondo punteggio più\nalto dovrebbe essere Intelligenza, se si vuole eccellere\nin Indagare o per adottare l'archetipo del Mistificatore\nArcano, oppure Carisma se si preferisce concentrarsi\nsull'inganno e sulle interazioni sociali. Poi si sceglie il\nbackground del ciarlatano.\nPriVILEGI DI CLASsE\nUn ladro ottiene i seguenti privilegi di classe.\nPunti Ferita\nDadi Vita: 1d8 per ogni livello da ladro\nPunti Ferita al 1'Livello: 8 + il modifcatore di\nCostituzione del ladro\nPunti Ferita ai Livelli Successivi: 1d8 (o 5) + il\nmodificatore di Costituzione del ladro per ogni\nlivello da ladro dopo il 1°\nCompeTEnze\nArmature: Armature leggere\nArmi: Armi semplici, balestre a mano, spade corte, spade\nlunghe, stocchi\nStrumenti: Arnesi da scasso\nTiri Salvezza: Destrezza, Intelligenza\nAbilità: Quattro a scelta tra Acrobazia, Atletica, Furtività,\nIndagare, Inganno, Intimidire, Intrattenere, Intuizione,\nPercezione, Persuasione e Rapidità di Mano\nCAPITOLO 3 CLASSI"
+}

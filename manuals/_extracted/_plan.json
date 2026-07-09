@@ -1,0 +1,50 @@
+{
+  "D&D 5th Guida degli Avventurieri alla Costa della Spada.pdf": {
+    "pdf": "D&D 5th Guida degli Avventurieri alla Costa della Spada.pdf",
+    "pages": 164,
+    "avg_hits": 0.0,
+    "coverage": 0.0,
+    "method": "ocr",
+    "lang": "ita"
+  },
+  "D&D 5th Manuale dei Mostri.pdf": {
+    "pdf": "D&D 5th Manuale dei Mostri.pdf",
+    "pages": 353,
+    "avg_hits": 0.67,
+    "coverage": 0.08,
+    "method": "ocr",
+    "lang": "ita"
+  },
+  "D&D 5th Manuale del Giocatore.pdf": {
+    "pdf": "D&D 5th Manuale del Giocatore.pdf",
+    "pages": 321,
+    "avg_hits": 0.42,
+    "coverage": 0.0,
+    "method": "ocr",
+    "lang": "ita"
+  },
+  "D&D 5th Manuale del Master.pdf": {
+    "pdf": "D&D 5th Manuale del Master.pdf",
+    "pages": 320,
+    "avg_hits": 0.42,
+    "coverage": 0.08,
+    "method": "ocr",
+    "lang": "ita"
+  },
+  "Guida Omnicomprensiva di Xanathar 5e.pdf": {
+    "pdf": "Guida Omnicomprensiva di Xanathar 5e.pdf",
+    "pages": 194,
+    "avg_hits": 158.58,
+    "coverage": 0.92,
+    "method": "txt",
+    "lang": "ita"
+  },
+  "tasha_italiano.pdf": {
+    "pdf": "tasha_italiano.pdf",
+    "pages": 194,
+    "avg_hits": 129.33,
+    "coverage": 0.92,
+    "method": "txt",
+    "lang": "ita"
+  }
+}

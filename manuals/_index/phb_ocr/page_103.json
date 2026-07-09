@@ -1,0 +1,745 @@
+{
+ "pdf_page_index": 103,
+ "page_label": 104,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 105,
+ "lines": [
+  {
+   "x1": 100.0,
+   "y1": 73.0,
+   "x2": 597.0,
+   "y2": 101.0,
+   "text": "a) una dotazione da avventuriero o (b) una dotazione da"
+  },
+  {
+   "x1": 670.0,
+   "y1": 75.0,
+   "x2": 1169.0,
+   "y2": 99.0,
+   "text": "Quando segue le tracce di altre creature, apprende anche"
+  },
+  {
+   "x1": 120.0,
+   "y1": 100.0,
+   "x2": 222.0,
+   "y2": 121.0,
+   "text": "esploratore"
+  },
+  {
+   "x1": 676.0,
+   "y1": 97.0,
+   "x2": 1138.0,
+   "y2": 124.0,
+   "text": "il loro numero esatto, le loro taglie e da quanto tempo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 121.0,
+   "x2": 478.0,
+   "y2": 146.0,
+   "text": ".Un arco lungo e una faretra con 20 frecce"
+  },
+  {
+   "x1": 678.0,
+   "y1": 122.0,
+   "x2": 879.0,
+   "y2": 146.0,
+   "text": "sono passate nell'area."
+  },
+  {
+   "x1": 676.0,
+   "y1": 152.0,
+   "x2": 1123.0,
+   "y2": 179.0,
+   "text": "Il ranger sceglie altri tipi di terreno prescelto al 6° e"
+  },
+  {
+   "x1": 105.0,
+   "y1": 166.0,
+   "x2": 377.0,
+   "y2": 192.0,
+   "text": "Nemico Prescelto"
+  },
+  {
+   "x1": 661.0,
+   "y1": 177.0,
+   "x2": 776.0,
+   "y2": 203.0,
+   "text": "al 10° livello."
+  },
+  {
+   "x1": 102.0,
+   "y1": 203.0,
+   "x2": 576.0,
+   "y2": 227.0,
+   "text": "A partire dal 1º livello, un ranger dimostra una notevole"
+  },
+  {
+   "x1": 102.0,
+   "y1": 227.0,
+   "x2": 613.0,
+   "y2": 250.0,
+   "text": "esperienza nello studiare, seguire le tracce, dare la caccia e"
+  },
+  {
+   "x1": 663.0,
+   "y1": 219.0,
+   "x2": 1034.0,
+   "y2": 250.0,
+   "text": "Stile di CoMbattimento"
+  },
+  {
+   "x1": 102.0,
+   "y1": 248.0,
+   "x2": 475.0,
+   "y2": 272.0,
+   "text": "perfino parlare con un certo tipo di nemico."
+  },
+  {
+   "x1": 661.0,
+   "y1": 259.0,
+   "x2": 1147.0,
+   "y2": 283.0,
+   "text": "Al 2° livello, un ranger adotta uno stile di combattimento"
+  },
+  {
+   "x1": 116.0,
+   "y1": 269.0,
+   "x2": 528.0,
+   "y2": 296.0,
+   "text": "Il giocatore sceglie un tipo di nemico prescelto:"
+  },
+  {
+   "x1": 659.0,
+   "y1": 280.0,
+   "x2": 1163.0,
+   "y2": 307.0,
+   "text": "in cui specializzarsi scegliendo una tra le opzioni seguenti."
+  },
+  {
+   "x1": 102.0,
+   "y1": 294.0,
+   "x2": 602.0,
+   "y2": 318.0,
+   "text": "aberrazioni, bestie, celestiali, costrutti, draghi, elementali,"
+  },
+  {
+   "x1": 659.0,
+   "y1": 301.0,
+   "x2": 1125.0,
+   "y2": 331.0,
+   "text": "Non è consentito scegliere uno stile di combattimento"
+  },
+  {
+   "x1": 100.0,
+   "y1": 314.0,
+   "x2": 606.0,
+   "y2": 344.0,
+   "text": "folletti, giganti, immondi, melme, mostruosità, non morti o"
+  },
+  {
+   "x1": 661.0,
+   "y1": 329.0,
+   "x2": 1143.0,
+   "y2": 353.0,
+   "text": "più di una volta, anche se in seguito il ranger ha diritto a"
+  },
+  {
+   "x1": 102.0,
+   "y1": 342.0,
+   "x2": 611.0,
+   "y2": 365.0,
+   "text": "vegetali. In alternativa, può scegliere due razze di umanoidi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 351.0,
+   "x2": 824.0,
+   "y2": 375.0,
+   "text": "scegliere di nuovo."
+  },
+  {
+   "x1": 102.0,
+   "y1": 364.0,
+   "x2": 528.0,
+   "y2": 387.0,
+   "text": "(per esempio gnoll e orchi) come nemici prescelti."
+  },
+  {
+   "x1": 116.0,
+   "y1": 386.0,
+   "x2": 572.0,
+   "y2": 409.0,
+   "text": "Il ranger dispone di vantaggio alle prove di Saggezza"
+  },
+  {
+   "x1": 661.0,
+   "y1": 389.0,
+   "x2": 984.0,
+   "y2": 419.0,
+   "text": "Combattere con Due Armi"
+  },
+  {
+   "x1": 103.0,
+   "y1": 409.0,
+   "x2": 578.0,
+   "y2": 433.0,
+   "text": "(Sopravvivenza) effettuate per seguire le tracce dei suoi"
+  },
+  {
+   "x1": 661.0,
+   "y1": 418.0,
+   "x2": 1169.0,
+   "y2": 444.0,
+   "text": "Quando il ranger combatte con due armi, può aggiungere il"
+  },
+  {
+   "x1": 100.0,
+   "y1": 429.0,
+   "x2": 563.0,
+   "y2": 457.0,
+   "text": "nemici prescelti, nonché alle prove di Intelligenza per"
+  },
+  {
+   "x1": 657.0,
+   "y1": 442.0,
+   "x2": 1127.0,
+   "y2": 466.0,
+   "text": "suo modificatore di caratteristica ai danni del secondo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 453.0,
+   "x2": 447.0,
+   "y2": 477.0,
+   "text": "ricordare le informazioni a essi relative."
+  },
+  {
+   "x1": 122.0,
+   "y1": 477.0,
+   "x2": 571.0,
+   "y2": 501.0,
+   "text": "Quando ottiene questo privilegio, il ranger apprende"
+  },
+  {
+   "x1": 659.0,
+   "y1": 468.0,
+   "x2": 733.0,
+   "y2": 488.0,
+   "text": "attacco."
+  },
+  {
+   "x1": 102.0,
+   "y1": 501.0,
+   "x2": 591.0,
+   "y2": 524.0,
+   "text": "anche un linguaggio a sua scelta tra quelli parlati dal suo"
+  },
+  {
+   "x1": 659.0,
+   "y1": 504.0,
+   "x2": 747.0,
+   "y2": 536.0,
+   "text": "Difesa"
+  },
+  {
+   "x1": 102.0,
+   "y1": 526.0,
+   "x2": 491.0,
+   "y2": 544.0,
+   "text": "nemico prescelto (ammesso che ne parli uno)."
+  },
+  {
+   "x1": 661.0,
+   "y1": 532.0,
+   "x2": 1127.0,
+   "y2": 557.0,
+   "text": "Finché indossa un'armatura, il ranger ottiene un bonus"
+  },
+  {
+   "x1": 118.0,
+   "y1": 546.0,
+   "x2": 571.0,
+   "y2": 570.0,
+   "text": "Il ranger sceglie un nemico prescelto aggiuntivo (e un"
+  },
+  {
+   "x1": 657.0,
+   "y1": 553.0,
+   "x2": 780.0,
+   "y2": 583.0,
+   "text": "di +1 alla CA."
+  },
+  {
+   "x1": 102.0,
+   "y1": 568.0,
+   "x2": 598.0,
+   "y2": 594.0,
+   "text": "linguaggio a esso associato) al 6º e al 14° livello. Man mano"
+  },
+  {
+   "x1": 100.0,
+   "y1": 588.0,
+   "x2": 602.0,
+   "y2": 616.0,
+   "text": "che acquisisce livelli, le sue scelte dovrebbero riflettere i tipi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 597.0,
+   "x2": 783.0,
+   "y2": 627.0,
+   "text": "DueLlarE"
+  },
+  {
+   "x1": 102.0,
+   "y1": 614.0,
+   "x2": 582.0,
+   "y2": 638.0,
+   "text": "di mostri che ha incontrato nel corso delle sue avventure."
+  },
+  {
+   "x1": 659.0,
+   "y1": 623.0,
+   "x2": 1121.0,
+   "y2": 649.0,
+   "text": "Quando il ranger impugna un'arma da mischia in una"
+  },
+  {
+   "x1": 103.0,
+   "y1": 658.0,
+   "x2": 379.0,
+   "y2": 683.0,
+   "text": "Esploratore Nato"
+  },
+  {
+   "x1": 657.0,
+   "y1": 647.0,
+   "x2": 1154.0,
+   "y2": 674.0,
+   "text": "mano e non impugna altre armi, ottiene un bonus di +2 ai"
+  },
+  {
+   "x1": 657.0,
+   "y1": 669.0,
+   "x2": 909.0,
+   "y2": 698.0,
+   "text": "tiri per i danni di quell'arma."
+  },
+  {
+   "x1": 102.0,
+   "y1": 694.0,
+   "x2": 598.0,
+   "y2": 720.0,
+   "text": "Il ranger conosce molto bene un tipo di ambiente naturale"
+  },
+  {
+   "x1": 655.0,
+   "y1": 706.0,
+   "x2": 723.0,
+   "y2": 744.0,
+   "text": "TIRo"
+  },
+  {
+   "x1": 100.0,
+   "y1": 716.0,
+   "x2": 573.0,
+   "y2": 744.0,
+   "text": "ed è particolarmente abile nel viaggiare e sopravvivere"
+  },
+  {
+   "x1": 102.0,
+   "y1": 742.0,
+   "x2": 567.0,
+   "y2": 766.0,
+   "text": "in quelle regioni. Il giocatore sceglie un tipo di terreno"
+  },
+  {
+   "x1": 657.0,
+   "y1": 734.0,
+   "x2": 1115.0,
+   "y2": 767.0,
+   "text": "Il ranger ottiene un bonus di +2 ai tiri per colpire che"
+  },
+  {
+   "x1": 100.0,
+   "y1": 764.0,
+   "x2": 604.0,
+   "y2": 789.0,
+   "text": "prescelto: artico, costa, deserto, foresta, montagna, palude,"
+  },
+  {
+   "x1": 661.0,
+   "y1": 764.0,
+   "x2": 927.0,
+   "y2": 787.0,
+   "text": "effettua con le armi a distanza."
+  },
+  {
+   "x1": 100.0,
+   "y1": 787.0,
+   "x2": 547.0,
+   "y2": 811.0,
+   "text": "prateria o Underdark. Quando il ranger effettua una"
+  },
+  {
+   "x1": 98.0,
+   "y1": 808.0,
+   "x2": 595.0,
+   "y2": 835.0,
+   "text": "prova di Intelligenza o di Saggezza relativa al suo terreno"
+  },
+  {
+   "x1": 663.0,
+   "y1": 809.0,
+   "x2": 848.0,
+   "y2": 833.0,
+   "text": "INcANTEsIMI"
+  },
+  {
+   "x1": 100.0,
+   "y1": 833.0,
+   "x2": 572.0,
+   "y2": 857.0,
+   "text": "prescelto, raddoppia il suo bonus di competenza se usa"
+  },
+  {
+   "x1": 661.0,
+   "y1": 844.0,
+   "x2": 1112.0,
+   "y2": 870.0,
+   "text": "Quando arriva al 2* livello, un ranger impara a usare"
+  },
+  {
+   "x1": 102.0,
+   "y1": 859.0,
+   "x2": 428.0,
+   "y2": 877.0,
+   "text": "un'abilità in cui possiede competenza."
+  },
+  {
+   "x1": 661.0,
+   "y1": 868.0,
+   "x2": 1147.0,
+   "y2": 892.0,
+   "text": "l'essenza magica della natura per lanciare incantesimi in"
+  },
+  {
+   "x1": 116.0,
+   "y1": 879.0,
+   "x2": 585.0,
+   "y2": 903.0,
+   "text": "Quando viaggia per un'ora o più in una regione del suo"
+  },
+  {
+   "x1": 659.0,
+   "y1": 892.0,
+   "x2": 1138.0,
+   "y2": 915.0,
+   "text": "modo molto simile a un druido. Vedi il capitolo 10 per le"
+  },
+  {
+   "x1": 100.0,
+   "y1": 903.0,
+   "x2": 563.0,
+   "y2": 926.0,
+   "text": "terreno prescelto, il ranger ottiene i benefici seguenti:"
+  },
+  {
+   "x1": 657.0,
+   "y1": 912.0,
+   "x2": 1134.0,
+   "y2": 939.0,
+   "text": "regole generali relative alla magia e il capitolo 11 per la"
+  },
+  {
+   "x1": 102.0,
+   "y1": 932.0,
+   "x2": 597.0,
+   "y2": 959.0,
+   "text": "Il terreno difficile non rallenta il viaggio del suo gruppo."
+  },
+  {
+   "x1": 656.0,
+   "y1": 935.0,
+   "x2": 944.0,
+   "y2": 963.0,
+   "text": "lista degli incantesimi da ranger."
+  },
+  {
+   "x1": 114.0,
+   "y1": 956.0,
+   "x2": 609.0,
+   "y2": 979.0,
+   "text": "Il suo gruppo non può smarrirsi, se non per cause magiche."
+  },
+  {
+   "x1": 113.0,
+   "y1": 981.0,
+   "x2": 598.0,
+   "y2": 1005.0,
+   "text": "Anche se il ranger è impegnato in un'altra attività mentre"
+  },
+  {
+   "x1": 659.0,
+   "y1": 977.0,
+   "x2": 877.0,
+   "y2": 1005.0,
+   "text": "Slot Incantesimo"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1005.0,
+   "x2": 563.0,
+   "y2": 1029.0,
+   "text": "viaggia (per esempio foraggiare, orientarsi o seguire"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1005.0,
+   "x2": 1093.0,
+   "y2": 1029.0,
+   "text": "La tabella \"Ranger\" indica quanti slot incantesimo"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1025.0,
+   "x2": 604.0,
+   "y2": 1049.0,
+   "text": "tracce), rimane allerta nei confronti dei potenziali pericoli."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1027.0,
+   "x2": 1128.0,
+   "y2": 1054.0,
+   "text": "possiede un ranger per lanciare i suoi incantesimi di 1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1047.0,
+   "x2": 608.0,
+   "y2": 1074.0,
+   "text": "Se il ranger viaggia da solo, può muoversi furtivamente a"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1052.0,
+   "x2": 1123.0,
+   "y2": 1076.0,
+   "text": "livello e di livello superiore. Per lanciare uno di questi"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1076.0,
+   "x2": 253.0,
+   "y2": 1094.0,
+   "text": "passo normale."
+  },
+  {
+   "x1": 661.0,
+   "y1": 1078.0,
+   "x2": 1152.0,
+   "y2": 1096.0,
+   "text": "incantesimi, il ranger deve spendere uno slot incantesimo"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1093.0,
+   "x2": 578.0,
+   "y2": 1116.0,
+   "text": "Quando foraggia, il ranger trova il doppio del cibo che"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1098.0,
+   "x2": 1119.0,
+   "y2": 1122.0,
+   "text": "di livello pari o superiore al livello dell'incantesimo. Il"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1116.0,
+   "x2": 342.0,
+   "y2": 1144.0,
+   "text": "troverebbe normalmente."
+  },
+  {
+   "x1": 657.0,
+   "y1": 1122.0,
+   "x2": 1130.0,
+   "y2": 1146.0,
+   "text": "ranger recupera tutti gli slot incantesimo spesi quando"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1146.0,
+   "x2": 886.0,
+   "y2": 1169.0,
+   "text": "completa un riposo lungo."
+  },
+  {
+   "x1": 674.0,
+   "y1": 1164.0,
+   "x2": 1119.0,
+   "y2": 1191.0,
+   "text": "Per esempio, se un ranger conosce l'incantesimo di"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1188.0,
+   "x2": 1112.0,
+   "y2": 1215.0,
+   "text": "1° livello amicizia con gli animali e possiede uno slot"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1213.0,
+   "x2": 1163.0,
+   "y2": 1237.0,
+   "text": "incantesimo di 1° livello e uno slot incantesimo di 2* livello,"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1237.0,
+   "x2": 1162.0,
+   "y2": 1261.0,
+   "text": "può lanciare amicizia con gli animali usando uno qualsiasi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1255.0,
+   "x2": 770.0,
+   "y2": 1285.0,
+   "text": "dei due slot."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1303.0,
+   "x2": 1110.0,
+   "y2": 1326.0,
+   "text": "Incantesimi Conosciuti di l° Livello"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1328.0,
+   "x2": 934.0,
+   "y2": 1352.0,
+   "text": "E dI Livello SUperiore"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1354.0,
+   "x2": 1165.0,
+   "y2": 1378.0,
+   "text": "Un ranger conosce due incantesimi di 1\" livello a sua scelta"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1374.0,
+   "x2": 990.0,
+   "y2": 1401.0,
+   "text": "dalla lista degli incantesimi da ranger."
+  },
+  {
+   "x1": 678.0,
+   "y1": 1400.0,
+   "x2": 1104.0,
+   "y2": 1423.0,
+   "text": "La colonna \"Incantesimi Conosciuti\"nella tabella"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1420.0,
+   "x2": 1167.0,
+   "y2": 1447.0,
+   "text": "\"Ranger\" indica quando un ranger impara altri incantesimi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1447.0,
+   "x2": 1152.0,
+   "y2": 1471.0,
+   "text": "da ranger a sua scelta. Ognuno di questi incantesimi deve"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1471.0,
+   "x2": 1154.0,
+   "y2": 1495.0,
+   "text": "appartenere a un livello di cui il ranger possiede degli slot"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1493.0,
+   "x2": 1125.0,
+   "y2": 1516.0,
+   "text": "incantesimo, come indicato nella tabella. Per esempio,"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1516.0,
+   "x2": 1119.0,
+   "y2": 1540.0,
+   "text": "quando un ranger arriva al 5° livello, può imparare un"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1538.0,
+   "x2": 981.0,
+   "y2": 1562.0,
+   "text": "nuovo incantesimo di 1o di 2°livello."
+  },
+  {
+   "x1": 676.0,
+   "y1": 1562.0,
+   "x2": 1110.0,
+   "y2": 1586.0,
+   "text": "Inoltre, quando un ranger acquisisce un livello, può"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1586.0,
+   "x2": 1167.0,
+   "y2": 1610.0,
+   "text": "scegliere un incantesimo da ranger che conosce e sostituirlo"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1610.0,
+   "x2": 1130.0,
+   "y2": 1633.0,
+   "text": "con un altro incantesimo della lista degli incantesimi da"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1632.0,
+   "x2": 1158.0,
+   "y2": 1655.0,
+   "text": "ranger; anche il nuovo incantesimo deve essere di un livello"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1652.0,
+   "x2": 1055.0,
+   "y2": 1681.0,
+   "text": "di cui il ranger possiede degli slot incantesimo."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1688.0,
+   "x2": 288.0,
+   "y2": 1712.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 11.0,
+   "y1": 1706.0,
+   "x2": 39.0,
+   "y2": 1721.0,
+   "text": "104"
+  }
+ ],
+ "reading_text": "a) una dotazione da avventuriero o (b) una dotazione da\nesploratore\n.Un arco lungo e una faretra con 20 frecce\nNemico Prescelto\nA partire dal 1º livello, un ranger dimostra una notevole\nesperienza nello studiare, seguire le tracce, dare la caccia e\nperfino parlare con un certo tipo di nemico.\nIl giocatore sceglie un tipo di nemico prescelto:\naberrazioni, bestie, celestiali, costrutti, draghi, elementali,\nfolletti, giganti, immondi, melme, mostruosità, non morti o\nvegetali. In alternativa, può scegliere due razze di umanoidi\n(per esempio gnoll e orchi) come nemici prescelti.\nIl ranger dispone di vantaggio alle prove di Saggezza\n(Sopravvivenza) effettuate per seguire le tracce dei suoi\nnemici prescelti, nonché alle prove di Intelligenza per\nricordare le informazioni a essi relative.\nQuando ottiene questo privilegio, il ranger apprende\nanche un linguaggio a sua scelta tra quelli parlati dal suo\nnemico prescelto (ammesso che ne parli uno).\nIl ranger sceglie un nemico prescelto aggiuntivo (e un\nlinguaggio a esso associato) al 6º e al 14° livello. Man mano\nche acquisisce livelli, le sue scelte dovrebbero riflettere i tipi\ndi mostri che ha incontrato nel corso delle sue avventure.\nEsploratore Nato\nIl ranger conosce molto bene un tipo di ambiente naturale\ned è particolarmente abile nel viaggiare e sopravvivere\nin quelle regioni. Il giocatore sceglie un tipo di terreno\nprescelto: artico, costa, deserto, foresta, montagna, palude,\nprateria o Underdark. Quando il ranger effettua una\nprova di Intelligenza o di Saggezza relativa al suo terreno\nprescelto, raddoppia il suo bonus di competenza se usa\nun'abilità in cui possiede competenza.\nQuando viaggia per un'ora o più in una regione del suo\nterreno prescelto, il ranger ottiene i benefici seguenti:\nIl terreno difficile non rallenta il viaggio del suo gruppo.\nIl suo gruppo non può smarrirsi, se non per cause magiche.\nAnche se il ranger è impegnato in un'altra attività mentre\nviaggia (per esempio foraggiare, orientarsi o seguire\ntracce), rimane allerta nei confronti dei potenziali pericoli.\nSe il ranger viaggia da solo, può muoversi furtivamente a\npasso normale.\nQuando foraggia, il ranger trova il doppio del cibo che\ntroverebbe normalmente.\nCAPITOLO 3 CLASSI\n104\nQuando segue le tracce di altre creature, apprende anche\nil loro numero esatto, le loro taglie e da quanto tempo\nsono passate nell'area.\nIl ranger sceglie altri tipi di terreno prescelto al 6° e\nal 10° livello.\nStile di CoMbattimento\nAl 2° livello, un ranger adotta uno stile di combattimento\nin cui specializzarsi scegliendo una tra le opzioni seguenti.\nNon è consentito scegliere uno stile di combattimento\npiù di una volta, anche se in seguito il ranger ha diritto a\nscegliere di nuovo.\nCombattere con Due Armi\nQuando il ranger combatte con due armi, può aggiungere il\nsuo modificatore di caratteristica ai danni del secondo\nattacco.\nDifesa\nFinché indossa un'armatura, il ranger ottiene un bonus\ndi +1 alla CA.\nDueLlarE\nQuando il ranger impugna un'arma da mischia in una\nmano e non impugna altre armi, ottiene un bonus di +2 ai\ntiri per i danni di quell'arma.\nTIRo\nIl ranger ottiene un bonus di +2 ai tiri per colpire che\neffettua con le armi a distanza.\nINcANTEsIMI\nQuando arriva al 2* livello, un ranger impara a usare\nl'essenza magica della natura per lanciare incantesimi in\nmodo molto simile a un druido. Vedi il capitolo 10 per le\nregole generali relative alla magia e il capitolo 11 per la\nlista degli incantesimi da ranger.\nSlot Incantesimo\nLa tabella \"Ranger\" indica quanti slot incantesimo\npossiede un ranger per lanciare i suoi incantesimi di 1\nlivello e di livello superiore. Per lanciare uno di questi\nincantesimi, il ranger deve spendere uno slot incantesimo\ndi livello pari o superiore al livello dell'incantesimo. Il\nranger recupera tutti gli slot incantesimo spesi quando\ncompleta un riposo lungo.\nPer esempio, se un ranger conosce l'incantesimo di\n1° livello amicizia con gli animali e possiede uno slot\nincantesimo di 1° livello e uno slot incantesimo di 2* livello,\npuò lanciare amicizia con gli animali usando uno qualsiasi\ndei due slot.\nIncantesimi Conosciuti di l° Livello\nE dI Livello SUperiore\nUn ranger conosce due incantesimi di 1\" livello a sua scelta\ndalla lista degli incantesimi da ranger.\nLa colonna \"Incantesimi Conosciuti\"nella tabella\n\"Ranger\" indica quando un ranger impara altri incantesimi\nda ranger a sua scelta. Ognuno di questi incantesimi deve\nappartenere a un livello di cui il ranger possiede degli slot\nincantesimo, come indicato nella tabella. Per esempio,\nquando un ranger arriva al 5° livello, può imparare un\nnuovo incantesimo di 1o di 2°livello.\nInoltre, quando un ranger acquisisce un livello, può\nscegliere un incantesimo da ranger che conosce e sostituirlo\ncon un altro incantesimo della lista degli incantesimi da\nranger; anche il nuovo incantesimo deve essere di un livello\ndi cui il ranger possiede degli slot incantesimo."
+}

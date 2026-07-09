@@ -1,0 +1,843 @@
+{
+ "pdf_page_index": 53,
+ "page_label": 54,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 119,
+ "lines": [
+  {
+   "x1": 120.0,
+   "y1": 73.0,
+   "x2": 576.0,
+   "y2": 99.0,
+   "text": "11 bardo può utilizzare questo privilegio un numero di"
+  },
+  {
+   "x1": 656.0,
+   "y1": 71.0,
+   "x2": 1091.0,
+   "y2": 99.0,
+   "text": "incapacitato o è ridotto al silenzio, o se vi pone fine"
+  },
+  {
+   "x1": 102.0,
+   "y1": 97.0,
+   "x2": 606.0,
+   "y2": 122.0,
+   "text": "volte pari al suo modificatore di Carisma (fino a un minimo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 99.0,
+   "x2": 1102.0,
+   "y2": 122.0,
+   "text": "volontariamente (non è richiesta un'azione per farlo)."
+  },
+  {
+   "x1": 102.0,
+   "y1": 122.0,
+   "x2": 547.0,
+   "y2": 146.0,
+   "text": "di una volta). Recupera tutti gliutilizzi spesi quando"
+  },
+  {
+   "x1": 98.0,
+   "y1": 142.0,
+   "x2": 327.0,
+   "y2": 170.0,
+   "text": "completa un riposo lungo."
+  },
+  {
+   "x1": 657.0,
+   "y1": 139.0,
+   "x2": 888.0,
+   "y2": 170.0,
+   "text": "Segreti Magici"
+  },
+  {
+   "x1": 114.0,
+   "y1": 164.0,
+   "x2": 574.0,
+   "y2": 190.0,
+   "text": "Il dado di Ispirazione Bardica cambia quando il bardo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 177.0,
+   "x2": 1125.0,
+   "y2": 203.0,
+   "text": "Giunto al 10° livello, un bardo ha attinto alle conoscenze"
+  },
+  {
+   "x1": 98.0,
+   "y1": 188.0,
+   "x2": 606.0,
+   "y2": 216.0,
+   "text": "raggiunge livelli superiori. Il dado diventa un d8 al 5° livello,"
+  },
+  {
+   "x1": 657.0,
+   "y1": 203.0,
+   "x2": 1117.0,
+   "y2": 227.0,
+   "text": "magiche provenienti da una vasta gamma di discipline."
+  },
+  {
+   "x1": 100.0,
+   "y1": 214.0,
+   "x2": 456.0,
+   "y2": 238.0,
+   "text": "un d10 al 10°livello e un d12 al 15° livello."
+  },
+  {
+   "x1": 657.0,
+   "y1": 225.0,
+   "x2": 1149.0,
+   "y2": 248.0,
+   "text": "Il bardo sceglie due incantesimi di qualsiasi classe, inclusa"
+  },
+  {
+   "x1": 102.0,
+   "y1": 254.0,
+   "x2": 257.0,
+   "y2": 285.0,
+   "text": "FActotUm"
+  },
+  {
+   "x1": 656.0,
+   "y1": 247.0,
+   "x2": 1160.0,
+   "y2": 274.0,
+   "text": "questa stessa classe. Ogni incantesimo scelto deve essere di"
+  },
+  {
+   "x1": 657.0,
+   "y1": 272.0,
+   "x2": 1158.0,
+   "y2": 296.0,
+   "text": "un livello che il bardo sia in grado di lanciare, come indicato"
+  },
+  {
+   "x1": 102.0,
+   "y1": 294.0,
+   "x2": 585.0,
+   "y2": 320.0,
+   "text": "A partire dal 2º livello, un bardo può aggiungere metà del"
+  },
+  {
+   "x1": 656.0,
+   "y1": 292.0,
+   "x2": 1123.0,
+   "y2": 320.0,
+   "text": "nella tabella \"Bardo\", oppure deve essere un trucchetto."
+  },
+  {
+   "x1": 100.0,
+   "y1": 318.0,
+   "x2": 585.0,
+   "y2": 342.0,
+   "text": "suo bonus di competenza, arrotondato per difetto, a ogni"
+  },
+  {
+   "x1": 676.0,
+   "y1": 318.0,
+   "x2": 1115.0,
+   "y2": 342.0,
+   "text": "Gli incantesimi scelti contano come incantesimi da"
+  },
+  {
+   "x1": 100.0,
+   "y1": 340.0,
+   "x2": 597.0,
+   "y2": 367.0,
+   "text": "prova di caratteristica da lui effettuata che non includa già"
+  },
+  {
+   "x1": 656.0,
+   "y1": 338.0,
+   "x2": 1158.0,
+   "y2": 365.0,
+   "text": "bardo e vanno inclusi nel numero specificato dalla colonna"
+  },
+  {
+   "x1": 100.0,
+   "y1": 364.0,
+   "x2": 340.0,
+   "y2": 387.0,
+   "text": "il suo bonus di competenza."
+  },
+  {
+   "x1": 657.0,
+   "y1": 360.0,
+   "x2": 1060.0,
+   "y2": 387.0,
+   "text": "Incantesimi Conosciuti\" nella tabella \"Bardo\"."
+  },
+  {
+   "x1": 674.0,
+   "y1": 387.0,
+   "x2": 1093.0,
+   "y2": 411.0,
+   "text": "Un bardo apprende due incantesimi aggiuntivi di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 406.0,
+   "x2": 356.0,
+   "y2": 437.0,
+   "text": "Canto di Riposo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 407.0,
+   "x2": 1134.0,
+   "y2": 435.0,
+   "text": "qualsiasi classe al 14° livello e poi di nuovo al 18 livello."
+  },
+  {
+   "x1": 102.0,
+   "y1": 442.0,
+   "x2": 608.0,
+   "y2": 470.0,
+   "text": "Dal 2° livello, un bardo può usare una musica o un'orazione"
+  },
+  {
+   "x1": 661.0,
+   "y1": 455.0,
+   "x2": 988.0,
+   "y2": 481.0,
+   "text": "ISpIrazionE SUpErioRe"
+  },
+  {
+   "x1": 102.0,
+   "y1": 468.0,
+   "x2": 578.0,
+   "y2": 491.0,
+   "text": "lenitiva per infondere nuova vita nei suoi alleati durante"
+  },
+  {
+   "x1": 100.0,
+   "y1": 491.0,
+   "x2": 600.0,
+   "y2": 515.0,
+   "text": "un riposo breve. Se il bardo o le eventuali creature amiche"
+  },
+  {
+   "x1": 657.0,
+   "y1": 490.0,
+   "x2": 1121.0,
+   "y2": 515.0,
+   "text": "A1 20° livello, quando il bardo tira per l'iniziativa e non"
+  },
+  {
+   "x1": 100.0,
+   "y1": 515.0,
+   "x2": 593.0,
+   "y2": 539.0,
+   "text": "in grado di udire la sua esibizione recuperano punti ferita"
+  },
+  {
+   "x1": 657.0,
+   "y1": 515.0,
+   "x2": 1091.0,
+   "y2": 539.0,
+   "text": "gli rimane alcun utilizzo di Ispirazione Bardica, ne"
+  },
+  {
+   "x1": 100.0,
+   "y1": 537.0,
+   "x2": 598.0,
+   "y2": 563.0,
+   "text": "alla fine di un riposo breve spendendo uno o più Dadi Vita,"
+  },
+  {
+   "x1": 657.0,
+   "y1": 539.0,
+   "x2": 838.0,
+   "y2": 563.0,
+   "text": "recupera un utilizzo."
+  },
+  {
+   "x1": 100.0,
+   "y1": 561.0,
+   "x2": 591.0,
+   "y2": 585.0,
+   "text": "ognuna di quelle creature recupera 1d6 punti ferita extra."
+  },
+  {
+   "x1": 118.0,
+   "y1": 585.0,
+   "x2": 604.0,
+   "y2": 608.0,
+   "text": "I punti ferita extra aumentano quando il bardo raggiunge"
+  },
+  {
+   "x1": 663.0,
+   "y1": 583.0,
+   "x2": 977.0,
+   "y2": 618.0,
+   "text": "ColLEgI Bardici"
+  },
+  {
+   "x1": 102.0,
+   "y1": 605.0,
+   "x2": 593.0,
+   "y2": 630.0,
+   "text": "livelli superiori: 1d8 al 9° livello, Id 10 al 13° livello e 1d12"
+  },
+  {
+   "x1": 100.0,
+   "y1": 629.0,
+   "x2": 218.0,
+   "y2": 654.0,
+   "text": "al 17° livello."
+  },
+  {
+   "x1": 656.0,
+   "y1": 621.0,
+   "x2": 1123.0,
+   "y2": 649.0,
+   "text": "I bardi conducono vite socievoli: vanno in cerca gli uni"
+  },
+  {
+   "x1": 656.0,
+   "y1": 645.0,
+   "x2": 1145.0,
+   "y2": 672.0,
+   "text": "degli altri per scambiarsi canti e storie, per vantarsi delle"
+  },
+  {
+   "x1": 105.0,
+   "y1": 674.0,
+   "x2": 377.0,
+   "y2": 700.0,
+   "text": "COLLEGiO BaRdicO"
+  },
+  {
+   "x1": 656.0,
+   "y1": 669.0,
+   "x2": 1145.0,
+   "y2": 692.0,
+   "text": "loro imprese e per condividere le loro conoscenze. I bardi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 694.0,
+   "x2": 1128.0,
+   "y2": 718.0,
+   "text": "si riuniscono in associazioni informali chiamate collegi"
+  },
+  {
+   "x1": 102.0,
+   "y1": 711.0,
+   "x2": 587.0,
+   "y2": 736.0,
+   "text": "Al 3ª livello, un bardo apprende le tecniche più avanzate di"
+  },
+  {
+   "x1": 656.0,
+   "y1": 716.0,
+   "x2": 1125.0,
+   "y2": 740.0,
+   "text": "allo scopo di agevolare i contatti reciproci e preservare"
+  },
+  {
+   "x1": 100.0,
+   "y1": 734.0,
+   "x2": 584.0,
+   "y2": 758.0,
+   "text": "un collegio bardico a sua scelta: il Collegio della Sapienza"
+  },
+  {
+   "x1": 655.0,
+   "y1": 736.0,
+   "x2": 774.0,
+   "y2": 766.0,
+   "text": "le tradizioni."
+  },
+  {
+   "x1": 100.0,
+   "y1": 758.0,
+   "x2": 565.0,
+   "y2": 782.0,
+   "text": "o il Collegio del Valore, entrambi descritti alla fine della"
+  },
+  {
+   "x1": 100.0,
+   "y1": 780.0,
+   "x2": 611.0,
+   "y2": 804.0,
+   "text": "sezione di questa classe. Il collegio a sua scelta gli conferisce"
+  },
+  {
+   "x1": 659.0,
+   "y1": 780.0,
+   "x2": 1034.0,
+   "y2": 813.0,
+   "text": "ColLEGIO dELLa SapiEnza"
+  },
+  {
+   "x1": 100.0,
+   "y1": 804.0,
+   "x2": 606.0,
+   "y2": 828.0,
+   "text": "alcuni privilegi al 3° livello e poi di nuovo al 6° e al 14° livello."
+  },
+  {
+   "x1": 657.0,
+   "y1": 820.0,
+   "x2": 1141.0,
+   "y2": 844.0,
+   "text": "I bardi del Collegio della Sapienza hanno conoscenze su"
+  },
+  {
+   "x1": 101.0,
+   "y1": 844.0,
+   "x2": 250.0,
+   "y2": 879.0,
+   "text": "MAESTRIA"
+  },
+  {
+   "x1": 656.0,
+   "y1": 842.0,
+   "x2": 1149.0,
+   "y2": 870.0,
+   "text": "qualsiasi argomento e raccolgono informazioni dalle fonti"
+  },
+  {
+   "x1": 656.0,
+   "y1": 868.0,
+   "x2": 1127.0,
+   "y2": 892.0,
+   "text": "più disparate, che possono variare dai tomi accademici"
+  },
+  {
+   "x1": 98.0,
+   "y1": 882.0,
+   "x2": 574.0,
+   "y2": 910.0,
+   "text": "Al 3° livello, un bardo sceglie due tra le sue competenze"
+  },
+  {
+   "x1": 656.0,
+   "y1": 893.0,
+   "x2": 1130.0,
+   "y2": 912.0,
+   "text": "ai racconti dei contadini. Che si tratti di intonare ballate"
+  },
+  {
+   "x1": 98.0,
+   "y1": 906.0,
+   "x2": 536.0,
+   "y2": 934.0,
+   "text": "nelle abilità. Il suo bonus di competenza raddoppia"
+  },
+  {
+   "x1": 656.0,
+   "y1": 912.0,
+   "x2": 1117.0,
+   "y2": 939.0,
+   "text": "popolari da taverna o di poemi nelle corti reali, questi"
+  },
+  {
+   "x1": 102.0,
+   "y1": 932.0,
+   "x2": 589.0,
+   "y2": 956.0,
+   "text": "in ogni prova di caratteristica effettuata usando una delle"
+  },
+  {
+   "x1": 657.0,
+   "y1": 937.0,
+   "x2": 1149.0,
+   "y2": 961.0,
+   "text": "bardi usano sempre i loro doniper ammaliare il pubblico."
+  },
+  {
+   "x1": 102.0,
+   "y1": 956.0,
+   "x2": 266.0,
+   "y2": 979.0,
+   "text": "competenze scelte."
+  },
+  {
+   "x1": 656.0,
+   "y1": 959.0,
+   "x2": 1128.0,
+   "y2": 983.0,
+   "text": "Quando gli applausi si spengono, il pubblico si ritrova a"
+  },
+  {
+   "x1": 114.0,
+   "y1": 977.0,
+   "x2": 513.0,
+   "y2": 1001.0,
+   "text": "Al 10° livello, un bardo può scegliere altre due"
+  },
+  {
+   "x1": 657.0,
+   "y1": 985.0,
+   "x2": 1156.0,
+   "y2": 1009.0,
+   "text": "dubitare di tutto ciò che fino ad allora aveva dato per certo,"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1001.0,
+   "x2": 563.0,
+   "y2": 1025.0,
+   "text": "competenze nelle abilità per ottenere questo beneficio."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1005.0,
+   "x2": 1128.0,
+   "y2": 1029.0,
+   "text": "dalla sua fede nel sacerdozio locale alla sua lealtàal re."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1041.0,
+   "x2": 447.0,
+   "y2": 1074.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1032.0,
+   "x2": 1136.0,
+   "y2": 1051.0,
+   "text": "Questi bardisono votati innanzitutto alla ricerca della"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1051.0,
+   "x2": 1147.0,
+   "y2": 1074.0,
+   "text": "bellezza e della verità, e non a un monarca o ai precetti di"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1078.0,
+   "x2": 377.0,
+   "y2": 1109.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1076.0,
+   "x2": 1151.0,
+   "y2": 1100.0,
+   "text": "una divinità.Un nobile che tiene presso di sé un bardo del"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1096.0,
+   "x2": 1139.0,
+   "y2": 1124.0,
+   "text": "genere come araldo o consigliere farà bene a sapere che"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1116.0,
+   "x2": 584.0,
+   "y2": 1142.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1122.0,
+   "x2": 1110.0,
+   "y2": 1146.0,
+   "text": "tale bardo tende a essere più onesto che diplomatico."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1138.0,
+   "x2": 582.0,
+   "y2": 1166.0,
+   "text": "19° livello, un bardo può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 674.0,
+   "y1": 1146.0,
+   "x2": 1158.0,
+   "y2": 1169.0,
+   "text": "I membri di questo collegio si radunano nelle biblioteche"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1162.0,
+   "x2": 597.0,
+   "y2": 1189.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di 1 due"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1168.0,
+   "x2": 1141.0,
+   "y2": 1191.0,
+   "text": "e a volte in alcuni collegi veri e propri, con tanto di aule e"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1186.0,
+   "x2": 589.0,
+   "y2": 1213.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1191.0,
+   "x2": 1151.0,
+   "y2": 1215.0,
+   "text": "di dormitori, dove condividono liberamente le conoscenze"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1211.0,
+   "x2": 611.0,
+   "y2": 1235.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1215.0,
+   "x2": 1110.0,
+   "y2": 1239.0,
+   "text": "recuperate. Si incontrano anche in occasione di feste"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1235.0,
+   "x2": 430.0,
+   "y2": 1259.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1237.0,
+   "x2": 1139.0,
+   "y2": 1264.0,
+   "text": "popolari e ricevimenti di stato, dove possono denunciare"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1263.0,
+   "x2": 1147.0,
+   "y2": 1286.0,
+   "text": "casi di corruzione, smascherare bugie e farsi beffe dei più"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1277.0,
+   "x2": 410.0,
+   "y2": 1306.0,
+   "text": "FoNTE Di ISPiRaZioNE"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1283.0,
+   "x2": 942.0,
+   "y2": 1310.0,
+   "text": "pomposi esponenti delle autorità."
+  },
+  {
+   "x1": 98.0,
+   "y1": 1314.0,
+   "x2": 606.0,
+   "y2": 1341.0,
+   "text": "A partire dal 5° livello, un bardo recupera tutti i suoi utilizzi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1328.0,
+   "x2": 886.0,
+   "y2": 1352.0,
+   "text": "Competenze Bonus"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1341.0,
+   "x2": 578.0,
+   "y2": 1365.0,
+   "text": "spesi di IspirazioneBardica quando completa un riposo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1350.0,
+   "x2": 1154.0,
+   "y2": 1378.0,
+   "text": "Quando un bardo si unisce al Collegio della Sapienza al 3°"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1365.0,
+   "x2": 225.0,
+   "y2": 1390.0,
+   "text": "breve o lungo."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1379.0,
+   "x2": 1102.0,
+   "y2": 1403.0,
+   "text": "livello, ottiene competenza in tre abilità a sua sceita."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1409.0,
+   "x2": 334.0,
+   "y2": 1434.0,
+   "text": "CoNTROFASCINO"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1418.0,
+   "x2": 866.0,
+   "y2": 1447.0,
+   "text": "Parole Taglienti"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1445.0,
+   "x2": 560.0,
+   "y2": 1469.0,
+   "text": "Al 6 livello, un bardo ottiene la capacità di usare note"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1447.0,
+   "x2": 1119.0,
+   "y2": 1473.0,
+   "text": "Sempre al 3° livello, il bardo impara anche a fare buon"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1469.0,
+   "x2": 585.0,
+   "y2": 1493.0,
+   "text": "musicali o parole del potere per interferire negli effetti di"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1473.0,
+   "x2": 1132.0,
+   "y2": 1496.0,
+   "text": "uso del suo ingegno per distrarre, confondere e faccare"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1491.0,
+   "x2": 606.0,
+   "y2": 1518.0,
+   "text": "influenza mentale. Con un'azione può iniziare un'esibizione"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1496.0,
+   "x2": 1121.0,
+   "y2": 1520.0,
+   "text": "la determinazione e la competenza altrui. Quando una"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1516.0,
+   "x2": 582.0,
+   "y2": 1540.0,
+   "text": "che dura fino alla fine del suo turno successivo. Durante"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1522.0,
+   "x2": 1088.0,
+   "y2": 1540.0,
+   "text": "creatura situata entro 18metri e che il bardo sia in"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1540.0,
+   "x2": 589.0,
+   "y2": 1564.0,
+   "text": "quel periodo, il bardo e ogni creatura amica entro 9 metri"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1538.0,
+   "x2": 1132.0,
+   "y2": 1568.0,
+   "text": "grado di vedere effettua un tiro per colpire, una prova di"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1562.0,
+   "x2": 561.0,
+   "y2": 1586.0,
+   "text": "da lui dispongono di vantaggio ai tiri salvezza per non"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1566.0,
+   "x2": 1160.0,
+   "y2": 1590.0,
+   "text": "caratteristica o un tiro per i danni, il bardo può usare la sua"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1584.0,
+   "x2": 584.0,
+   "y2": 1612.0,
+   "text": "essere affascinati o spaventati. Una creatura deve essere"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1586.0,
+   "x2": 1141.0,
+   "y2": 1613.0,
+   "text": "reazione per spendere uno dei suoi utilizzi di Ispirazione"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1610.0,
+   "x2": 582.0,
+   "y2": 1633.0,
+   "text": "in grado di sentire il bardo per ottenere questo benefcio."
+  },
+  {
+   "x1": 657.0,
+   "y1": 1613.0,
+   "x2": 1145.0,
+   "y2": 1637.0,
+   "text": "Bardica, tirare un dado di Ispirazione Bardica e sottrarre"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1630.0,
+   "x2": 582.0,
+   "y2": 1657.0,
+   "text": "L'esibizione termina prematuramente se il bardo diventa"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1635.0,
+   "x2": 1128.0,
+   "y2": 1659.0,
+   "text": "il numero ottenuto dal tiro della creatura. Può scegliere"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1695.0,
+   "x2": 283.0,
+   "y2": 1723.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 13.0,
+   "y1": 1714.0,
+   "x2": 39.0,
+   "y2": 1736.0,
+   "text": "54"
+  }
+ ],
+ "reading_text": "11 bardo può utilizzare questo privilegio un numero di\nvolte pari al suo modificatore di Carisma (fino a un minimo\ndi una volta). Recupera tutti gliutilizzi spesi quando\ncompleta un riposo lungo.\nIl dado di Ispirazione Bardica cambia quando il bardo\nraggiunge livelli superiori. Il dado diventa un d8 al 5° livello,\nun d10 al 10°livello e un d12 al 15° livello.\nFActotUm\nA partire dal 2º livello, un bardo può aggiungere metà del\nsuo bonus di competenza, arrotondato per difetto, a ogni\nprova di caratteristica da lui effettuata che non includa già\nil suo bonus di competenza.\nCanto di Riposo\nDal 2° livello, un bardo può usare una musica o un'orazione\nlenitiva per infondere nuova vita nei suoi alleati durante\nun riposo breve. Se il bardo o le eventuali creature amiche\nin grado di udire la sua esibizione recuperano punti ferita\nalla fine di un riposo breve spendendo uno o più Dadi Vita,\nognuna di quelle creature recupera 1d6 punti ferita extra.\nI punti ferita extra aumentano quando il bardo raggiunge\nlivelli superiori: 1d8 al 9° livello, Id 10 al 13° livello e 1d12\nal 17° livello.\nCOLLEGiO BaRdicO\nAl 3ª livello, un bardo apprende le tecniche più avanzate di\nun collegio bardico a sua scelta: il Collegio della Sapienza\no il Collegio del Valore, entrambi descritti alla fine della\nsezione di questa classe. Il collegio a sua scelta gli conferisce\nalcuni privilegi al 3° livello e poi di nuovo al 6° e al 14° livello.\nMAESTRIA\nAl 3° livello, un bardo sceglie due tra le sue competenze\nnelle abilità. Il suo bonus di competenza raddoppia\nin ogni prova di caratteristica effettuata usando una delle\ncompetenze scelte.\nAl 10° livello, un bardo può scegliere altre due\ncompetenze nelle abilità per ottenere questo beneficio.\nAumento dei Punteggi\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e\n19° livello, un bardo può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di 1 due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nFoNTE Di ISPiRaZioNE\nA partire dal 5° livello, un bardo recupera tutti i suoi utilizzi\nspesi di IspirazioneBardica quando completa un riposo\nbreve o lungo.\nCoNTROFASCINO\nAl 6 livello, un bardo ottiene la capacità di usare note\nmusicali o parole del potere per interferire negli effetti di\ninfluenza mentale. Con un'azione può iniziare un'esibizione\nche dura fino alla fine del suo turno successivo. Durante\nquel periodo, il bardo e ogni creatura amica entro 9 metri\nda lui dispongono di vantaggio ai tiri salvezza per non\nessere affascinati o spaventati. Una creatura deve essere\nin grado di sentire il bardo per ottenere questo benefcio.\nL'esibizione termina prematuramente se il bardo diventa\nCAPITOLO 3 CLASSI\n54\nincapacitato o è ridotto al silenzio, o se vi pone fine\nvolontariamente (non è richiesta un'azione per farlo).\nSegreti Magici\nGiunto al 10° livello, un bardo ha attinto alle conoscenze\nmagiche provenienti da una vasta gamma di discipline.\nIl bardo sceglie due incantesimi di qualsiasi classe, inclusa\nquesta stessa classe. Ogni incantesimo scelto deve essere di\nun livello che il bardo sia in grado di lanciare, come indicato\nnella tabella \"Bardo\", oppure deve essere un trucchetto.\nGli incantesimi scelti contano come incantesimi da\nbardo e vanno inclusi nel numero specificato dalla colonna\nIncantesimi Conosciuti\" nella tabella \"Bardo\".\nUn bardo apprende due incantesimi aggiuntivi di\nqualsiasi classe al 14° livello e poi di nuovo al 18 livello.\nISpIrazionE SUpErioRe\nA1 20° livello, quando il bardo tira per l'iniziativa e non\ngli rimane alcun utilizzo di Ispirazione Bardica, ne\nrecupera un utilizzo.\nColLEgI Bardici\nI bardi conducono vite socievoli: vanno in cerca gli uni\ndegli altri per scambiarsi canti e storie, per vantarsi delle\nloro imprese e per condividere le loro conoscenze. I bardi\nsi riuniscono in associazioni informali chiamate collegi\nallo scopo di agevolare i contatti reciproci e preservare\nle tradizioni.\nColLEGIO dELLa SapiEnza\nI bardi del Collegio della Sapienza hanno conoscenze su\nqualsiasi argomento e raccolgono informazioni dalle fonti\npiù disparate, che possono variare dai tomi accademici\nai racconti dei contadini. Che si tratti di intonare ballate\npopolari da taverna o di poemi nelle corti reali, questi\nbardi usano sempre i loro doniper ammaliare il pubblico.\nQuando gli applausi si spengono, il pubblico si ritrova a\ndubitare di tutto ciò che fino ad allora aveva dato per certo,\ndalla sua fede nel sacerdozio locale alla sua lealtàal re.\nQuesti bardisono votati innanzitutto alla ricerca della\nbellezza e della verità, e non a un monarca o ai precetti di\nuna divinità.Un nobile che tiene presso di sé un bardo del\ngenere come araldo o consigliere farà bene a sapere che\ntale bardo tende a essere più onesto che diplomatico.\nI membri di questo collegio si radunano nelle biblioteche\ne a volte in alcuni collegi veri e propri, con tanto di aule e\ndi dormitori, dove condividono liberamente le conoscenze\nrecuperate. Si incontrano anche in occasione di feste\npopolari e ricevimenti di stato, dove possono denunciare\ncasi di corruzione, smascherare bugie e farsi beffe dei più\npomposi esponenti delle autorità.\nCompetenze Bonus\nQuando un bardo si unisce al Collegio della Sapienza al 3°\nlivello, ottiene competenza in tre abilità a sua sceita.\nParole Taglienti\nSempre al 3° livello, il bardo impara anche a fare buon\nuso del suo ingegno per distrarre, confondere e faccare\nla determinazione e la competenza altrui. Quando una\ncreatura situata entro 18metri e che il bardo sia in\ngrado di vedere effettua un tiro per colpire, una prova di\ncaratteristica o un tiro per i danni, il bardo può usare la sua\nreazione per spendere uno dei suoi utilizzi di Ispirazione\nBardica, tirare un dado di Ispirazione Bardica e sottrarre\nil numero ottenuto dal tiro della creatura. Può scegliere"
+}

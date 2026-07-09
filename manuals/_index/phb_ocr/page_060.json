@@ -1,0 +1,675 @@
+{
+ "pdf_page_index": 60,
+ "page_label": 61,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 95,
+ "lines": [
+  {
+   "x1": 90.0,
+   "y1": 69.0,
+   "x2": 587.0,
+   "y2": 93.0,
+   "text": "dello stesso tipo di danni inferti dall'arma al bersaglio. Quando"
+  },
+  {
+   "x1": 89.0,
+   "y1": 93.0,
+   "x2": 572.0,
+   "y2": 117.0,
+   "text": "il chierico arriva al 14° livello, i danni extra aumentano a 2d8."
+  },
+  {
+   "x1": 85.0,
+   "y1": 131.0,
+   "x2": 375.0,
+   "y2": 166.0,
+   "text": "Avatar Della BatTaGlia"
+  },
+  {
+   "x1": 83.0,
+   "y1": 155.0,
+   "x2": 521.0,
+   "y2": 192.0,
+   "text": "A7livello, il chierico ottiene resistenza ai danni"
+  },
+  {
+   "x1": 87.0,
+   "y1": 185.0,
+   "x2": 584.0,
+   "y2": 208.0,
+   "text": "contundenti, perforanti e taglienti delle armi non magiche."
+  },
+  {
+   "x1": 85.0,
+   "y1": 225.0,
+   "x2": 429.0,
+   "y2": 260.0,
+   "text": "Dominio dell'Inganno"
+  },
+  {
+   "x1": 83.0,
+   "y1": 259.0,
+   "x2": 565.0,
+   "y2": 292.0,
+   "text": "Gli dèi dell'inganno, come Tymora, Beshaba, Olidammara,"
+  },
+  {
+   "x1": 83.0,
+   "y1": 283.0,
+   "x2": 560.0,
+   "y2": 316.0,
+   "text": "iViaggiatore, Garl Glittergold e Loki, sono mistificatorie"
+  },
+  {
+   "x1": 87.0,
+   "y1": 309.0,
+   "x2": 554.0,
+   "y2": 333.0,
+   "text": "fomentatori, sempre pronti a turbare l'ordine e la stabilità,"
+  },
+  {
+   "x1": 85.0,
+   "y1": 334.0,
+   "x2": 580.0,
+   "y2": 358.0,
+   "text": "sia presso gli dèi che presso i mortali. Sono i patroni di ladri,"
+  },
+  {
+   "x1": 87.0,
+   "y1": 356.0,
+   "x2": 585.0,
+   "y2": 380.0,
+   "text": "canaglie, giocatori d'azzardo, ribelli e liberatori. I loro chrierici"
+  },
+  {
+   "x1": 89.0,
+   "y1": 382.0,
+   "x2": 548.0,
+   "y2": 400.0,
+   "text": "esercitano una forza perturbatrice nel mondo: umiliano.i"
+  },
+  {
+   "x1": 87.0,
+   "y1": 402.0,
+   "x2": 580.0,
+   "y2": 426.0,
+   "text": "superbi, si fanno beffe dei tiranni, rubano ai ricchi, liberano i"
+  },
+  {
+   "x1": 85.0,
+   "y1": 426.0,
+   "x2": 582.0,
+   "y2": 449.0,
+   "text": "prigionieri e contestano le tradizioni di facciata.Prediligono i"
+  },
+  {
+   "x1": 85.0,
+   "y1": 448.0,
+   "x2": 548.0,
+   "y2": 471.0,
+   "text": "sotterfugi, le burle, gli inganni e i furti agli scontri diretti."
+  },
+  {
+   "x1": 89.0,
+   "y1": 495.0,
+   "x2": 545.0,
+   "y2": 519.0,
+   "text": "IncanTeSImi DEL DOMinIO DeLl'InGaNno"
+  },
+  {
+   "x1": 96.0,
+   "y1": 532.0,
+   "x2": 342.0,
+   "y2": 550.0,
+   "text": "Livello da Chierico Incantesimi"
+  },
+  {
+   "x1": 157.0,
+   "y1": 559.0,
+   "x2": 175.0,
+   "y2": 577.0,
+   "text": "1°"
+  },
+  {
+   "x1": 249.0,
+   "y1": 559.0,
+   "x2": 536.0,
+   "y2": 583.0,
+   "text": "camuffare se stesso, charme su persone"
+  },
+  {
+   "x1": 153.0,
+   "y1": 585.0,
+   "x2": 177.0,
+   "y2": 608.0,
+   "text": "3°"
+  },
+  {
+   "x1": 249.0,
+   "y1": 585.0,
+   "x2": 554.0,
+   "y2": 608.0,
+   "text": "immagine speculare, passare senza tracce"
+  },
+  {
+   "x1": 153.0,
+   "y1": 608.0,
+   "x2": 177.0,
+   "y2": 634.0,
+   "text": "5°"
+  },
+  {
+   "x1": 247.0,
+   "y1": 608.0,
+   "x2": 464.0,
+   "y2": 636.0,
+   "text": "dissolvi magie, intermittenza"
+  },
+  {
+   "x1": 153.0,
+   "y1": 636.0,
+   "x2": 177.0,
+   "y2": 661.0,
+   "text": "7°"
+  },
+  {
+   "x1": 249.0,
+   "y1": 638.0,
+   "x2": 497.0,
+   "y2": 661.0,
+   "text": "metamorfosi, porta dimensionale"
+  },
+  {
+   "x1": 153.0,
+   "y1": 661.0,
+   "x2": 177.0,
+   "y2": 689.0,
+   "text": "9*"
+  },
+  {
+   "x1": 251.0,
+   "y1": 663.0,
+   "x2": 537.0,
+   "y2": 687.0,
+   "text": "dominare persone, modificare memoria"
+  },
+  {
+   "x1": 83.0,
+   "y1": 713.0,
+   "x2": 454.0,
+   "y2": 740.0,
+   "text": "BENEDIZIONE DELL'INGANNATORE"
+  },
+  {
+   "x1": 85.0,
+   "y1": 742.0,
+   "x2": 574.0,
+   "y2": 766.0,
+   "text": "A partire da quando sceglie questo dominio al 1° livello, il"
+  },
+  {
+   "x1": 1165.0,
+   "y1": 727.0,
+   "x2": 1201.0,
+   "y2": 775.0,
+   "text": "Y"
+  },
+  {
+   "x1": 83.0,
+   "y1": 764.0,
+   "x2": 574.0,
+   "y2": 787.0,
+   "text": "chierico può usare la sua azione per toccare una creatura"
+  },
+  {
+   "x1": 83.0,
+   "y1": 787.0,
+   "x2": 589.0,
+   "y2": 811.0,
+   "text": "consenziente diversa da sé e conferirle vantaggio alle prove"
+  },
+  {
+   "x1": 83.0,
+   "y1": 809.0,
+   "x2": 571.0,
+   "y2": 833.0,
+   "text": "di Destrezza (Furtività). Questa benedizione dura 1 ora o"
+  },
+  {
+   "x1": 83.0,
+   "y1": 833.0,
+   "x2": 556.0,
+   "y2": 857.0,
+   "text": "finché il chierico non utilizza di nuovo questo privilegio."
+  },
+  {
+   "x1": 83.0,
+   "y1": 875.0,
+   "x2": 589.0,
+   "y2": 899.0,
+   "text": "Incanalare Divinità: Invocare Duplicato"
+  },
+  {
+   "x1": 81.0,
+   "y1": 901.0,
+   "x2": 574.0,
+   "y2": 926.0,
+   "text": "A partire dal 2ª livello, Il chierico può utilizzare Incanalare"
+  },
+  {
+   "x1": 81.0,
+   "y1": 925.0,
+   "x2": 526.0,
+   "y2": 948.0,
+   "text": "Divinità per creare un duplicato illusorio di se stesso."
+  },
+  {
+   "x1": 643.0,
+   "y1": 919.0,
+   "x2": 914.0,
+   "y2": 943.0,
+   "text": "Duplicato Migliorato"
+  },
+  {
+   "x1": 98.0,
+   "y1": 946.0,
+   "x2": 528.0,
+   "y2": 970.0,
+   "text": "Con un'azione, il chierico crea una perfetta illusione di"
+  },
+  {
+   "x1": 639.0,
+   "y1": 946.0,
+   "x2": 1125.0,
+   "y2": 970.0,
+   "text": "A1 17* livello, il chierico può creare fino a quattro duplicati"
+  },
+  {
+   "x1": 81.0,
+   "y1": 970.0,
+   "x2": 534.0,
+   "y2": 994.0,
+   "text": "se stesso che dura 1 minuto o finché il chierico non perde"
+  },
+  {
+   "x1": 637.0,
+   "y1": 966.0,
+   "x2": 1141.0,
+   "y2": 994.0,
+   "text": "di se stesso anziché uno quando utilizza Invocare Duplicato."
+  },
+  {
+   "x1": 81.0,
+   "y1": 992.0,
+   "x2": 530.0,
+   "y2": 1016.0,
+   "text": "la concentrazione (come se si stesse concentrando su un"
+  },
+  {
+   "x1": 637.0,
+   "y1": 988.0,
+   "x2": 1127.0,
+   "y2": 1018.0,
+   "text": "Come azione bonus nel suo turno, il chierico può muovere"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1016.0,
+   "x2": 548.0,
+   "y2": 1040.0,
+   "text": "incantesimo). L'illusione appare in uno spazio libero situato"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1012.0,
+   "x2": 1143.0,
+   "y2": 1040.0,
+   "text": "un qualsiasi numero di quei duplicati fino a un massimo di 9"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1036.0,
+   "x2": 589.0,
+   "y2": 1063.0,
+   "text": "entro 9 metri dal chierico e che egli sia in grado di vedere. Come"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1038.0,
+   "x2": 1036.0,
+   "y2": 1062.0,
+   "text": "metri ed entro una gittata massima di 36 metri."
+  },
+  {
+   "x1": 79.0,
+   "y1": 1062.0,
+   "x2": 589.0,
+   "y2": 1085.0,
+   "text": "azione bonus, nel suo turno, il chierico può muovere l'llusione di"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1082.0,
+   "x2": 580.0,
+   "y2": 1111.0,
+   "text": "un massimo di 9 metri fino a uno spazio che egli sia in grado di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1082.0,
+   "x2": 944.0,
+   "y2": 1107.0,
+   "text": "Dominio dElLa Luce"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1107.0,
+   "x2": 536.0,
+   "y2": 1131.0,
+   "text": "vedere, ma l'illusione deve rimanere entro 36 metri da lui."
+  },
+  {
+   "x1": 635.0,
+   "y1": 1116.0,
+   "x2": 1097.0,
+   "y2": 1144.0,
+   "text": "Le divinità della luce, che includono Helm, Lathander,"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1129.0,
+   "x2": 565.0,
+   "y2": 1153.0,
+   "text": "Per tutta la durata, il chierico può lanciare incantesimi"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1151.0,
+   "x2": 548.0,
+   "y2": 1175.0,
+   "text": "come se si trovasse nello spazio dell'illusione, ma deve"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1142.0,
+   "x2": 1075.0,
+   "y2": 1168.0,
+   "text": "Pholtus, Branchala, la Fiamma d'Argento, Belenos,"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1166.0,
+   "x2": 1119.0,
+   "y2": 1189.0,
+   "text": "Apollo e Ra-Horakhty, promuovono gli ideali di rinascita,"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1177.0,
+   "x2": 560.0,
+   "y2": 1200.0,
+   "text": "usare i propri sensi. Inoltre, quando sia il chierico che la"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1189.0,
+   "x2": 1143.0,
+   "y2": 1213.0,
+   "text": "rinnovamento, verità, vigilanza e bellezza, spesso usando il"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1200.0,
+   "x2": 552.0,
+   "y2": 1224.0,
+   "text": "sua illusione si trovano entro1,5 metri da una creatura"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1220.0,
+   "x2": 550.0,
+   "y2": 1244.0,
+   "text": "che sia in grado di vedere l'illusione, il chierico dispone"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1211.0,
+   "x2": 1138.0,
+   "y2": 1235.0,
+   "text": "simbolo del sole. Alcune di queste divinità sono raffigurate"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1244.0,
+   "x2": 552.0,
+   "y2": 1268.0,
+   "text": "di vantaggio ai tiri per colpire contro quella creatura, in"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1235.0,
+   "x2": 1134.0,
+   "y2": 1259.0,
+   "text": "come il sole in persona, o come un auriga che guida il sole"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1255.0,
+   "x2": 1121.0,
+   "y2": 1283.0,
+   "text": "nel cielo. Altre sono instancabili sentinelle il cui sguardo"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1268.0,
+   "x2": 399.0,
+   "y2": 1292.0,
+   "text": "quanto l'illusione distrae il bersaglio."
+  },
+  {
+   "x1": 633.0,
+   "y1": 1279.0,
+   "x2": 1125.0,
+   "y2": 1306.0,
+   "text": "penetra ogni ombra e vanifica ogni inganno. Alcune sono"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1310.0,
+   "x2": 545.0,
+   "y2": 1334.0,
+   "text": "Incanalare Divinità: Manto di Ombre"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1305.0,
+   "x2": 1121.0,
+   "y2": 1328.0,
+   "text": "divinità della bellezza e dell'arte, e insegnano che l'arte è"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1326.0,
+   "x2": 1125.0,
+   "y2": 1350.0,
+   "text": "uno strumento per migliorare l'anima.I chierici di un dio"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1339.0,
+   "x2": 580.0,
+   "y2": 1363.0,
+   "text": "A partire dal 6° livello, il chierico può utilizzare Incanalare"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1350.0,
+   "x2": 1132.0,
+   "y2": 1374.0,
+   "text": "della luce sono anime illuminate, pervase dal fulgore e dal"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1361.0,
+   "x2": 257.0,
+   "y2": 1385.0,
+   "text": "Divinità per svanire."
+  },
+  {
+   "x1": 633.0,
+   "y1": 1372.0,
+   "x2": 1141.0,
+   "y2": 1398.0,
+   "text": "potere della limpida visione delle loro divinità, incaricate di"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1385.0,
+   "x2": 574.0,
+   "y2": 1409.0,
+   "text": "Con un'azione, il chierico diventa invisibile fino alla fine"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1405.0,
+   "x2": 580.0,
+   "y2": 1432.0,
+   "text": "del suo turno successivo. Torna a essere visibile se attacca"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1398.0,
+   "x2": 1082.0,
+   "y2": 1421.0,
+   "text": "mettere a nudo le menzogne e allontanare l'oscurità."
+  },
+  {
+   "x1": 79.0,
+   "y1": 1434.0,
+   "x2": 314.0,
+   "y2": 1453.0,
+   "text": "o se lancia un incantesimo."
+  },
+  {
+   "x1": 635.0,
+   "y1": 1447.0,
+   "x2": 1060.0,
+   "y2": 1471.0,
+   "text": "Incantesimi del DOminio della LUce"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1471.0,
+   "x2": 248.0,
+   "y2": 1498.0,
+   "text": "Colpo Divino"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1480.0,
+   "x2": 896.0,
+   "y2": 1504.0,
+   "text": "Livello da ChiericoIncantesimi"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1496.0,
+   "x2": 574.0,
+   "y2": 1528.0,
+   "text": "All'8° livello, il chierico ottiene la capacità di infondere nei"
+  },
+  {
+   "x1": 707.0,
+   "y1": 1509.0,
+   "x2": 726.0,
+   "y2": 1529.0,
+   "text": "1°"
+  },
+  {
+   "x1": 800.0,
+   "y1": 1509.0,
+   "x2": 1019.0,
+   "y2": 1533.0,
+   "text": "luminescenza, mani brucianti"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1520.0,
+   "x2": 576.0,
+   "y2": 1549.0,
+   "text": "colpi della sua arma un veleno donatogli dalla sua divinità."
+  },
+  {
+   "x1": 74.0,
+   "y1": 1540.0,
+   "x2": 586.0,
+   "y2": 1577.0,
+   "text": "Una volta per ogni suo turno, quando colpisce una creatura"
+  },
+  {
+   "x1": 700.0,
+   "y1": 1531.0,
+   "x2": 731.0,
+   "y2": 1643.0,
+   "text": "i in"
+  },
+  {
+   "x1": 798.0,
+   "y1": 1535.0,
+   "x2": 1025.0,
+   "y2": 1562.0,
+   "text": "raggio rovente, sfera infuocata"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1569.0,
+   "x2": 558.0,
+   "y2": 1593.0,
+   "text": "con un attacco con un'arma, il chierico può fare in modo"
+  },
+  {
+   "x1": 800.0,
+   "y1": 1564.0,
+   "x2": 992.0,
+   "y2": 1588.0,
+   "text": "luce diurna, palla di fuoco"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1591.0,
+   "x2": 556.0,
+   "y2": 1619.0,
+   "text": "che l'attacco infligga 1d8 danni da veleno extra. Quando"
+  },
+  {
+   "x1": 798.0,
+   "y1": 1590.0,
+   "x2": 1060.0,
+   "y2": 1615.0,
+   "text": "guardiano della fede, muro di fuoco"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1617.0,
+   "x2": 512.0,
+   "y2": 1641.0,
+   "text": "arriva al 14livello, i danni extra aumentano a 2d8."
+  },
+  {
+   "x1": 798.0,
+   "y1": 1619.0,
+   "x2": 984.0,
+   "y2": 1643.0,
+   "text": "colpo infuocato, scrutare"
+  },
+  {
+   "x1": 960.0,
+   "y1": 1683.0,
+   "x2": 1141.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  }
+ ],
+ "reading_text": "dello stesso tipo di danni inferti dall'arma al bersaglio. Quando\nil chierico arriva al 14° livello, i danni extra aumentano a 2d8.\nAvatar Della BatTaGlia\nA7livello, il chierico ottiene resistenza ai danni\ncontundenti, perforanti e taglienti delle armi non magiche.\nDominio dell'Inganno\nGli dèi dell'inganno, come Tymora, Beshaba, Olidammara,\niViaggiatore, Garl Glittergold e Loki, sono mistificatorie\nfomentatori, sempre pronti a turbare l'ordine e la stabilità,\nsia presso gli dèi che presso i mortali. Sono i patroni di ladri,\ncanaglie, giocatori d'azzardo, ribelli e liberatori. I loro chrierici\nesercitano una forza perturbatrice nel mondo: umiliano.i\nsuperbi, si fanno beffe dei tiranni, rubano ai ricchi, liberano i\nprigionieri e contestano le tradizioni di facciata.Prediligono i\nsotterfugi, le burle, gli inganni e i furti agli scontri diretti.\nIncanTeSImi DEL DOMinIO DeLl'InGaNno\nLivello da Chierico Incantesimi\n1°\ncamuffare se stesso, charme su persone\n3°\nimmagine speculare, passare senza tracce\n5°\ndissolvi magie, intermittenza\n7°\nmetamorfosi, porta dimensionale\n9*\ndominare persone, modificare memoria\nBENEDIZIONE DELL'INGANNATORE\nA partire da quando sceglie questo dominio al 1° livello, il\nchierico può usare la sua azione per toccare una creatura\nconsenziente diversa da sé e conferirle vantaggio alle prove\ndi Destrezza (Furtività). Questa benedizione dura 1 ora o\nfinché il chierico non utilizza di nuovo questo privilegio.\nIncanalare Divinità: Invocare Duplicato\nA partire dal 2ª livello, Il chierico può utilizzare Incanalare\nDivinità per creare un duplicato illusorio di se stesso.\nCon un'azione, il chierico crea una perfetta illusione di\nse stesso che dura 1 minuto o finché il chierico non perde\nla concentrazione (come se si stesse concentrando su un\nincantesimo). L'illusione appare in uno spazio libero situato\nentro 9 metri dal chierico e che egli sia in grado di vedere. Come\nazione bonus, nel suo turno, il chierico può muovere l'llusione di\nun massimo di 9 metri fino a uno spazio che egli sia in grado di\nvedere, ma l'illusione deve rimanere entro 36 metri da lui.\nPer tutta la durata, il chierico può lanciare incantesimi\ncome se si trovasse nello spazio dell'illusione, ma deve\nusare i propri sensi. Inoltre, quando sia il chierico che la\nsua illusione si trovano entro1,5 metri da una creatura\nche sia in grado di vedere l'illusione, il chierico dispone\ndi vantaggio ai tiri per colpire contro quella creatura, in\nquanto l'illusione distrae il bersaglio.\nIncanalare Divinità: Manto di Ombre\nA partire dal 6° livello, il chierico può utilizzare Incanalare\nDivinità per svanire.\nCon un'azione, il chierico diventa invisibile fino alla fine\ndel suo turno successivo. Torna a essere visibile se attacca\no se lancia un incantesimo.\nColpo Divino\nAll'8° livello, il chierico ottiene la capacità di infondere nei\ncolpi della sua arma un veleno donatogli dalla sua divinità.\nUna volta per ogni suo turno, quando colpisce una creatura\ncon un attacco con un'arma, il chierico può fare in modo\nche l'attacco infligga 1d8 danni da veleno extra. Quando\narriva al 14livello, i danni extra aumentano a 2d8.\nY\nDuplicato Migliorato\nA1 17* livello, il chierico può creare fino a quattro duplicati\ndi se stesso anziché uno quando utilizza Invocare Duplicato.\nCome azione bonus nel suo turno, il chierico può muovere\nun qualsiasi numero di quei duplicati fino a un massimo di 9\nmetri ed entro una gittata massima di 36 metri.\nDominio dElLa Luce\nLe divinità della luce, che includono Helm, Lathander,\nPholtus, Branchala, la Fiamma d'Argento, Belenos,\nApollo e Ra-Horakhty, promuovono gli ideali di rinascita,\nrinnovamento, verità, vigilanza e bellezza, spesso usando il\nsimbolo del sole. Alcune di queste divinità sono raffigurate\ncome il sole in persona, o come un auriga che guida il sole\nnel cielo. Altre sono instancabili sentinelle il cui sguardo\npenetra ogni ombra e vanifica ogni inganno. Alcune sono\ndivinità della bellezza e dell'arte, e insegnano che l'arte è\nuno strumento per migliorare l'anima.I chierici di un dio\ndella luce sono anime illuminate, pervase dal fulgore e dal\npotere della limpida visione delle loro divinità, incaricate di\nmettere a nudo le menzogne e allontanare l'oscurità.\nIncantesimi del DOminio della LUce\nLivello da ChiericoIncantesimi\n1°\nluminescenza, mani brucianti\ni in\nraggio rovente, sfera infuocata\nluce diurna, palla di fuoco\nguardiano della fede, muro di fuoco\ncolpo infuocato, scrutare\nCAPITOLO 3 |CLASSI"
+}

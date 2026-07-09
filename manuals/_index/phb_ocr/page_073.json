@@ -1,0 +1,955 @@
+{
+ "pdf_page_index": 73,
+ "page_label": 74,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 135,
+ "lines": [
+  {
+   "x1": 107.0,
+   "y1": 88.0,
+   "x2": 478.0,
+   "y2": 115.0,
+   "text": "SuperioritÀ in Combattimento"
+  },
+  {
+   "x1": 676.0,
+   "y1": 86.0,
+   "x2": 1143.0,
+   "y2": 113.0,
+   "text": "Attacco Minaccioso. Quando il guerriero colpisce una"
+  },
+  {
+   "x1": 107.0,
+   "y1": 113.0,
+   "x2": 249.0,
+   "y2": 139.0,
+   "text": "MIGLIORATA"
+  },
+  {
+   "x1": 661.0,
+   "y1": 111.0,
+   "x2": 1125.0,
+   "y2": 135.0,
+   "text": "creatura con un attacco con un'arma, può spendere un"
+  },
+  {
+   "x1": 105.0,
+   "y1": 137.0,
+   "x2": 593.0,
+   "y2": 164.0,
+   "text": "Al 10° livello, i dadi di superiorità del guerriero diventano"
+  },
+  {
+   "x1": 659.0,
+   "y1": 132.0,
+   "x2": 1139.0,
+   "y2": 155.0,
+   "text": "dado di superiorità per tentare di spaventare il bersaglio."
+  },
+  {
+   "x1": 107.0,
+   "y1": 163.0,
+   "x2": 390.0,
+   "y2": 186.0,
+   "text": "d10. A1 18° livello, diventano d12."
+  },
+  {
+   "x1": 661.0,
+   "y1": 157.0,
+   "x2": 1162.0,
+   "y2": 181.0,
+   "text": "Il guerriero aggiunge il dado di superiorità al tiro per i danni"
+  },
+  {
+   "x1": 659.0,
+   "y1": 179.0,
+   "x2": 1132.0,
+   "y2": 203.0,
+   "text": "dell'attacco, e il bersaglio deve effettuare un tiro salvezza"
+  },
+  {
+   "x1": 105.0,
+   "y1": 205.0,
+   "x2": 257.0,
+   "y2": 228.0,
+   "text": "IMPLACABILE"
+  },
+  {
+   "x1": 659.0,
+   "y1": 203.0,
+   "x2": 1121.0,
+   "y2": 227.0,
+   "text": "su Saggezza. Se lo fallisce, il bersaglio è spaventato dal"
+  },
+  {
+   "x1": 107.0,
+   "y1": 232.0,
+   "x2": 543.0,
+   "y2": 256.0,
+   "text": "A partire dal 15* livello, quando il guerriero tira per"
+  },
+  {
+   "x1": 657.0,
+   "y1": 223.0,
+   "x2": 1151.0,
+   "y2": 250.0,
+   "text": "guerriero fino alla fine del turno successivo di quest'ultimo."
+  },
+  {
+   "x1": 107.0,
+   "y1": 254.0,
+   "x2": 558.0,
+   "y2": 278.0,
+   "text": "l'iniziativa e non gli rimane alcun dado di superiorità,"
+  },
+  {
+   "x1": 676.0,
+   "y1": 247.0,
+   "x2": 1132.0,
+   "y2": 270.0,
+   "text": "Attacco Preciso. Quando il guerriero effettua un tiro"
+  },
+  {
+   "x1": 107.0,
+   "y1": 278.0,
+   "x2": 382.0,
+   "y2": 301.0,
+   "text": "recupera un dado di superiorità."
+  },
+  {
+   "x1": 661.0,
+   "y1": 270.0,
+   "x2": 1160.0,
+   "y2": 294.0,
+   "text": "per colpire con un'arma contro una creatura, può spendere"
+  },
+  {
+   "x1": 661.0,
+   "y1": 294.0,
+   "x2": 1136.0,
+   "y2": 312.0,
+   "text": "un dado di superiorità per aggiungerlo al tiro. Può usare"
+  },
+  {
+   "x1": 109.0,
+   "y1": 320.0,
+   "x2": 222.0,
+   "y2": 340.0,
+   "text": "MANOVRE"
+  },
+  {
+   "x1": 659.0,
+   "y1": 316.0,
+   "x2": 1134.0,
+   "y2": 340.0,
+   "text": "questa manovra prima o dopo avere effettuato il tiro per"
+  },
+  {
+   "x1": 107.0,
+   "y1": 345.0,
+   "x2": 523.0,
+   "y2": 369.0,
+   "text": "Le manovre sono presentate in ordine alfabetico."
+  },
+  {
+   "x1": 659.0,
+   "y1": 338.0,
+   "x2": 1160.0,
+   "y2": 362.0,
+   "text": "colpire, ma prima di applicare qualsiasi effetto dell'attacco."
+  },
+  {
+   "x1": 122.0,
+   "y1": 369.0,
+   "x2": 572.0,
+   "y2": 393.0,
+   "text": "Attacco Adescante. Quando il guerriero colpisce una"
+  },
+  {
+   "x1": 676.0,
+   "y1": 364.0,
+   "x2": 1117.0,
+   "y2": 382.0,
+   "text": "Attacco Sbilanciante. Quando ilguerriero colpisce"
+  },
+  {
+   "x1": 661.0,
+   "y1": 384.0,
+   "x2": 1134.0,
+   "y2": 407.0,
+   "text": "una creatura con un attacco con un'arma, può spendere"
+  },
+  {
+   "x1": 109.0,
+   "y1": 395.0,
+   "x2": 558.0,
+   "y2": 413.0,
+   "text": "creatura con un attacco con un'arma, può spendere un"
+  },
+  {
+   "x1": 107.0,
+   "y1": 415.0,
+   "x2": 578.0,
+   "y2": 438.0,
+   "text": "dado di superiorità per indurre il bersaglio ad attaccarlo."
+  },
+  {
+   "x1": 659.0,
+   "y1": 406.0,
+   "x2": 1114.0,
+   "y2": 429.0,
+   "text": "un dado di superiorità per tentare di buttare a terra il"
+  },
+  {
+   "x1": 107.0,
+   "y1": 437.0,
+   "x2": 609.0,
+   "y2": 460.0,
+   "text": "Il guerriero aggiunge il dado di superiorità al tiro per i danni"
+  },
+  {
+   "x1": 661.0,
+   "y1": 429.0,
+   "x2": 1167.0,
+   "y2": 453.0,
+   "text": "bersaglio. Il guerriero aggiunge il dado di superiorità al tiro"
+  },
+  {
+   "x1": 105.0,
+   "y1": 457.0,
+   "x2": 582.0,
+   "y2": 482.0,
+   "text": "dell'attacco, e il bersaglio deve effettuare un tiro salvezza"
+  },
+  {
+   "x1": 661.0,
+   "y1": 451.0,
+   "x2": 1147.0,
+   "y2": 475.0,
+   "text": "per i danni dell'attacco. Se il bersaglio è di taglia Grande"
+  },
+  {
+   "x1": 107.0,
+   "y1": 482.0,
+   "x2": 591.0,
+   "y2": 506.0,
+   "text": "su Saggezza. Se lo fallisce, il bersaglio subisce svantaggio"
+  },
+  {
+   "x1": 663.0,
+   "y1": 477.0,
+   "x2": 1152.0,
+   "y2": 495.0,
+   "text": "o inferiore, deve effettuare un tiro salvezza su Forza. Se lo"
+  },
+  {
+   "x1": 107.0,
+   "y1": 504.0,
+   "x2": 595.0,
+   "y2": 528.0,
+   "text": "a tutti i tiri per colpire contro bersagli diversi dal guerriero"
+  },
+  {
+   "x1": 659.0,
+   "y1": 495.0,
+   "x2": 896.0,
+   "y2": 519.0,
+   "text": "fallisce, cade a terra prono."
+  },
+  {
+   "x1": 109.0,
+   "y1": 528.0,
+   "x2": 502.0,
+   "y2": 552.0,
+   "text": "fino alla fine del turno successivo del guerriero."
+  },
+  {
+   "x1": 681.0,
+   "y1": 523.0,
+   "x2": 1130.0,
+   "y2": 541.0,
+   "text": "Colpo del Comandante. Quando il guerriero effettua"
+  },
+  {
+   "x1": 124.0,
+   "y1": 550.0,
+   "x2": 556.0,
+   "y2": 574.0,
+   "text": "Attacco con Affondo. Quando il guerriero effettua"
+  },
+  {
+   "x1": 661.0,
+   "y1": 543.0,
+   "x2": 1151.0,
+   "y2": 566.0,
+   "text": "l'azione di Attacco nel suo turno, può rinunciare a uno dei"
+  },
+  {
+   "x1": 105.0,
+   "y1": 574.0,
+   "x2": 563.0,
+   "y2": 597.0,
+   "text": "un attacco con un'arma da mischia nel suo turno, può"
+  },
+  {
+   "x1": 659.0,
+   "y1": 565.0,
+   "x2": 1141.0,
+   "y2": 588.0,
+   "text": "suoi attacchi e usare un'azione bonus per ordinare a uno"
+  },
+  {
+   "x1": 105.0,
+   "y1": 596.0,
+   "x2": 611.0,
+   "y2": 619.0,
+   "text": "spendere un dado di superiorità per aumentare di 1,5 metri"
+  },
+  {
+   "x1": 661.0,
+   "y1": 588.0,
+   "x2": 1125.0,
+   "y2": 612.0,
+   "text": "dei suoi compagni di colpire. Quando lo fa, sceglie una"
+  },
+  {
+   "x1": 105.0,
+   "y1": 616.0,
+   "x2": 611.0,
+   "y2": 643.0,
+   "text": "la propria portata per quell'attacco. Se colpisce, aggiunge il"
+  },
+  {
+   "x1": 661.0,
+   "y1": 610.0,
+   "x2": 1123.0,
+   "y2": 634.0,
+   "text": "creatura amica che sia in grado di vederlo o di sentirlo"
+  },
+  {
+   "x1": 107.0,
+   "y1": 641.0,
+   "x2": 526.0,
+   "y2": 665.0,
+   "text": "dado di superiorità al tiro per i danni dell'attacco."
+  },
+  {
+   "x1": 659.0,
+   "y1": 632.0,
+   "x2": 1108.0,
+   "y2": 656.0,
+   "text": "e spende un dado di superiorità. Quella creatura può"
+  },
+  {
+   "x1": 124.0,
+   "y1": 661.0,
+   "x2": 584.0,
+   "y2": 687.0,
+   "text": "Attacco con Finta. Il guerriero può spendere un dado"
+  },
+  {
+   "x1": 659.0,
+   "y1": 654.0,
+   "x2": 1139.0,
+   "y2": 680.0,
+   "text": "immediatamente usare la sua reazione per effettuare un"
+  },
+  {
+   "x1": 107.0,
+   "y1": 685.0,
+   "x2": 582.0,
+   "y2": 709.0,
+   "text": "di superiorità e usare un'azione bonus nel suo turno per"
+  },
+  {
+   "x1": 661.0,
+   "y1": 680.0,
+   "x2": 1154.0,
+   "y2": 703.0,
+   "text": "attacco con un'arma, aggiungendo il dado di superiorità al"
+  },
+  {
+   "x1": 107.0,
+   "y1": 709.0,
+   "x2": 611.0,
+   "y2": 733.0,
+   "text": "fintare, scegliendo una creatura entro 1,5 metri da sé come"
+  },
+  {
+   "x1": 659.0,
+   "y1": 702.0,
+   "x2": 899.0,
+   "y2": 725.0,
+   "text": "tiro per i danni dell'attacco."
+  },
+  {
+   "x1": 107.0,
+   "y1": 733.0,
+   "x2": 615.0,
+   "y2": 756.0,
+   "text": "bersaglio. Il guerriero dispone di vantaggio al suo prossimo"
+  },
+  {
+   "x1": 681.0,
+   "y1": 724.0,
+   "x2": 1102.0,
+   "y2": 747.0,
+   "text": "Colpo Distraente. Quando il guerriero colpisce una"
+  },
+  {
+   "x1": 107.0,
+   "y1": 755.0,
+   "x2": 567.0,
+   "y2": 778.0,
+   "text": "tiro per colpire contro quella creatura in questo turno."
+  },
+  {
+   "x1": 661.0,
+   "y1": 747.0,
+   "x2": 1167.0,
+   "y2": 771.0,
+   "text": "creatura con un attacco con un'arma, può spendere un dado di"
+  },
+  {
+   "x1": 109.0,
+   "y1": 777.0,
+   "x2": 587.0,
+   "y2": 802.0,
+   "text": "Se quell'attacco colpisce, il guerriero aggiunge il dado di"
+  },
+  {
+   "x1": 659.0,
+   "y1": 769.0,
+   "x2": 1163.0,
+   "y2": 793.0,
+   "text": "superiorità per distrarre la creatura e procurare ai suoi alleati"
+  },
+  {
+   "x1": 105.0,
+   "y1": 800.0,
+   "x2": 460.0,
+   "y2": 824.0,
+   "text": "superiorità al tiro per i danni dell'attacco."
+  },
+  {
+   "x1": 661.0,
+   "y1": 793.0,
+   "x2": 1162.0,
+   "y2": 817.0,
+   "text": "un'apertura. Il guerriero aggiunge il dado di superiorità al tiro"
+  },
+  {
+   "x1": 122.0,
+   "y1": 824.0,
+   "x2": 560.0,
+   "y2": 848.0,
+   "text": "Attacco con Manovra. Quando il guerriero colpisce"
+  },
+  {
+   "x1": 659.0,
+   "y1": 813.0,
+   "x2": 1154.0,
+   "y2": 840.0,
+   "text": "per i danni dell'attacco. Il prossimo tiro per colpire effettuato"
+  },
+  {
+   "x1": 107.0,
+   "y1": 848.0,
+   "x2": 567.0,
+   "y2": 866.0,
+   "text": "una creatura con un attacco con un'arma, può spendere"
+  },
+  {
+   "x1": 663.0,
+   "y1": 840.0,
+   "x2": 1139.0,
+   "y2": 859.0,
+   "text": "contro il bersaglio da un attaccante che non sia il guerriero"
+  },
+  {
+   "x1": 107.0,
+   "y1": 868.0,
+   "x2": 593.0,
+   "y2": 892.0,
+   "text": "un dado di superiorità per spostare uno dei suoi compagni"
+  },
+  {
+   "x1": 661.0,
+   "y1": 861.0,
+   "x2": 1141.0,
+   "y2": 884.0,
+   "text": "dispone di vantaggio, purché sia effettuato prima dell'inizio"
+  },
+  {
+   "x1": 661.0,
+   "y1": 882.0,
+   "x2": 946.0,
+   "y2": 906.0,
+   "text": "del turno successivo del guerriero."
+  },
+  {
+   "x1": 107.0,
+   "y1": 892.0,
+   "x2": 582.0,
+   "y2": 915.0,
+   "text": "in una posizione più vantaggiosa. Il guerriero aggiunge il"
+  },
+  {
+   "x1": 107.0,
+   "y1": 914.0,
+   "x2": 589.0,
+   "y2": 937.0,
+   "text": "dado di superiorità al tiro per i danni dell'attacco e sceglie"
+  },
+  {
+   "x1": 678.0,
+   "y1": 906.0,
+   "x2": 1132.0,
+   "y2": 930.0,
+   "text": "Incoraggiamento. Nel proprio turno, il guerriero può"
+  },
+  {
+   "x1": 105.0,
+   "y1": 935.0,
+   "x2": 598.0,
+   "y2": 961.0,
+   "text": "una creatura amica che sia in grado di vederlo o di sentirlo."
+  },
+  {
+   "x1": 659.0,
+   "y1": 928.0,
+   "x2": 1139.0,
+   "y2": 952.0,
+   "text": "usare un'azione bonus e spendere un dado di superiorità"
+  },
+  {
+   "x1": 107.0,
+   "y1": 959.0,
+   "x2": 572.0,
+   "y2": 983.0,
+   "text": "Quefla creatura può usare la sua reazione per muoversi"
+  },
+  {
+   "x1": 661.0,
+   "y1": 952.0,
+   "x2": 1145.0,
+   "y2": 976.0,
+   "text": "per incitare uno dei suoi compagni. Quando lo fa, sceglie"
+  },
+  {
+   "x1": 107.0,
+   "y1": 981.0,
+   "x2": 602.0,
+   "y2": 1005.0,
+   "text": "fino alla metà della sua velocità senza provocare attacchi di"
+  },
+  {
+   "x1": 661.0,
+   "y1": 974.0,
+   "x2": 1163.0,
+   "y2": 998.0,
+   "text": "una creatura amica che sia in grado di vederlo o di sentirlo."
+  },
+  {
+   "x1": 105.0,
+   "y1": 1003.0,
+   "x2": 606.0,
+   "y2": 1031.0,
+   "text": "opportunità da parte del bersaglio dell'attacco del guerriero."
+  },
+  {
+   "x1": 663.0,
+   "y1": 998.0,
+   "x2": 1110.0,
+   "y2": 1021.0,
+   "text": "Quella creatura ottiene un ammontare di punti ferita"
+  },
+  {
+   "x1": 122.0,
+   "y1": 1029.0,
+   "x2": 572.0,
+   "y2": 1052.0,
+   "text": "Attacco con Spazzata. Quando il guerriero colpisce"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1020.0,
+   "x2": 1154.0,
+   "y2": 1043.0,
+   "text": "temporanei pari al risultato del tiro del dado di superiorità"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1049.0,
+   "x2": 558.0,
+   "y2": 1072.0,
+   "text": "una creatura con un attacco con un'arma da mischia,"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1043.0,
+   "x2": 1021.0,
+   "y2": 1067.0,
+   "text": "+ il modificatore diCarisma del guerriero."
+  },
+  {
+   "x1": 109.0,
+   "y1": 1074.0,
+   "x2": 536.0,
+   "y2": 1093.0,
+   "text": "può spendere un dado di superiorità per tentare di"
+  },
+  {
+   "x1": 680.0,
+   "y1": 1065.0,
+   "x2": 1108.0,
+   "y2": 1089.0,
+   "text": "Parata. Quando un'altra creatura infligge danni al"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1096.0,
+   "x2": 587.0,
+   "y2": 1120.0,
+   "text": "infliggere danni a un'altra creatura con lo stesso attacco."
+  },
+  {
+   "x1": 661.0,
+   "y1": 1087.0,
+   "x2": 1158.0,
+   "y2": 1113.0,
+   "text": "guerriero con un attacco in mischia, il guerriero può usare"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1120.0,
+   "x2": 580.0,
+   "y2": 1144.0,
+   "text": "Il guerriero sceglie un'altra creatura entro 1,5 metri dal"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1111.0,
+   "x2": 1112.0,
+   "y2": 1135.0,
+   "text": "la sua reazione e spendere un dado di superiorità per"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1142.0,
+   "x2": 584.0,
+   "y2": 1166.0,
+   "text": "bersaglio originale ed entro la propria portata. Se il tiro"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1136.0,
+   "x2": 1158.0,
+   "y2": 1155.0,
+   "text": "ridurre i danni del numero ottenuto con il tiro del suo dado"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1166.0,
+   "x2": 608.0,
+   "y2": 1189.0,
+   "text": "per colpire originale colpirebbe anche la seconda creatura,"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1157.0,
+   "x2": 1069.0,
+   "y2": 1180.0,
+   "text": "di superiorità + il suo modificatore di Destrezza."
+  },
+  {
+   "x1": 678.0,
+   "y1": 1177.0,
+   "x2": 1154.0,
+   "y2": 1204.0,
+   "text": "Replica. Quando una creatura manca il guerriero con un"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1188.0,
+   "x2": 611.0,
+   "y2": 1213.0,
+   "text": "quest'ultima subisce danni pari al risultato del tiro ottenuto"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1211.0,
+   "x2": 598.0,
+   "y2": 1235.0,
+   "text": "con il dado di superiorità del guerriero. I danni sono dello"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1206.0,
+   "x2": 1147.0,
+   "y2": 1224.0,
+   "text": "attacco in mischia, il guerriero può usare la sua reazione e"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1226.0,
+   "x2": 1138.0,
+   "y2": 1250.0,
+   "text": "spendere un dado di superiorità per effettuare un attacco"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1237.0,
+   "x2": 386.0,
+   "y2": 1255.0,
+   "text": "stesso tipo dell'attacco originale."
+  },
+  {
+   "x1": 124.0,
+   "y1": 1257.0,
+   "x2": 585.0,
+   "y2": 1281.0,
+   "text": "Attacco con Spinta. Quando il guerriero colpisce una"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1250.0,
+   "x2": 1141.0,
+   "y2": 1273.0,
+   "text": "con un'arma da mischia contro la creatura. Se la colpisce,"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1277.0,
+   "x2": 571.0,
+   "y2": 1301.0,
+   "text": "creatura con un attacco con un'arma, può spendere un"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1270.0,
+   "x2": 1165.0,
+   "y2": 1297.0,
+   "text": "aggiunge il dado di superiorità al tiro per i danni dell'attacco."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1303.0,
+   "x2": 567.0,
+   "y2": 1326.0,
+   "text": "dado di superiorità per tentare di spingere il bersaglio"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1295.0,
+   "x2": 1104.0,
+   "y2": 1319.0,
+   "text": "Scarto Elusivo. Quando il guerriero si muove, può"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1325.0,
+   "x2": 560.0,
+   "y2": 1348.0,
+   "text": "rigettandolo indietro. Il guerriero aggiunge il dado di"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1315.0,
+   "x2": 1115.0,
+   "y2": 1343.0,
+   "text": "spendere un dado di superiorità, tirarlo e aggiungere il"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1345.0,
+   "x2": 604.0,
+   "y2": 1372.0,
+   "text": "superiorità al tiro per i danni dell'attacco. Se il bersaglio è"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1343.0,
+   "x2": 1160.0,
+   "y2": 1361.0,
+   "text": "risultato ottenuto alla sua CA finché non smette di muoversi."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1368.0,
+   "x2": 613.0,
+   "y2": 1396.0,
+   "text": "di taglia Grande o inferiore, deve effettuare un tiro salvezza"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1394.0,
+   "x2": 606.0,
+   "y2": 1418.0,
+   "text": "su Forza. Se lo fallisce, il guerriero spinge il bersaglio fino"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1387.0,
+   "x2": 940.0,
+   "y2": 1411.0,
+   "text": "CAVALIERE MISTICO"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1420.0,
+   "x2": 517.0,
+   "y2": 1438.0,
+   "text": "a un massimo di 4,5 metri allontanandolo da sé."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1421.0,
+   "x2": 1132.0,
+   "y2": 1445.0,
+   "text": "Nell'archetipo del Cavaliere Mistico, la maestria nell'arte"
+  },
+  {
+   "x1": 122.0,
+   "y1": 1440.0,
+   "x2": 598.0,
+   "y2": 1463.0,
+   "text": "Attacco Disarmante. Quando il guerriero colpisce una"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1445.0,
+   "x2": 1156.0,
+   "y2": 1469.0,
+   "text": "della guerra comune a tutti i guerrieri si unisce a un attento"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1463.0,
+   "x2": 574.0,
+   "y2": 1487.0,
+   "text": "creatura con un attacco con un'arma, può spendere un"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1469.0,
+   "x2": 1104.0,
+   "y2": 1493.0,
+   "text": "studio della magia. I Cavalieri Mistici usano tecniche"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1485.0,
+   "x2": 585.0,
+   "y2": 1509.0,
+   "text": "dado di superiorità per tentare di disarmare il bersaglio,"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1493.0,
+   "x2": 1143.0,
+   "y2": 1516.0,
+   "text": "magiche simili a quelle praticate dai maghi, concentrando"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1509.0,
+   "x2": 545.0,
+   "y2": 1533.0,
+   "text": "costringendolo a lasciare cadere un oggetto che sta"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1515.0,
+   "x2": 1147.0,
+   "y2": 1538.0,
+   "text": "i loro studi su due delle otto scuole di magia: abiurazione e"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1533.0,
+   "x2": 589.0,
+   "y2": 1557.0,
+   "text": "impugnando a scelta del guerriero. Il guerriero aggiunge"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1537.0,
+   "x2": 1147.0,
+   "y2": 1562.0,
+   "text": "invocazione. Gli incantesimi di abiurazione conferiscono a"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1555.0,
+   "x2": 574.0,
+   "y2": 1579.0,
+   "text": "il dado di superiorità al tiro per i danni dell'attacco, e il"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1564.0,
+   "x2": 1167.0,
+   "y2": 1582.0,
+   "text": "un Cavaliere Misticoulteriore protezione in battaglia, mentre"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1579.0,
+   "x2": 571.0,
+   "y2": 1602.0,
+   "text": "bersaglio deve effettuare un tiro salvezza su Forza. Se"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1588.0,
+   "x2": 1112.0,
+   "y2": 1606.0,
+   "text": "gli incantesimi di invocazione infliggono danni a molti"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1601.0,
+   "x2": 561.0,
+   "y2": 1624.0,
+   "text": "lo fallisce, lascia cadere l'oggetto scelto dal guerriero."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1608.0,
+   "x2": 1139.0,
+   "y2": 1632.0,
+   "text": "avversari contemporaneamente, ampliando la portata del"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1624.0,
+   "x2": 428.0,
+   "y2": 1648.0,
+   "text": "L'oggetto cade ai piedi della creatura."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1632.0,
+   "x2": 1162.0,
+   "y2": 1655.0,
+   "text": "guerriero in combattimento. Questi cavalieri apprendono un"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1696.0,
+   "x2": 286.0,
+   "y2": 1714.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 18.0,
+   "y1": 1706.0,
+   "x2": 44.0,
+   "y2": 1730.0,
+   "text": "74"
+  }
+ ],
+ "reading_text": "SuperioritÀ in Combattimento\nMIGLIORATA\nAl 10° livello, i dadi di superiorità del guerriero diventano\nd10. A1 18° livello, diventano d12.\nIMPLACABILE\nA partire dal 15* livello, quando il guerriero tira per\nl'iniziativa e non gli rimane alcun dado di superiorità,\nrecupera un dado di superiorità.\nMANOVRE\nLe manovre sono presentate in ordine alfabetico.\nAttacco Adescante. Quando il guerriero colpisce una\ncreatura con un attacco con un'arma, può spendere un\ndado di superiorità per indurre il bersaglio ad attaccarlo.\nIl guerriero aggiunge il dado di superiorità al tiro per i danni\ndell'attacco, e il bersaglio deve effettuare un tiro salvezza\nsu Saggezza. Se lo fallisce, il bersaglio subisce svantaggio\na tutti i tiri per colpire contro bersagli diversi dal guerriero\nfino alla fine del turno successivo del guerriero.\nAttacco con Affondo. Quando il guerriero effettua\nun attacco con un'arma da mischia nel suo turno, può\nspendere un dado di superiorità per aumentare di 1,5 metri\nla propria portata per quell'attacco. Se colpisce, aggiunge il\ndado di superiorità al tiro per i danni dell'attacco.\nAttacco con Finta. Il guerriero può spendere un dado\ndi superiorità e usare un'azione bonus nel suo turno per\nfintare, scegliendo una creatura entro 1,5 metri da sé come\nbersaglio. Il guerriero dispone di vantaggio al suo prossimo\ntiro per colpire contro quella creatura in questo turno.\nSe quell'attacco colpisce, il guerriero aggiunge il dado di\nsuperiorità al tiro per i danni dell'attacco.\nAttacco con Manovra. Quando il guerriero colpisce\nuna creatura con un attacco con un'arma, può spendere\nun dado di superiorità per spostare uno dei suoi compagni\nin una posizione più vantaggiosa. Il guerriero aggiunge il\ndado di superiorità al tiro per i danni dell'attacco e sceglie\nuna creatura amica che sia in grado di vederlo o di sentirlo.\nQuefla creatura può usare la sua reazione per muoversi\nfino alla metà della sua velocità senza provocare attacchi di\nopportunità da parte del bersaglio dell'attacco del guerriero.\nAttacco con Spazzata. Quando il guerriero colpisce\nuna creatura con un attacco con un'arma da mischia,\npuò spendere un dado di superiorità per tentare di\ninfliggere danni a un'altra creatura con lo stesso attacco.\nIl guerriero sceglie un'altra creatura entro 1,5 metri dal\nbersaglio originale ed entro la propria portata. Se il tiro\nper colpire originale colpirebbe anche la seconda creatura,\nquest'ultima subisce danni pari al risultato del tiro ottenuto\ncon il dado di superiorità del guerriero. I danni sono dello\nstesso tipo dell'attacco originale.\nAttacco con Spinta. Quando il guerriero colpisce una\ncreatura con un attacco con un'arma, può spendere un\ndado di superiorità per tentare di spingere il bersaglio\nrigettandolo indietro. Il guerriero aggiunge il dado di\nsuperiorità al tiro per i danni dell'attacco. Se il bersaglio è\ndi taglia Grande o inferiore, deve effettuare un tiro salvezza\nsu Forza. Se lo fallisce, il guerriero spinge il bersaglio fino\na un massimo di 4,5 metri allontanandolo da sé.\nAttacco Disarmante. Quando il guerriero colpisce una\ncreatura con un attacco con un'arma, può spendere un\ndado di superiorità per tentare di disarmare il bersaglio,\ncostringendolo a lasciare cadere un oggetto che sta\nimpugnando a scelta del guerriero. Il guerriero aggiunge\nil dado di superiorità al tiro per i danni dell'attacco, e il\nbersaglio deve effettuare un tiro salvezza su Forza. Se\nlo fallisce, lascia cadere l'oggetto scelto dal guerriero.\nL'oggetto cade ai piedi della creatura.\nCAPITOLO 3 CLASSI\n74\nAttacco Minaccioso. Quando il guerriero colpisce una\ncreatura con un attacco con un'arma, può spendere un\ndado di superiorità per tentare di spaventare il bersaglio.\nIl guerriero aggiunge il dado di superiorità al tiro per i danni\ndell'attacco, e il bersaglio deve effettuare un tiro salvezza\nsu Saggezza. Se lo fallisce, il bersaglio è spaventato dal\nguerriero fino alla fine del turno successivo di quest'ultimo.\nAttacco Preciso. Quando il guerriero effettua un tiro\nper colpire con un'arma contro una creatura, può spendere\nun dado di superiorità per aggiungerlo al tiro. Può usare\nquesta manovra prima o dopo avere effettuato il tiro per\ncolpire, ma prima di applicare qualsiasi effetto dell'attacco.\nAttacco Sbilanciante. Quando ilguerriero colpisce\nuna creatura con un attacco con un'arma, può spendere\nun dado di superiorità per tentare di buttare a terra il\nbersaglio. Il guerriero aggiunge il dado di superiorità al tiro\nper i danni dell'attacco. Se il bersaglio è di taglia Grande\no inferiore, deve effettuare un tiro salvezza su Forza. Se lo\nfallisce, cade a terra prono.\nColpo del Comandante. Quando il guerriero effettua\nl'azione di Attacco nel suo turno, può rinunciare a uno dei\nsuoi attacchi e usare un'azione bonus per ordinare a uno\ndei suoi compagni di colpire. Quando lo fa, sceglie una\ncreatura amica che sia in grado di vederlo o di sentirlo\ne spende un dado di superiorità. Quella creatura può\nimmediatamente usare la sua reazione per effettuare un\nattacco con un'arma, aggiungendo il dado di superiorità al\ntiro per i danni dell'attacco.\nColpo Distraente. Quando il guerriero colpisce una\ncreatura con un attacco con un'arma, può spendere un dado di\nsuperiorità per distrarre la creatura e procurare ai suoi alleati\nun'apertura. Il guerriero aggiunge il dado di superiorità al tiro\nper i danni dell'attacco. Il prossimo tiro per colpire effettuato\ncontro il bersaglio da un attaccante che non sia il guerriero\ndispone di vantaggio, purché sia effettuato prima dell'inizio\ndel turno successivo del guerriero.\nIncoraggiamento. Nel proprio turno, il guerriero può\nusare un'azione bonus e spendere un dado di superiorità\nper incitare uno dei suoi compagni. Quando lo fa, sceglie\nuna creatura amica che sia in grado di vederlo o di sentirlo.\nQuella creatura ottiene un ammontare di punti ferita\ntemporanei pari al risultato del tiro del dado di superiorità\n+ il modificatore diCarisma del guerriero.\nParata. Quando un'altra creatura infligge danni al\nguerriero con un attacco in mischia, il guerriero può usare\nla sua reazione e spendere un dado di superiorità per\nridurre i danni del numero ottenuto con il tiro del suo dado\ndi superiorità + il suo modificatore di Destrezza.\nReplica. Quando una creatura manca il guerriero con un\nattacco in mischia, il guerriero può usare la sua reazione e\nspendere un dado di superiorità per effettuare un attacco\ncon un'arma da mischia contro la creatura. Se la colpisce,\naggiunge il dado di superiorità al tiro per i danni dell'attacco.\nScarto Elusivo. Quando il guerriero si muove, può\nspendere un dado di superiorità, tirarlo e aggiungere il\nrisultato ottenuto alla sua CA finché non smette di muoversi.\nCAVALIERE MISTICO\nNell'archetipo del Cavaliere Mistico, la maestria nell'arte\ndella guerra comune a tutti i guerrieri si unisce a un attento\nstudio della magia. I Cavalieri Mistici usano tecniche\nmagiche simili a quelle praticate dai maghi, concentrando\ni loro studi su due delle otto scuole di magia: abiurazione e\ninvocazione. Gli incantesimi di abiurazione conferiscono a\nun Cavaliere Misticoulteriore protezione in battaglia, mentre\ngli incantesimi di invocazione infliggono danni a molti\navversari contemporaneamente, ampliando la portata del\nguerriero in combattimento. Questi cavalieri apprendono un"
+}

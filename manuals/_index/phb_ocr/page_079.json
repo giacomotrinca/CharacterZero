@@ -1,0 +1,1515 @@
+{
+ "pdf_page_index": 79,
+ "page_label": 80,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 215,
+ "lines": [
+  {
+   "x1": 111.0,
+   "y1": 88.0,
+   "x2": 262.0,
+   "y2": 115.0,
+   "text": "Incantesimi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 88.0,
+   "x2": 1103.0,
+   "y2": 115.0,
+   "text": "InCANTESIMI DEL MISTIFICATORE ARCANO"
+  },
+  {
+   "x1": 113.0,
+   "y1": 117.0,
+   "x2": 558.0,
+   "y2": 141.0,
+   "text": "Quando arriva al 3' livello, il ladro ottiene la capacità"
+  },
+  {
+   "x1": 956.0,
+   "y1": 120.0,
+   "x2": 1130.0,
+   "y2": 148.0,
+   "text": "—Slot Incantesimo per"
+  },
+  {
+   "x1": 113.0,
+   "y1": 139.0,
+   "x2": 574.0,
+   "y2": 163.0,
+   "text": "di lanciare incantesimi. Vedi il capitolo 10 per le regole"
+  },
+  {
+   "x1": 947.0,
+   "y1": 144.0,
+   "x2": 1132.0,
+   "y2": 172.0,
+   "text": "Livello di Incantesimo—"
+  },
+  {
+   "x1": 111.0,
+   "y1": 159.0,
+   "x2": 604.0,
+   "y2": 186.0,
+   "text": "generali relative alla magia e il capitolo 11 per la lista degli"
+  },
+  {
+   "x1": 661.0,
+   "y1": 155.0,
+   "x2": 840.0,
+   "y2": 179.0,
+   "text": "Livello daTrucchetti"
+  },
+  {
+   "x1": 833.0,
+   "y1": 157.0,
+   "x2": 927.0,
+   "y2": 177.0,
+   "text": "Incantesimi"
+  },
+  {
+   "x1": 113.0,
+   "y1": 183.0,
+   "x2": 303.0,
+   "y2": 206.0,
+   "text": "incantesimi da mago."
+  },
+  {
+   "x1": 670.0,
+   "y1": 177.0,
+   "x2": 735.0,
+   "y2": 203.0,
+   "text": "Ladro"
+  },
+  {
+   "x1": 741.0,
+   "y1": 181.0,
+   "x2": 825.0,
+   "y2": 201.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 835.0,
+   "y1": 177.0,
+   "x2": 925.0,
+   "y2": 203.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 946.0,
+   "y1": 181.0,
+   "x2": 966.0,
+   "y2": 199.0,
+   "text": "1°"
+  },
+  {
+   "x1": 1001.0,
+   "y1": 177.0,
+   "x2": 1027.0,
+   "y2": 201.0,
+   "text": "2°"
+  },
+  {
+   "x1": 1058.0,
+   "y1": 177.0,
+   "x2": 1082.0,
+   "y2": 201.0,
+   "text": "3°"
+  },
+  {
+   "x1": 1119.0,
+   "y1": 181.0,
+   "x2": 1136.0,
+   "y2": 199.0,
+   "text": "4°"
+  },
+  {
+   "x1": 133.0,
+   "y1": 205.0,
+   "x2": 565.0,
+   "y2": 228.0,
+   "text": "Trucchetti. Un ladro apprende tre trucchetti: mano"
+  },
+  {
+   "x1": 685.0,
+   "y1": 205.0,
+   "x2": 711.0,
+   "y2": 230.0,
+   "text": "3°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 206.0,
+   "x2": 790.0,
+   "y2": 228.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 206.0,
+   "x2": 888.0,
+   "y2": 228.0,
+   "text": "3"
+  },
+  {
+   "x1": 946.0,
+   "y1": 205.0,
+   "x2": 968.0,
+   "y2": 230.0,
+   "text": "2"
+  },
+  {
+   "x1": 113.0,
+   "y1": 228.0,
+   "x2": 585.0,
+   "y2": 252.0,
+   "text": "magica e altri due trucchetti a sua scelta tratti dalla lista"
+  },
+  {
+   "x1": 685.0,
+   "y1": 228.0,
+   "x2": 711.0,
+   "y2": 256.0,
+   "text": "4°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 232.0,
+   "x2": 790.0,
+   "y2": 256.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 234.0,
+   "x2": 888.0,
+   "y2": 252.0,
+   "text": "4"
+  },
+  {
+   "x1": 949.0,
+   "y1": 236.0,
+   "x2": 964.0,
+   "y2": 254.0,
+   "text": "3"
+  },
+  {
+   "x1": 114.0,
+   "y1": 252.0,
+   "x2": 569.0,
+   "y2": 276.0,
+   "text": "degli incantesimi da mago. Apprende un trucchetto da"
+  },
+  {
+   "x1": 685.0,
+   "y1": 258.0,
+   "x2": 711.0,
+   "y2": 281.0,
+   "text": "5°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 259.0,
+   "x2": 790.0,
+   "y2": 280.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 259.0,
+   "x2": 888.0,
+   "y2": 280.0,
+   "text": "4"
+  },
+  {
+   "x1": 949.0,
+   "y1": 259.0,
+   "x2": 964.0,
+   "y2": 280.0,
+   "text": "3"
+  },
+  {
+   "x1": 113.0,
+   "y1": 274.0,
+   "x2": 467.0,
+   "y2": 298.0,
+   "text": "mago aggiuntivo a sua scelta al 10° livello."
+  },
+  {
+   "x1": 687.0,
+   "y1": 283.0,
+   "x2": 711.0,
+   "y2": 309.0,
+   "text": "6°"
+  },
+  {
+   "x1": 766.0,
+   "y1": 281.0,
+   "x2": 796.0,
+   "y2": 311.0,
+   "text": "7"
+  },
+  {
+   "x1": 129.0,
+   "y1": 296.0,
+   "x2": 512.0,
+   "y2": 320.0,
+   "text": "Slot Incantesimo. La tabella \"Incantesimi del"
+  },
+  {
+   "x1": 874.0,
+   "y1": 289.0,
+   "x2": 888.0,
+   "y2": 305.0,
+   "text": "4"
+  },
+  {
+   "x1": 949.0,
+   "y1": 287.0,
+   "x2": 964.0,
+   "y2": 305.0,
+   "text": "3"
+  },
+  {
+   "x1": 113.0,
+   "y1": 318.0,
+   "x2": 543.0,
+   "y2": 342.0,
+   "text": "Mistificatore Arcano\" indica quanti slot incantesimo"
+  },
+  {
+   "x1": 685.0,
+   "y1": 309.0,
+   "x2": 709.0,
+   "y2": 333.0,
+   "text": "7°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 311.0,
+   "x2": 790.0,
+   "y2": 331.0,
+   "text": "3"
+  },
+  {
+   "x1": 874.0,
+   "y1": 311.0,
+   "x2": 888.0,
+   "y2": 331.0,
+   "text": "5"
+  },
+  {
+   "x1": 949.0,
+   "y1": 312.0,
+   "x2": 966.0,
+   "y2": 331.0,
+   "text": "4"
+  },
+  {
+   "x1": 1010.0,
+   "y1": 316.0,
+   "x2": 1019.0,
+   "y2": 329.0,
+   "text": "2"
+  },
+  {
+   "x1": 111.0,
+   "y1": 338.0,
+   "x2": 606.0,
+   "y2": 365.0,
+   "text": "possiede un ladro per lanciare i suoi incantesimi di lº livello"
+  },
+  {
+   "x1": 685.0,
+   "y1": 334.0,
+   "x2": 711.0,
+   "y2": 360.0,
+   "text": "8°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 338.0,
+   "x2": 790.0,
+   "y2": 356.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 338.0,
+   "x2": 888.0,
+   "y2": 358.0,
+   "text": "6"
+  },
+  {
+   "x1": 949.0,
+   "y1": 340.0,
+   "x2": 964.0,
+   "y2": 356.0,
+   "text": "4"
+  },
+  {
+   "x1": 1010.0,
+   "y1": 343.0,
+   "x2": 1019.0,
+   "y2": 354.0,
+   "text": "2"
+  },
+  {
+   "x1": 111.0,
+   "y1": 364.0,
+   "x2": 602.0,
+   "y2": 387.0,
+   "text": "e di livello superiore. Per lanciare uno di questi incantesimi,"
+  },
+  {
+   "x1": 685.0,
+   "y1": 360.0,
+   "x2": 711.0,
+   "y2": 387.0,
+   "text": "9°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 364.0,
+   "x2": 790.0,
+   "y2": 382.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 364.0,
+   "x2": 888.0,
+   "y2": 384.0,
+   "text": "6"
+  },
+  {
+   "x1": 949.0,
+   "y1": 365.0,
+   "x2": 964.0,
+   "y2": 382.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 364.0,
+   "x2": 1021.0,
+   "y2": 384.0,
+   "text": "2"
+  },
+  {
+   "x1": 111.0,
+   "y1": 384.0,
+   "x2": 597.0,
+   "y2": 409.0,
+   "text": "il ladro deve spendere uno slot incantesimo di livello pari o"
+  },
+  {
+   "x1": 681.0,
+   "y1": 387.0,
+   "x2": 715.0,
+   "y2": 411.0,
+   "text": "10°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 391.0,
+   "x2": 790.0,
+   "y2": 409.0,
+   "text": "4"
+  },
+  {
+   "x1": 872.0,
+   "y1": 389.0,
+   "x2": 888.0,
+   "y2": 409.0,
+   "text": "7"
+  },
+  {
+   "x1": 949.0,
+   "y1": 391.0,
+   "x2": 966.0,
+   "y2": 409.0,
+   "text": "4"
+  },
+  {
+   "x1": 1008.0,
+   "y1": 391.0,
+   "x2": 1023.0,
+   "y2": 409.0,
+   "text": "3"
+  },
+  {
+   "x1": 113.0,
+   "y1": 409.0,
+   "x2": 613.0,
+   "y2": 433.0,
+   "text": "superiore al livello dell'incantesimo. Il ladro recupera tutti gli"
+  },
+  {
+   "x1": 681.0,
+   "y1": 413.0,
+   "x2": 713.0,
+   "y2": 438.0,
+   "text": "11°"
+  },
+  {
+   "x1": 777.0,
+   "y1": 420.0,
+   "x2": 787.0,
+   "y2": 433.0,
+   "text": "4"
+  },
+  {
+   "x1": 872.0,
+   "y1": 417.0,
+   "x2": 888.0,
+   "y2": 437.0,
+   "text": "8"
+  },
+  {
+   "x1": 949.0,
+   "y1": 417.0,
+   "x2": 966.0,
+   "y2": 433.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 417.0,
+   "x2": 1021.0,
+   "y2": 433.0,
+   "text": "3"
+  },
+  {
+   "x1": 113.0,
+   "y1": 431.0,
+   "x2": 578.0,
+   "y2": 455.0,
+   "text": "slot incantesimo spesi quando completa un riposo lungo."
+  },
+  {
+   "x1": 681.0,
+   "y1": 438.0,
+   "x2": 713.0,
+   "y2": 464.0,
+   "text": "12°"
+  },
+  {
+   "x1": 772.0,
+   "y1": 444.0,
+   "x2": 790.0,
+   "y2": 462.0,
+   "text": "A"
+  },
+  {
+   "x1": 872.0,
+   "y1": 442.0,
+   "x2": 888.0,
+   "y2": 462.0,
+   "text": "8"
+  },
+  {
+   "x1": 949.0,
+   "y1": 444.0,
+   "x2": 964.0,
+   "y2": 462.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 442.0,
+   "x2": 1021.0,
+   "y2": 460.0,
+   "text": "3"
+  },
+  {
+   "x1": 129.0,
+   "y1": 453.0,
+   "x2": 567.0,
+   "y2": 477.0,
+   "text": "Per esempio, se un ladro conosce l'incantesimo di 1"
+  },
+  {
+   "x1": 680.0,
+   "y1": 462.0,
+   "x2": 717.0,
+   "y2": 493.0,
+   "text": "13°"
+  },
+  {
+   "x1": 111.0,
+   "y1": 473.0,
+   "x2": 602.0,
+   "y2": 501.0,
+   "text": "livello charme su persone e possiede uno slot incantesimo"
+  },
+  {
+   "x1": 777.0,
+   "y1": 470.0,
+   "x2": 789.0,
+   "y2": 486.0,
+   "text": "4"
+  },
+  {
+   "x1": 872.0,
+   "y1": 468.0,
+   "x2": 888.0,
+   "y2": 490.0,
+   "text": "9"
+  },
+  {
+   "x1": 949.0,
+   "y1": 470.0,
+   "x2": 964.0,
+   "y2": 488.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 468.0,
+   "x2": 1021.0,
+   "y2": 488.0,
+   "text": "3"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 471.0,
+   "x2": 1078.0,
+   "y2": 488.0,
+   "text": "2"
+  },
+  {
+   "x1": 111.0,
+   "y1": 497.0,
+   "x2": 609.0,
+   "y2": 521.0,
+   "text": "di 1' livello e uno slot incantesimo di 2° livello, può lanciare"
+  },
+  {
+   "x1": 683.0,
+   "y1": 491.0,
+   "x2": 715.0,
+   "y2": 517.0,
+   "text": "14*"
+  },
+  {
+   "x1": 774.0,
+   "y1": 495.0,
+   "x2": 789.0,
+   "y2": 513.0,
+   "text": "4"
+  },
+  {
+   "x1": 866.0,
+   "y1": 491.0,
+   "x2": 896.0,
+   "y2": 517.0,
+   "text": "10"
+  },
+  {
+   "x1": 949.0,
+   "y1": 495.0,
+   "x2": 966.0,
+   "y2": 513.0,
+   "text": "4"
+  },
+  {
+   "x1": 1005.0,
+   "y1": 495.0,
+   "x2": 1023.0,
+   "y2": 513.0,
+   "text": "3"
+  },
+  {
+   "x1": 1059.0,
+   "y1": 492.0,
+   "x2": 1082.0,
+   "y2": 514.0,
+   "text": "2"
+  },
+  {
+   "x1": 111.0,
+   "y1": 519.0,
+   "x2": 560.0,
+   "y2": 543.0,
+   "text": "charme su persone usando uno qualsiasi dei due slot."
+  },
+  {
+   "x1": 681.0,
+   "y1": 517.0,
+   "x2": 713.0,
+   "y2": 543.0,
+   "text": "15°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 523.0,
+   "x2": 789.0,
+   "y2": 539.0,
+   "text": "4"
+  },
+  {
+   "x1": 866.0,
+   "y1": 517.0,
+   "x2": 894.0,
+   "y2": 544.0,
+   "text": "10"
+  },
+  {
+   "x1": 949.0,
+   "y1": 523.0,
+   "x2": 966.0,
+   "y2": 541.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 521.0,
+   "x2": 1023.0,
+   "y2": 541.0,
+   "text": "3"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 523.0,
+   "x2": 1078.0,
+   "y2": 539.0,
+   "text": "2"
+  },
+  {
+   "x1": 129.0,
+   "y1": 543.0,
+   "x2": 608.0,
+   "y2": 566.0,
+   "text": "Incantesimi Conasciuti di 1'Livello e di Livello Superiore."
+  },
+  {
+   "x1": 680.0,
+   "y1": 541.0,
+   "x2": 717.0,
+   "y2": 570.0,
+   "text": "16°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 548.0,
+   "x2": 790.0,
+   "y2": 566.0,
+   "text": "4"
+  },
+  {
+   "x1": 866.0,
+   "y1": 544.0,
+   "x2": 894.0,
+   "y2": 568.0,
+   "text": "11"
+  },
+  {
+   "x1": 949.0,
+   "y1": 548.0,
+   "x2": 966.0,
+   "y2": 566.0,
+   "text": "4"
+  },
+  {
+   "x1": 1005.0,
+   "y1": 548.0,
+   "x2": 1021.0,
+   "y2": 566.0,
+   "text": "3"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 548.0,
+   "x2": 1078.0,
+   "y2": 565.0,
+   "text": "3"
+  },
+  {
+   "x1": 111.0,
+   "y1": 563.0,
+   "x2": 580.0,
+   "y2": 590.0,
+   "text": "Un ladro conosce tre incantesimi da mago di 1º livello a sua"
+  },
+  {
+   "x1": 680.0,
+   "y1": 566.0,
+   "x2": 715.0,
+   "y2": 597.0,
+   "text": "17°"
+  },
+  {
+   "x1": 774.0,
+   "y1": 574.0,
+   "x2": 790.0,
+   "y2": 592.0,
+   "text": "4"
+  },
+  {
+   "x1": 866.0,
+   "y1": 568.0,
+   "x2": 892.0,
+   "y2": 596.0,
+   "text": "11"
+  },
+  {
+   "x1": 949.0,
+   "y1": 574.0,
+   "x2": 966.0,
+   "y2": 592.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 574.0,
+   "x2": 1021.0,
+   "y2": 592.0,
+   "text": "3"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 574.0,
+   "x2": 1078.0,
+   "y2": 592.0,
+   "text": "3"
+  },
+  {
+   "x1": 113.0,
+   "y1": 588.0,
+   "x2": 595.0,
+   "y2": 612.0,
+   "text": "scelta, due dei quali devono essere scelti tra gli incantesimi di"
+  },
+  {
+   "x1": 680.0,
+   "y1": 594.0,
+   "x2": 717.0,
+   "y2": 623.0,
+   "text": "18°"
+  },
+  {
+   "x1": 777.0,
+   "y1": 601.0,
+   "x2": 789.0,
+   "y2": 618.0,
+   "text": "4"
+  },
+  {
+   "x1": 866.0,
+   "y1": 596.0,
+   "x2": 892.0,
+   "y2": 621.0,
+   "text": "11"
+  },
+  {
+   "x1": 949.0,
+   "y1": 599.0,
+   "x2": 964.0,
+   "y2": 618.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 599.0,
+   "x2": 1021.0,
+   "y2": 618.0,
+   "text": "3"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 599.0,
+   "x2": 1077.0,
+   "y2": 619.0,
+   "text": "3"
+  },
+  {
+   "x1": 111.0,
+   "y1": 612.0,
+   "x2": 609.0,
+   "y2": 636.0,
+   "text": "ammaliamento e illusione sulla lista degli incantesimi da mago."
+  },
+  {
+   "x1": 680.0,
+   "y1": 619.0,
+   "x2": 717.0,
+   "y2": 649.0,
+   "text": "19°"
+  },
+  {
+   "x1": 771.0,
+   "y1": 622.0,
+   "x2": 793.0,
+   "y2": 646.0,
+   "text": "4"
+  },
+  {
+   "x1": 862.0,
+   "y1": 618.0,
+   "x2": 898.0,
+   "y2": 650.0,
+   "text": "12"
+  },
+  {
+   "x1": 129.0,
+   "y1": 634.0,
+   "x2": 550.0,
+   "y2": 658.0,
+   "text": "La colonna \"Incantesimi Conosciuti\" nella tabella"
+  },
+  {
+   "x1": 947.0,
+   "y1": 625.0,
+   "x2": 966.0,
+   "y2": 645.0,
+   "text": "4"
+  },
+  {
+   "x1": 1006.0,
+   "y1": 625.0,
+   "x2": 1023.0,
+   "y2": 645.0,
+   "text": "3"
+  },
+  {
+   "x1": 1062.0,
+   "y1": 625.0,
+   "x2": 1078.0,
+   "y2": 645.0,
+   "text": "3"
+  },
+  {
+   "x1": 1121.0,
+   "y1": 629.0,
+   "x2": 1130.0,
+   "y2": 641.0,
+   "text": "1"
+  },
+  {
+   "x1": 111.0,
+   "y1": 652.0,
+   "x2": 585.0,
+   "y2": 682.0,
+   "text": "Incantesimi del Mistificatore Arcano\" indica quando un"
+  },
+  {
+   "x1": 675.0,
+   "y1": 642.0,
+   "x2": 718.0,
+   "y2": 677.0,
+   "text": "20°"
+  },
+  {
+   "x1": 772.0,
+   "y1": 654.0,
+   "x2": 790.0,
+   "y2": 671.0,
+   "text": "4"
+  },
+  {
+   "x1": 868.0,
+   "y1": 649.0,
+   "x2": 894.0,
+   "y2": 674.0,
+   "text": "13"
+  },
+  {
+   "x1": 949.0,
+   "y1": 652.0,
+   "x2": 966.0,
+   "y2": 671.0,
+   "text": "4"
+  },
+  {
+   "x1": 1005.0,
+   "y1": 650.0,
+   "x2": 1021.0,
+   "y2": 671.0,
+   "text": "3"
+  },
+  {
+   "x1": 1062.0,
+   "y1": 650.0,
+   "x2": 1078.0,
+   "y2": 671.0,
+   "text": "3"
+  },
+  {
+   "x1": 1123.0,
+   "y1": 654.0,
+   "x2": 1132.0,
+   "y2": 667.0,
+   "text": "1"
+  },
+  {
+   "x1": 113.0,
+   "y1": 676.0,
+   "x2": 574.0,
+   "y2": 700.0,
+   "text": "ladro impara altri incantesimi da mago di 1' livello o di"
+  },
+  {
+   "x1": 111.0,
+   "y1": 700.0,
+   "x2": 608.0,
+   "y2": 724.0,
+   "text": "livello superiore. Ognuno di questi incantesimi deve essere"
+  },
+  {
+   "x1": 657.0,
+   "y1": 700.0,
+   "x2": 1125.0,
+   "y2": 724.0,
+   "text": "Il ladro può svolgere uno di questi compiti senza essere"
+  },
+  {
+   "x1": 109.0,
+   "y1": 722.0,
+   "x2": 606.0,
+   "y2": 747.0,
+   "text": "un incantesimo di ammaliamento o di illusione a scelta del"
+  },
+  {
+   "x1": 659.0,
+   "y1": 724.0,
+   "x2": 1147.0,
+   "y2": 747.0,
+   "text": "notato da una creatura se effettua con successo una prova"
+  },
+  {
+   "x1": 113.0,
+   "y1": 745.0,
+   "x2": 611.0,
+   "y2": 769.0,
+   "text": "ladro e deve appartenere a un livello di cui il ladro possiede"
+  },
+  {
+   "x1": 657.0,
+   "y1": 742.0,
+   "x2": 1145.0,
+   "y2": 769.0,
+   "text": "di Destrezza (Rapidità di Mano) contrapposta a una prova"
+  },
+  {
+   "x1": 113.0,
+   "y1": 769.0,
+   "x2": 613.0,
+   "y2": 793.0,
+   "text": "degli slot incantesimo. Per esempio, quando un ladro arriva"
+  },
+  {
+   "x1": 659.0,
+   "y1": 767.0,
+   "x2": 1001.0,
+   "y2": 791.0,
+   "text": "di Saggezza (Percezione) della creatura."
+  },
+  {
+   "x1": 111.0,
+   "y1": 791.0,
+   "x2": 565.0,
+   "y2": 815.0,
+   "text": "al 7° livello in questa classe, può apprendere un nuovo"
+  },
+  {
+   "x1": 676.0,
+   "y1": 789.0,
+   "x2": 1138.0,
+   "y2": 813.0,
+   "text": "Il ladro può inoltre usare l'azione bonus conferitagli da"
+  },
+  {
+   "x1": 111.0,
+   "y1": 813.0,
+   "x2": 379.0,
+   "y2": 837.0,
+   "text": "incantesimo di 1° o di 2°livello."
+  },
+  {
+   "x1": 657.0,
+   "y1": 813.0,
+   "x2": 992.0,
+   "y2": 837.0,
+   "text": "Azione Scaltra per controllare la mano."
+  },
+  {
+   "x1": 129.0,
+   "y1": 835.0,
+   "x2": 561.0,
+   "y2": 861.0,
+   "text": "Gli incantesimi che apprende all'8', 14° o 20° livello"
+  },
+  {
+   "x1": 109.0,
+   "y1": 857.0,
+   "x2": 528.0,
+   "y2": 884.0,
+   "text": "possono appartenere a qualsiasi scuola di magia."
+  },
+  {
+   "x1": 661.0,
+   "y1": 855.0,
+   "x2": 879.0,
+   "y2": 879.0,
+   "text": "ImbosCata MaGica"
+  },
+  {
+   "x1": 129.0,
+   "y1": 881.0,
+   "x2": 615.0,
+   "y2": 904.0,
+   "text": "Ogni volta che il ladro acquisisce un livello, può sostituire"
+  },
+  {
+   "x1": 659.0,
+   "y1": 881.0,
+   "x2": 1091.0,
+   "y2": 904.0,
+   "text": "A partire dal 9° livello, se il ladro è nascosto da una"
+  },
+  {
+   "x1": 111.0,
+   "y1": 904.0,
+   "x2": 584.0,
+   "y2": 928.0,
+   "text": "uno degli incantesimi da mago che conosce con un altro"
+  },
+  {
+   "x1": 656.0,
+   "y1": 901.0,
+   "x2": 1136.0,
+   "y2": 928.0,
+   "text": "creatura quando lancia un incantesimo su di essa, quella"
+  },
+  {
+   "x1": 113.0,
+   "y1": 926.0,
+   "x2": 578.0,
+   "y2": 950.0,
+   "text": "incantesimo a sua scelta della lista degli incantesimi da"
+  },
+  {
+   "x1": 659.0,
+   "y1": 926.0,
+   "x2": 1097.0,
+   "y2": 950.0,
+   "text": "creatura subisce svantaggio a ogni tiro salvezza che"
+  },
+  {
+   "x1": 111.0,
+   "y1": 948.0,
+   "x2": 572.0,
+   "y2": 972.0,
+   "text": "mago. Il nuovo incantesimo deve essere di un livello di"
+  },
+  {
+   "x1": 661.0,
+   "y1": 952.0,
+   "x2": 1049.0,
+   "y2": 970.0,
+   "text": "effettua contro quell'incantesimo in quel turno."
+  },
+  {
+   "x1": 113.0,
+   "y1": 974.0,
+   "x2": 585.0,
+   "y2": 992.0,
+   "text": "cui il ladro possiede almeno uno slot incantesimo e deve"
+  },
+  {
+   "x1": 111.0,
+   "y1": 990.0,
+   "x2": 573.0,
+   "y2": 1020.0,
+   "text": "essere un incantesimo di ammaliamento o di illusione,"
+  },
+  {
+   "x1": 659.0,
+   "y1": 990.0,
+   "x2": 936.0,
+   "y2": 1016.0,
+   "text": "Ingannatore Versatile"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1016.0,
+   "x2": 572.0,
+   "y2": 1040.0,
+   "text": "a meno che non stia sostituendo l'incantesimo ottenuto"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1016.0,
+   "x2": 1112.0,
+   "y2": 1041.0,
+   "text": "Al 13° livello, il ladro sviluppa la capacità di distrarre i"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1036.0,
+   "x2": 569.0,
+   "y2": 1063.0,
+   "text": "all'8, 14° o 20° livello di una qualsiasi scuola di magia."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1040.0,
+   "x2": 1145.0,
+   "y2": 1065.0,
+   "text": "bersagli grazie alla sua mano magica. Come azione bonus"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1062.0,
+   "x2": 534.0,
+   "y2": 1085.0,
+   "text": "Caratteristica da incantatore. Intelligenza è la"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1062.0,
+   "x2": 1143.0,
+   "y2": 1085.0,
+   "text": "nel suo turno, può designare una creatura entro 1,5 metri"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1083.0,
+   "x2": 589.0,
+   "y2": 1109.0,
+   "text": "caratteristica da incantatore per gli incantesimi da mago"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1085.0,
+   "x2": 1151.0,
+   "y2": 1109.0,
+   "text": "dalla mano spettrale creata dall'incantesimo. Così facendo"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1107.0,
+   "x2": 611.0,
+   "y2": 1131.0,
+   "text": "del ladro, dal momento che egli apprende i suoi incantesimi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1107.0,
+   "x2": 1095.0,
+   "y2": 1131.0,
+   "text": "dispone di vantaggio ai tiri per colpire contro quella"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1131.0,
+   "x2": 609.0,
+   "y2": 1155.0,
+   "text": "tramite lo studio costante e la memorizzazione. Il ladro usa"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1131.0,
+   "x2": 927.0,
+   "y2": 1155.0,
+   "text": "creatura fino alla fine del turno."
+  },
+  {
+   "x1": 111.0,
+   "y1": 1151.0,
+   "x2": 585.0,
+   "y2": 1175.0,
+   "text": "Intelligenza ogni volta che un incantesimo fa riferimento"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1175.0,
+   "x2": 574.0,
+   "y2": 1199.0,
+   "text": "alla sua caratteristica da incantatore. Usa inoltre il suo"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1169.0,
+   "x2": 916.0,
+   "y2": 1199.0,
+   "text": "Ladro di Incantesimi"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1199.0,
+   "x2": 563.0,
+   "y2": 1222.0,
+   "text": "modificatore di Intelligenza per definire la CD del tiro"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1199.0,
+   "x2": 1071.0,
+   "y2": 1222.0,
+   "text": "Al 17* livello, il ladro ottiene la capacità di rubare"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1219.0,
+   "x2": 552.0,
+   "y2": 1242.0,
+   "text": "salvezza di un incantesimo da mago da lui lanciato e"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1220.0,
+   "x2": 1158.0,
+   "y2": 1244.0,
+   "text": "magicamente a un altro incantatore le conoscenze richieste"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1244.0,
+   "x2": 574.0,
+   "y2": 1268.0,
+   "text": "quando effettua un tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 657.0,
+   "y1": 1244.0,
+   "x2": 903.0,
+   "y2": 1268.0,
+   "text": "per lanciare un incantesimo."
+  },
+  {
+   "x1": 674.0,
+   "y1": 1266.0,
+   "x2": 1112.0,
+   "y2": 1290.0,
+   "text": "Immediatamente dopo che una creatura ha lanciato"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1277.0,
+   "x2": 611.0,
+   "y2": 1305.0,
+   "text": "CD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1290.0,
+   "x2": 1115.0,
+   "y2": 1314.0,
+   "text": "un incantesimo che bersaglia il ladro o lo include nella"
+  },
+  {
+   "x1": 174.0,
+   "y1": 1304.0,
+   "x2": 549.0,
+   "y2": 1332.0,
+   "text": "del ladro + il modificatore di Intelligenza del ladro"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1310.0,
+   "x2": 1130.0,
+   "y2": 1337.0,
+   "text": "sua area di effetto, il ladro può usare la sua reazione per"
+  },
+  {
+   "x1": 114.0,
+   "y1": 1345.0,
+   "x2": 609.0,
+   "y2": 1368.0,
+   "text": "Modificatore di attaceo dell'incantesimo - Il bonus di competenza"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1336.0,
+   "x2": 1108.0,
+   "y2": 1359.0,
+   "text": "obbligare la creatura a effettuare un tiro salvezza con"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1358.0,
+   "x2": 1114.0,
+   "y2": 1381.0,
+   "text": "il modificatore della caratteristica da incantatore della"
+  },
+  {
+   "x1": 175.0,
+   "y1": 1372.0,
+   "x2": 550.0,
+   "y2": 1396.0,
+   "text": "del ladro + il modificatore di Intelligenza del ladro"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1381.0,
+   "x2": 1102.0,
+   "y2": 1405.0,
+   "text": "creatura. La CD è pari alla CD del tiro salvezza degli"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1403.0,
+   "x2": 1132.0,
+   "y2": 1427.0,
+   "text": "incantesimi del ladro. Se lo fallisce, il ladro nega l'effetto"
+  },
+  {
+   "x1": 114.0,
+   "y1": 1416.0,
+   "x2": 576.0,
+   "y2": 1440.0,
+   "text": "Gioco diPrestigio della Mano Magica"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1429.0,
+   "x2": 1084.0,
+   "y2": 1447.0,
+   "text": "dell'incantesimo contro di lui e ruba la conoscenza"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1440.0,
+   "x2": 608.0,
+   "y2": 1465.0,
+   "text": "A partire dal 3° livello, quando il ladro lancia mano magica,"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1449.0,
+   "x2": 1084.0,
+   "y2": 1473.0,
+   "text": "dell'incantesimo, se il livello di quell'incantesimo è"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1462.0,
+   "x2": 611.0,
+   "y2": 1489.0,
+   "text": "può rendere la mano spettrale invisibile e può farle svolgere"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1465.0,
+   "x2": 1073.0,
+   "y2": 1500.0,
+   "text": "pari almeno al 1 ed è un livello che il ladro sia in"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1487.0,
+   "x2": 358.0,
+   "y2": 1511.0,
+   "text": "i seguenti compiti aggiuntivi:"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1493.0,
+   "x2": 1075.0,
+   "y2": 1520.0,
+   "text": "grado di lanciare (non è necessario che si tratti di"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1516.0,
+   "x2": 530.0,
+   "y2": 1544.0,
+   "text": "Riporre un oggetto impugnato dalla mano in un"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1516.0,
+   "x2": 1091.0,
+   "y2": 1540.0,
+   "text": "un incantesimo da mago). Per le 8 ore successive, il"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1542.0,
+   "x2": 596.0,
+   "y2": 1566.0,
+   "text": "contenitore indossato o trasportato da un'altra creatura."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1540.0,
+   "x2": 1097.0,
+   "y2": 1564.0,
+   "text": "ladro conosce l'incantesimo e può lanciarlo usando i"
+  },
+  {
+   "x1": 126.0,
+   "y1": 1562.0,
+   "x2": 573.0,
+   "y2": 1590.0,
+   "text": "Recuperare un oggetto in un contenitore indossato o"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1564.0,
+   "x2": 1106.0,
+   "y2": 1588.0,
+   "text": "propri slot incantesimo. La creatura non può lanciare"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1588.0,
+   "x2": 401.0,
+   "y2": 1611.0,
+   "text": "trasportato da un'altra creatura."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1584.0,
+   "x2": 1103.0,
+   "y2": 1612.0,
+   "text": "quell'incantesimo finché le 8 ore non sono trascorse."
+  },
+  {
+   "x1": 124.0,
+   "y1": 1608.0,
+   "x2": 558.0,
+   "y2": 1637.0,
+   "text": "Usare gli arnesi da scasso del ladro per scassinare"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1606.0,
+   "x2": 1154.0,
+   "y2": 1633.0,
+   "text": "Una volta utilizzato questo privilegio, il ladro non può più"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1637.0,
+   "x2": 484.0,
+   "y2": 1655.0,
+   "text": "serrature e disattivare trappole a distanza."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1630.0,
+   "x2": 1058.0,
+   "y2": 1657.0,
+   "text": "utilizzarlo finché non completa un riposo lungo."
+  },
+  {
+   "x1": 22.0,
+   "y1": 1690.0,
+   "x2": 52.0,
+   "y2": 1712.0,
+   "text": "80"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1681.0,
+   "x2": 288.0,
+   "y2": 1699.0,
+   "text": "CAPITOLO 3 CLASSI"
+  }
+ ],
+ "reading_text": "Incantesimi\nQuando arriva al 3' livello, il ladro ottiene la capacità\ndi lanciare incantesimi. Vedi il capitolo 10 per le regole\ngenerali relative alla magia e il capitolo 11 per la lista degli\nincantesimi da mago.\nTrucchetti. Un ladro apprende tre trucchetti: mano\nmagica e altri due trucchetti a sua scelta tratti dalla lista\ndegli incantesimi da mago. Apprende un trucchetto da\nmago aggiuntivo a sua scelta al 10° livello.\nSlot Incantesimo. La tabella \"Incantesimi del\nMistificatore Arcano\" indica quanti slot incantesimo\npossiede un ladro per lanciare i suoi incantesimi di lº livello\ne di livello superiore. Per lanciare uno di questi incantesimi,\nil ladro deve spendere uno slot incantesimo di livello pari o\nsuperiore al livello dell'incantesimo. Il ladro recupera tutti gli\nslot incantesimo spesi quando completa un riposo lungo.\nPer esempio, se un ladro conosce l'incantesimo di 1\nlivello charme su persone e possiede uno slot incantesimo\ndi 1' livello e uno slot incantesimo di 2° livello, può lanciare\ncharme su persone usando uno qualsiasi dei due slot.\nIncantesimi Conasciuti di 1'Livello e di Livello Superiore.\nUn ladro conosce tre incantesimi da mago di 1º livello a sua\nscelta, due dei quali devono essere scelti tra gli incantesimi di\nammaliamento e illusione sulla lista degli incantesimi da mago.\nLa colonna \"Incantesimi Conosciuti\" nella tabella\nIncantesimi del Mistificatore Arcano\" indica quando un\nladro impara altri incantesimi da mago di 1' livello o di\nlivello superiore. Ognuno di questi incantesimi deve essere\nun incantesimo di ammaliamento o di illusione a scelta del\nladro e deve appartenere a un livello di cui il ladro possiede\ndegli slot incantesimo. Per esempio, quando un ladro arriva\nal 7° livello in questa classe, può apprendere un nuovo\nincantesimo di 1° o di 2°livello.\nGli incantesimi che apprende all'8', 14° o 20° livello\npossono appartenere a qualsiasi scuola di magia.\nOgni volta che il ladro acquisisce un livello, può sostituire\nuno degli incantesimi da mago che conosce con un altro\nincantesimo a sua scelta della lista degli incantesimi da\nmago. Il nuovo incantesimo deve essere di un livello di\ncui il ladro possiede almeno uno slot incantesimo e deve\nessere un incantesimo di ammaliamento o di illusione,\na meno che non stia sostituendo l'incantesimo ottenuto\nall'8, 14° o 20° livello di una qualsiasi scuola di magia.\nCaratteristica da incantatore. Intelligenza è la\ncaratteristica da incantatore per gli incantesimi da mago\ndel ladro, dal momento che egli apprende i suoi incantesimi\ntramite lo studio costante e la memorizzazione. Il ladro usa\nIntelligenza ogni volta che un incantesimo fa riferimento\nalla sua caratteristica da incantatore. Usa inoltre il suo\nmodificatore di Intelligenza per definire la CD del tiro\nsalvezza di un incantesimo da mago da lui lanciato e\nquando effettua un tiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza\ndel ladro + il modificatore di Intelligenza del ladro\nModificatore di attaceo dell'incantesimo - Il bonus di competenza\ndel ladro + il modificatore di Intelligenza del ladro\nGioco diPrestigio della Mano Magica\nA partire dal 3° livello, quando il ladro lancia mano magica,\npuò rendere la mano spettrale invisibile e può farle svolgere\ni seguenti compiti aggiuntivi:\nRiporre un oggetto impugnato dalla mano in un\ncontenitore indossato o trasportato da un'altra creatura.\nRecuperare un oggetto in un contenitore indossato o\ntrasportato da un'altra creatura.\nUsare gli arnesi da scasso del ladro per scassinare\nserrature e disattivare trappole a distanza.\nCAPITOLO 3 CLASSI\n80\nInCANTESIMI DEL MISTIFICATORE ARCANO\n—Slot Incantesimo per\nLivello di Incantesimo—\nLivello daTrucchetti\nIncantesimi\nLadro\nConosciuti\n2°\n3°\nConosciuti\n1°\n4°\n3°\n2\n3\n3\n4°\n3\n4\n3\n5°\n3\n4\n3\n7\n6°\n3\n4\n7°\n3\n5\n4\n2\n8°\n3\n6\n4\n2\n9°\n3\n6\n2\n4\n10°\n7\n4\n4\n3\n11°\n8\n4\n3\n4\n12°\n8\n3\nA\n4\n13°\n9\n3\n4\n4\n2\n14*\n10\n2\n4\n4\n3\n15°\n10\n3\n4\n4\n2\n16°\n11\n4\n4\n3\n3\n17°\n11\n4\n4\n3\n3\n18°\n11\n4\n3\n3\n4\n12\n19°\n4\n4\n3\n3\n1\n20°\n13\n3\n3\n4\n4\n1\nIl ladro può svolgere uno di questi compiti senza essere\nnotato da una creatura se effettua con successo una prova\ndi Destrezza (Rapidità di Mano) contrapposta a una prova\ndi Saggezza (Percezione) della creatura.\nIl ladro può inoltre usare l'azione bonus conferitagli da\nAzione Scaltra per controllare la mano.\nImbosCata MaGica\nA partire dal 9° livello, se il ladro è nascosto da una\ncreatura quando lancia un incantesimo su di essa, quella\ncreatura subisce svantaggio a ogni tiro salvezza che\neffettua contro quell'incantesimo in quel turno.\nIngannatore Versatile\nAl 13° livello, il ladro sviluppa la capacità di distrarre i\nbersagli grazie alla sua mano magica. Come azione bonus\nnel suo turno, può designare una creatura entro 1,5 metri\ndalla mano spettrale creata dall'incantesimo. Così facendo\ndispone di vantaggio ai tiri per colpire contro quella\ncreatura fino alla fine del turno.\nLadro di Incantesimi\nAl 17* livello, il ladro ottiene la capacità di rubare\nmagicamente a un altro incantatore le conoscenze richieste\nper lanciare un incantesimo.\nImmediatamente dopo che una creatura ha lanciato\nun incantesimo che bersaglia il ladro o lo include nella\nsua area di effetto, il ladro può usare la sua reazione per\nobbligare la creatura a effettuare un tiro salvezza con\nil modificatore della caratteristica da incantatore della\ncreatura. La CD è pari alla CD del tiro salvezza degli\nincantesimi del ladro. Se lo fallisce, il ladro nega l'effetto\ndell'incantesimo contro di lui e ruba la conoscenza\ndell'incantesimo, se il livello di quell'incantesimo è\npari almeno al 1 ed è un livello che il ladro sia in\ngrado di lanciare (non è necessario che si tratti di\nun incantesimo da mago). Per le 8 ore successive, il\nladro conosce l'incantesimo e può lanciarlo usando i\npropri slot incantesimo. La creatura non può lanciare\nquell'incantesimo finché le 8 ore non sono trascorse.\nUna volta utilizzato questo privilegio, il ladro non può più\nutilizzarlo finché non completa un riposo lungo."
+}

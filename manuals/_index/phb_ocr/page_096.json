@@ -1,0 +1,829 @@
+{
+ "pdf_page_index": 96,
+ "page_label": 97,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 117,
+ "lines": [
+  {
+   "x1": 92.0,
+   "y1": 54.0,
+   "x2": 462.0,
+   "y2": 108.0,
+   "text": "PriVILeGI DI CLassE"
+  },
+  {
+   "x1": 639.0,
+   "y1": 55.0,
+   "x2": 1099.0,
+   "y2": 80.0,
+   "text": "veleni con un singolo utilizzo di Imposizione delle Mani"
+  },
+  {
+   "x1": 639.0,
+   "y1": 80.0,
+   "x2": 1082.0,
+   "y2": 104.0,
+   "text": "spendendo separatamente i punti ferita per ogni caso."
+  },
+  {
+   "x1": 656.0,
+   "y1": 104.0,
+   "x2": 1128.0,
+   "y2": 128.0,
+   "text": "Questo privilegio non ha effetto sui costrutti e sui non morti."
+  },
+  {
+   "x1": 92.0,
+   "y1": 142.0,
+   "x2": 250.0,
+   "y2": 183.0,
+   "text": "Punti Ferita"
+  },
+  {
+   "x1": 639.0,
+   "y1": 144.0,
+   "x2": 997.0,
+   "y2": 175.0,
+   "text": "Stile dI Combattimento"
+  },
+  {
+   "x1": 639.0,
+   "y1": 185.0,
+   "x2": 1119.0,
+   "y2": 210.0,
+   "text": "Al 2º livello, un paladino adotta uno stile di combattimento"
+  },
+  {
+   "x1": 90.0,
+   "y1": 192.0,
+   "x2": 493.0,
+   "y2": 228.0,
+   "text": "Punti Ferita al 1' Livello: 10 + il modificatore di"
+  },
+  {
+   "x1": 637.0,
+   "y1": 210.0,
+   "x2": 1119.0,
+   "y2": 234.0,
+   "text": "in cui specializzarsi scegliendo una tra le opzioni seguenti."
+  },
+  {
+   "x1": 109.0,
+   "y1": 217.0,
+   "x2": 323.0,
+   "y2": 249.0,
+   "text": "Costituzione del paladino"
+  },
+  {
+   "x1": 637.0,
+   "y1": 232.0,
+   "x2": 1112.0,
+   "y2": 256.0,
+   "text": "Non è consentito scegliere uno stile di combattimento più"
+  },
+  {
+   "x1": 90.0,
+   "y1": 235.0,
+   "x2": 499.0,
+   "y2": 276.0,
+   "text": "Punt Ferita a LiveSuccessiv"
+  },
+  {
+   "x1": 105.0,
+   "y1": 261.0,
+   "x2": 525.0,
+   "y2": 298.0,
+   "text": "modificatore di Costituzione del paladino per ogni"
+  },
+  {
+   "x1": 639.0,
+   "y1": 256.0,
+   "x2": 1088.0,
+   "y2": 280.0,
+   "text": "di una volta, anche se in seguito il paladino ha diritto a"
+  },
+  {
+   "x1": 639.0,
+   "y1": 278.0,
+   "x2": 796.0,
+   "y2": 301.0,
+   "text": "scegliere di nuovo."
+  },
+  {
+   "x1": 109.0,
+   "y1": 287.0,
+   "x2": 340.0,
+   "y2": 318.0,
+   "text": "livello da paladino dopo il 1"
+  },
+  {
+   "x1": 639.0,
+   "y1": 318.0,
+   "x2": 1001.0,
+   "y2": 343.0,
+   "text": "Combattere con Armi Possenti"
+  },
+  {
+   "x1": 94.0,
+   "y1": 334.0,
+   "x2": 238.0,
+   "y2": 362.0,
+   "text": "COMPETENZE"
+  },
+  {
+   "x1": 639.0,
+   "y1": 347.0,
+   "x2": 1123.0,
+   "y2": 371.0,
+   "text": "Quando il paladino ottiene un 1 o un 2 a un tiro per i danni"
+  },
+  {
+   "x1": 94.0,
+   "y1": 358.0,
+   "x2": 390.0,
+   "y2": 386.0,
+   "text": "Armature: Tutte le armature, scudi"
+  },
+  {
+   "x1": 639.0,
+   "y1": 371.0,
+   "x2": 1086.0,
+   "y2": 395.0,
+   "text": "di un attacco che ha effettuato con un'arma da mischia"
+  },
+  {
+   "x1": 94.0,
+   "y1": 382.0,
+   "x2": 397.0,
+   "y2": 407.0,
+   "text": "Armi: Armi semplici, armi da guerra"
+  },
+  {
+   "x1": 639.0,
+   "y1": 395.0,
+   "x2": 1104.0,
+   "y2": 418.0,
+   "text": "impugnata a due mani, può ripetere il tiro e deve usare il"
+  },
+  {
+   "x1": 92.0,
+   "y1": 407.0,
+   "x2": 266.0,
+   "y2": 431.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 635.0,
+   "y1": 417.0,
+   "x2": 1127.0,
+   "y2": 440.0,
+   "text": "nuovo risultato, anche se ottiene ancora un 1 o un 2. L'arma"
+  },
+  {
+   "x1": 92.0,
+   "y1": 435.0,
+   "x2": 379.0,
+   "y2": 464.0,
+   "text": "Tiri Salvezza: Saggezza, Carisma"
+  },
+  {
+   "x1": 637.0,
+   "y1": 440.0,
+   "x2": 1121.0,
+   "y2": 464.0,
+   "text": "deve possedere la proprietà a due mani o versatile affinché"
+  },
+  {
+   "x1": 92.0,
+   "y1": 459.0,
+   "x2": 547.0,
+   "y2": 486.0,
+   "text": "Abilità: Due a scelta tra Atletica, Intimidire, Intuizione,"
+  },
+  {
+   "x1": 635.0,
+   "y1": 462.0,
+   "x2": 934.0,
+   "y2": 488.0,
+   "text": "il paladino ottenga questo beneficio."
+  },
+  {
+   "x1": 105.0,
+   "y1": 482.0,
+   "x2": 397.0,
+   "y2": 510.0,
+   "text": "Medicina, Persuasione e Religione"
+  },
+  {
+   "x1": 637.0,
+   "y1": 506.0,
+   "x2": 718.0,
+   "y2": 532.0,
+   "text": "Difesa"
+  },
+  {
+   "x1": 92.0,
+   "y1": 526.0,
+   "x2": 301.0,
+   "y2": 556.0,
+   "text": "EQUipaGgiaMento"
+  },
+  {
+   "x1": 633.0,
+   "y1": 530.0,
+   "x2": 1108.0,
+   "y2": 555.0,
+   "text": "Finché indossa un'armatura, il paladino ottiene un bonus"
+  },
+  {
+   "x1": 92.0,
+   "y1": 554.0,
+   "x2": 537.0,
+   "y2": 581.0,
+   "text": "Un paladino inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 635.0,
+   "y1": 555.0,
+   "x2": 753.0,
+   "y2": 581.0,
+   "text": "di +1 alla CA."
+  },
+  {
+   "x1": 89.0,
+   "y1": 574.0,
+   "x2": 589.0,
+   "y2": 609.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 633.0,
+   "y1": 595.0,
+   "x2": 757.0,
+   "y2": 625.0,
+   "text": "Duellare"
+  },
+  {
+   "x1": 89.0,
+   "y1": 610.0,
+   "x2": 585.0,
+   "y2": 638.0,
+   "text": "(a) un'arma da guerra e uno scudo o (b) due armi da guerra"
+  },
+  {
+   "x1": 637.0,
+   "y1": 625.0,
+   "x2": 1097.0,
+   "y2": 650.0,
+   "text": "Quando il paladino impugna un'arma da mischia in una"
+  },
+  {
+   "x1": 105.0,
+   "y1": 634.0,
+   "x2": 584.0,
+   "y2": 661.0,
+   "text": "a) cinque giavellotti o (b) una qualsiasi arma semplice da"
+  },
+  {
+   "x1": 633.0,
+   "y1": 647.0,
+   "x2": 1112.0,
+   "y2": 674.0,
+   "text": "mano e non impugna altre armi, ottiene un bonus di +2 ai"
+  },
+  {
+   "x1": 109.0,
+   "y1": 661.0,
+   "x2": 179.0,
+   "y2": 682.0,
+   "text": "mischia"
+  },
+  {
+   "x1": 635.0,
+   "y1": 672.0,
+   "x2": 875.0,
+   "y2": 696.0,
+   "text": "tiri peri danni di quell'arma."
+  },
+  {
+   "x1": 103.0,
+   "y1": 680.0,
+   "x2": 545.0,
+   "y2": 707.0,
+   "text": "a) una dotazione da sacerdote o (b) una dotazione da"
+  },
+  {
+   "x1": 109.0,
+   "y1": 707.0,
+   "x2": 207.0,
+   "y2": 727.0,
+   "text": "esploratore"
+  },
+  {
+   "x1": 635.0,
+   "y1": 712.0,
+   "x2": 774.0,
+   "y2": 742.0,
+   "text": "PROTEZIONE"
+  },
+  {
+   "x1": 105.0,
+   "y1": 727.0,
+   "x2": 430.0,
+   "y2": 751.0,
+   "text": "Una cotta di maglia e un simbolo sacro"
+  },
+  {
+   "x1": 635.0,
+   "y1": 742.0,
+   "x2": 1115.0,
+   "y2": 766.0,
+   "text": "Quando una creatura che il paladino sia in grado di vedere"
+  },
+  {
+   "x1": 94.0,
+   "y1": 773.0,
+   "x2": 417.0,
+   "y2": 797.0,
+   "text": "PercezioNe dEl Divino"
+  },
+  {
+   "x1": 635.0,
+   "y1": 766.0,
+   "x2": 1101.0,
+   "y2": 789.0,
+   "text": "attacca un bersaglio diverso dal paladino e situato entro"
+  },
+  {
+   "x1": 633.0,
+   "y1": 786.0,
+   "x2": 1106.0,
+   "y2": 813.0,
+   "text": "1,5 metri da lui, il paladino può usare la sua reazione per"
+  },
+  {
+   "x1": 90.0,
+   "y1": 809.0,
+   "x2": 475.0,
+   "y2": 833.0,
+   "text": "Un paladino percepisce una presenza del male"
+  },
+  {
+   "x1": 633.0,
+   "y1": 809.0,
+   "x2": 1079.0,
+   "y2": 837.0,
+   "text": "infliggere svantaggio al tiro per colpire della creatura."
+  },
+  {
+   "x1": 92.0,
+   "y1": 833.0,
+   "x2": 517.0,
+   "y2": 857.0,
+   "text": "particolarmente forte come se un fetore assalisse le"
+  },
+  {
+   "x1": 633.0,
+   "y1": 833.0,
+   "x2": 957.0,
+   "y2": 861.0,
+   "text": "Il paladino deve impugnare uno scudo."
+  },
+  {
+   "x1": 90.0,
+   "y1": 855.0,
+   "x2": 547.0,
+   "y2": 879.0,
+   "text": "sue narici, mentre una forte presenza del bene equivale"
+  },
+  {
+   "x1": 90.0,
+   "y1": 881.0,
+   "x2": 519.0,
+   "y2": 904.0,
+   "text": "per lui a una musica celestiale che risuona nelle sue"
+  },
+  {
+   "x1": 637.0,
+   "y1": 881.0,
+   "x2": 818.0,
+   "y2": 906.0,
+   "text": "INCaNTESIMI"
+  },
+  {
+   "x1": 89.0,
+   "y1": 903.0,
+   "x2": 534.0,
+   "y2": 926.0,
+   "text": "orecchie. Con un'azione, un paladino può proiettare le"
+  },
+  {
+   "x1": 89.0,
+   "y1": 926.0,
+   "x2": 537.0,
+   "y2": 950.0,
+   "text": "sue percezioni attorno a sé per avvertire la presenza di"
+  },
+  {
+   "x1": 635.0,
+   "y1": 917.0,
+   "x2": 1110.0,
+   "y2": 941.0,
+   "text": "Quando arriva al 2º livello, un paladino attinge alla magia"
+  },
+  {
+   "x1": 633.0,
+   "y1": 939.0,
+   "x2": 1097.0,
+   "y2": 967.0,
+   "text": "divina attraverso la preghiera e la meditazione al fine di"
+  },
+  {
+   "x1": 90.0,
+   "y1": 952.0,
+   "x2": 532.0,
+   "y2": 970.0,
+   "text": "queste forze. Fino alla fine del suo turno successivo, il"
+  },
+  {
+   "x1": 87.0,
+   "y1": 970.0,
+   "x2": 567.0,
+   "y2": 998.0,
+   "text": "paladino conosce l'ubicazione di ogni celestiale, immondo"
+  },
+  {
+   "x1": 633.0,
+   "y1": 961.0,
+   "x2": 1097.0,
+   "y2": 988.0,
+   "text": "lanciare incantesimi in modo molto simile a un chierico."
+  },
+  {
+   "x1": 633.0,
+   "y1": 985.0,
+   "x2": 1115.0,
+   "y2": 1012.0,
+   "text": "Vedi il capitolo 10 per le regole generali relative alla magia"
+  },
+  {
+   "x1": 89.0,
+   "y1": 996.0,
+   "x2": 554.0,
+   "y2": 1020.0,
+   "text": "o non morto entro 18 metri da lui e che non si trovi sotto"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1016.0,
+   "x2": 549.0,
+   "y2": 1045.0,
+   "text": "copertura totale. Il paladino riconosce il tipo (celestiale,"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1009.0,
+   "x2": 1097.0,
+   "y2": 1032.0,
+   "text": "e il capitolo 1 1 per la lista degli incantesimi da paladino."
+  },
+  {
+   "x1": 87.0,
+   "y1": 1040.0,
+   "x2": 554.0,
+   "y2": 1067.0,
+   "text": "immondo o non morto) di qualsiasi creatura di cui riesca"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1063.0,
+   "x2": 543.0,
+   "y2": 1091.0,
+   "text": "a percepire la presenza, ma non la sua identità (il conte"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1054.0,
+   "x2": 1038.0,
+   "y2": 1080.0,
+   "text": "Preparare e Lanciare Incantesimi"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1085.0,
+   "x2": 523.0,
+   "y2": 1115.0,
+   "text": "vampiro Strahd von Zarovich, per esempio). Entro lo"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1082.0,
+   "x2": 1066.0,
+   "y2": 1105.0,
+   "text": "La tabella \"Paladino\" indica quanti slot incantesimo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1109.0,
+   "x2": 526.0,
+   "y2": 1136.0,
+   "text": "stesso raggio, il paladino individua anche la presenza"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1102.0,
+   "x2": 1086.0,
+   "y2": 1129.0,
+   "text": "possiede un paladino per lanciare i suoi incantesimi di"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1131.0,
+   "x2": 543.0,
+   "y2": 1160.0,
+   "text": "di qualsiasi luogo sacro o sacrilego, con gli stessi effetti"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1127.0,
+   "x2": 1099.0,
+   "y2": 1151.0,
+   "text": "1° livello e di livello superiore. Per lanciare uno di questi"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1153.0,
+   "x2": 320.0,
+   "y2": 1184.0,
+   "text": "dell'incantesimo santificare."
+  },
+  {
+   "x1": 633.0,
+   "y1": 1151.0,
+   "x2": 1127.0,
+   "y2": 1175.0,
+   "text": "incantesimi, il paladino deve spendere uno slot incantesimo"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1173.0,
+   "x2": 551.0,
+   "y2": 1212.0,
+   "text": "Il paladino può utilizzare questo privilegio un numero"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1175.0,
+   "x2": 1077.0,
+   "y2": 1199.0,
+   "text": "di livello pari o superiore al livello dell'incantesimo. Il"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1197.0,
+   "x2": 558.0,
+   "y2": 1235.0,
+   "text": "di volte pari a l + il suo modificatore di Carisma. Quando"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1199.0,
+   "x2": 1102.0,
+   "y2": 1222.0,
+   "text": "paladino recupera tutti gli slot incantesimo spesi quando"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1224.0,
+   "x2": 556.0,
+   "y2": 1255.0,
+   "text": "completa un riposo lungo, recupera tutti gli utilizzi spesi."
+  },
+  {
+   "x1": 630.0,
+   "y1": 1220.0,
+   "x2": 851.0,
+   "y2": 1244.0,
+   "text": "completa un riposo lungo."
+  },
+  {
+   "x1": 652.0,
+   "y1": 1244.0,
+   "x2": 1119.0,
+   "y2": 1268.0,
+   "text": "Il paladino prepara la lista degli incantesimi da paladino"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1273.0,
+   "x2": 430.0,
+   "y2": 1299.0,
+   "text": "ImposizioNE dELLe MaNi"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1268.0,
+   "x2": 1056.0,
+   "y2": 1292.0,
+   "text": "disponibili da lanciare scegliendoli dalla lista degli"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1292.0,
+   "x2": 1101.0,
+   "y2": 1315.0,
+   "text": "incantesimi da paladino. Quando lo fa, deve scegliere un"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1303.0,
+   "x2": 545.0,
+   "y2": 1341.0,
+   "text": "Il tocco benedetto di un paladino è in grado di curare le"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1316.0,
+   "x2": 1123.0,
+   "y2": 1339.0,
+   "text": "numero di incantesimi da paladino pari al suo modificatore"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1326.0,
+   "x2": 558.0,
+   "y2": 1365.0,
+   "text": "feteUn paladino possiede una riserva di poteri curativi"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1337.0,
+   "x2": 1108.0,
+   "y2": 1361.0,
+   "text": "di Carisma + metà del suo livello da paladino arrotondato"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1350.0,
+   "x2": 563.0,
+   "y2": 1389.0,
+   "text": "che si ricostituisce quando il paladino completa un riposo"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1359.0,
+   "x2": 1064.0,
+   "y2": 1387.0,
+   "text": "per difetto (fino a un minimo di un incantesimo). Gli"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1376.0,
+   "x2": 560.0,
+   "y2": 1411.0,
+   "text": "lungo. Grazie a quella riserva, il paladino può ripristinare"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1383.0,
+   "x2": 1097.0,
+   "y2": 1411.0,
+   "text": "incantesimi devono essere di un livello di cui il paladino"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1399.0,
+   "x2": 514.0,
+   "y2": 1433.0,
+   "text": "un numero totale di punti ferita pari a cinque volte il"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1409.0,
+   "x2": 899.0,
+   "y2": 1434.0,
+   "text": "possiede degli slot incantesimo."
+  },
+  {
+   "x1": 83.0,
+   "y1": 1423.0,
+   "x2": 311.0,
+   "y2": 1455.0,
+   "text": "proprio livello da paladino."
+  },
+  {
+   "x1": 648.0,
+   "y1": 1432.0,
+   "x2": 1101.0,
+   "y2": 1456.0,
+   "text": "Per esempio, un paladino di 5º livello possiede quattro"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1456.0,
+   "x2": 1051.0,
+   "y2": 1480.0,
+   "text": "slot incantesimo di 1° livello e due slot incantesimo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1473.0,
+   "x2": 525.0,
+   "y2": 1500.0,
+   "text": "e attingere al potere della sua riserva per ripristinare"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1476.0,
+   "x2": 1053.0,
+   "y2": 1504.0,
+   "text": "di 2° livello. Con Carisma pari a 14, la lista dei suoi"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1493.0,
+   "x2": 530.0,
+   "y2": 1528.0,
+   "text": "uncerto numero di punti ferita in quella creatura, fino"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1504.0,
+   "x2": 1095.0,
+   "y2": 1527.0,
+   "text": "incantesimi preparati può includere quattro incantesimi"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1514.0,
+   "x2": 501.0,
+   "y2": 1553.0,
+   "text": "allammontare massimo rimasto nella sua riserva."
+  },
+  {
+   "x1": 632.0,
+   "y1": 1524.0,
+   "x2": 1086.0,
+   "y2": 1551.0,
+   "text": "di 1° o 2° livello, in qualsiasi combinazione. Se prepara"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1538.0,
+   "x2": 538.0,
+   "y2": 1575.0,
+   "text": "In alternativa, il paladino può spendere 5 punti ferita"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1549.0,
+   "x2": 1119.0,
+   "y2": 1573.0,
+   "text": "l'incantesimo di 1° livello cura ferite, potrà lanciarlo usando"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1573.0,
+   "x2": 1106.0,
+   "y2": 1597.0,
+   "text": "uno slot incantesimo di 1°livello o di 2* livello. Il lancio di"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1586.0,
+   "x2": 539.0,
+   "y2": 1623.0,
+   "text": "una malattia o neutralizzare un veleno a cui è soggetto."
+  },
+  {
+   "x1": 632.0,
+   "y1": 1597.0,
+   "x2": 1123.0,
+   "y2": 1621.0,
+   "text": "quell'incantesimo non rimuove quell'incantesimo dalla lista"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1621.0,
+   "x2": 842.0,
+   "y2": 1644.0,
+   "text": "di incantesimi preparati."
+  },
+  {
+   "x1": 949.0,
+   "y1": 1692.0,
+   "x2": 1125.0,
+   "y2": 1716.0,
+   "text": "CAPITOLO 3CLASSI"
+  },
+  {
+   "x1": 1186.0,
+   "y1": 1706.0,
+   "x2": 1211.0,
+   "y2": 1728.0,
+   "text": "97"
+  }
+ ],
+ "reading_text": "PriVILeGI DI CLassE\nPunti Ferita\nPunti Ferita al 1' Livello: 10 + il modificatore di\nCostituzione del paladino\nPunt Ferita a LiveSuccessiv\nmodificatore di Costituzione del paladino per ogni\nlivello da paladino dopo il 1\nCOMPETENZE\nArmature: Tutte le armature, scudi\nArmi: Armi semplici, armi da guerra\nStrumenti: Nessuno\nTiri Salvezza: Saggezza, Carisma\nAbilità: Due a scelta tra Atletica, Intimidire, Intuizione,\nMedicina, Persuasione e Religione\nEQUipaGgiaMento\nUn paladino inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\n(a) un'arma da guerra e uno scudo o (b) due armi da guerra\na) cinque giavellotti o (b) una qualsiasi arma semplice da\nmischia\na) una dotazione da sacerdote o (b) una dotazione da\nesploratore\nUna cotta di maglia e un simbolo sacro\nPercezioNe dEl Divino\nUn paladino percepisce una presenza del male\nparticolarmente forte come se un fetore assalisse le\nsue narici, mentre una forte presenza del bene equivale\nper lui a una musica celestiale che risuona nelle sue\norecchie. Con un'azione, un paladino può proiettare le\nsue percezioni attorno a sé per avvertire la presenza di\nqueste forze. Fino alla fine del suo turno successivo, il\npaladino conosce l'ubicazione di ogni celestiale, immondo\no non morto entro 18 metri da lui e che non si trovi sotto\ncopertura totale. Il paladino riconosce il tipo (celestiale,\nimmondo o non morto) di qualsiasi creatura di cui riesca\na percepire la presenza, ma non la sua identità (il conte\nvampiro Strahd von Zarovich, per esempio). Entro lo\nstesso raggio, il paladino individua anche la presenza\ndi qualsiasi luogo sacro o sacrilego, con gli stessi effetti\ndell'incantesimo santificare.\nIl paladino può utilizzare questo privilegio un numero\ndi volte pari a l + il suo modificatore di Carisma. Quando\ncompleta un riposo lungo, recupera tutti gli utilizzi spesi.\nImposizioNE dELLe MaNi\nIl tocco benedetto di un paladino è in grado di curare le\nfeteUn paladino possiede una riserva di poteri curativi\nche si ricostituisce quando il paladino completa un riposo\nlungo. Grazie a quella riserva, il paladino può ripristinare\nun numero totale di punti ferita pari a cinque volte il\nproprio livello da paladino.\ne attingere al potere della sua riserva per ripristinare\nuncerto numero di punti ferita in quella creatura, fino\nallammontare massimo rimasto nella sua riserva.\nIn alternativa, il paladino può spendere 5 punti ferita\nuna malattia o neutralizzare un veleno a cui è soggetto.\nveleni con un singolo utilizzo di Imposizione delle Mani\nspendendo separatamente i punti ferita per ogni caso.\nQuesto privilegio non ha effetto sui costrutti e sui non morti.\nStile dI Combattimento\nAl 2º livello, un paladino adotta uno stile di combattimento\nin cui specializzarsi scegliendo una tra le opzioni seguenti.\nNon è consentito scegliere uno stile di combattimento più\ndi una volta, anche se in seguito il paladino ha diritto a\nscegliere di nuovo.\nCombattere con Armi Possenti\nQuando il paladino ottiene un 1 o un 2 a un tiro per i danni\ndi un attacco che ha effettuato con un'arma da mischia\nimpugnata a due mani, può ripetere il tiro e deve usare il\nnuovo risultato, anche se ottiene ancora un 1 o un 2. L'arma\ndeve possedere la proprietà a due mani o versatile affinché\nil paladino ottenga questo beneficio.\nDifesa\nFinché indossa un'armatura, il paladino ottiene un bonus\ndi +1 alla CA.\nDuellare\nQuando il paladino impugna un'arma da mischia in una\nmano e non impugna altre armi, ottiene un bonus di +2 ai\ntiri peri danni di quell'arma.\nPROTEZIONE\nQuando una creatura che il paladino sia in grado di vedere\nattacca un bersaglio diverso dal paladino e situato entro\n1,5 metri da lui, il paladino può usare la sua reazione per\ninfliggere svantaggio al tiro per colpire della creatura.\nIl paladino deve impugnare uno scudo.\nINCaNTESIMI\nQuando arriva al 2º livello, un paladino attinge alla magia\ndivina attraverso la preghiera e la meditazione al fine di\nlanciare incantesimi in modo molto simile a un chierico.\nVedi il capitolo 10 per le regole generali relative alla magia\ne il capitolo 1 1 per la lista degli incantesimi da paladino.\nPreparare e Lanciare Incantesimi\nLa tabella \"Paladino\" indica quanti slot incantesimo\npossiede un paladino per lanciare i suoi incantesimi di\n1° livello e di livello superiore. Per lanciare uno di questi\nincantesimi, il paladino deve spendere uno slot incantesimo\ndi livello pari o superiore al livello dell'incantesimo. Il\npaladino recupera tutti gli slot incantesimo spesi quando\ncompleta un riposo lungo.\nIl paladino prepara la lista degli incantesimi da paladino\ndisponibili da lanciare scegliendoli dalla lista degli\nincantesimi da paladino. Quando lo fa, deve scegliere un\nnumero di incantesimi da paladino pari al suo modificatore\ndi Carisma + metà del suo livello da paladino arrotondato\nper difetto (fino a un minimo di un incantesimo). Gli\nincantesimi devono essere di un livello di cui il paladino\npossiede degli slot incantesimo.\nPer esempio, un paladino di 5º livello possiede quattro\nslot incantesimo di 1° livello e due slot incantesimo\ndi 2° livello. Con Carisma pari a 14, la lista dei suoi\nincantesimi preparati può includere quattro incantesimi\ndi 1° o 2° livello, in qualsiasi combinazione. Se prepara\nl'incantesimo di 1° livello cura ferite, potrà lanciarlo usando\nuno slot incantesimo di 1°livello o di 2* livello. Il lancio di\nquell'incantesimo non rimuove quell'incantesimo dalla lista\ndi incantesimi preparati.\nCAPITOLO 3CLASSI\n97"
+}

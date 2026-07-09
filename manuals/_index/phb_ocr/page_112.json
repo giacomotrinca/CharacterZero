@@ -1,0 +1,479 @@
+{
+ "pdf_page_index": 112,
+ "page_label": 113,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 67,
+ "lines": [
+  {
+   "x1": 909.0,
+   "y1": 57.0,
+   "x2": 1115.0,
+   "y2": 80.0,
+   "text": "Offrimi un caffè:"
+  },
+  {
+   "x1": 907.0,
+   "y1": 77.0,
+   "x2": 1125.0,
+   "y2": 104.0,
+   "text": "paypal.me/mimmi987"
+  },
+  {
+   "x1": 98.0,
+   "y1": 133.0,
+   "x2": 273.0,
+   "y2": 166.0,
+   "text": "WarLock"
+  },
+  {
+   "x1": 98.0,
+   "y1": 172.0,
+   "x2": 286.0,
+   "y2": 197.0,
+   "text": "Con uno pseudodrago"
+  },
+  {
+   "x1": 94.0,
+   "y1": 192.0,
+   "x2": 296.0,
+   "y2": 223.0,
+   "text": "appollaiato sulla spalla,"
+  },
+  {
+   "x1": 94.0,
+   "y1": 212.0,
+   "x2": 314.0,
+   "y2": 243.0,
+   "text": "un giovane elfo dalle vesti"
+  },
+  {
+   "x1": 98.0,
+   "y1": 238.0,
+   "x2": 358.0,
+   "y2": 261.0,
+   "text": "dorate sorride amichevolmente"
+  },
+  {
+   "x1": 96.0,
+   "y1": 261.0,
+   "x2": 321.0,
+   "y2": 285.0,
+   "text": "e intreccia nelle sue parole"
+  },
+  {
+   "x1": 92.0,
+   "y1": 278.0,
+   "x2": 418.0,
+   "y2": 314.0,
+   "text": "mielate un effetto magico ammaliante"
+  },
+  {
+   "x1": 94.0,
+   "y1": 301.0,
+   "x2": 364.0,
+   "y2": 336.0,
+   "text": "che piega le guardie del palazzo"
+  },
+  {
+   "x1": 94.0,
+   "y1": 325.0,
+   "x2": 237.0,
+   "y2": 359.0,
+   "text": "alla sua volontà."
+  },
+  {
+   "x1": 111.0,
+   "y1": 349.0,
+   "x2": 543.0,
+   "y2": 378.0,
+   "text": "Quando un'umana raggrinzita sussurra il nome del"
+  },
+  {
+   "x1": 92.0,
+   "y1": 369.0,
+   "x2": 530.0,
+   "y2": 404.0,
+   "text": "suo patrono demoniaco, dalle sue mani si sprigiona"
+  },
+  {
+   "x1": 96.0,
+   "y1": 396.0,
+   "x2": 547.0,
+   "y2": 420.0,
+   "text": "una fiammata che infonde il potere degli immondi nel"
+  },
+  {
+   "x1": 92.0,
+   "y1": 416.0,
+   "x2": 250.0,
+   "y2": 446.0,
+   "text": "suo incantesimo."
+  },
+  {
+   "x1": 111.0,
+   "y1": 440.0,
+   "x2": 554.0,
+   "y2": 464.0,
+   "text": "Con gli occhi che guizzano da un tomo consumato al"
+  },
+  {
+   "x1": 96.0,
+   "y1": 462.0,
+   "x2": 565.0,
+   "y2": 486.0,
+   "text": "cielo dove risplende uno strano allineamento delle stelle,"
+  },
+  {
+   "x1": 94.0,
+   "y1": 484.0,
+   "x2": 574.0,
+   "y2": 513.0,
+   "text": "un tiefling dallo sguardo spiritato intona il rituale mistico"
+  },
+  {
+   "x1": 98.0,
+   "y1": 508.0,
+   "x2": 532.0,
+   "y2": 532.0,
+   "text": "che spalancherà un portale verso un mondo remoto."
+  },
+  {
+   "x1": 114.0,
+   "y1": 532.0,
+   "x2": 547.0,
+   "y2": 555.0,
+   "text": "I warlock vanno in cerca delle conoscenze nascoste"
+  },
+  {
+   "x1": 94.0,
+   "y1": 552.0,
+   "x2": 580.0,
+   "y2": 579.0,
+   "text": "negli anfratti più remoti del multiverso. Grazie ai patti che"
+  },
+  {
+   "x1": 96.0,
+   "y1": 576.0,
+   "x2": 571.0,
+   "y2": 599.0,
+   "text": "stipulano con misteriose entità dai poteri soprannaturali,"
+  },
+  {
+   "x1": 96.0,
+   "y1": 599.0,
+   "x2": 563.0,
+   "y2": 623.0,
+   "text": "sono in grado di generare gli effetti magici più disparati,"
+  },
+  {
+   "x1": 100.0,
+   "y1": 625.0,
+   "x2": 532.0,
+   "y2": 643.0,
+   "text": "da quelli più spettacolari a quelli più insidiosamente"
+  },
+  {
+   "x1": 96.0,
+   "y1": 645.0,
+   "x2": 578.0,
+   "y2": 669.0,
+   "text": "sottili. Attingendo alle conoscenze antiche di esseri come"
+  },
+  {
+   "x1": 96.0,
+   "y1": 667.0,
+   "x2": 547.0,
+   "y2": 691.0,
+   "text": "nobili folletti, demoni, diavoli, streghe ed entità aliene"
+  },
+  {
+   "x1": 96.0,
+   "y1": 691.0,
+   "x2": 574.0,
+   "y2": 714.0,
+   "text": "appartenenti al Reame Remoto, i warlock apprendono un"
+  },
+  {
+   "x1": 96.0,
+   "y1": 713.0,
+   "x2": 580.0,
+   "y2": 736.0,
+   "text": "segreto arcano dopo l'altro con cui rafforzano i loro poteri."
+  },
+  {
+   "x1": 98.0,
+   "y1": 756.0,
+   "x2": 404.0,
+   "y2": 782.0,
+   "text": "IL Vincolo del Patto"
+  },
+  {
+   "x1": 96.0,
+   "y1": 793.0,
+   "x2": 560.0,
+   "y2": 817.0,
+   "text": "Un warlock è definito dal patto che stipula con un'entità"
+  },
+  {
+   "x1": 94.0,
+   "y1": 817.0,
+   "x2": 548.0,
+   "y2": 840.0,
+   "text": "ultraterrena. A volte il rapporto tra un warlock e il suo"
+  },
+  {
+   "x1": 96.0,
+   "y1": 837.0,
+   "x2": 569.0,
+   "y2": 862.0,
+   "text": "patrono è simile a quello tra un chierico e la sua divinità,"
+  },
+  {
+   "x1": 94.0,
+   "y1": 861.0,
+   "x2": 585.0,
+   "y2": 886.0,
+   "text": "ma gli esseri che fungono da patroni dei warlock non sono"
+  },
+  {
+   "x1": 94.0,
+   "y1": 882.0,
+   "x2": 550.0,
+   "y2": 908.0,
+   "text": "dèi. Un warlock potrebbe guidare un culto devoto a un"
+  },
+  {
+   "x1": 92.0,
+   "y1": 904.0,
+   "x2": 565.0,
+   "y2": 930.0,
+   "text": "principe dei demoni, a un arcidiavolo o anche a un'entità"
+  },
+  {
+   "x1": 92.0,
+   "y1": 926.0,
+   "x2": 576.0,
+   "y2": 954.0,
+   "text": "totalmente aliena: esseri che solitamente nessun chierico"
+  },
+  {
+   "x1": 94.0,
+   "y1": 952.0,
+   "x2": 572.0,
+   "y2": 976.0,
+   "text": "servirà mai.Tuttavia, nella maggior parte dei casi ilpatto"
+  },
+  {
+   "x1": 92.0,
+   "y1": 972.0,
+   "x2": 550.0,
+   "y2": 999.0,
+   "text": "tra un warlock e il suo patrono è simile a quello tra u n"
+  },
+  {
+   "x1": 94.0,
+   "y1": 996.0,
+   "x2": 576.0,
+   "y2": 1020.0,
+   "text": "maestro e un apprendista. Il warlock apprende e aumenta"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1020.0,
+   "x2": 582.0,
+   "y2": 1043.0,
+   "text": "il suo potere, ma in cambio deve mettere di tanto in tanto i"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1043.0,
+   "x2": 380.0,
+   "y2": 1067.0,
+   "text": "suoi poteri al servizio del patrono."
+  },
+  {
+   "x1": 111.0,
+   "y1": 1063.0,
+   "x2": 591.0,
+   "y2": 1087.0,
+   "text": "La magia conferita a un warlock può variare da alterazioni"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1091.0,
+   "x2": 569.0,
+   "y2": 1109.0,
+   "text": "minuscole ma permanenti (come per esempio la capacità"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1111.0,
+   "x2": 563.0,
+   "y2": 1135.0,
+   "text": "di vedere nel buio o di leggere qualsiasi linguaggio), fino"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1133.0,
+   "x2": 556.0,
+   "y2": 1157.0,
+   "text": "alla possibilità di accedere agli incantesimi più potenti."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1157.0,
+   "x2": 563.0,
+   "y2": 1180.0,
+   "text": "A differenza dei maghi veri e propri, che sono dei topi di"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1178.0,
+   "x2": 580.0,
+   "y2": 1202.0,
+   "text": "biblioteca, i warlock integrano i loro poteri magici con una"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1202.0,
+   "x2": 580.0,
+   "y2": 1226.0,
+   "text": "certa perizia nel combattimento corpo a corpo. Indossano"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1226.0,
+   "x2": 532.0,
+   "y2": 1250.0,
+   "text": "senza difficoltà le armature leggere e sanno usare le"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1248.0,
+   "x2": 220.0,
+   "y2": 1268.0,
+   "text": "armi semplici."
+  },
+  {
+   "x1": 92.0,
+   "y1": 1286.0,
+   "x2": 416.0,
+   "y2": 1321.0,
+   "text": "ScopRitorI dI Segreti"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1325.0,
+   "x2": 569.0,
+   "y2": 1354.0,
+   "text": "I warlock sono animati da un'insaziabile sete di sapere e"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1352.0,
+   "x2": 582.0,
+   "y2": 1376.0,
+   "text": "di potere, che li spinge a stipulare patti con i loro patroni e"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1378.0,
+   "x2": 582.0,
+   "y2": 1396.0,
+   "text": "che plasma le loro vite. Questa sete di conoscenza modeila"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1400.0,
+   "x2": 336.0,
+   "y2": 1418.0,
+   "text": "anche la loro carriera futura."
+  },
+  {
+   "x1": 109.0,
+   "y1": 1418.0,
+   "x2": 573.0,
+   "y2": 1445.0,
+   "text": "Le storie che vedono un warlock legarsi a una creatura"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1447.0,
+   "x2": 537.0,
+   "y2": 1465.0,
+   "text": "immonda sono le più note, ma molti warlock servono"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1467.0,
+   "x2": 589.0,
+   "y2": 1491.0,
+   "text": "patroni di tutt'altra natura. A volte un viaggiatore si imbatte"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1491.0,
+   "x2": 526.0,
+   "y2": 1515.0,
+   "text": "in una strana, magnifica torre nelle terre selvagge e"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1513.0,
+   "x2": 576.0,
+   "y2": 1537.0,
+   "text": "incontrail nobile fatato che vive al suo interno, stipulando"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1535.0,
+   "x2": 548.0,
+   "y2": 1559.0,
+   "text": "con quella figura un patto senza nemmeno esserne del"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1559.0,
+   "x2": 574.0,
+   "y2": 1582.0,
+   "text": "tutto consapevole. Altre volte, immerso nella lettura di un"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1577.0,
+   "x2": 550.0,
+   "y2": 1604.0,
+   "text": "tomo proibito, un discepolo geniale ma folle proietta la"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1604.0,
+   "x2": 558.0,
+   "y2": 1628.0,
+   "text": "sua mente in una realtà che va oltre il piano materiale e"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1628.0,
+   "x2": 584.0,
+   "y2": 1652.0,
+   "text": "contatta gli esseri alieni che si annidano nel vuoto esterno."
+  },
+  {
+   "x1": 958.0,
+   "y1": 1686.0,
+   "x2": 1136.0,
+   "y2": 1705.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 1199.0,
+   "y1": 1701.0,
+   "x2": 1224.0,
+   "y2": 1716.0,
+   "text": "113"
+  }
+ ],
+ "reading_text": "WarLock\nCon uno pseudodrago\nappollaiato sulla spalla,\nun giovane elfo dalle vesti\ndorate sorride amichevolmente\ne intreccia nelle sue parole\nmielate un effetto magico ammaliante\nche piega le guardie del palazzo\nalla sua volontà.\nQuando un'umana raggrinzita sussurra il nome del\nsuo patrono demoniaco, dalle sue mani si sprigiona\nuna fiammata che infonde il potere degli immondi nel\nsuo incantesimo.\nCon gli occhi che guizzano da un tomo consumato al\ncielo dove risplende uno strano allineamento delle stelle,\nun tiefling dallo sguardo spiritato intona il rituale mistico\nche spalancherà un portale verso un mondo remoto.\nI warlock vanno in cerca delle conoscenze nascoste\nnegli anfratti più remoti del multiverso. Grazie ai patti che\nstipulano con misteriose entità dai poteri soprannaturali,\nsono in grado di generare gli effetti magici più disparati,\nda quelli più spettacolari a quelli più insidiosamente\nsottili. Attingendo alle conoscenze antiche di esseri come\nnobili folletti, demoni, diavoli, streghe ed entità aliene\nappartenenti al Reame Remoto, i warlock apprendono un\nsegreto arcano dopo l'altro con cui rafforzano i loro poteri.\nIL Vincolo del Patto\nUn warlock è definito dal patto che stipula con un'entità\nultraterrena. A volte il rapporto tra un warlock e il suo\npatrono è simile a quello tra un chierico e la sua divinità,\nma gli esseri che fungono da patroni dei warlock non sono\ndèi. Un warlock potrebbe guidare un culto devoto a un\nprincipe dei demoni, a un arcidiavolo o anche a un'entità\ntotalmente aliena: esseri che solitamente nessun chierico\nservirà mai.Tuttavia, nella maggior parte dei casi ilpatto\ntra un warlock e il suo patrono è simile a quello tra u n\nmaestro e un apprendista. Il warlock apprende e aumenta\nil suo potere, ma in cambio deve mettere di tanto in tanto i\nsuoi poteri al servizio del patrono.\nLa magia conferita a un warlock può variare da alterazioni\nminuscole ma permanenti (come per esempio la capacità\ndi vedere nel buio o di leggere qualsiasi linguaggio), fino\nalla possibilità di accedere agli incantesimi più potenti.\nA differenza dei maghi veri e propri, che sono dei topi di\nbiblioteca, i warlock integrano i loro poteri magici con una\ncerta perizia nel combattimento corpo a corpo. Indossano\nsenza difficoltà le armature leggere e sanno usare le\narmi semplici.\nScopRitorI dI Segreti\nI warlock sono animati da un'insaziabile sete di sapere e\ndi potere, che li spinge a stipulare patti con i loro patroni e\nche plasma le loro vite. Questa sete di conoscenza modeila\nanche la loro carriera futura.\nLe storie che vedono un warlock legarsi a una creatura\nimmonda sono le più note, ma molti warlock servono\npatroni di tutt'altra natura. A volte un viaggiatore si imbatte\nin una strana, magnifica torre nelle terre selvagge e\nincontrail nobile fatato che vive al suo interno, stipulando\ncon quella figura un patto senza nemmeno esserne del\ntutto consapevole. Altre volte, immerso nella lettura di un\ntomo proibito, un discepolo geniale ma folle proietta la\nsua mente in una realtà che va oltre il piano materiale e\ncontatta gli esseri alieni che si annidano nel vuoto esterno.\nOffrimi un caffè:\npaypal.me/mimmi987\nCAPITOLO 3 CLASSI\n113"
+}

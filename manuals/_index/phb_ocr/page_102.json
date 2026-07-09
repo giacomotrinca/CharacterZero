@@ -1,0 +1,1564 @@
+{
+ "pdf_page_index": 102,
+ "page_label": 103,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 222,
+ "lines": [
+  {
+   "x1": 90.0,
+   "y1": 74.0,
+   "x2": 188.0,
+   "y2": 116.0,
+   "text": "RANGeR"
+  },
+  {
+   "x1": 162.0,
+   "y1": 118.0,
+   "x2": 239.0,
+   "y2": 148.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 96.0,
+   "y1": 140.0,
+   "x2": 316.0,
+   "y2": 179.0,
+   "text": "Livello Competenza Privilegi"
+  },
+  {
+   "x1": 707.0,
+   "y1": 144.0,
+   "x2": 794.0,
+   "y2": 170.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 816.0,
+   "y1": 146.0,
+   "x2": 840.0,
+   "y2": 170.0,
+   "text": "1°"
+  },
+  {
+   "x1": 885.0,
+   "y1": 146.0,
+   "x2": 909.0,
+   "y2": 172.0,
+   "text": "2*"
+  },
+  {
+   "x1": 953.0,
+   "y1": 146.0,
+   "x2": 977.0,
+   "y2": 172.0,
+   "text": "3°"
+  },
+  {
+   "x1": 1023.0,
+   "y1": 146.0,
+   "x2": 1047.0,
+   "y2": 172.0,
+   "text": "4°"
+  },
+  {
+   "x1": 1091.0,
+   "y1": 146.0,
+   "x2": 1115.0,
+   "y2": 170.0,
+   "text": "5°"
+  },
+  {
+   "x1": 111.0,
+   "y1": 177.0,
+   "x2": 139.0,
+   "y2": 203.0,
+   "text": "1°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 174.0,
+   "x2": 216.0,
+   "y2": 199.0,
+   "text": "+2"
+  },
+  {
+   "x1": 249.0,
+   "y1": 174.0,
+   "x2": 519.0,
+   "y2": 197.0,
+   "text": "Nemico Prescelto, Esploratore Nato"
+  },
+  {
+   "x1": 955.0,
+   "y1": 174.0,
+   "x2": 981.0,
+   "y2": 195.0,
+   "text": "-"
+  },
+  {
+   "x1": 113.0,
+   "y1": 203.0,
+   "x2": 139.0,
+   "y2": 230.0,
+   "text": "2°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 199.0,
+   "x2": 216.0,
+   "y2": 225.0,
+   "text": "+2"
+  },
+  {
+   "x1": 247.0,
+   "y1": 199.0,
+   "x2": 519.0,
+   "y2": 225.0,
+   "text": "Stile di Combattimento, Incantesimi"
+  },
+  {
+   "x1": 741.0,
+   "y1": 201.0,
+   "x2": 759.0,
+   "y2": 221.0,
+   "text": "2"
+  },
+  {
+   "x1": 815.0,
+   "y1": 196.0,
+   "x2": 840.0,
+   "y2": 224.0,
+   "text": "2"
+  },
+  {
+   "x1": 888.0,
+   "y1": 205.0,
+   "x2": 907.0,
+   "y2": 219.0,
+   "text": "—"
+  },
+  {
+   "x1": 111.0,
+   "y1": 228.0,
+   "x2": 139.0,
+   "y2": 256.0,
+   "text": "3°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 223.0,
+   "x2": 218.0,
+   "y2": 254.0,
+   "text": "+2"
+  },
+  {
+   "x1": 249.0,
+   "y1": 227.0,
+   "x2": 596.0,
+   "y2": 252.0,
+   "text": "Archetipo Ranger, Consapevolezza Primordiale"
+  },
+  {
+   "x1": 739.0,
+   "y1": 227.0,
+   "x2": 761.0,
+   "y2": 252.0,
+   "text": "3"
+  },
+  {
+   "x1": 816.0,
+   "y1": 227.0,
+   "x2": 838.0,
+   "y2": 252.0,
+   "text": "3"
+  },
+  {
+   "x1": 890.0,
+   "y1": 236.0,
+   "x2": 901.0,
+   "y2": 245.0,
+   "text": "-"
+  },
+  {
+   "x1": 957.0,
+   "y1": 232.0,
+   "x2": 977.0,
+   "y2": 247.0,
+   "text": "-"
+  },
+  {
+   "x1": 1025.0,
+   "y1": 232.0,
+   "x2": 1047.0,
+   "y2": 247.0,
+   "text": "-"
+  },
+  {
+   "x1": 113.0,
+   "y1": 256.0,
+   "x2": 140.0,
+   "y2": 283.0,
+   "text": "4°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 254.0,
+   "x2": 216.0,
+   "y2": 280.0,
+   "text": "+2"
+  },
+  {
+   "x1": 251.0,
+   "y1": 254.0,
+   "x2": 537.0,
+   "y2": 280.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 741.0,
+   "y1": 256.0,
+   "x2": 759.0,
+   "y2": 276.0,
+   "text": "3"
+  },
+  {
+   "x1": 820.0,
+   "y1": 256.0,
+   "x2": 837.0,
+   "y2": 276.0,
+   "text": "3"
+  },
+  {
+   "x1": 109.0,
+   "y1": 280.0,
+   "x2": 140.0,
+   "y2": 312.0,
+   "text": "5°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 281.0,
+   "x2": 216.0,
+   "y2": 305.0,
+   "text": "+3"
+  },
+  {
+   "x1": 249.0,
+   "y1": 281.0,
+   "x2": 351.0,
+   "y2": 301.0,
+   "text": "Attacco Extra"
+  },
+  {
+   "x1": 741.0,
+   "y1": 283.0,
+   "x2": 759.0,
+   "y2": 301.0,
+   "text": "4"
+  },
+  {
+   "x1": 820.0,
+   "y1": 281.0,
+   "x2": 837.0,
+   "y2": 301.0,
+   "text": "4"
+  },
+  {
+   "x1": 885.0,
+   "y1": 280.0,
+   "x2": 909.0,
+   "y2": 305.0,
+   "text": "2"
+  },
+  {
+   "x1": 113.0,
+   "y1": 309.0,
+   "x2": 140.0,
+   "y2": 336.0,
+   "text": "6°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 307.0,
+   "x2": 216.0,
+   "y2": 333.0,
+   "text": "+3"
+  },
+  {
+   "x1": 249.0,
+   "y1": 305.0,
+   "x2": 676.0,
+   "y2": 333.0,
+   "text": "Nemico Prescelto Migliorato, Esploratore Nato Migliorato"
+  },
+  {
+   "x1": 738.0,
+   "y1": 308.0,
+   "x2": 760.0,
+   "y2": 331.0,
+   "text": "4"
+  },
+  {
+   "x1": 820.0,
+   "y1": 309.0,
+   "x2": 837.0,
+   "y2": 331.0,
+   "text": "4"
+  },
+  {
+   "x1": 885.0,
+   "y1": 307.0,
+   "x2": 907.0,
+   "y2": 333.0,
+   "text": "2"
+  },
+  {
+   "x1": 957.0,
+   "y1": 314.0,
+   "x2": 977.0,
+   "y2": 327.0,
+   "text": "-"
+  },
+  {
+   "x1": 1029.0,
+   "y1": 316.0,
+   "x2": 1042.0,
+   "y2": 325.0,
+   "text": "-"
+  },
+  {
+   "x1": 109.0,
+   "y1": 334.0,
+   "x2": 142.0,
+   "y2": 365.0,
+   "text": "7°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 334.0,
+   "x2": 216.0,
+   "y2": 360.0,
+   "text": "+3"
+  },
+  {
+   "x1": 247.0,
+   "y1": 331.0,
+   "x2": 484.0,
+   "y2": 360.0,
+   "text": "Privilegio dell'Archetipo Ranger"
+  },
+  {
+   "x1": 739.0,
+   "y1": 333.0,
+   "x2": 761.0,
+   "y2": 358.0,
+   "text": "5"
+  },
+  {
+   "x1": 816.0,
+   "y1": 333.0,
+   "x2": 840.0,
+   "y2": 358.0,
+   "text": "4"
+  },
+  {
+   "x1": 880.0,
+   "y1": 329.0,
+   "x2": 910.0,
+   "y2": 362.0,
+   "text": "3"
+  },
+  {
+   "x1": 109.0,
+   "y1": 360.0,
+   "x2": 142.0,
+   "y2": 393.0,
+   "text": "8°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 360.0,
+   "x2": 216.0,
+   "y2": 386.0,
+   "text": "+3"
+  },
+  {
+   "x1": 247.0,
+   "y1": 358.0,
+   "x2": 711.0,
+   "y2": 386.0,
+   "text": "Aumento dei Punteggi di Caratteristica, Andatura sul Territorio"
+  },
+  {
+   "x1": 739.0,
+   "y1": 364.0,
+   "x2": 759.0,
+   "y2": 382.0,
+   "text": "5"
+  },
+  {
+   "x1": 820.0,
+   "y1": 364.0,
+   "x2": 837.0,
+   "y2": 382.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 362.0,
+   "x2": 905.0,
+   "y2": 382.0,
+   "text": "3"
+  },
+  {
+   "x1": 954.0,
+   "y1": 363.0,
+   "x2": 978.0,
+   "y2": 381.0,
+   "text": "/"
+  },
+  {
+   "x1": 109.0,
+   "y1": 386.0,
+   "x2": 142.0,
+   "y2": 417.0,
+   "text": "9°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 387.0,
+   "x2": 216.0,
+   "y2": 413.0,
+   "text": "+4"
+  },
+  {
+   "x1": 737.0,
+   "y1": 387.0,
+   "x2": 761.0,
+   "y2": 413.0,
+   "text": "6"
+  },
+  {
+   "x1": 816.0,
+   "y1": 387.0,
+   "x2": 838.0,
+   "y2": 413.0,
+   "text": "4"
+  },
+  {
+   "x1": 885.0,
+   "y1": 387.0,
+   "x2": 909.0,
+   "y2": 413.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 386.0,
+   "x2": 977.0,
+   "y2": 413.0,
+   "text": "2"
+  },
+  {
+   "x1": 107.0,
+   "y1": 413.0,
+   "x2": 146.0,
+   "y2": 444.0,
+   "text": "10°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 413.0,
+   "x2": 216.0,
+   "y2": 438.0,
+   "text": "+4"
+  },
+  {
+   "x1": 251.0,
+   "y1": 413.0,
+   "x2": 665.0,
+   "y2": 438.0,
+   "text": "Esploratore Nato Migliorato, Nascondersi in Piena Vista"
+  },
+  {
+   "x1": 741.0,
+   "y1": 417.0,
+   "x2": 759.0,
+   "y2": 437.0,
+   "text": "6"
+  },
+  {
+   "x1": 818.0,
+   "y1": 417.0,
+   "x2": 837.0,
+   "y2": 435.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 417.0,
+   "x2": 905.0,
+   "y2": 437.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 413.0,
+   "x2": 977.0,
+   "y2": 438.0,
+   "text": "2"
+  },
+  {
+   "x1": 107.0,
+   "y1": 438.0,
+   "x2": 144.0,
+   "y2": 470.0,
+   "text": "11°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 440.0,
+   "x2": 216.0,
+   "y2": 464.0,
+   "text": "+4"
+  },
+  {
+   "x1": 247.0,
+   "y1": 437.0,
+   "x2": 486.0,
+   "y2": 470.0,
+   "text": "Privilegio dell'Archetipo Ranger"
+  },
+  {
+   "x1": 742.0,
+   "y1": 442.0,
+   "x2": 759.0,
+   "y2": 462.0,
+   "text": "7"
+  },
+  {
+   "x1": 820.0,
+   "y1": 442.0,
+   "x2": 837.0,
+   "y2": 462.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 442.0,
+   "x2": 905.0,
+   "y2": 462.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 438.0,
+   "x2": 977.0,
+   "y2": 464.0,
+   "text": "3"
+  },
+  {
+   "x1": 107.0,
+   "y1": 466.0,
+   "x2": 144.0,
+   "y2": 497.0,
+   "text": "12°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 468.0,
+   "x2": 216.0,
+   "y2": 491.0,
+   "text": "+4"
+  },
+  {
+   "x1": 249.0,
+   "y1": 466.0,
+   "x2": 534.0,
+   "y2": 490.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 742.0,
+   "y1": 470.0,
+   "x2": 757.0,
+   "y2": 488.0,
+   "text": "7"
+  },
+  {
+   "x1": 818.0,
+   "y1": 470.0,
+   "x2": 835.0,
+   "y2": 490.0,
+   "text": "4"
+  },
+  {
+   "x1": 888.0,
+   "y1": 470.0,
+   "x2": 905.0,
+   "y2": 490.0,
+   "text": "3"
+  },
+  {
+   "x1": 958.0,
+   "y1": 468.0,
+   "x2": 975.0,
+   "y2": 490.0,
+   "text": "3"
+  },
+  {
+   "x1": 107.0,
+   "y1": 491.0,
+   "x2": 144.0,
+   "y2": 524.0,
+   "text": "13°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 493.0,
+   "x2": 216.0,
+   "y2": 519.0,
+   "text": "+5"
+  },
+  {
+   "x1": 741.0,
+   "y1": 495.0,
+   "x2": 759.0,
+   "y2": 515.0,
+   "text": "8"
+  },
+  {
+   "x1": 820.0,
+   "y1": 495.0,
+   "x2": 837.0,
+   "y2": 515.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 495.0,
+   "x2": 905.0,
+   "y2": 515.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 491.0,
+   "x2": 977.0,
+   "y2": 517.0,
+   "text": "3"
+  },
+  {
+   "x1": 1029.0,
+   "y1": 495.0,
+   "x2": 1043.0,
+   "y2": 513.0,
+   "text": "1"
+  },
+  {
+   "x1": 107.0,
+   "y1": 519.0,
+   "x2": 144.0,
+   "y2": 548.0,
+   "text": "14°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 519.0,
+   "x2": 216.0,
+   "y2": 544.0,
+   "text": "+5"
+  },
+  {
+   "x1": 249.0,
+   "y1": 521.0,
+   "x2": 526.0,
+   "y2": 544.0,
+   "text": "Nemico Prescelto Migliorato, Svanire"
+  },
+  {
+   "x1": 741.0,
+   "y1": 523.0,
+   "x2": 759.0,
+   "y2": 543.0,
+   "text": "8"
+  },
+  {
+   "x1": 820.0,
+   "y1": 523.0,
+   "x2": 835.0,
+   "y2": 543.0,
+   "text": "4"
+  },
+  {
+   "x1": 888.0,
+   "y1": 523.0,
+   "x2": 907.0,
+   "y2": 543.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 521.0,
+   "x2": 973.0,
+   "y2": 543.0,
+   "text": "3"
+  },
+  {
+   "x1": 1029.0,
+   "y1": 523.0,
+   "x2": 1043.0,
+   "y2": 539.0,
+   "text": "1"
+  },
+  {
+   "x1": 107.0,
+   "y1": 544.0,
+   "x2": 144.0,
+   "y2": 576.0,
+   "text": "15°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 546.0,
+   "x2": 216.0,
+   "y2": 572.0,
+   "text": "+5"
+  },
+  {
+   "x1": 249.0,
+   "y1": 544.0,
+   "x2": 484.0,
+   "y2": 572.0,
+   "text": "Privilegio dell'Archetipo Ranger"
+  },
+  {
+   "x1": 737.0,
+   "y1": 546.0,
+   "x2": 761.0,
+   "y2": 572.0,
+   "text": "9"
+  },
+  {
+   "x1": 816.0,
+   "y1": 546.0,
+   "x2": 838.0,
+   "y2": 572.0,
+   "text": "4"
+  },
+  {
+   "x1": 888.0,
+   "y1": 548.0,
+   "x2": 905.0,
+   "y2": 570.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 546.0,
+   "x2": 977.0,
+   "y2": 572.0,
+   "text": "3"
+  },
+  {
+   "x1": 1029.0,
+   "y1": 548.0,
+   "x2": 1043.0,
+   "y2": 570.0,
+   "text": "2"
+  },
+  {
+   "x1": 109.0,
+   "y1": 572.0,
+   "x2": 144.0,
+   "y2": 603.0,
+   "text": "16°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 572.0,
+   "x2": 216.0,
+   "y2": 597.0,
+   "text": "+5"
+  },
+  {
+   "x1": 251.0,
+   "y1": 574.0,
+   "x2": 537.0,
+   "y2": 599.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 737.0,
+   "y1": 574.0,
+   "x2": 761.0,
+   "y2": 597.0,
+   "text": "9"
+  },
+  {
+   "x1": 820.0,
+   "y1": 576.0,
+   "x2": 837.0,
+   "y2": 594.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 576.0,
+   "x2": 905.0,
+   "y2": 594.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 574.0,
+   "x2": 973.0,
+   "y2": 596.0,
+   "text": "3"
+  },
+  {
+   "x1": 1027.0,
+   "y1": 574.0,
+   "x2": 1043.0,
+   "y2": 596.0,
+   "text": "2"
+  },
+  {
+   "x1": 109.0,
+   "y1": 601.0,
+   "x2": 140.0,
+   "y2": 627.0,
+   "text": "17°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 599.0,
+   "x2": 218.0,
+   "y2": 625.0,
+   "text": "+6"
+  },
+  {
+   "x1": 733.0,
+   "y1": 596.0,
+   "x2": 766.0,
+   "y2": 627.0,
+   "text": "10"
+  },
+  {
+   "x1": 818.0,
+   "y1": 601.0,
+   "x2": 837.0,
+   "y2": 621.0,
+   "text": "4"
+  },
+  {
+   "x1": 885.0,
+   "y1": 599.0,
+   "x2": 909.0,
+   "y2": 625.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 597.0,
+   "x2": 977.0,
+   "y2": 625.0,
+   "text": "3"
+  },
+  {
+   "x1": 1025.0,
+   "y1": 597.0,
+   "x2": 1047.0,
+   "y2": 625.0,
+   "text": "3"
+  },
+  {
+   "x1": 1097.0,
+   "y1": 601.0,
+   "x2": 1110.0,
+   "y2": 621.0,
+   "text": "1"
+  },
+  {
+   "x1": 107.0,
+   "y1": 625.0,
+   "x2": 144.0,
+   "y2": 656.0,
+   "text": "18°"
+  },
+  {
+   "x1": 183.0,
+   "y1": 623.0,
+   "x2": 220.0,
+   "y2": 652.0,
+   "text": "+6"
+  },
+  {
+   "x1": 249.0,
+   "y1": 625.0,
+   "x2": 343.0,
+   "y2": 650.0,
+   "text": "Sensi Ferini"
+  },
+  {
+   "x1": 737.0,
+   "y1": 625.0,
+   "x2": 765.0,
+   "y2": 650.0,
+   "text": "10"
+  },
+  {
+   "x1": 818.0,
+   "y1": 627.0,
+   "x2": 837.0,
+   "y2": 647.0,
+   "text": "4"
+  },
+  {
+   "x1": 885.0,
+   "y1": 625.0,
+   "x2": 907.0,
+   "y2": 650.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 625.0,
+   "x2": 977.0,
+   "y2": 650.0,
+   "text": "3"
+  },
+  {
+   "x1": 1027.0,
+   "y1": 627.0,
+   "x2": 1043.0,
+   "y2": 649.0,
+   "text": "3"
+  },
+  {
+   "x1": 1097.0,
+   "y1": 627.0,
+   "x2": 1112.0,
+   "y2": 647.0,
+   "text": "1"
+  },
+  {
+   "x1": 107.0,
+   "y1": 650.0,
+   "x2": 144.0,
+   "y2": 680.0,
+   "text": "19°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 652.0,
+   "x2": 216.0,
+   "y2": 678.0,
+   "text": "+6"
+  },
+  {
+   "x1": 247.0,
+   "y1": 652.0,
+   "x2": 539.0,
+   "y2": 678.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 735.0,
+   "y1": 652.0,
+   "x2": 763.0,
+   "y2": 678.0,
+   "text": "11"
+  },
+  {
+   "x1": 818.0,
+   "y1": 654.0,
+   "x2": 837.0,
+   "y2": 674.0,
+   "text": "4"
+  },
+  {
+   "x1": 885.0,
+   "y1": 652.0,
+   "x2": 909.0,
+   "y2": 676.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 654.0,
+   "x2": 975.0,
+   "y2": 674.0,
+   "text": "3"
+  },
+  {
+   "x1": 1027.0,
+   "y1": 654.0,
+   "x2": 1045.0,
+   "y2": 674.0,
+   "text": "3"
+  },
+  {
+   "x1": 1093.0,
+   "y1": 652.0,
+   "x2": 1117.0,
+   "y2": 678.0,
+   "text": "2"
+  },
+  {
+   "x1": 107.0,
+   "y1": 678.0,
+   "x2": 144.0,
+   "y2": 707.0,
+   "text": "20°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 680.0,
+   "x2": 216.0,
+   "y2": 703.0,
+   "text": "+6"
+  },
+  {
+   "x1": 249.0,
+   "y1": 680.0,
+   "x2": 427.0,
+   "y2": 703.0,
+   "text": "Sterminatore di Nemici"
+  },
+  {
+   "x1": 737.0,
+   "y1": 678.0,
+   "x2": 761.0,
+   "y2": 703.0,
+   "text": "11"
+  },
+  {
+   "x1": 818.0,
+   "y1": 683.0,
+   "x2": 837.0,
+   "y2": 702.0,
+   "text": "4"
+  },
+  {
+   "x1": 888.0,
+   "y1": 682.0,
+   "x2": 905.0,
+   "y2": 702.0,
+   "text": "3"
+  },
+  {
+   "x1": 958.0,
+   "y1": 682.0,
+   "x2": 973.0,
+   "y2": 700.0,
+   "text": "3"
+  },
+  {
+   "x1": 1027.0,
+   "y1": 682.0,
+   "x2": 1043.0,
+   "y2": 702.0,
+   "text": "3"
+  },
+  {
+   "x1": 1097.0,
+   "y1": 683.0,
+   "x2": 1112.0,
+   "y2": 702.0,
+   "text": "2"
+  },
+  {
+   "x1": 90.0,
+   "y1": 775.0,
+   "x2": 589.0,
+   "y2": 813.0,
+   "text": "slvaggeanerrgsce constdivtim,"
+  },
+  {
+   "x1": 646.0,
+   "y1": 784.0,
+   "x2": 859.0,
+   "y2": 809.0,
+   "text": "CreaZione Rapida"
+  },
+  {
+   "x1": 96.0,
+   "y1": 806.0,
+   "x2": 591.0,
+   "y2": 831.0,
+   "text": "frustrazione e compassione. Tuttavia, presto anche i ranger"
+  },
+  {
+   "x1": 641.0,
+   "y1": 807.0,
+   "x2": 887.0,
+   "y2": 837.0,
+   "text": "È possibile creare un ranger"
+  },
+  {
+   "x1": 94.0,
+   "y1": 829.0,
+   "x2": 580.0,
+   "y2": 853.0,
+   "text": "scoprono che ogni avventuriero in grado di farsi valere in"
+  },
+  {
+   "x1": 641.0,
+   "y1": 833.0,
+   "x2": 894.0,
+   "y2": 859.0,
+   "text": "rapidamente seguendo questi"
+  },
+  {
+   "x1": 96.0,
+   "y1": 853.0,
+   "x2": 587.0,
+   "y2": 877.0,
+   "text": "uno scontro con i nemici della civiltà ripaga ampiamente il"
+  },
+  {
+   "x1": 643.0,
+   "y1": 855.0,
+   "x2": 899.0,
+   "y2": 881.0,
+   "text": "suggerimenti. Per prima cosa,"
+  },
+  {
+   "x1": 96.0,
+   "y1": 875.0,
+   "x2": 585.0,
+   "y2": 899.0,
+   "text": "fastidio di un fardello aggiuntivo. Gli avventurieri cittadini"
+  },
+  {
+   "x1": 643.0,
+   "y1": 875.0,
+   "x2": 977.0,
+   "y2": 904.0,
+   "text": "Destrezza dovrebbe essere il punteggio"
+  },
+  {
+   "x1": 94.0,
+   "y1": 899.0,
+   "x2": 578.0,
+   "y2": 923.0,
+   "text": "cresciuti nella bambagia non sapranno come procacciare"
+  },
+  {
+   "x1": 641.0,
+   "y1": 901.0,
+   "x2": 1139.0,
+   "y2": 928.0,
+   "text": "di caratteristica più alto, seguito da Saggezza. (Quei ranger"
+  },
+  {
+   "x1": 90.0,
+   "y1": 919.0,
+   "x2": 539.0,
+   "y2": 946.0,
+   "text": "il cibo o trovare acqua pulita nelle terre selvagge, ma"
+  },
+  {
+   "x1": 643.0,
+   "y1": 926.0,
+   "x2": 1090.0,
+   "y2": 950.0,
+   "text": "che si specializzano nel combattimento con due armi"
+  },
+  {
+   "x1": 92.0,
+   "y1": 945.0,
+   "x2": 499.0,
+   "y2": 968.0,
+   "text": "compensano queste carenze in molti altri modi."
+  },
+  {
+   "x1": 641.0,
+   "y1": 946.0,
+   "x2": 1138.0,
+   "y2": 974.0,
+   "text": "devono scegliere Forza anziché Destrezza come punteggio"
+  },
+  {
+   "x1": 641.0,
+   "y1": 970.0,
+   "x2": 1073.0,
+   "y2": 998.0,
+   "text": "più alto.) Poi si sceglie il background del forestiero."
+  },
+  {
+   "x1": 98.0,
+   "y1": 985.0,
+   "x2": 375.0,
+   "y2": 1016.0,
+   "text": "Creare un Ranger"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1023.0,
+   "x2": 589.0,
+   "y2": 1051.0,
+   "text": "Al momento di creare un personaggio ranger, un giocatore"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1014.0,
+   "x2": 1018.0,
+   "y2": 1054.0,
+   "text": "PriVILEGI DI CLassE"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1047.0,
+   "x2": 558.0,
+   "y2": 1074.0,
+   "text": "dovrebbe rifettere sulla natura dell'addestramento con"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1058.0,
+   "x2": 1034.0,
+   "y2": 1083.0,
+   "text": "Un ranger ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1071.0,
+   "x2": 554.0,
+   "y2": 1094.0,
+   "text": "cui ha ottenuto le sue capacità speciali. Si è addestrato"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1096.0,
+   "x2": 574.0,
+   "y2": 1120.0,
+   "text": "presso un singolo mentore, vagando per le terre selvagge"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1096.0,
+   "x2": 802.0,
+   "y2": 1131.0,
+   "text": "Punti FERita"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1116.0,
+   "x2": 571.0,
+   "y2": 1140.0,
+   "text": "assieme a lui finché non ha padroneggiato le tecniche dei"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1125.0,
+   "x2": 995.0,
+   "y2": 1155.0,
+   "text": "Dadi Vita: ld10 per ogni livello da ranger"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1142.0,
+   "x2": 560.0,
+   "y2": 1166.0,
+   "text": "ranger? Ha interrotto il suo apprendistato o forse il suo"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1151.0,
+   "x2": 1051.0,
+   "y2": 1177.0,
+   "text": "Punti Ferita al 1° Livello: 10 + il modifcatore di"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1162.0,
+   "x2": 560.0,
+   "y2": 1189.0,
+   "text": "mentore è stato ucciso dallo stesso tipo di mostro che è"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1173.0,
+   "x2": 864.0,
+   "y2": 1201.0,
+   "text": "Costituzione del ranger"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1188.0,
+   "x2": 596.0,
+   "y2": 1211.0,
+   "text": "diventato il suo nemico prescelto? O forse ha appreso le sue"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1197.0,
+   "x2": 1054.0,
+   "y2": 1222.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d10 (o 6) + il"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1210.0,
+   "x2": 576.0,
+   "y2": 1233.0,
+   "text": "abilità assieme a una banda di ranger affiliati a un circolo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1217.0,
+   "x2": 1066.0,
+   "y2": 1250.0,
+   "text": "modificatore di Costituzione del ranger per ogni"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1231.0,
+   "x2": 565.0,
+   "y2": 1255.0,
+   "text": "druidico e si è addestrato nell'utilizzo delle arti mistiche"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1239.0,
+   "x2": 883.0,
+   "y2": 1272.0,
+   "text": "livello da ranger dopo il 1"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1255.0,
+   "x2": 569.0,
+   "y2": 1283.0,
+   "text": "oftre che nelle conoscenze delle terre selvagge? Il ranger"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1279.0,
+   "x2": 561.0,
+   "y2": 1303.0,
+   "text": "potrebbe essere un autodidatta, una figura solitaria che"
+  },
+  {
+   "x1": 642.0,
+   "y1": 1284.0,
+   "x2": 792.0,
+   "y2": 1314.0,
+   "text": "Competenze"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1301.0,
+   "x2": 569.0,
+   "y2": 1328.0,
+   "text": "ha imparato a combattere, a seguire le tracce e perfino a"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1312.0,
+   "x2": 1088.0,
+   "y2": 1339.0,
+   "text": "Armature: Armature leggere, armature medie, scudi"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1323.0,
+   "x2": 571.0,
+   "y2": 1352.0,
+   "text": "stabilire un legame magico con la natura traendo spunto"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1336.0,
+   "x2": 957.0,
+   "y2": 1363.0,
+   "text": "Armi: Armi semplici, armi da guerra"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1348.0,
+   "x2": 580.0,
+   "y2": 1372.0,
+   "text": "esclusivamente dalla necessità di sopravvivere nei boschi."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1357.0,
+   "x2": 824.0,
+   "y2": 1387.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1370.0,
+   "x2": 541.0,
+   "y2": 1398.0,
+   "text": "Da dove nasce il particolare odio del ranger per un"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1394.0,
+   "x2": 536.0,
+   "y2": 1422.0,
+   "text": "certo tipo di nemico? Un mostro ha forse ucciso una"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1392.0,
+   "x2": 916.0,
+   "y2": 1418.0,
+   "text": "Tiri Salvezza: Forza, Destrezza"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1416.0,
+   "x2": 545.0,
+   "y2": 1443.0,
+   "text": "persona a lui cara o ha distrutto il suo villaggio natio?"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1416.0,
+   "x2": 1088.0,
+   "y2": 1443.0,
+   "text": "Abilità: Tre a scelta tra Addestrare Animali, Atletica,"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1440.0,
+   "x2": 554.0,
+   "y2": 1467.0,
+   "text": "Oppure il ranger ha visto troppa distruzione provocata"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1440.0,
+   "x2": 1099.0,
+   "y2": 1465.0,
+   "text": "Furtività, Indagare, Intuizione, Natura, Percezione e"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1465.0,
+   "x2": 565.0,
+   "y2": 1489.0,
+   "text": "da questi mostri e si è ripromesso di porre un limite alle"
+  },
+  {
+   "x1": 653.0,
+   "y1": 1458.0,
+   "x2": 795.0,
+   "y2": 1495.0,
+   "text": "Sopravvivenza"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1489.0,
+   "x2": 534.0,
+   "y2": 1513.0,
+   "text": "loro scorrerie? La sua carriera di avventuriero è una"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1509.0,
+   "x2": 560.0,
+   "y2": 1537.0,
+   "text": "prosecuzione della sua missione di vigilanza sulle terre"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1504.0,
+   "x2": 857.0,
+   "y2": 1535.0,
+   "text": "Equipaggiamento"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1531.0,
+   "x2": 543.0,
+   "y2": 1559.0,
+   "text": "di confine o qualcosa di drasticamente diverso? Cosa"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1531.0,
+   "x2": 1069.0,
+   "y2": 1559.0,
+   "text": "Un ranger inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1551.0,
+   "x2": 560.0,
+   "y2": 1584.0,
+   "text": "lo ha spinto a unirsi a una banda di avventurieri? Trova"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1559.0,
+   "x2": 1134.0,
+   "y2": 1584.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1579.0,
+   "x2": 552.0,
+   "y2": 1606.0,
+   "text": "difficoltoso insegnare ai suoi nuovi alleati come si vive"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1591.0,
+   "x2": 1093.0,
+   "y2": 1615.0,
+   "text": "a) una corazza di scaglie o (b) un'armatura di cuoio"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1604.0,
+   "x2": 593.0,
+   "y2": 1630.0,
+   "text": "nelle terre selvagge, o è contento di avere accanto a sé altre"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1619.0,
+   "x2": 659.0,
+   "y2": 1633.0,
+   "text": "."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1613.0,
+   "x2": 1110.0,
+   "y2": 1641.0,
+   "text": "(a) due spade corte o (b) due armi semplici da mischia"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1628.0,
+   "x2": 454.0,
+   "y2": 1654.0,
+   "text": "figure a riscuoterlo dalla sua vita solitaria?"
+  },
+  {
+   "x1": 960.0,
+   "y1": 1686.0,
+   "x2": 1141.0,
+   "y2": 1710.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1200.0,
+   "y1": 1701.0,
+   "x2": 1235.0,
+   "y2": 1721.0,
+   "text": "103"
+  }
+ ],
+ "reading_text": "RANGeR\nBonus di\nLivello Competenza Privilegi\n+2\nNemico Prescelto, Esploratore Nato\n1°\n+2\nStile di Combattimento, Incantesimi\n2°\n+2\nArchetipo Ranger, Consapevolezza Primordiale\n3°\n+2\nAumento dei Punteggi di Caratteristica\n4°\n5°\n+3\nAttacco Extra\nNemico Prescelto Migliorato, Esploratore Nato Migliorato\n+3\n6°\nPrivilegio dell'Archetipo Ranger\n7°\n+3\nAumento dei Punteggi di Caratteristica, Andatura sul Territorio\n8°\n+3\n9°\n+4\n10°\n+4\nEsploratore Nato Migliorato, Nascondersi in Piena Vista\nPrivilegio dell'Archetipo Ranger\n11°\n+4\n12°\nAumento dei Punteggi di Caratteristica\n+4\n13°\n+5\n14°\n+5\nNemico Prescelto Migliorato, Svanire\n15°\nPrivilegio dell'Archetipo Ranger\n+5\n16°\n+5\nAumento dei Punteggi di Caratteristica\n+6\n17°\n+6\n18°\nSensi Ferini\n19°\n+6\nAumento dei Punteggi di Caratteristica\n20°\n+6\nSterminatore di Nemici\nslvaggeanerrgsce constdivtim,\nfrustrazione e compassione. Tuttavia, presto anche i ranger\nscoprono che ogni avventuriero in grado di farsi valere in\nuno scontro con i nemici della civiltà ripaga ampiamente il\nfastidio di un fardello aggiuntivo. Gli avventurieri cittadini\ncresciuti nella bambagia non sapranno come procacciare\nil cibo o trovare acqua pulita nelle terre selvagge, ma\ncompensano queste carenze in molti altri modi.\nCreare un Ranger\nAl momento di creare un personaggio ranger, un giocatore\ndovrebbe rifettere sulla natura dell'addestramento con\ncui ha ottenuto le sue capacità speciali. Si è addestrato\npresso un singolo mentore, vagando per le terre selvagge\nassieme a lui finché non ha padroneggiato le tecniche dei\nranger? Ha interrotto il suo apprendistato o forse il suo\nmentore è stato ucciso dallo stesso tipo di mostro che è\ndiventato il suo nemico prescelto? O forse ha appreso le sue\nabilità assieme a una banda di ranger affiliati a un circolo\ndruidico e si è addestrato nell'utilizzo delle arti mistiche\noftre che nelle conoscenze delle terre selvagge? Il ranger\npotrebbe essere un autodidatta, una figura solitaria che\nha imparato a combattere, a seguire le tracce e perfino a\nstabilire un legame magico con la natura traendo spunto\nesclusivamente dalla necessità di sopravvivere nei boschi.\nDa dove nasce il particolare odio del ranger per un\ncerto tipo di nemico? Un mostro ha forse ucciso una\npersona a lui cara o ha distrutto il suo villaggio natio?\nOppure il ranger ha visto troppa distruzione provocata\nda questi mostri e si è ripromesso di porre un limite alle\nloro scorrerie? La sua carriera di avventuriero è una\nprosecuzione della sua missione di vigilanza sulle terre\ndi confine o qualcosa di drasticamente diverso? Cosa\nlo ha spinto a unirsi a una banda di avventurieri? Trova\ndifficoltoso insegnare ai suoi nuovi alleati come si vive\nnelle terre selvagge, o è contento di avere accanto a sé altre\nfigure a riscuoterlo dalla sua vita solitaria?\nConosciuti\n1°\n2*\n3°\n4°\n5°\n-\n2\n2\n—\n3\n3\n-\n-\n-\n3\n3\n2\n4\n4\n2\n4\n4\n-\n-\n3\n5\n4\n3\n/\n5\n4\n2\n6\n4\n3\n2\n6\n4\n3\n3\n7\n4\n3\n3\n7\n4\n3\n3\n8\n4\n3\n1\n3\n8\n4\n3\n1\n9\n4\n3\n3\n2\n9\n3\n2\n4\n3\n10\n3\n3\n3\n4\n1\n10\n3\n3\n4\n3\n1\n11\n3\n2\n4\n3\n3\n11\n3\n3\n3\n4\n2\nCreaZione Rapida\nÈ possibile creare un ranger\nrapidamente seguendo questi\nsuggerimenti. Per prima cosa,\nDestrezza dovrebbe essere il punteggio\ndi caratteristica più alto, seguito da Saggezza. (Quei ranger\nche si specializzano nel combattimento con due armi\ndevono scegliere Forza anziché Destrezza come punteggio\npiù alto.) Poi si sceglie il background del forestiero.\nPriVILEGI DI CLassE\nUn ranger ottiene i seguenti privilegi di classe.\nPunti FERita\nDadi Vita: ld10 per ogni livello da ranger\nPunti Ferita al 1° Livello: 10 + il modifcatore di\nCostituzione del ranger\nPunti Ferita ai Livelli Successivi: 1d10 (o 6) + il\nmodificatore di Costituzione del ranger per ogni\nlivello da ranger dopo il 1\nCompetenze\nArmature: Armature leggere, armature medie, scudi\nArmi: Armi semplici, armi da guerra\nStrumenti: Nessuno\nTiri Salvezza: Forza, Destrezza\nAbilità: Tre a scelta tra Addestrare Animali, Atletica,\nFurtività, Indagare, Intuizione, Natura, Percezione e\nSopravvivenza\nEquipaggiamento\nUn ranger inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\na) una corazza di scaglie o (b) un'armatura di cuoio\n(a) due spade corte o (b) due armi semplici da mischia\n.\nCAPITOLO 3 |CLASSI\n103"
+}

@@ -1,0 +1,794 @@
+{
+ "pdf_page_index": 71,
+ "page_label": 72,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 112,
+ "lines": [
+  {
+   "x1": 120.0,
+   "y1": 88.0,
+   "x2": 608.0,
+   "y2": 111.0,
+   "text": "(a) un'arma da guerra e uno scudo o (b) due armi da guerra"
+  },
+  {
+   "x1": 654.0,
+   "y1": 88.0,
+   "x2": 1127.0,
+   "y2": 111.0,
+   "text": "tecniche. Può scegliere tra Campione, Maestro di Battaglia"
+  },
+  {
+   "x1": 120.0,
+   "y1": 111.0,
+   "x2": 563.0,
+   "y2": 135.0,
+   "text": "(a) una balestra leggera e 20 quadrelli o (b) due asce"
+  },
+  {
+   "x1": 656.0,
+   "y1": 111.0,
+   "x2": 1117.0,
+   "y2": 135.0,
+   "text": "e Cavaliere Mistico, tutti descritti alla finedella sezione di"
+  },
+  {
+   "x1": 116.0,
+   "y1": 132.0,
+   "x2": 595.0,
+   "y2": 159.0,
+   "text": "(a) una dotazione da avventuriero o (b) una dotazione da"
+  },
+  {
+   "x1": 654.0,
+   "y1": 132.0,
+   "x2": 1152.0,
+   "y2": 159.0,
+   "text": "questa classe. L'archetipo scelto conferisce al guerriero alcuni"
+  },
+  {
+   "x1": 122.0,
+   "y1": 159.0,
+   "x2": 223.0,
+   "y2": 179.0,
+   "text": "esploratore"
+  },
+  {
+   "x1": 654.0,
+   "y1": 153.0,
+   "x2": 1134.0,
+   "y2": 181.0,
+   "text": "privilegi al 3° livello e poi di nuovo al 7°, 10', 15° e 18° livello."
+  },
+  {
+   "x1": 103.0,
+   "y1": 195.0,
+   "x2": 471.0,
+   "y2": 228.0,
+   "text": "Stile di Combattimento"
+  },
+  {
+   "x1": 654.0,
+   "y1": 195.0,
+   "x2": 997.0,
+   "y2": 230.0,
+   "text": "Aumento deI Punteggi"
+  },
+  {
+   "x1": 105.0,
+   "y1": 236.0,
+   "x2": 528.0,
+   "y2": 259.0,
+   "text": "Un guerriero adotta uno stile di combattimento in cui"
+  },
+  {
+   "x1": 657.0,
+   "y1": 236.0,
+   "x2": 929.0,
+   "y2": 261.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 101.0,
+   "y1": 256.0,
+   "x2": 573.0,
+   "y2": 285.0,
+   "text": "specializzarsi scegliendo una tra le opzioni seguenti. Non è"
+  },
+  {
+   "x1": 656.0,
+   "y1": 269.0,
+   "x2": 1152.0,
+   "y2": 296.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo al 6', 8°, 12°, 14°, 16"
+  },
+  {
+   "x1": 103.0,
+   "y1": 283.0,
+   "x2": 606.0,
+   "y2": 307.0,
+   "text": "consentito scegliere uno stile di combattimento più di una volta,"
+  },
+  {
+   "x1": 656.0,
+   "y1": 294.0,
+   "x2": 1139.0,
+   "y2": 320.0,
+   "text": "e 19° livello, un guerriero può aumentare di 2 un punteggio"
+  },
+  {
+   "x1": 103.0,
+   "y1": 309.0,
+   "x2": 587.0,
+   "y2": 327.0,
+   "text": "anche se in seguito il guerriero ha diritto a scegliere di nuovo."
+  },
+  {
+   "x1": 654.0,
+   "y1": 314.0,
+   "x2": 1151.0,
+   "y2": 342.0,
+   "text": "di caratteristica a sua scelta, oppure può aumentare di I due"
+  },
+  {
+   "x1": 105.0,
+   "y1": 345.0,
+   "x2": 480.0,
+   "y2": 373.0,
+   "text": "Combattere con Armi Possenti"
+  },
+  {
+   "x1": 654.0,
+   "y1": 338.0,
+   "x2": 1119.0,
+   "y2": 365.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 652.0,
+   "y1": 360.0,
+   "x2": 1143.0,
+   "y2": 387.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 105.0,
+   "y1": 375.0,
+   "x2": 608.0,
+   "y2": 398.0,
+   "text": "Quando il guerriero ottiene un 1 o un 2 a un tiro per i danni"
+  },
+  {
+   "x1": 654.0,
+   "y1": 386.0,
+   "x2": 973.0,
+   "y2": 409.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 103.0,
+   "y1": 396.0,
+   "x2": 569.0,
+   "y2": 420.0,
+   "text": "di un attacco che ha effettuato con un'arma da mischia"
+  },
+  {
+   "x1": 102.0,
+   "y1": 417.0,
+   "x2": 584.0,
+   "y2": 444.0,
+   "text": "impugnata a due mani, può ripetere il tiro e deve usare il"
+  },
+  {
+   "x1": 657.0,
+   "y1": 429.0,
+   "x2": 885.0,
+   "y2": 455.0,
+   "text": "Attacco Extra"
+  },
+  {
+   "x1": 103.0,
+   "y1": 442.0,
+   "x2": 609.0,
+   "y2": 466.0,
+   "text": "nuovo risultato, anche se ottiene ancora un 1 o un 2. L'arma"
+  },
+  {
+   "x1": 103.0,
+   "y1": 466.0,
+   "x2": 604.0,
+   "y2": 490.0,
+   "text": "deve possedere la proprietà a due mani o versatile affinché"
+  },
+  {
+   "x1": 654.0,
+   "y1": 464.0,
+   "x2": 1149.0,
+   "y2": 488.0,
+   "text": "A partire dal 5° livello, un guerriero può attaccare due volte"
+  },
+  {
+   "x1": 103.0,
+   "y1": 486.0,
+   "x2": 414.0,
+   "y2": 510.0,
+   "text": "il guerriero ottenga questo benefcio."
+  },
+  {
+   "x1": 656.0,
+   "y1": 490.0,
+   "x2": 1136.0,
+   "y2": 513.0,
+   "text": "anziché una, ogni volta che effettua l'azione di Attacco nel"
+  },
+  {
+   "x1": 653.0,
+   "y1": 508.0,
+   "x2": 783.0,
+   "y2": 537.0,
+   "text": "proprio turno."
+  },
+  {
+   "x1": 107.0,
+   "y1": 530.0,
+   "x2": 423.0,
+   "y2": 554.0,
+   "text": "Combattere con Due Armi"
+  },
+  {
+   "x1": 672.0,
+   "y1": 535.0,
+   "x2": 1136.0,
+   "y2": 559.0,
+   "text": "il numero di attacchi aumenta a tre quando il guerriero"
+  },
+  {
+   "x1": 103.0,
+   "y1": 554.0,
+   "x2": 604.0,
+   "y2": 581.0,
+   "text": "Quando il guerriero combatte con due armi, può aggiungere"
+  },
+  {
+   "x1": 654.0,
+   "y1": 557.0,
+   "x2": 1141.0,
+   "y2": 581.0,
+   "text": "arriva all1 1° livello e a quattro quando arriva al 20° livello."
+  },
+  {
+   "x1": 102.0,
+   "y1": 577.0,
+   "x2": 573.0,
+   "y2": 605.0,
+   "text": "il suo modificatore di caratteristica ai danni del secondo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 603.0,
+   "x2": 175.0,
+   "y2": 629.0,
+   "text": "attacco."
+  },
+  {
+   "x1": 656.0,
+   "y1": 599.0,
+   "x2": 803.0,
+   "y2": 630.0,
+   "text": "Indomito"
+  },
+  {
+   "x1": 101.0,
+   "y1": 641.0,
+   "x2": 187.0,
+   "y2": 673.0,
+   "text": "Difesa"
+  },
+  {
+   "x1": 654.0,
+   "y1": 636.0,
+   "x2": 1084.0,
+   "y2": 663.0,
+   "text": "A partire dal 9° livello, un guerriero può ripetere un"
+  },
+  {
+   "x1": 101.0,
+   "y1": 667.0,
+   "x2": 595.0,
+   "y2": 696.0,
+   "text": "Finché indossa un'armatura, il guerriero ottiene un bonus"
+  },
+  {
+   "x1": 656.0,
+   "y1": 661.0,
+   "x2": 1114.0,
+   "y2": 685.0,
+   "text": "tiro salvezza che ha fallito. Se lo fa, deve usare il nuovo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 692.0,
+   "x2": 223.0,
+   "y2": 718.0,
+   "text": "di +1 alla CA."
+  },
+  {
+   "x1": 654.0,
+   "y1": 683.0,
+   "x2": 1078.0,
+   "y2": 709.0,
+   "text": "risultato. Il guerriero non può più utilizzare questo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 707.0,
+   "x2": 1047.0,
+   "y2": 731.0,
+   "text": "privilegio finché non completa un riposo lungo."
+  },
+  {
+   "x1": 103.0,
+   "y1": 736.0,
+   "x2": 227.0,
+   "y2": 762.0,
+   "text": "Duellare"
+  },
+  {
+   "x1": 670.0,
+   "y1": 729.0,
+   "x2": 1151.0,
+   "y2": 753.0,
+   "text": "Un guerriero può utilizzare questo privilegio due volte tra"
+  },
+  {
+   "x1": 654.0,
+   "y1": 753.0,
+   "x2": 1132.0,
+   "y2": 777.0,
+   "text": "un riposo lungo e l'altro a partire dal 13°livello e tre volte"
+  },
+  {
+   "x1": 105.0,
+   "y1": 764.0,
+   "x2": 582.0,
+   "y2": 787.0,
+   "text": "Quando il guerriero impugna un'arma da mischia in una"
+  },
+  {
+   "x1": 654.0,
+   "y1": 773.0,
+   "x2": 1079.0,
+   "y2": 800.0,
+   "text": "tra un riposo lungo e l'altro a partire dal 17° livello."
+  },
+  {
+   "x1": 102.0,
+   "y1": 786.0,
+   "x2": 591.0,
+   "y2": 809.0,
+   "text": "mano e non impugna altre armi, ottiene un bonus di+2 ai"
+  },
+  {
+   "x1": 102.0,
+   "y1": 809.0,
+   "x2": 347.0,
+   "y2": 833.0,
+   "text": "tiri per i danni di quell'arma."
+  },
+  {
+   "x1": 659.0,
+   "y1": 824.0,
+   "x2": 1032.0,
+   "y2": 855.0,
+   "text": "ArchetipI MArziAlI"
+  },
+  {
+   "x1": 103.0,
+   "y1": 850.0,
+   "x2": 246.0,
+   "y2": 875.0,
+   "text": "PROTEZIONE"
+  },
+  {
+   "x1": 656.0,
+   "y1": 861.0,
+   "x2": 1151.0,
+   "y2": 886.0,
+   "text": "Ogni guerriero sceglie un approccio diverso per perfezionare le"
+  },
+  {
+   "x1": 105.0,
+   "y1": 877.0,
+   "x2": 606.0,
+   "y2": 901.0,
+   "text": "Quando una creatura che il guerriero sia in grado di vedere"
+  },
+  {
+   "x1": 652.0,
+   "y1": 882.0,
+   "x2": 1143.0,
+   "y2": 910.0,
+   "text": "sue prestazioni in combattimento. L'archetipo marziale che un"
+  },
+  {
+   "x1": 102.0,
+   "y1": 901.0,
+   "x2": 587.0,
+   "y2": 925.0,
+   "text": "attacca un bersaglio diverso dal guerriero e situato entro"
+  },
+  {
+   "x1": 652.0,
+   "y1": 906.0,
+   "x2": 1073.0,
+   "y2": 934.0,
+   "text": "guerriero sceglie di emulare è esplicativo in tal senso."
+  },
+  {
+   "x1": 101.0,
+   "y1": 919.0,
+   "x2": 591.0,
+   "y2": 948.0,
+   "text": "1,5 metri da lui, il guerriero può usare la sua reazione per"
+  },
+  {
+   "x1": 103.0,
+   "y1": 945.0,
+   "x2": 558.0,
+   "y2": 968.0,
+   "text": "infliggere svantaggio al tiro per colpire della creatura."
+  },
+  {
+   "x1": 656.0,
+   "y1": 948.0,
+   "x2": 807.0,
+   "y2": 979.0,
+   "text": "CAMPIONE"
+  },
+  {
+   "x1": 100.0,
+   "y1": 966.0,
+   "x2": 438.0,
+   "y2": 994.0,
+   "text": "Il guerriero deve impugnare uno scudo."
+  },
+  {
+   "x1": 652.0,
+   "y1": 985.0,
+   "x2": 1136.0,
+   "y2": 1010.0,
+   "text": "L'archetipo del Campione è incentrato sullo sviluppo della"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1007.0,
+   "x2": 164.0,
+   "y2": 1040.0,
+   "text": "TIRO"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1010.0,
+   "x2": 1121.0,
+   "y2": 1034.0,
+   "text": "potenza fsica allo stato puro, affinata fino a raggiungere"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1034.0,
+   "x2": 576.0,
+   "y2": 1063.0,
+   "text": "Il guerriero ottiene un bonus di +2 ai tiri per colpire che"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1032.0,
+   "x2": 1119.0,
+   "y2": 1060.0,
+   "text": "una letale perfezione. Un guerriero modellato su questo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1058.0,
+   "x2": 368.0,
+   "y2": 1085.0,
+   "text": "effettua con le armi a distanza."
+  },
+  {
+   "x1": 652.0,
+   "y1": 1056.0,
+   "x2": 1119.0,
+   "y2": 1080.0,
+   "text": "archetipo unisce un rigoroso addestramento a uno stato"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1078.0,
+   "x2": 1040.0,
+   "y2": 1105.0,
+   "text": "fisico eccellente per infliggere colpi devastanti."
+  },
+  {
+   "x1": 105.0,
+   "y1": 1105.0,
+   "x2": 408.0,
+   "y2": 1131.0,
+   "text": "Recuperare Energie"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1122.0,
+   "x2": 896.0,
+   "y2": 1149.0,
+   "text": "Critico Migliorato"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1140.0,
+   "x2": 602.0,
+   "y2": 1168.0,
+   "text": "Un guerriero possiede una riserva limitata di resistenza fisica"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1147.0,
+   "x2": 1138.0,
+   "y2": 1175.0,
+   "text": "A partire da quando il guerriero sceglie questo archetipo"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1166.0,
+   "x2": 584.0,
+   "y2": 1191.0,
+   "text": "a cui può attingere per proteggersi dai danni. Nel suo turno"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1171.0,
+   "x2": 1132.0,
+   "y2": 1199.0,
+   "text": "al 3° livello, i suoi attacchi con un'arma mettono a segno"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1188.0,
+   "x2": 587.0,
+   "y2": 1211.0,
+   "text": "può usare un'azione bonus per recuperare un ammontare di"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1195.0,
+   "x2": 1064.0,
+   "y2": 1219.0,
+   "text": "un colpo critico con un risultato di19-20 al tiro."
+  },
+  {
+   "x1": 102.0,
+   "y1": 1209.0,
+   "x2": 593.0,
+   "y2": 1237.0,
+   "text": "punti ferita pari a Id10 + il suo livello da guerriero. Una volta"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1235.0,
+   "x2": 600.0,
+   "y2": 1259.0,
+   "text": "utilizzato questo privilegio, il guerriero non può più utilizzarlo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1239.0,
+   "x2": 920.0,
+   "y2": 1263.0,
+   "text": "Atleta Straordinario"
+  },
+  {
+   "x1": 101.0,
+   "y1": 1255.0,
+   "x2": 467.0,
+   "y2": 1285.0,
+   "text": "finché non completa un riposo breve o lungo."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1264.0,
+   "x2": 1117.0,
+   "y2": 1290.0,
+   "text": "A partire dal 7ª livello, il guerriero può aggiungere metà"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1288.0,
+   "x2": 1114.0,
+   "y2": 1312.0,
+   "text": "del suo bonus di competenza (arrotondato per eccesso)"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1303.0,
+   "x2": 369.0,
+   "y2": 1328.0,
+   "text": "AZione Impetuosa"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1310.0,
+   "x2": 1119.0,
+   "y2": 1334.0,
+   "text": "a qualsiasi prova di Forza, Destrezza oCostituzione che"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1336.0,
+   "x2": 565.0,
+   "y2": 1361.0,
+   "text": "A partire dal 2° livello, un guerriero può spingersi oltre"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1334.0,
+   "x2": 1125.0,
+   "y2": 1358.0,
+   "text": "effettua e che non utilizzi già il suo bonus di competenza."
+  },
+  {
+   "x1": 102.0,
+   "y1": 1363.0,
+   "x2": 554.0,
+   "y2": 1387.0,
+   "text": "i suoi normali limiti per un istante. Nel suo turno può"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1356.0,
+   "x2": 1143.0,
+   "y2": 1379.0,
+   "text": "Inoltre, quando il guerriero effettua un salto in lungo con"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1383.0,
+   "x2": 539.0,
+   "y2": 1411.0,
+   "text": "effettuare un'azione aggiuntiva oltre alla sua azione"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1379.0,
+   "x2": 1138.0,
+   "y2": 1403.0,
+   "text": "rincorsa,la distanza che copre aumenta di 30 cm per ogni"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1409.0,
+   "x2": 441.0,
+   "y2": 1432.0,
+   "text": "regolare e a una possibile azione bonus."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1405.0,
+   "x2": 960.0,
+   "y2": 1429.0,
+   "text": "punto del suo modificatore di Forza."
+  },
+  {
+   "x1": 120.0,
+   "y1": 1431.0,
+   "x2": 608.0,
+   "y2": 1456.0,
+   "text": "Una volta utilizzato questo privilegio, il guerriero non può"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1452.0,
+   "x2": 602.0,
+   "y2": 1480.0,
+   "text": "più utilizzarlo finché non completa un riposo breve o lungo."
+  },
+  {
+   "x1": 652.0,
+   "y1": 1447.0,
+   "x2": 1080.0,
+   "y2": 1471.0,
+   "text": "Stile di Combattimento Aggiuntivo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1476.0,
+   "x2": 585.0,
+   "y2": 1502.0,
+   "text": "A partire dal 17° livello, il guerriero può utilizzare questo"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1471.0,
+   "x2": 1086.0,
+   "y2": 1498.0,
+   "text": "Al 10° livello, il guerriero può scegliere una seconda"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1500.0,
+   "x2": 571.0,
+   "y2": 1526.0,
+   "text": "privilegio due volte prima di un riposo, ma soltanto una"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1495.0,
+   "x2": 1112.0,
+   "y2": 1522.0,
+   "text": "opzione dal privilegio di classe Stile di Combattimento."
+  },
+  {
+   "x1": 98.0,
+   "y1": 1522.0,
+   "x2": 307.0,
+   "y2": 1549.0,
+   "text": "volta nello stesso turno."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1536.0,
+   "x2": 877.0,
+   "y2": 1566.0,
+   "text": "Critico SuperioRe"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1569.0,
+   "x2": 412.0,
+   "y2": 1595.0,
+   "text": "Archetipo Marziale"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1566.0,
+   "x2": 1082.0,
+   "y2": 1591.0,
+   "text": "A partire dal 15° livello, gli attacchi con un'arma del"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1591.0,
+   "x2": 1143.0,
+   "y2": 1615.0,
+   "text": "guerriero mettono a segno un colpo critico con un risultato"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1606.0,
+   "x2": 593.0,
+   "y2": 1630.0,
+   "text": "A1 3° livello, un guerriero sceglie un archetipo che si sforzerà"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1615.0,
+   "x2": 792.0,
+   "y2": 1635.0,
+   "text": "di 18- 20 al tiro."
+  },
+  {
+   "x1": 102.0,
+   "y1": 1630.0,
+   "x2": 547.0,
+   "y2": 1654.0,
+   "text": "di emulare tramite i suoi stili di combattimento e le sue"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1696.0,
+   "x2": 281.0,
+   "y2": 1719.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  }
+ ],
+ "reading_text": "(a) un'arma da guerra e uno scudo o (b) due armi da guerra\n(a) una balestra leggera e 20 quadrelli o (b) due asce\n(a) una dotazione da avventuriero o (b) una dotazione da\nesploratore\nStile di Combattimento\nUn guerriero adotta uno stile di combattimento in cui\nspecializzarsi scegliendo una tra le opzioni seguenti. Non è\nconsentito scegliere uno stile di combattimento più di una volta,\nanche se in seguito il guerriero ha diritto a scegliere di nuovo.\nCombattere con Armi Possenti\nQuando il guerriero ottiene un 1 o un 2 a un tiro per i danni\ndi un attacco che ha effettuato con un'arma da mischia\nimpugnata a due mani, può ripetere il tiro e deve usare il\nnuovo risultato, anche se ottiene ancora un 1 o un 2. L'arma\ndeve possedere la proprietà a due mani o versatile affinché\nil guerriero ottenga questo benefcio.\nCombattere con Due Armi\nQuando il guerriero combatte con due armi, può aggiungere\nil suo modificatore di caratteristica ai danni del secondo\nattacco.\nDifesa\nFinché indossa un'armatura, il guerriero ottiene un bonus\ndi +1 alla CA.\nDuellare\nQuando il guerriero impugna un'arma da mischia in una\nmano e non impugna altre armi, ottiene un bonus di+2 ai\ntiri per i danni di quell'arma.\nPROTEZIONE\nQuando una creatura che il guerriero sia in grado di vedere\nattacca un bersaglio diverso dal guerriero e situato entro\n1,5 metri da lui, il guerriero può usare la sua reazione per\ninfliggere svantaggio al tiro per colpire della creatura.\nIl guerriero deve impugnare uno scudo.\nTIRO\nIl guerriero ottiene un bonus di +2 ai tiri per colpire che\neffettua con le armi a distanza.\nRecuperare Energie\nUn guerriero possiede una riserva limitata di resistenza fisica\na cui può attingere per proteggersi dai danni. Nel suo turno\npuò usare un'azione bonus per recuperare un ammontare di\npunti ferita pari a Id10 + il suo livello da guerriero. Una volta\nutilizzato questo privilegio, il guerriero non può più utilizzarlo\nfinché non completa un riposo breve o lungo.\nAZione Impetuosa\nA partire dal 2° livello, un guerriero può spingersi oltre\ni suoi normali limiti per un istante. Nel suo turno può\neffettuare un'azione aggiuntiva oltre alla sua azione\nregolare e a una possibile azione bonus.\nUna volta utilizzato questo privilegio, il guerriero non può\npiù utilizzarlo finché non completa un riposo breve o lungo.\nA partire dal 17° livello, il guerriero può utilizzare questo\nprivilegio due volte prima di un riposo, ma soltanto una\nvolta nello stesso turno.\nArchetipo Marziale\nA1 3° livello, un guerriero sceglie un archetipo che si sforzerà\ndi emulare tramite i suoi stili di combattimento e le sue\nCAPITOLO 3 |CLASSI\ntecniche. Può scegliere tra Campione, Maestro di Battaglia\ne Cavaliere Mistico, tutti descritti alla finedella sezione di\nquesta classe. L'archetipo scelto conferisce al guerriero alcuni\nprivilegi al 3° livello e poi di nuovo al 7°, 10', 15° e 18° livello.\nAumento deI Punteggi\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo al 6', 8°, 12°, 14°, 16\ne 19° livello, un guerriero può aumentare di 2 un punteggio\ndi caratteristica a sua scelta, oppure può aumentare di I due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nAttacco Extra\nA partire dal 5° livello, un guerriero può attaccare due volte\nanziché una, ogni volta che effettua l'azione di Attacco nel\nproprio turno.\nil numero di attacchi aumenta a tre quando il guerriero\narriva all1 1° livello e a quattro quando arriva al 20° livello.\nIndomito\nA partire dal 9° livello, un guerriero può ripetere un\ntiro salvezza che ha fallito. Se lo fa, deve usare il nuovo\nrisultato. Il guerriero non può più utilizzare questo\nprivilegio finché non completa un riposo lungo.\nUn guerriero può utilizzare questo privilegio due volte tra\nun riposo lungo e l'altro a partire dal 13°livello e tre volte\ntra un riposo lungo e l'altro a partire dal 17° livello.\nArchetipI MArziAlI\nOgni guerriero sceglie un approccio diverso per perfezionare le\nsue prestazioni in combattimento. L'archetipo marziale che un\nguerriero sceglie di emulare è esplicativo in tal senso.\nCAMPIONE\nL'archetipo del Campione è incentrato sullo sviluppo della\npotenza fsica allo stato puro, affinata fino a raggiungere\nuna letale perfezione. Un guerriero modellato su questo\narchetipo unisce un rigoroso addestramento a uno stato\nfisico eccellente per infliggere colpi devastanti.\nCritico Migliorato\nA partire da quando il guerriero sceglie questo archetipo\nal 3° livello, i suoi attacchi con un'arma mettono a segno\nun colpo critico con un risultato di19-20 al tiro.\nAtleta Straordinario\nA partire dal 7ª livello, il guerriero può aggiungere metà\ndel suo bonus di competenza (arrotondato per eccesso)\na qualsiasi prova di Forza, Destrezza oCostituzione che\neffettua e che non utilizzi già il suo bonus di competenza.\nInoltre, quando il guerriero effettua un salto in lungo con\nrincorsa,la distanza che copre aumenta di 30 cm per ogni\npunto del suo modificatore di Forza.\nStile di Combattimento Aggiuntivo\nAl 10° livello, il guerriero può scegliere una seconda\nopzione dal privilegio di classe Stile di Combattimento.\nCritico SuperioRe\nA partire dal 15° livello, gli attacchi con un'arma del\nguerriero mettono a segno un colpo critico con un risultato\ndi 18- 20 al tiro."
+}

@@ -1,0 +1,787 @@
+{
+ "pdf_page_index": 99,
+ "page_label": 100,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 111,
+ "lines": [
+  {
+   "x1": 663.0,
+   "y1": 95.0,
+   "x2": 1147.0,
+   "y2": 119.0,
+   "text": "dal paladino e che egli sia in grado di vedere. La creatura"
+  },
+  {
+   "x1": 663.0,
+   "y1": 117.0,
+   "x2": 1154.0,
+   "y2": 141.0,
+   "text": "deve superare un tiro salvezza su Forza o Destrezza (a sua"
+  },
+  {
+   "x1": 665.0,
+   "y1": 143.0,
+   "x2": 1141.0,
+   "y2": 161.0,
+   "text": "scelta), altrimenti sarà trattenuta. Finché è trattenuta dai"
+  },
+  {
+   "x1": 663.0,
+   "y1": 163.0,
+   "x2": 1149.0,
+   "y2": 186.0,
+   "text": "rampicanti, la creatura continua a ripetere il tiro salvezza"
+  },
+  {
+   "x1": 661.0,
+   "y1": 183.0,
+   "x2": 1160.0,
+   "y2": 210.0,
+   "text": "alla fine di ogni suo turno. Se lo supera, riesce a liberarsi e"
+  },
+  {
+   "x1": 661.0,
+   "y1": 208.0,
+   "x2": 874.0,
+   "y2": 232.0,
+   "text": "i rampicanti svaniscono."
+  },
+  {
+   "x1": 678.0,
+   "y1": 230.0,
+   "x2": 1090.0,
+   "y2": 254.0,
+   "text": "Scacciare gli Infedeli. 1 paladino può utilizzare"
+  },
+  {
+   "x1": 663.0,
+   "y1": 254.0,
+   "x2": 1130.0,
+   "y2": 278.0,
+   "text": "Incanalare Divinità per pronunciare antiche parole che"
+  },
+  {
+   "x1": 661.0,
+   "y1": 274.0,
+   "x2": 1147.0,
+   "y2": 298.0,
+   "text": "infliggono dolore ai folletti e agli immondi. Con un'azione,"
+  },
+  {
+   "x1": 661.0,
+   "y1": 300.0,
+   "x2": 1134.0,
+   "y2": 323.0,
+   "text": "il paladino brandisce il suo simbolo sacro e ogni folletto"
+  },
+  {
+   "x1": 661.0,
+   "y1": 322.0,
+   "x2": 1101.0,
+   "y2": 345.0,
+   "text": "o immondo situato entro 9 metri da lui ein grado di"
+  },
+  {
+   "x1": 661.0,
+   "y1": 342.0,
+   "x2": 1158.0,
+   "y2": 369.0,
+   "text": "sentirlo deve effettuare un tiro salvezza su Saggezza. Se lo"
+  },
+  {
+   "x1": 661.0,
+   "y1": 364.0,
+   "x2": 1147.0,
+   "y2": 391.0,
+   "text": "fallisce, la creatura è scacciata per 1 minuto o finché non"
+  },
+  {
+   "x1": 663.0,
+   "y1": 391.0,
+   "x2": 790.0,
+   "y2": 411.0,
+   "text": "subisce danni."
+  },
+  {
+   "x1": 681.0,
+   "y1": 411.0,
+   "x2": 1101.0,
+   "y2": 435.0,
+   "text": "Una creatura scacciata deve spendere i suoi turni"
+  },
+  {
+   "x1": 661.0,
+   "y1": 433.0,
+   "x2": 1152.0,
+   "y2": 459.0,
+   "text": "tentando di allontanarsi il più possibile dal paladino e non"
+  },
+  {
+   "x1": 663.0,
+   "y1": 457.0,
+   "x2": 1151.0,
+   "y2": 481.0,
+   "text": "può volontariamente muoversi in uno spazio entro 9 metri"
+  },
+  {
+   "x1": 663.0,
+   "y1": 481.0,
+   "x2": 1132.0,
+   "y2": 504.0,
+   "text": "dal paladino. Inoltre, non può effettuare reazioni. Come"
+  },
+  {
+   "x1": 661.0,
+   "y1": 501.0,
+   "x2": 1128.0,
+   "y2": 524.0,
+   "text": "sua azione può usare solo l'azione di Scatto o tentare di"
+  },
+  {
+   "x1": 663.0,
+   "y1": 526.0,
+   "x2": 1121.0,
+   "y2": 544.0,
+   "text": "fuggire da un effetto che gli impedisce di muoversi. Se"
+  },
+  {
+   "x1": 661.0,
+   "y1": 546.0,
+   "x2": 1128.0,
+   "y2": 572.0,
+   "text": "non può muoversi in alcun luogo, la creatura può usare"
+  },
+  {
+   "x1": 663.0,
+   "y1": 568.0,
+   "x2": 839.0,
+   "y2": 594.0,
+   "text": "l'azione di Schivata."
+  },
+  {
+   "x1": 680.0,
+   "y1": 590.0,
+   "x2": 1143.0,
+   "y2": 618.0,
+   "text": "Se la vera forma della creatura è celata da un'illusione,"
+  },
+  {
+   "x1": 113.0,
+   "y1": 614.0,
+   "x2": 578.0,
+   "y2": 641.0,
+   "text": "giustizia.Decorano le loro armature e i loro abiti con le"
+  },
+  {
+   "x1": 661.0,
+   "y1": 614.0,
+   "x2": 1132.0,
+   "y2": 638.0,
+   "text": "una forma mutata o altri effetti analoghi, quella forma è"
+  },
+  {
+   "x1": 113.0,
+   "y1": 636.0,
+   "x2": 569.0,
+   "y2": 660.0,
+   "text": "immagini di tutto ciò che cresce: foglie, rami e fori, a"
+  },
+  {
+   "x1": 659.0,
+   "y1": 636.0,
+   "x2": 1029.0,
+   "y2": 661.0,
+   "text": "rivelata quando la creatura viene scacciata."
+  },
+  {
+   "x1": 111.0,
+   "y1": 660.0,
+   "x2": 580.0,
+   "y2": 683.0,
+   "text": "simboleggiare la loro dedizione alla preservazione della"
+  },
+  {
+   "x1": 113.0,
+   "y1": 683.0,
+   "x2": 345.0,
+   "y2": 707.0,
+   "text": "luce e della vita nel mondo."
+  },
+  {
+   "x1": 663.0,
+   "y1": 682.0,
+   "x2": 918.0,
+   "y2": 705.0,
+   "text": "AURa DI INTERdizioNE"
+  },
+  {
+   "x1": 663.0,
+   "y1": 707.0,
+   "x2": 1162.0,
+   "y2": 731.0,
+   "text": "A partire dal 7 livello, la magia antica scorre con tale potenza"
+  },
+  {
+   "x1": 113.0,
+   "y1": 727.0,
+   "x2": 386.0,
+   "y2": 751.0,
+   "text": "Dettami degli Antichi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 729.0,
+   "x2": 1130.0,
+   "y2": 753.0,
+   "text": "nel paladino da formare un'interdizione soprannaturale. Il"
+  },
+  {
+   "x1": 111.0,
+   "y1": 753.0,
+   "x2": 615.0,
+   "y2": 777.0,
+   "text": "I dettami del Giuramento degli Antichi sono stati preservati"
+  },
+  {
+   "x1": 663.0,
+   "y1": 753.0,
+   "x2": 1119.0,
+   "y2": 777.0,
+   "text": "paladino e le creature amiche situate entro 3 metri da lui"
+  },
+  {
+   "x1": 109.0,
+   "y1": 773.0,
+   "x2": 576.0,
+   "y2": 800.0,
+   "text": "per innumerevoli secoli. Questo giuramento enfatizza i"
+  },
+  {
+   "x1": 661.0,
+   "y1": 775.0,
+   "x2": 1051.0,
+   "y2": 798.0,
+   "text": "ottengono resistenza ai danni degli incantesimi."
+  },
+  {
+   "x1": 111.0,
+   "y1": 798.0,
+   "x2": 578.0,
+   "y2": 822.0,
+   "text": "principi del bene al di sopra di qualsiasi distinzione tra"
+  },
+  {
+   "x1": 678.0,
+   "y1": 795.0,
+   "x2": 1158.0,
+   "y2": 822.0,
+   "text": "Al 18° livello, la gittata di questa aura aumenta a 9 metri."
+  },
+  {
+   "x1": 111.0,
+   "y1": 818.0,
+   "x2": 602.0,
+   "y2": 846.0,
+   "text": "legge e caos. I suoi quattro principi centrali sono semplici."
+  },
+  {
+   "x1": 129.0,
+   "y1": 846.0,
+   "x2": 576.0,
+   "y2": 864.0,
+   "text": "Alimenta la Luce. Tramite i tuoi atti di misericordia,"
+  },
+  {
+   "x1": 661.0,
+   "y1": 840.0,
+   "x2": 940.0,
+   "y2": 864.0,
+   "text": "SentineLLa Imperitura"
+  },
+  {
+   "x1": 111.0,
+   "y1": 866.0,
+   "x2": 596.0,
+   "y2": 890.0,
+   "text": "benevolenza e perdono, accendi la famma della speranza"
+  },
+  {
+   "x1": 663.0,
+   "y1": 866.0,
+   "x2": 1117.0,
+   "y2": 890.0,
+   "text": "A partire dal 15°livello, quando ilpaladino scende a 0"
+  },
+  {
+   "x1": 109.0,
+   "y1": 888.0,
+   "x2": 428.0,
+   "y2": 914.0,
+   "text": "nel mondo, e scaccia la disperazione."
+  },
+  {
+   "x1": 659.0,
+   "y1": 890.0,
+   "x2": 1130.0,
+   "y2": 914.0,
+   "text": "punti ferita ma non viene ucciso sul colpo, può decidere"
+  },
+  {
+   "x1": 129.0,
+   "y1": 912.0,
+   "x2": 574.0,
+   "y2": 935.0,
+   "text": "Proteggi la Luce. Là dove c'è bontà, bellezza, amore"
+  },
+  {
+   "x1": 661.0,
+   "y1": 912.0,
+   "x2": 1121.0,
+   "y2": 935.0,
+   "text": "di rimanere a l punto ferita. Il paladino non può usare"
+  },
+  {
+   "x1": 111.0,
+   "y1": 932.0,
+   "x2": 563.0,
+   "y2": 959.0,
+   "text": "e gioia nel mondo, opponiti alla perfidia che vorrebbe"
+  },
+  {
+   "x1": 661.0,
+   "y1": 935.0,
+   "x2": 1102.0,
+   "y2": 959.0,
+   "text": "nuovamente questa capacità finché non completa un"
+  },
+  {
+   "x1": 113.0,
+   "y1": 957.0,
+   "x2": 552.0,
+   "y2": 981.0,
+   "text": "distruggerlo. Là dove c'è vita, opponiti alle forze che"
+  },
+  {
+   "x1": 663.0,
+   "y1": 959.0,
+   "x2": 777.0,
+   "y2": 979.0,
+   "text": "riposo lungo."
+  },
+  {
+   "x1": 111.0,
+   "y1": 977.0,
+   "x2": 358.0,
+   "y2": 1001.0,
+   "text": "vorrebbero vederla avvizzire."
+  },
+  {
+   "x1": 674.0,
+   "y1": 977.0,
+   "x2": 1097.0,
+   "y2": 1001.0,
+   "text": "Non subisce inoltre alcuno svantaggio dovuto alla"
+  },
+  {
+   "x1": 127.0,
+   "y1": 999.0,
+   "x2": 608.0,
+   "y2": 1027.0,
+   "text": "Preserva la Tua Luce. Trai gioia dal canto e dalle risate,"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1003.0,
+   "x2": 1053.0,
+   "y2": 1027.0,
+   "text": "vecchiaia e non può invecchiare magicamente."
+  },
+  {
+   "x1": 113.0,
+   "y1": 1025.0,
+   "x2": 600.0,
+   "y2": 1049.0,
+   "text": "dalla bellezza e dall'arte. Se lasci che la luce nel tuo cuore"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1049.0,
+   "x2": 489.0,
+   "y2": 1072.0,
+   "text": "si spenga, non potrai preservarla nel mondo."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1043.0,
+   "x2": 951.0,
+   "y2": 1071.0,
+   "text": "CampioNe DEglI AnTichi"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1071.0,
+   "x2": 611.0,
+   "y2": 1094.0,
+   "text": "Sil la Luce. Sii un fulgido faro per tutti coloro che vivono"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1067.0,
+   "x2": 1090.0,
+   "y2": 1094.0,
+   "text": "Al 20° livello, il paladino può assumere la forma di"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1094.0,
+   "x2": 595.0,
+   "y2": 1118.0,
+   "text": "nella disperazione.Lascia che la luce della tua gioia e del"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1093.0,
+   "x2": 1106.0,
+   "y2": 1116.0,
+   "text": "un'antica forza della natura, assumendo un aspetto a"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1116.0,
+   "x2": 462.0,
+   "y2": 1140.0,
+   "text": "tuo coraggio risplenda in ogni tua azione."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1116.0,
+   "x2": 1130.0,
+   "y2": 1142.0,
+   "text": "sua scelta. Per esempio, la sua pelle potrebbe diventare"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1140.0,
+   "x2": 1151.0,
+   "y2": 1164.0,
+   "text": "verde o ruvida e resistente come la corteccia, i suoi capelli"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1160.0,
+   "x2": 443.0,
+   "y2": 1184.0,
+   "text": "Incantesimi di Giuramento"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1164.0,
+   "x2": 1130.0,
+   "y2": 1188.0,
+   "text": "potrebbero trasformarsi in fogliame o muschio, oppure"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1182.0,
+   "x2": 567.0,
+   "y2": 1210.0,
+   "text": "Il paladino ottiene gli incantesimi seguenti ai livelli da"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1186.0,
+   "x2": 1151.0,
+   "y2": 1210.0,
+   "text": "dalla sua testa potrebbero spuntare le corna di un cervo o"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1206.0,
+   "x2": 266.0,
+   "y2": 1233.0,
+   "text": "paladino elencati."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1211.0,
+   "x2": 859.0,
+   "y2": 1230.0,
+   "text": "la criniera di un leone."
+  },
+  {
+   "x1": 680.0,
+   "y1": 1231.0,
+   "x2": 1117.0,
+   "y2": 1255.0,
+   "text": "Usando la sua azione, il paladino si sottopone a una"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1257.0,
+   "x2": 608.0,
+   "y2": 1281.0,
+   "text": "Incantesimi del GIUramento degli Antichi"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1255.0,
+   "x2": 1136.0,
+   "y2": 1279.0,
+   "text": "trasformazione. Per 1 minuto ottiene i benefciseguenti:"
+  },
+  {
+   "x1": 122.0,
+   "y1": 1294.0,
+   "x2": 366.0,
+   "y2": 1312.0,
+   "text": "Livello da Paladino Incantesimi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1288.0,
+   "x2": 1112.0,
+   "y2": 1312.0,
+   "text": "All'inizio di ogni suo turno recupera 10 punti ferita."
+  },
+  {
+   "x1": 183.0,
+   "y1": 1319.0,
+   "x2": 201.0,
+   "y2": 1339.0,
+   "text": "3*"
+  },
+  {
+   "x1": 275.0,
+   "y1": 1319.0,
+   "x2": 589.0,
+   "y2": 1343.0,
+   "text": "colpo intrappolante, parlare con gli animali"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1314.0,
+   "x2": 681.0,
+   "y2": 1328.0,
+   "text": "."
+  },
+  {
+   "x1": 674.0,
+   "y1": 1310.0,
+   "x2": 1156.0,
+   "y2": 1334.0,
+   "text": "Ogni volta che lancia un incantesimo da paladino con un"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1334.0,
+   "x2": 1152.0,
+   "y2": 1358.0,
+   "text": "tempo di lancio di 1 azione, può lanciarlo usando invece"
+  },
+  {
+   "x1": 181.0,
+   "y1": 1345.0,
+   "x2": 203.0,
+   "y2": 1370.0,
+   "text": "5°"
+  },
+  {
+   "x1": 273.0,
+   "y1": 1347.0,
+   "x2": 482.0,
+   "y2": 1370.0,
+   "text": "bagliore lunare, passo velato"
+  },
+  {
+   "x1": 681.0,
+   "y1": 1359.0,
+   "x2": 816.0,
+   "y2": 1379.0,
+   "text": "I azione bonus."
+  },
+  {
+   "x1": 179.0,
+   "y1": 1370.0,
+   "x2": 205.0,
+   "y2": 1398.0,
+   "text": "g'"
+  },
+  {
+   "x1": 275.0,
+   "y1": 1372.0,
+   "x2": 567.0,
+   "y2": 1396.0,
+   "text": "crescita vegetale, protezione dall'energia"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1378.0,
+   "x2": 1160.0,
+   "y2": 1401.0,
+   "text": "Le creature nemiche situate entro 3 metri da lui subiscono"
+  },
+  {
+   "x1": 177.0,
+   "y1": 1398.0,
+   "x2": 207.0,
+   "y2": 1423.0,
+   "text": "13°"
+  },
+  {
+   "x1": 273.0,
+   "y1": 1398.0,
+   "x2": 532.0,
+   "y2": 1421.0,
+   "text": "pelle di pietra, tempesta di ghiaccio"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1403.0,
+   "x2": 1127.0,
+   "y2": 1427.0,
+   "text": "svantaggio ai tiri salvezza contro i suoi incantesimi da"
+  },
+  {
+   "x1": 177.0,
+   "y1": 1423.0,
+   "x2": 207.0,
+   "y2": 1449.0,
+   "text": "17°"
+  },
+  {
+   "x1": 271.0,
+   "y1": 1425.0,
+   "x2": 587.0,
+   "y2": 1449.0,
+   "text": "comunione con la natura, traslazione arborea"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1425.0,
+   "x2": 1071.0,
+   "y2": 1449.0,
+   "text": "paladino e le sue opzioni di Incanalare Divinità."
+  },
+  {
+   "x1": 678.0,
+   "y1": 1454.0,
+   "x2": 1158.0,
+   "y2": 1484.0,
+   "text": "Una volta utilizzato questo privilegio, il paladino non può"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1476.0,
+   "x2": 362.0,
+   "y2": 1500.0,
+   "text": "Incanalare Divinità"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1480.0,
+   "x2": 1093.0,
+   "y2": 1507.0,
+   "text": "più utilizzarlo finché non completa un riposo lungo."
+  },
+  {
+   "x1": 113.0,
+   "y1": 1500.0,
+   "x2": 613.0,
+   "y2": 1526.0,
+   "text": "Quando il paladino acquisisce questo giuramento al 3° livello,"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1524.0,
+   "x2": 550.0,
+   "y2": 1548.0,
+   "text": "ottiene le due seguenti opzioni di Incanalare Divinità."
+  },
+  {
+   "x1": 665.0,
+   "y1": 1526.0,
+   "x2": 1038.0,
+   "y2": 1553.0,
+   "text": "GIURAMENTO DI VENDETTA"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1544.0,
+   "x2": 534.0,
+   "y2": 1570.0,
+   "text": "Collera della Natura. Ilpaladino può utilizzare"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1569.0,
+   "x2": 554.0,
+   "y2": 1593.0,
+   "text": "Incanalare Divinità per invocare le forze primordiali"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1564.0,
+   "x2": 1095.0,
+   "y2": 1588.0,
+   "text": "Con il Giuramento di Vendetta il paladino promette"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1593.0,
+   "x2": 550.0,
+   "y2": 1617.0,
+   "text": "affinché intrappolino un nemico. Con un'azione, può"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1588.0,
+   "x2": 1117.0,
+   "y2": 1611.0,
+   "text": "solennemente di punire coloro che hanno commesso i"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1617.0,
+   "x2": 582.0,
+   "y2": 1641.0,
+   "text": "fare spuntare dal terreno dei rampicanti spettrali che si"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1610.0,
+   "x2": 1154.0,
+   "y2": 1633.0,
+   "text": "peccati più gravi. Quando le forze del male massacrano un"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1639.0,
+   "x2": 596.0,
+   "y2": 1663.0,
+   "text": "protendono e afferrano una creatura situata entro 3 metri"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1633.0,
+   "x2": 1130.0,
+   "y2": 1657.0,
+   "text": "villaggio di innocenti, quando un intero popolo si ribeíla"
+  },
+  {
+   "x1": 114.0,
+   "y1": 1699.0,
+   "x2": 292.0,
+   "y2": 1717.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 20.0,
+   "y1": 1710.0,
+   "x2": 55.0,
+   "y2": 1730.0,
+   "text": "100"
+  }
+ ],
+ "reading_text": "giustizia.Decorano le loro armature e i loro abiti con le\nimmagini di tutto ciò che cresce: foglie, rami e fori, a\nsimboleggiare la loro dedizione alla preservazione della\nluce e della vita nel mondo.\nDettami degli Antichi\nI dettami del Giuramento degli Antichi sono stati preservati\nper innumerevoli secoli. Questo giuramento enfatizza i\nprincipi del bene al di sopra di qualsiasi distinzione tra\nlegge e caos. I suoi quattro principi centrali sono semplici.\nAlimenta la Luce. Tramite i tuoi atti di misericordia,\nbenevolenza e perdono, accendi la famma della speranza\nnel mondo, e scaccia la disperazione.\nProteggi la Luce. Là dove c'è bontà, bellezza, amore\ne gioia nel mondo, opponiti alla perfidia che vorrebbe\ndistruggerlo. Là dove c'è vita, opponiti alle forze che\nvorrebbero vederla avvizzire.\nPreserva la Tua Luce. Trai gioia dal canto e dalle risate,\ndalla bellezza e dall'arte. Se lasci che la luce nel tuo cuore\nsi spenga, non potrai preservarla nel mondo.\nSil la Luce. Sii un fulgido faro per tutti coloro che vivono\nnella disperazione.Lascia che la luce della tua gioia e del\ntuo coraggio risplenda in ogni tua azione.\nIncantesimi di Giuramento\nIl paladino ottiene gli incantesimi seguenti ai livelli da\npaladino elencati.\nIncantesimi del GIUramento degli Antichi\nLivello da Paladino Incantesimi\n3*\ncolpo intrappolante, parlare con gli animali\n5°\nbagliore lunare, passo velato\ng'\ncrescita vegetale, protezione dall'energia\n13°\npelle di pietra, tempesta di ghiaccio\n17°\ncomunione con la natura, traslazione arborea\nIncanalare Divinità\nQuando il paladino acquisisce questo giuramento al 3° livello,\nottiene le due seguenti opzioni di Incanalare Divinità.\nCollera della Natura. Ilpaladino può utilizzare\nIncanalare Divinità per invocare le forze primordiali\naffinché intrappolino un nemico. Con un'azione, può\nfare spuntare dal terreno dei rampicanti spettrali che si\nprotendono e afferrano una creatura situata entro 3 metri\nCAPITOLO 3 |CLASSI\n100\ndal paladino e che egli sia in grado di vedere. La creatura\ndeve superare un tiro salvezza su Forza o Destrezza (a sua\nscelta), altrimenti sarà trattenuta. Finché è trattenuta dai\nrampicanti, la creatura continua a ripetere il tiro salvezza\nalla fine di ogni suo turno. Se lo supera, riesce a liberarsi e\ni rampicanti svaniscono.\nScacciare gli Infedeli. 1 paladino può utilizzare\nIncanalare Divinità per pronunciare antiche parole che\ninfliggono dolore ai folletti e agli immondi. Con un'azione,\nil paladino brandisce il suo simbolo sacro e ogni folletto\no immondo situato entro 9 metri da lui ein grado di\nsentirlo deve effettuare un tiro salvezza su Saggezza. Se lo\nfallisce, la creatura è scacciata per 1 minuto o finché non\nsubisce danni.\nUna creatura scacciata deve spendere i suoi turni\ntentando di allontanarsi il più possibile dal paladino e non\npuò volontariamente muoversi in uno spazio entro 9 metri\ndal paladino. Inoltre, non può effettuare reazioni. Come\nsua azione può usare solo l'azione di Scatto o tentare di\nfuggire da un effetto che gli impedisce di muoversi. Se\nnon può muoversi in alcun luogo, la creatura può usare\nl'azione di Schivata.\nSe la vera forma della creatura è celata da un'illusione,\nuna forma mutata o altri effetti analoghi, quella forma è\nrivelata quando la creatura viene scacciata.\nAURa DI INTERdizioNE\nA partire dal 7 livello, la magia antica scorre con tale potenza\nnel paladino da formare un'interdizione soprannaturale. Il\npaladino e le creature amiche situate entro 3 metri da lui\nottengono resistenza ai danni degli incantesimi.\nAl 18° livello, la gittata di questa aura aumenta a 9 metri.\nSentineLLa Imperitura\nA partire dal 15°livello, quando ilpaladino scende a 0\npunti ferita ma non viene ucciso sul colpo, può decidere\ndi rimanere a l punto ferita. Il paladino non può usare\nnuovamente questa capacità finché non completa un\nriposo lungo.\nNon subisce inoltre alcuno svantaggio dovuto alla\nvecchiaia e non può invecchiare magicamente.\nCampioNe DEglI AnTichi\nAl 20° livello, il paladino può assumere la forma di\nun'antica forza della natura, assumendo un aspetto a\nsua scelta. Per esempio, la sua pelle potrebbe diventare\nverde o ruvida e resistente come la corteccia, i suoi capelli\npotrebbero trasformarsi in fogliame o muschio, oppure\ndalla sua testa potrebbero spuntare le corna di un cervo o\nla criniera di un leone.\nUsando la sua azione, il paladino si sottopone a una\ntrasformazione. Per 1 minuto ottiene i benefciseguenti:\nAll'inizio di ogni suo turno recupera 10 punti ferita.\nOgni volta che lancia un incantesimo da paladino con un\n.\ntempo di lancio di 1 azione, può lanciarlo usando invece\nI azione bonus.\nLe creature nemiche situate entro 3 metri da lui subiscono\nsvantaggio ai tiri salvezza contro i suoi incantesimi da\npaladino e le sue opzioni di Incanalare Divinità.\nUna volta utilizzato questo privilegio, il paladino non può\npiù utilizzarlo finché non completa un riposo lungo.\nGIURAMENTO DI VENDETTA\nCon il Giuramento di Vendetta il paladino promette\nsolennemente di punire coloro che hanno commesso i\npeccati più gravi. Quando le forze del male massacrano un\nvillaggio di innocenti, quando un intero popolo si ribeíla"
+}

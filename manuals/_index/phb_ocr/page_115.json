@@ -1,0 +1,920 @@
+{
+ "pdf_page_index": 115,
+ "page_label": 116,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 130,
+ "lines": [
+  {
+   "x1": 652.0,
+   "y1": 69.0,
+   "x2": 672.0,
+   "y2": 86.0,
+   "text": "1"
+  },
+  {
+   "x1": 94.0,
+   "y1": 88.0,
+   "x2": 284.0,
+   "y2": 113.0,
+   "text": "Patto del Tomo"
+  },
+  {
+   "x1": 654.0,
+   "y1": 84.0,
+   "x2": 833.0,
+   "y2": 112.0,
+   "text": "I Doni del Patto"
+  },
+  {
+   "x1": 94.0,
+   "y1": 113.0,
+   "x2": 574.0,
+   "y2": 137.0,
+   "text": "Il patrono dona al warlock un grimorio chiamato il Libro"
+  },
+  {
+   "x1": 656.0,
+   "y1": 111.0,
+   "x2": 1132.0,
+   "y2": 137.0,
+   "text": "Ogni opzione di Dono del Patto genera una creatura o un oggetto"
+  },
+  {
+   "x1": 94.0,
+   "y1": 137.0,
+   "x2": 578.0,
+   "y2": 161.0,
+   "text": "delle Ombre. Quando ottiene questo privilegio, il warlock"
+  },
+  {
+   "x1": 656.0,
+   "y1": 135.0,
+   "x2": 1045.0,
+   "y2": 163.0,
+   "text": "speciale, che rifette la natura del patrono del warlock."
+  },
+  {
+   "x1": 94.0,
+   "y1": 157.0,
+   "x2": 561.0,
+   "y2": 181.0,
+   "text": "può scegliere tre trucchetti dalla lista degli incantesimi"
+  },
+  {
+   "x1": 670.0,
+   "y1": 157.0,
+   "x2": 1114.0,
+   "y2": 185.0,
+   "text": "Patto della Catena. Il famiglio del wariock è più intelligente dei"
+  },
+  {
+   "x1": 96.0,
+   "y1": 185.0,
+   "x2": 541.0,
+   "y2": 203.0,
+   "text": "di qualsiasi classe (che non devono necessariamente"
+  },
+  {
+   "x1": 659.0,
+   "y1": 183.0,
+   "x2": 1119.0,
+   "y2": 206.0,
+   "text": "famigli normali. La sua forma standard può riflettere l'essenza del"
+  },
+  {
+   "x1": 92.0,
+   "y1": 205.0,
+   "x2": 569.0,
+   "y2": 228.0,
+   "text": "appartenere alla stessa lista). Quando il warlock porta il"
+  },
+  {
+   "x1": 657.0,
+   "y1": 205.0,
+   "x2": 1139.0,
+   "y2": 228.0,
+   "text": "suo patrono: gli spiritelli e gli pseudodraghi sono collegati al Signore"
+  },
+  {
+   "x1": 94.0,
+   "y1": 227.0,
+   "x2": 565.0,
+   "y2": 250.0,
+   "text": "libro con sé, può lanciare quei trucchetti a volontà. Non"
+  },
+  {
+   "x1": 657.0,
+   "y1": 228.0,
+   "x2": 1125.0,
+   "y2": 252.0,
+   "text": "Fatato, mentre gli imp e i quasit sono collegati all'Immondo. Dato"
+  },
+  {
+   "x1": 94.0,
+   "y1": 248.0,
+   "x2": 558.0,
+   "y2": 272.0,
+   "text": "vengono conteggiati al fine di determinare il numero di"
+  },
+  {
+   "x1": 657.0,
+   "y1": 250.0,
+   "x2": 1127.0,
+   "y2": 274.0,
+   "text": "che la natura del Grande Antico è imperscrutabile, qualsiasi tipo di"
+  },
+  {
+   "x1": 94.0,
+   "y1": 272.0,
+   "x2": 596.0,
+   "y2": 296.0,
+   "text": "trucchetti conosciuti dal warlock. Anche se non compaiono"
+  },
+  {
+   "x1": 659.0,
+   "y1": 270.0,
+   "x2": 909.0,
+   "y2": 294.0,
+   "text": "famiglio può essere collegato a lui."
+  },
+  {
+   "x1": 92.0,
+   "y1": 292.0,
+   "x2": 573.0,
+   "y2": 320.0,
+   "text": "sulla lista degti incantesimi da warlock, sono comunque"
+  },
+  {
+   "x1": 668.0,
+   "y1": 292.0,
+   "x2": 1121.0,
+   "y2": 320.0,
+   "text": "Patto della Lama. Se il patrono del warlock è il Signore Fatato,"
+  },
+  {
+   "x1": 96.0,
+   "y1": 320.0,
+   "x2": 452.0,
+   "y2": 338.0,
+   "text": "considerati incantesimi da warlock per lui."
+  },
+  {
+   "x1": 656.0,
+   "y1": 316.0,
+   "x2": 1095.0,
+   "y2": 340.0,
+   "text": "la sua arma potrebbe essere un'esile lama avvolta da foglie e"
+  },
+  {
+   "x1": 113.0,
+   "y1": 340.0,
+   "x2": 563.0,
+   "y2": 364.0,
+   "text": "Se il Libro delle Ombre viene perduto, il warlock può"
+  },
+  {
+   "x1": 656.0,
+   "y1": 338.0,
+   "x2": 1123.0,
+   "y2": 362.0,
+   "text": "rampicanti. Se il warlock serve l'Immondo, la sua arma potrebbe"
+  },
+  {
+   "x1": 94.0,
+   "y1": 362.0,
+   "x2": 574.0,
+   "y2": 386.0,
+   "text": "effettuare un cerimoniale da 1 ora per riceverne un altro"
+  },
+  {
+   "x1": 657.0,
+   "y1": 365.0,
+   "x2": 1071.0,
+   "y2": 384.0,
+   "text": "essere un'ascia fatta di metallo nero e decorata di simboli"
+  },
+  {
+   "x1": 96.0,
+   "y1": 386.0,
+   "x2": 593.0,
+   "y2": 409.0,
+   "text": "dal proprio patrono. Tale cerimoniale può essere effettuato"
+  },
+  {
+   "x1": 657.0,
+   "y1": 386.0,
+   "x2": 1104.0,
+   "y2": 409.0,
+   "text": "fiammeggianti. Se il patrono del warlock è il Grande Antico, la"
+  },
+  {
+   "x1": 94.0,
+   "y1": 407.0,
+   "x2": 569.0,
+   "y2": 431.0,
+   "text": "durante un periodo di riposo breve o lungo, e provoca la"
+  },
+  {
+   "x1": 656.0,
+   "y1": 407.0,
+   "x2": 1095.0,
+   "y2": 431.0,
+   "text": "sua arma potrebbe essere una lancia dall'aspetto antico, con"
+  },
+  {
+   "x1": 94.0,
+   "y1": 429.0,
+   "x2": 565.0,
+   "y2": 453.0,
+   "text": "distruzione del vecchio libro. Il libro si riduce in polvere"
+  },
+  {
+   "x1": 657.0,
+   "y1": 433.0,
+   "x2": 1123.0,
+   "y2": 451.0,
+   "text": "una gemma incastonata nella punta e intagliata persembrare un"
+  },
+  {
+   "x1": 94.0,
+   "y1": 451.0,
+   "x2": 294.0,
+   "y2": 475.0,
+   "text": "alla morte del warlock."
+  },
+  {
+   "x1": 657.0,
+   "y1": 453.0,
+   "x2": 927.0,
+   "y2": 477.0,
+   "text": "inquietante occhio privo di palpebre."
+  },
+  {
+   "x1": 670.0,
+   "y1": 471.0,
+   "x2": 1139.0,
+   "y2": 499.0,
+   "text": "Patto del Tomo. Il Libro delle Ombre del warlock potrebbe essere"
+  },
+  {
+   "x1": 92.0,
+   "y1": 491.0,
+   "x2": 440.0,
+   "y2": 524.0,
+   "text": "Aumento deI Punteggi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 499.0,
+   "x2": 1128.0,
+   "y2": 517.0,
+   "text": "un raffinato volume dalla copertina rifinita in oro, contenente vari"
+  },
+  {
+   "x1": 96.0,
+   "y1": 530.0,
+   "x2": 367.0,
+   "y2": 555.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 657.0,
+   "y1": 521.0,
+   "x2": 1106.0,
+   "y2": 544.0,
+   "text": "incantesimi di ammaliamento e di iliusione, consegnatogli dal"
+  },
+  {
+   "x1": 657.0,
+   "y1": 543.0,
+   "x2": 1102.0,
+   "y2": 566.0,
+   "text": "nobile Signore Fatato. Oppure potrebbe essere un ponderoso"
+  },
+  {
+   "x1": 96.0,
+   "y1": 565.0,
+   "x2": 576.0,
+   "y2": 590.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e"
+  },
+  {
+   "x1": 657.0,
+   "y1": 566.0,
+   "x2": 1097.0,
+   "y2": 590.0,
+   "text": "tomo rilegato in pelle demoniaca e borchie metalliche, pieno"
+  },
+  {
+   "x1": 96.0,
+   "y1": 588.0,
+   "x2": 587.0,
+   "y2": 614.0,
+   "text": "19° livello, un warlock può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 656.0,
+   "y1": 586.0,
+   "x2": 1097.0,
+   "y2": 610.0,
+   "text": "di incantesimi di evocazione e informazioni proibite sulle più"
+  },
+  {
+   "x1": 94.0,
+   "y1": 612.0,
+   "x2": 587.0,
+   "y2": 636.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di 1 due"
+  },
+  {
+   "x1": 656.0,
+   "y1": 608.0,
+   "x2": 1136.0,
+   "y2": 632.0,
+   "text": "sinistre regioni del cosmo, in quanto dono dell'Immondo. Oppure"
+  },
+  {
+   "x1": 94.0,
+   "y1": 634.0,
+   "x2": 580.0,
+   "y2": 658.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 657.0,
+   "y1": 634.0,
+   "x2": 1106.0,
+   "y2": 658.0,
+   "text": "potrebbe invece essere il diario lacero di un pazzo, precipitato"
+  },
+  {
+   "x1": 94.0,
+   "y1": 658.0,
+   "x2": 600.0,
+   "y2": 682.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 659.0,
+   "y1": 658.0,
+   "x2": 1117.0,
+   "y2": 676.0,
+   "text": "nella follia dopo essere entrato in contatto con il Grande Antico:"
+  },
+  {
+   "x1": 94.0,
+   "y1": 678.0,
+   "x2": 423.0,
+   "y2": 703.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 656.0,
+   "y1": 678.0,
+   "x2": 1080.0,
+   "y2": 702.0,
+   "text": "un libro composto da frammenti di incantesimi che solo il"
+  },
+  {
+   "x1": 656.0,
+   "y1": 702.0,
+   "x2": 1106.0,
+   "y2": 725.0,
+   "text": "warlock, grazie alla follia che si sta insinuando anche nella sua"
+  },
+  {
+   "x1": 94.0,
+   "y1": 718.0,
+   "x2": 364.0,
+   "y2": 751.0,
+   "text": "Arcanum Mistico"
+  },
+  {
+   "x1": 656.0,
+   "y1": 724.0,
+   "x2": 981.0,
+   "y2": 747.0,
+   "text": "mente, è in grado di comprendere e lanciare."
+  },
+  {
+   "x1": 94.0,
+   "y1": 758.0,
+   "x2": 578.0,
+   "y2": 782.0,
+   "text": "All'1 1° livello, il patrono rivela al warlock un segreto magico"
+  },
+  {
+   "x1": 94.0,
+   "y1": 780.0,
+   "x2": 569.0,
+   "y2": 804.0,
+   "text": "chiamato arcanum. Il warlock sceglie un incantesimo di 6°"
+  },
+  {
+   "x1": 648.0,
+   "y1": 777.0,
+   "x2": 914.0,
+   "y2": 808.0,
+   "text": "Il Signore Fatato"
+  },
+  {
+   "x1": 94.0,
+   "y1": 802.0,
+   "x2": 595.0,
+   "y2": 830.0,
+   "text": "livello dalla lista degli incantesimi da warlock come arcanum."
+  },
+  {
+   "x1": 646.0,
+   "y1": 815.0,
+   "x2": 1128.0,
+   "y2": 839.0,
+   "text": "Il patrono del warlock è un nobile o una dama dei folletti,"
+  },
+  {
+   "x1": 114.0,
+   "y1": 826.0,
+   "x2": 552.0,
+   "y2": 850.0,
+   "text": "Il warlock può lanciare il suo incantesimo arcanum"
+  },
+  {
+   "x1": 646.0,
+   "y1": 839.0,
+   "x2": 1151.0,
+   "y2": 862.0,
+   "text": "una creatura leggendaria, custode di segreti già dimenticati"
+  },
+  {
+   "x1": 94.0,
+   "y1": 850.0,
+   "x2": 589.0,
+   "y2": 873.0,
+   "text": "senza spendere uno slot incantesimo. Deve completare un"
+  },
+  {
+   "x1": 94.0,
+   "y1": 873.0,
+   "x2": 462.0,
+   "y2": 897.0,
+   "text": "riposo lungo prima di poterlo fare di nuovo."
+  },
+  {
+   "x1": 648.0,
+   "y1": 864.0,
+   "x2": 1102.0,
+   "y2": 882.0,
+   "text": "prima che le razze mortali nascessero. Le motivazioni"
+  },
+  {
+   "x1": 113.0,
+   "y1": 895.0,
+   "x2": 576.0,
+   "y2": 919.0,
+   "text": "Ai livelli successivi, il warlock ottiene altri incantesimi"
+  },
+  {
+   "x1": 648.0,
+   "y1": 886.0,
+   "x2": 1095.0,
+   "y2": 904.0,
+   "text": "di questa entità sono spesso imperscrutabili e a volte"
+  },
+  {
+   "x1": 96.0,
+   "y1": 919.0,
+   "x2": 560.0,
+   "y2": 943.0,
+   "text": "da warlock a sua scelta da lanciare in questo modo: un"
+  },
+  {
+   "x1": 648.0,
+   "y1": 910.0,
+   "x2": 1136.0,
+   "y2": 928.0,
+   "text": "incostanti: potrebbero riguardare la conquista di ulteriore"
+  },
+  {
+   "x1": 644.0,
+   "y1": 926.0,
+   "x2": 1125.0,
+   "y2": 954.0,
+   "text": "potere magico o un conto in sospeso antico di secoli che"
+  },
+  {
+   "x1": 94.0,
+   "y1": 941.0,
+   "x2": 567.0,
+   "y2": 965.0,
+   "text": "incantesimo di 7° livello al 13' livello, un incantesimo di"
+  },
+  {
+   "x1": 96.0,
+   "y1": 961.0,
+   "x2": 572.0,
+   "y2": 987.0,
+   "text": "8° livello al 15° livello e un incantesimo di 9° livello al 17°"
+  },
+  {
+   "x1": 646.0,
+   "y1": 952.0,
+   "x2": 1112.0,
+   "y2": 976.0,
+   "text": "deve essere saldato. Gli esseri di questo tipo includono"
+  },
+  {
+   "x1": 646.0,
+   "y1": 974.0,
+   "x2": 1108.0,
+   "y2": 998.0,
+   "text": "il Principe del Gelo; la Regina dell'Aria e dell'Oscurità,"
+  },
+  {
+   "x1": 94.0,
+   "y1": 985.0,
+   "x2": 584.0,
+   "y2": 1009.0,
+   "text": "livello. Recupera tutti gli utilizzi del suo Arcanum Mistico"
+  },
+  {
+   "x1": 646.0,
+   "y1": 998.0,
+   "x2": 1114.0,
+   "y2": 1021.0,
+   "text": "sovrana della Corte del Crepuscolo; Titania della Corte"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1009.0,
+   "x2": 386.0,
+   "y2": 1032.0,
+   "text": "quando completa un riposo lungo."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1020.0,
+   "x2": 1102.0,
+   "y2": 1043.0,
+   "text": "dell'Estate e il suo consorte Oberon, il Signore Verde;"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1047.0,
+   "x2": 440.0,
+   "y2": 1082.0,
+   "text": "Maestro dell'Occulto"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1043.0,
+   "x2": 1091.0,
+   "y2": 1067.0,
+   "text": "Hyrsam, il Principe dei Folli e le megere più antiche."
+  },
+  {
+   "x1": 92.0,
+   "y1": 1085.0,
+   "x2": 545.0,
+   "y2": 1113.0,
+   "text": "A1 20º livello, il warlock è in grado di attingere alla sua"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1085.0,
+   "x2": 1047.0,
+   "y2": 1109.0,
+   "text": "Lista Ampliata degli Incantesimi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1111.0,
+   "x2": 547.0,
+   "y2": 1135.0,
+   "text": "riserva interiore di potere mistico quando invoca il suo"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1111.0,
+   "x2": 1106.0,
+   "y2": 1135.0,
+   "text": "Il Signore Fatato consente al warlock di accedere a una"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1135.0,
+   "x2": 585.0,
+   "y2": 1158.0,
+   "text": "patrono per riottenere gli slot incantesimo spesi. Il warlock"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1131.0,
+   "x2": 1117.0,
+   "y2": 1158.0,
+   "text": "lista ampliata di incantesimi quando deve apprendere un"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1158.0,
+   "x2": 582.0,
+   "y2": 1182.0,
+   "text": "può trascorrere 1 minuto invocando l'aiuto del suo patrono"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1157.0,
+   "x2": 1143.0,
+   "y2": 1182.0,
+   "text": "incantesimo da warlock. Il warlock aggiunge gli incantesimi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1182.0,
+   "x2": 526.0,
+   "y2": 1206.0,
+   "text": "per riottenere tutti gli slot incantesimo concessi dal"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1180.0,
+   "x2": 1075.0,
+   "y2": 1204.0,
+   "text": "seguenti alla sua lista degli incantesimi da warlock."
+  },
+  {
+   "x1": 92.0,
+   "y1": 1200.0,
+   "x2": 589.0,
+   "y2": 1228.0,
+   "text": "privilegio Magia del Patto che ha speso. Una volta riottenuti"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1226.0,
+   "x2": 596.0,
+   "y2": 1250.0,
+   "text": "gli slot incantesimo tramite questo privilegio, il warlock deve"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1228.0,
+   "x2": 1117.0,
+   "y2": 1252.0,
+   "text": "Incantesimi Ampliati del Signore FAtato"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1250.0,
+   "x2": 578.0,
+   "y2": 1273.0,
+   "text": "completare un riposo lungo prima di poterlo fare di nuovo."
+  },
+  {
+   "x1": 684.0,
+   "y1": 1256.0,
+   "x2": 745.0,
+   "y2": 1287.0,
+   "text": "Livello"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1293.0,
+   "x2": 528.0,
+   "y2": 1328.0,
+   "text": "PATRoNI ULTRAtERrENI"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1284.0,
+   "x2": 879.0,
+   "y2": 1308.0,
+   "text": "dell'IncantesimoIncantesimi"
+  },
+  {
+   "x1": 704.0,
+   "y1": 1310.0,
+   "x2": 728.0,
+   "y2": 1336.0,
+   "text": "1°"
+  },
+  {
+   "x1": 783.0,
+   "y1": 1310.0,
+   "x2": 940.0,
+   "y2": 1338.0,
+   "text": "luminescenza, sonno"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1332.0,
+   "x2": 536.0,
+   "y2": 1356.0,
+   "text": "Gli esseri che fungono da patroni per i warlock sono"
+  },
+  {
+   "x1": 704.0,
+   "y1": 1337.0,
+   "x2": 729.0,
+   "y2": 1363.0,
+   "text": "2°"
+  },
+  {
+   "x1": 787.0,
+   "y1": 1339.0,
+   "x2": 1080.0,
+   "y2": 1363.0,
+   "text": "allucinazione di forza, calmare emozioni"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1358.0,
+   "x2": 582.0,
+   "y2": 1381.0,
+   "text": "potenti entità che risiedono su altri piani di esistenza; pur"
+  },
+  {
+   "x1": 702.0,
+   "y1": 1365.0,
+   "x2": 728.0,
+   "y2": 1390.0,
+   "text": "3°"
+  },
+  {
+   "x1": 785.0,
+   "y1": 1365.0,
+   "x2": 1016.0,
+   "y2": 1390.0,
+   "text": "crescita vegetale, intermittenza"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1381.0,
+   "x2": 580.0,
+   "y2": 1405.0,
+   "text": "non essendo divinità vere e proprie, il loro potere rasenta"
+  },
+  {
+   "x1": 704.0,
+   "y1": 1390.0,
+   "x2": 728.0,
+   "y2": 1416.0,
+   "text": "4°"
+  },
+  {
+   "x1": 785.0,
+   "y1": 1390.0,
+   "x2": 1056.0,
+   "y2": 1418.0,
+   "text": "dominare bestie, invisibilità superiore"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1403.0,
+   "x2": 593.0,
+   "y2": 1427.0,
+   "text": "il divino. Ogni patrono può fornire a un warlock l'accesso a"
+  },
+  {
+   "x1": 702.0,
+   "y1": 1416.0,
+   "x2": 728.0,
+   "y2": 1443.0,
+   "text": "5°"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1427.0,
+   "x2": 589.0,
+   "y2": 1451.0,
+   "text": "poteri e suppliche di natura diversa e si aspetta di ricevere"
+  },
+  {
+   "x1": 785.0,
+   "y1": 1420.0,
+   "x2": 994.0,
+   "y2": 1443.0,
+   "text": "dominare persone, sembrare"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1453.0,
+   "x2": 340.0,
+   "y2": 1471.0,
+   "text": "favori signifcativi in cambio."
+  },
+  {
+   "x1": 111.0,
+   "y1": 1469.0,
+   "x2": 506.0,
+   "y2": 1496.0,
+   "text": "Alcuni patroni accumulano numerosi warlock,"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1467.0,
+   "x2": 844.0,
+   "y2": 1495.0,
+   "text": "Presenza FAtata"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1495.0,
+   "x2": 572.0,
+   "y2": 1518.0,
+   "text": "elargiscono le loro conoscenze mistiche con disinvoltura"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1491.0,
+   "x2": 1125.0,
+   "y2": 1518.0,
+   "text": "A partire dal 1º livello, il patrono conferisce al warlock la"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1518.0,
+   "x2": 550.0,
+   "y2": 1542.0,
+   "text": "o si vantano della loro abilità nel vincolare i mortali al"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1518.0,
+   "x2": 1127.0,
+   "y2": 1542.0,
+   "text": "capacità di emanare la presenza seducente e inquietante"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1540.0,
+   "x2": 582.0,
+   "y2": 1564.0,
+   "text": "loro volere. Altri patroni concedono il loro potere soltanto"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1538.0,
+   "x2": 1127.0,
+   "y2": 1566.0,
+   "text": "tipica dei folletti. Con un'azione, il warlock può obbligare"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1564.0,
+   "x2": 561.0,
+   "y2": 1588.0,
+   "text": "a riluttanza e potrebbero decidere di stipulare un patto"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1564.0,
+   "x2": 1073.0,
+   "y2": 1588.0,
+   "text": "ogni creatura entro un cubo con spigolo di 3 metri"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1584.0,
+   "x2": 578.0,
+   "y2": 1612.0,
+   "text": "con un solo warlock. Due warlock al servizio dello stesso"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1588.0,
+   "x2": 1123.0,
+   "y2": 1611.0,
+   "text": "originato da lui a effettuare un tiro salvezza su Saggezza"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1610.0,
+   "x2": 560.0,
+   "y2": 1633.0,
+   "text": "patrono potrebbero considerarsi alleati, fratelli o rivali."
+  },
+  {
+   "x1": 645.0,
+   "y1": 1610.0,
+   "x2": 1115.0,
+   "y2": 1633.0,
+   "text": "contro la CD degli incantesimi del warlock. Le creature"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1681.0,
+   "x2": 273.0,
+   "y2": 1705.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 4.0,
+   "y1": 1692.0,
+   "x2": 37.0,
+   "y2": 1714.0,
+   "text": "116"
+  }
+ ],
+ "reading_text": "Patto del Tomo\nIl patrono dona al warlock un grimorio chiamato il Libro\ndelle Ombre. Quando ottiene questo privilegio, il warlock\npuò scegliere tre trucchetti dalla lista degli incantesimi\ndi qualsiasi classe (che non devono necessariamente\nappartenere alla stessa lista). Quando il warlock porta il\nlibro con sé, può lanciare quei trucchetti a volontà. Non\nvengono conteggiati al fine di determinare il numero di\ntrucchetti conosciuti dal warlock. Anche se non compaiono\nsulla lista degti incantesimi da warlock, sono comunque\nconsiderati incantesimi da warlock per lui.\nSe il Libro delle Ombre viene perduto, il warlock può\neffettuare un cerimoniale da 1 ora per riceverne un altro\ndal proprio patrono. Tale cerimoniale può essere effettuato\ndurante un periodo di riposo breve o lungo, e provoca la\ndistruzione del vecchio libro. Il libro si riduce in polvere\nalla morte del warlock.\nAumento deI Punteggi\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e\n19° livello, un warlock può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di 1 due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nArcanum Mistico\nAll'1 1° livello, il patrono rivela al warlock un segreto magico\nchiamato arcanum. Il warlock sceglie un incantesimo di 6°\nlivello dalla lista degli incantesimi da warlock come arcanum.\nIl warlock può lanciare il suo incantesimo arcanum\nsenza spendere uno slot incantesimo. Deve completare un\nriposo lungo prima di poterlo fare di nuovo.\nAi livelli successivi, il warlock ottiene altri incantesimi\nda warlock a sua scelta da lanciare in questo modo: un\nincantesimo di 7° livello al 13' livello, un incantesimo di\n8° livello al 15° livello e un incantesimo di 9° livello al 17°\nlivello. Recupera tutti gli utilizzi del suo Arcanum Mistico\nquando completa un riposo lungo.\nMaestro dell'Occulto\nA1 20º livello, il warlock è in grado di attingere alla sua\nriserva interiore di potere mistico quando invoca il suo\npatrono per riottenere gli slot incantesimo spesi. Il warlock\npuò trascorrere 1 minuto invocando l'aiuto del suo patrono\nper riottenere tutti gli slot incantesimo concessi dal\nprivilegio Magia del Patto che ha speso. Una volta riottenuti\ngli slot incantesimo tramite questo privilegio, il warlock deve\ncompletare un riposo lungo prima di poterlo fare di nuovo.\nPATRoNI ULTRAtERrENI\nGli esseri che fungono da patroni per i warlock sono\npotenti entità che risiedono su altri piani di esistenza; pur\nnon essendo divinità vere e proprie, il loro potere rasenta\nil divino. Ogni patrono può fornire a un warlock l'accesso a\npoteri e suppliche di natura diversa e si aspetta di ricevere\nfavori signifcativi in cambio.\nAlcuni patroni accumulano numerosi warlock,\nelargiscono le loro conoscenze mistiche con disinvoltura\no si vantano della loro abilità nel vincolare i mortali al\nloro volere. Altri patroni concedono il loro potere soltanto\na riluttanza e potrebbero decidere di stipulare un patto\ncon un solo warlock. Due warlock al servizio dello stesso\npatrono potrebbero considerarsi alleati, fratelli o rivali.\nCAPITOLO 3 CLASSI\n116\n1\nI Doni del Patto\nOgni opzione di Dono del Patto genera una creatura o un oggetto\nspeciale, che rifette la natura del patrono del warlock.\nPatto della Catena. Il famiglio del wariock è più intelligente dei\nfamigli normali. La sua forma standard può riflettere l'essenza del\nsuo patrono: gli spiritelli e gli pseudodraghi sono collegati al Signore\nFatato, mentre gli imp e i quasit sono collegati all'Immondo. Dato\nche la natura del Grande Antico è imperscrutabile, qualsiasi tipo di\nfamiglio può essere collegato a lui.\nPatto della Lama. Se il patrono del warlock è il Signore Fatato,\nla sua arma potrebbe essere un'esile lama avvolta da foglie e\nrampicanti. Se il warlock serve l'Immondo, la sua arma potrebbe\nessere un'ascia fatta di metallo nero e decorata di simboli\nfiammeggianti. Se il patrono del warlock è il Grande Antico, la\nsua arma potrebbe essere una lancia dall'aspetto antico, con\nuna gemma incastonata nella punta e intagliata persembrare un\ninquietante occhio privo di palpebre.\nPatto del Tomo. Il Libro delle Ombre del warlock potrebbe essere\nun raffinato volume dalla copertina rifinita in oro, contenente vari\nincantesimi di ammaliamento e di iliusione, consegnatogli dal\nnobile Signore Fatato. Oppure potrebbe essere un ponderoso\ntomo rilegato in pelle demoniaca e borchie metalliche, pieno\ndi incantesimi di evocazione e informazioni proibite sulle più\nsinistre regioni del cosmo, in quanto dono dell'Immondo. Oppure\npotrebbe invece essere il diario lacero di un pazzo, precipitato\nnella follia dopo essere entrato in contatto con il Grande Antico:\nun libro composto da frammenti di incantesimi che solo il\nwarlock, grazie alla follia che si sta insinuando anche nella sua\nmente, è in grado di comprendere e lanciare.\nIl Signore Fatato\nIl patrono del warlock è un nobile o una dama dei folletti,\nuna creatura leggendaria, custode di segreti già dimenticati\nprima che le razze mortali nascessero. Le motivazioni\ndi questa entità sono spesso imperscrutabili e a volte\nincostanti: potrebbero riguardare la conquista di ulteriore\npotere magico o un conto in sospeso antico di secoli che\ndeve essere saldato. Gli esseri di questo tipo includono\nil Principe del Gelo; la Regina dell'Aria e dell'Oscurità,\nsovrana della Corte del Crepuscolo; Titania della Corte\ndell'Estate e il suo consorte Oberon, il Signore Verde;\nHyrsam, il Principe dei Folli e le megere più antiche.\nLista Ampliata degli Incantesimi\nIl Signore Fatato consente al warlock di accedere a una\nlista ampliata di incantesimi quando deve apprendere un\nincantesimo da warlock. Il warlock aggiunge gli incantesimi\nseguenti alla sua lista degli incantesimi da warlock.\nIncantesimi Ampliati del Signore FAtato\nLivello\ndell'IncantesimoIncantesimi\n1°\nluminescenza, sonno\n2°\nallucinazione di forza, calmare emozioni\n3°\ncrescita vegetale, intermittenza\n4°\ndominare bestie, invisibilità superiore\n5°\ndominare persone, sembrare\nPresenza FAtata\nA partire dal 1º livello, il patrono conferisce al warlock la\ncapacità di emanare la presenza seducente e inquietante\ntipica dei folletti. Con un'azione, il warlock può obbligare\nogni creatura entro un cubo con spigolo di 3 metri\noriginato da lui a effettuare un tiro salvezza su Saggezza\ncontro la CD degli incantesimi del warlock. Le creature"
+}

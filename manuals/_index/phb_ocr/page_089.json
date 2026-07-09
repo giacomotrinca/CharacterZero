@@ -1,0 +1,1403 @@
+{
+ "pdf_page_index": 89,
+ "page_label": 90,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 199,
+ "lines": [
+  {
+   "x1": 92.0,
+   "y1": 86.0,
+   "x2": 207.0,
+   "y2": 117.0,
+   "text": "Monaco"
+  },
+  {
+   "x1": 175.0,
+   "y1": 121.0,
+   "x2": 251.0,
+   "y2": 148.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 288.0,
+   "y1": 119.0,
+   "x2": 329.0,
+   "y2": 148.0,
+   "text": "Arti"
+  },
+  {
+   "x1": 452.0,
+   "y1": 118.0,
+   "x2": 549.0,
+   "y2": 148.0,
+   "text": "Movimento"
+  },
+  {
+   "x1": 100.0,
+   "y1": 143.0,
+   "x2": 268.0,
+   "y2": 174.0,
+   "text": "Livello Competenza"
+  },
+  {
+   "x1": 271.0,
+   "y1": 144.0,
+   "x2": 343.0,
+   "y2": 170.0,
+   "text": "Marziali"
+  },
+  {
+   "x1": 353.0,
+   "y1": 144.0,
+   "x2": 441.0,
+   "y2": 170.0,
+   "text": "Punti Ki"
+  },
+  {
+   "x1": 434.0,
+   "y1": 144.0,
+   "x2": 565.0,
+   "y2": 170.0,
+   "text": "Senza Armatura"
+  },
+  {
+   "x1": 582.0,
+   "y1": 144.0,
+   "x2": 650.0,
+   "y2": 172.0,
+   "text": "Privilegi"
+  },
+  {
+   "x1": 114.0,
+   "y1": 170.0,
+   "x2": 150.0,
+   "y2": 203.0,
+   "text": "1°"
+  },
+  {
+   "x1": 195.0,
+   "y1": 167.0,
+   "x2": 235.0,
+   "y2": 204.0,
+   "text": "+2"
+  },
+  {
+   "x1": 288.0,
+   "y1": 166.0,
+   "x2": 336.0,
+   "y2": 203.0,
+   "text": "1d4"
+  },
+  {
+   "x1": 489.0,
+   "y1": 174.0,
+   "x2": 521.0,
+   "y2": 195.0,
+   "text": "-"
+  },
+  {
+   "x1": 584.0,
+   "y1": 172.0,
+   "x2": 861.0,
+   "y2": 197.0,
+   "text": "Difesa Senza Armatura, Arti Marziali"
+  },
+  {
+   "x1": 120.0,
+   "y1": 199.0,
+   "x2": 146.0,
+   "y2": 227.0,
+   "text": "2°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 199.0,
+   "x2": 233.0,
+   "y2": 225.0,
+   "text": "+2"
+  },
+  {
+   "x1": 292.0,
+   "y1": 197.0,
+   "x2": 332.0,
+   "y2": 227.0,
+   "text": "1d4"
+  },
+  {
+   "x1": 380.0,
+   "y1": 199.0,
+   "x2": 404.0,
+   "y2": 225.0,
+   "text": "2"
+  },
+  {
+   "x1": 480.0,
+   "y1": 199.0,
+   "x2": 530.0,
+   "y2": 227.0,
+   "text": "+3 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 197.0,
+   "x2": 822.0,
+   "y2": 225.0,
+   "text": "Ki, Movimento Senza Armatura"
+  },
+  {
+   "x1": 114.0,
+   "y1": 223.0,
+   "x2": 150.0,
+   "y2": 254.0,
+   "text": "3°"
+  },
+  {
+   "x1": 199.0,
+   "y1": 223.0,
+   "x2": 235.0,
+   "y2": 254.0,
+   "text": "+2"
+  },
+  {
+   "x1": 290.0,
+   "y1": 223.0,
+   "x2": 332.0,
+   "y2": 252.0,
+   "text": "1d4"
+  },
+  {
+   "x1": 380.0,
+   "y1": 225.0,
+   "x2": 403.0,
+   "y2": 252.0,
+   "text": "3"
+  },
+  {
+   "x1": 478.0,
+   "y1": 225.0,
+   "x2": 530.0,
+   "y2": 254.0,
+   "text": "+3 m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 227.0,
+   "x2": 883.0,
+   "y2": 252.0,
+   "text": "Tradizione Monastica, Deviare Proiettili"
+  },
+  {
+   "x1": 118.0,
+   "y1": 252.0,
+   "x2": 146.0,
+   "y2": 278.0,
+   "text": "4°"
+  },
+  {
+   "x1": 199.0,
+   "y1": 250.0,
+   "x2": 235.0,
+   "y2": 281.0,
+   "text": "+2"
+  },
+  {
+   "x1": 292.0,
+   "y1": 250.0,
+   "x2": 331.0,
+   "y2": 280.0,
+   "text": "1d4"
+  },
+  {
+   "x1": 380.0,
+   "y1": 252.0,
+   "x2": 403.0,
+   "y2": 278.0,
+   "text": "4"
+  },
+  {
+   "x1": 477.0,
+   "y1": 248.0,
+   "x2": 531.0,
+   "y2": 282.0,
+   "text": "+3 m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 254.0,
+   "x2": 982.0,
+   "y2": 278.0,
+   "text": "Aumento dei Punteggi di Caratteristica, Caduta Lenta"
+  },
+  {
+   "x1": 114.0,
+   "y1": 276.0,
+   "x2": 150.0,
+   "y2": 307.0,
+   "text": "5°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 280.0,
+   "x2": 231.0,
+   "y2": 305.0,
+   "text": "+3"
+  },
+  {
+   "x1": 292.0,
+   "y1": 276.0,
+   "x2": 332.0,
+   "y2": 305.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 380.0,
+   "y1": 278.0,
+   "x2": 403.0,
+   "y2": 305.0,
+   "text": "5"
+  },
+  {
+   "x1": 478.0,
+   "y1": 278.0,
+   "x2": 530.0,
+   "y2": 305.0,
+   "text": "+3 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 278.0,
+   "x2": 814.0,
+   "y2": 301.0,
+   "text": "Attacco Extra, Colpo Stordente"
+  },
+  {
+   "x1": 116.0,
+   "y1": 303.0,
+   "x2": 150.0,
+   "y2": 334.0,
+   "text": "6"
+  },
+  {
+   "x1": 199.0,
+   "y1": 303.0,
+   "x2": 235.0,
+   "y2": 334.0,
+   "text": "+3"
+  },
+  {
+   "x1": 292.0,
+   "y1": 303.0,
+   "x2": 332.0,
+   "y2": 334.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 380.0,
+   "y1": 305.0,
+   "x2": 404.0,
+   "y2": 331.0,
+   "text": "6"
+  },
+  {
+   "x1": 475.0,
+   "y1": 305.0,
+   "x2": 537.0,
+   "y2": 333.0,
+   "text": "+4,5 m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 305.0,
+   "x2": 1005.0,
+   "y2": 331.0,
+   "text": "Colpi Ki Potenziati, Privilegio della Tradizione Monastica"
+  },
+  {
+   "x1": 113.0,
+   "y1": 329.0,
+   "x2": 150.0,
+   "y2": 360.0,
+   "text": "7°"
+  },
+  {
+   "x1": 199.0,
+   "y1": 329.0,
+   "x2": 235.0,
+   "y2": 360.0,
+   "text": "+3"
+  },
+  {
+   "x1": 290.0,
+   "y1": 329.0,
+   "x2": 332.0,
+   "y2": 358.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 379.0,
+   "y1": 331.0,
+   "x2": 403.0,
+   "y2": 356.0,
+   "text": "7"
+  },
+  {
+   "x1": 473.0,
+   "y1": 331.0,
+   "x2": 537.0,
+   "y2": 358.0,
+   "text": "+4,5 m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 331.0,
+   "x2": 766.0,
+   "y2": 356.0,
+   "text": "Elusione, Mente Lucida"
+  },
+  {
+   "x1": 118.0,
+   "y1": 360.0,
+   "x2": 146.0,
+   "y2": 386.0,
+   "text": "8"
+  },
+  {
+   "x1": 201.0,
+   "y1": 358.0,
+   "x2": 231.0,
+   "y2": 384.0,
+   "text": "+3"
+  },
+  {
+   "x1": 290.0,
+   "y1": 356.0,
+   "x2": 332.0,
+   "y2": 386.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 380.0,
+   "y1": 358.0,
+   "x2": 403.0,
+   "y2": 384.0,
+   "text": "8"
+  },
+  {
+   "x1": 473.0,
+   "y1": 358.0,
+   "x2": 539.0,
+   "y2": 386.0,
+   "text": "+4,5 m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 358.0,
+   "x2": 877.0,
+   "y2": 384.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 116.0,
+   "y1": 384.0,
+   "x2": 150.0,
+   "y2": 415.0,
+   "text": "9°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 382.0,
+   "x2": 233.0,
+   "y2": 413.0,
+   "text": "+4"
+  },
+  {
+   "x1": 290.0,
+   "y1": 382.0,
+   "x2": 332.0,
+   "y2": 413.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 379.0,
+   "y1": 382.0,
+   "x2": 404.0,
+   "y2": 411.0,
+   "text": "9"
+  },
+  {
+   "x1": 473.0,
+   "y1": 384.0,
+   "x2": 537.0,
+   "y2": 411.0,
+   "text": "+4,5 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 386.0,
+   "x2": 879.0,
+   "y2": 409.0,
+   "text": "Movimento Senza Armatura Migliorato"
+  },
+  {
+   "x1": 114.0,
+   "y1": 409.0,
+   "x2": 151.0,
+   "y2": 438.0,
+   "text": "10°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 411.0,
+   "x2": 233.0,
+   "y2": 437.0,
+   "text": "+4"
+  },
+  {
+   "x1": 292.0,
+   "y1": 409.0,
+   "x2": 332.0,
+   "y2": 438.0,
+   "text": "1d6"
+  },
+  {
+   "x1": 379.0,
+   "y1": 411.0,
+   "x2": 406.0,
+   "y2": 437.0,
+   "text": "10"
+  },
+  {
+   "x1": 480.0,
+   "y1": 411.0,
+   "x2": 530.0,
+   "y2": 438.0,
+   "text": "+6m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 409.0,
+   "x2": 726.0,
+   "y2": 437.0,
+   "text": "Purezza del Corpo"
+  },
+  {
+   "x1": 113.0,
+   "y1": 435.0,
+   "x2": 153.0,
+   "y2": 466.0,
+   "text": "11°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 435.0,
+   "x2": 235.0,
+   "y2": 466.0,
+   "text": "+4"
+  },
+  {
+   "x1": 290.0,
+   "y1": 435.0,
+   "x2": 331.0,
+   "y2": 464.0,
+   "text": "1d8"
+  },
+  {
+   "x1": 375.0,
+   "y1": 433.0,
+   "x2": 406.0,
+   "y2": 466.0,
+   "text": "11"
+  },
+  {
+   "x1": 478.0,
+   "y1": 437.0,
+   "x2": 530.0,
+   "y2": 464.0,
+   "text": "+6 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 437.0,
+   "x2": 862.0,
+   "y2": 462.0,
+   "text": "Privilegio della Tradizione Monastica"
+  },
+  {
+   "x1": 114.0,
+   "y1": 462.0,
+   "x2": 153.0,
+   "y2": 493.0,
+   "text": "12°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 464.0,
+   "x2": 233.0,
+   "y2": 490.0,
+   "text": "+4"
+  },
+  {
+   "x1": 292.0,
+   "y1": 462.0,
+   "x2": 332.0,
+   "y2": 491.0,
+   "text": "1d8"
+  },
+  {
+   "x1": 375.0,
+   "y1": 460.0,
+   "x2": 408.0,
+   "y2": 491.0,
+   "text": "12"
+  },
+  {
+   "x1": 480.0,
+   "y1": 462.0,
+   "x2": 530.0,
+   "y2": 490.0,
+   "text": "+6 m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 464.0,
+   "x2": 877.0,
+   "y2": 490.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 107.0,
+   "y1": 488.0,
+   "x2": 153.0,
+   "y2": 519.0,
+   "text": "13°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 490.0,
+   "x2": 233.0,
+   "y2": 515.0,
+   "text": "+5"
+  },
+  {
+   "x1": 292.0,
+   "y1": 488.0,
+   "x2": 332.0,
+   "y2": 517.0,
+   "text": "1d8"
+  },
+  {
+   "x1": 375.0,
+   "y1": 486.0,
+   "x2": 408.0,
+   "y2": 517.0,
+   "text": "13"
+  },
+  {
+   "x1": 478.0,
+   "y1": 488.0,
+   "x2": 532.0,
+   "y2": 517.0,
+   "text": "+6m"
+  },
+  {
+   "x1": 584.0,
+   "y1": 490.0,
+   "x2": 798.0,
+   "y2": 515.0,
+   "text": "Lingua del Sole e della Luna"
+  },
+  {
+   "x1": 113.0,
+   "y1": 515.0,
+   "x2": 153.0,
+   "y2": 544.0,
+   "text": "14°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 517.0,
+   "x2": 233.0,
+   "y2": 543.0,
+   "text": "+5"
+  },
+  {
+   "x1": 292.0,
+   "y1": 515.0,
+   "x2": 332.0,
+   "y2": 544.0,
+   "text": "1d8"
+  },
+  {
+   "x1": 377.0,
+   "y1": 517.0,
+   "x2": 406.0,
+   "y2": 541.0,
+   "text": "74"
+  },
+  {
+   "x1": 475.0,
+   "y1": 515.0,
+   "x2": 536.0,
+   "y2": 543.0,
+   "text": "+7,5 m"
+  },
+  {
+   "x1": 580.0,
+   "y1": 515.0,
+   "x2": 733.0,
+   "y2": 543.0,
+   "text": "Anima Adamantina"
+  },
+  {
+   "x1": 113.0,
+   "y1": 541.0,
+   "x2": 151.0,
+   "y2": 572.0,
+   "text": "15°"
+  },
+  {
+   "x1": 194.0,
+   "y1": 538.0,
+   "x2": 236.0,
+   "y2": 573.0,
+   "text": "+5"
+  },
+  {
+   "x1": 290.0,
+   "y1": 541.0,
+   "x2": 331.0,
+   "y2": 570.0,
+   "text": "1d8"
+  },
+  {
+   "x1": 377.0,
+   "y1": 543.0,
+   "x2": 406.0,
+   "y2": 568.0,
+   "text": "15"
+  },
+  {
+   "x1": 475.0,
+   "y1": 543.0,
+   "x2": 536.0,
+   "y2": 570.0,
+   "text": "+7,5 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 543.0,
+   "x2": 739.0,
+   "y2": 568.0,
+   "text": "Corpo Senza Tempo"
+  },
+  {
+   "x1": 113.0,
+   "y1": 566.0,
+   "x2": 151.0,
+   "y2": 597.0,
+   "text": "16"
+  },
+  {
+   "x1": 201.0,
+   "y1": 570.0,
+   "x2": 233.0,
+   "y2": 596.0,
+   "text": "+5"
+  },
+  {
+   "x1": 290.0,
+   "y1": 568.0,
+   "x2": 332.0,
+   "y2": 597.0,
+   "text": "1d8"
+  },
+  {
+   "x1": 377.0,
+   "y1": 568.0,
+   "x2": 406.0,
+   "y2": 594.0,
+   "text": "16"
+  },
+  {
+   "x1": 475.0,
+   "y1": 570.0,
+   "x2": 536.0,
+   "y2": 596.0,
+   "text": "+7,5 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 568.0,
+   "x2": 877.0,
+   "y2": 596.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 111.0,
+   "y1": 590.0,
+   "x2": 155.0,
+   "y2": 629.0,
+   "text": "17°"
+  },
+  {
+   "x1": 199.0,
+   "y1": 594.0,
+   "x2": 236.0,
+   "y2": 625.0,
+   "text": "+6"
+  },
+  {
+   "x1": 286.0,
+   "y1": 594.0,
+   "x2": 336.0,
+   "y2": 623.0,
+   "text": "1d10"
+  },
+  {
+   "x1": 375.0,
+   "y1": 592.0,
+   "x2": 408.0,
+   "y2": 623.0,
+   "text": "17"
+  },
+  {
+   "x1": 471.0,
+   "y1": 592.0,
+   "x2": 537.0,
+   "y2": 625.0,
+   "text": "+7,5 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 596.0,
+   "x2": 862.0,
+   "y2": 621.0,
+   "text": "Privilegio della Tradizione Monastica"
+  },
+  {
+   "x1": 114.0,
+   "y1": 621.0,
+   "x2": 153.0,
+   "y2": 650.0,
+   "text": "18*"
+  },
+  {
+   "x1": 201.0,
+   "y1": 623.0,
+   "x2": 233.0,
+   "y2": 649.0,
+   "text": "+6"
+  },
+  {
+   "x1": 288.0,
+   "y1": 619.0,
+   "x2": 336.0,
+   "y2": 649.0,
+   "text": "1d10"
+  },
+  {
+   "x1": 377.0,
+   "y1": 621.0,
+   "x2": 406.0,
+   "y2": 647.0,
+   "text": "18"
+  },
+  {
+   "x1": 476.0,
+   "y1": 615.0,
+   "x2": 532.0,
+   "y2": 651.0,
+   "text": "+9 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 623.0,
+   "x2": 685.0,
+   "y2": 649.0,
+   "text": "Corpo Vuoto"
+  },
+  {
+   "x1": 113.0,
+   "y1": 645.0,
+   "x2": 153.0,
+   "y2": 678.0,
+   "text": "19°"
+  },
+  {
+   "x1": 199.0,
+   "y1": 647.0,
+   "x2": 235.0,
+   "y2": 678.0,
+   "text": "+6"
+  },
+  {
+   "x1": 283.0,
+   "y1": 643.0,
+   "x2": 336.0,
+   "y2": 678.0,
+   "text": "1d10"
+  },
+  {
+   "x1": 375.0,
+   "y1": 645.0,
+   "x2": 408.0,
+   "y2": 676.0,
+   "text": "19"
+  },
+  {
+   "x1": 477.0,
+   "y1": 642.0,
+   "x2": 531.0,
+   "y2": 679.0,
+   "text": "+9 m"
+  },
+  {
+   "x1": 582.0,
+   "y1": 649.0,
+   "x2": 875.0,
+   "y2": 674.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 114.0,
+   "y1": 674.0,
+   "x2": 151.0,
+   "y2": 703.0,
+   "text": "20°"
+  },
+  {
+   "x1": 199.0,
+   "y1": 672.0,
+   "x2": 235.0,
+   "y2": 703.0,
+   "text": "+6"
+  },
+  {
+   "x1": 286.0,
+   "y1": 672.0,
+   "x2": 334.0,
+   "y2": 702.0,
+   "text": "1d10"
+  },
+  {
+   "x1": 375.0,
+   "y1": 672.0,
+   "x2": 408.0,
+   "y2": 703.0,
+   "text": "20"
+  },
+  {
+   "x1": 476.0,
+   "y1": 670.0,
+   "x2": 531.0,
+   "y2": 704.0,
+   "text": "+9 m"
+  },
+  {
+   "x1": 581.0,
+   "y1": 670.0,
+   "x2": 737.0,
+   "y2": 702.0,
+   "text": "Perfezione Interiore"
+  },
+  {
+   "x1": 118.0,
+   "y1": 760.0,
+   "x2": 585.0,
+   "y2": 784.0,
+   "text": "Alcuni monaci conducono vite completamente separate"
+  },
+  {
+   "x1": 648.0,
+   "y1": 758.0,
+   "x2": 1115.0,
+   "y2": 786.0,
+   "text": "violato in qualche modo le regole della comunità? Aveva"
+  },
+  {
+   "x1": 102.0,
+   "y1": 784.0,
+   "x2": 547.0,
+   "y2": 808.0,
+   "text": "dalla popolazione circostante, isolati da tutto ciò che"
+  },
+  {
+   "x1": 648.0,
+   "y1": 784.0,
+   "x2": 1117.0,
+   "y2": 809.0,
+   "text": "paura di lasciare il monastero o ne è stato contento? C'è"
+  },
+  {
+   "x1": 100.0,
+   "y1": 804.0,
+   "x2": 567.0,
+   "y2": 831.0,
+   "text": "potrebbe interferire nella loro evoluzione spirituale. Altri"
+  },
+  {
+   "x1": 646.0,
+   "y1": 804.0,
+   "x2": 1149.0,
+   "y2": 831.0,
+   "text": "qualcosa di particolare che spera di compiere al di fuori del"
+  },
+  {
+   "x1": 102.0,
+   "y1": 829.0,
+   "x2": 565.0,
+   "y2": 855.0,
+   "text": "hanno giurato di vivere in isolamento ed escono solo per"
+  },
+  {
+   "x1": 648.0,
+   "y1": 829.0,
+   "x2": 1019.0,
+   "y2": 853.0,
+   "text": "monastero? È impaziente di tornare a casa?"
+  },
+  {
+   "x1": 102.0,
+   "y1": 853.0,
+   "x2": 595.0,
+   "y2": 877.0,
+   "text": "fungere da spie o da assassini al servizio del loro capo, di un"
+  },
+  {
+   "x1": 667.0,
+   "y1": 853.0,
+   "x2": 1134.0,
+   "y2": 877.0,
+   "text": "La rigida vita di una comunità monastica e la disciplina"
+  },
+  {
+   "x1": 100.0,
+   "y1": 875.0,
+   "x2": 584.0,
+   "y2": 899.0,
+   "text": "nobile patrono o di qualche altra potenza mortale o divina."
+  },
+  {
+   "x1": 648.0,
+   "y1": 875.0,
+   "x2": 1125.0,
+   "y2": 899.0,
+   "text": "richiesta per imbrigliare il ki fanno sì che i monaci siano"
+  },
+  {
+   "x1": 116.0,
+   "y1": 899.0,
+   "x2": 585.0,
+   "y2": 923.0,
+   "text": "La maggior parte dei monaci non rifugge dai vicini: molti"
+  },
+  {
+   "x1": 648.0,
+   "y1": 899.0,
+   "x2": 958.0,
+   "y2": 923.0,
+   "text": "quasi sempre di allineamento legale."
+  },
+  {
+   "x1": 100.0,
+   "y1": 921.0,
+   "x2": 561.0,
+   "y2": 945.0,
+   "text": "monaci visitano frequentemente i villaggi o ipaesi, dove"
+  },
+  {
+   "x1": 100.0,
+   "y1": 943.0,
+   "x2": 593.0,
+   "y2": 967.0,
+   "text": "offrono i loro servigi in cambio di cibo o altri beni. In qualità"
+  },
+  {
+   "x1": 648.0,
+   "y1": 937.0,
+   "x2": 864.0,
+   "y2": 967.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 102.0,
+   "y1": 967.0,
+   "x2": 547.0,
+   "y2": 990.0,
+   "text": "di combattenti versatili, i monaci spesso finiscono per"
+  },
+  {
+   "x1": 644.0,
+   "y1": 961.0,
+   "x2": 1152.0,
+   "y2": 994.0,
+   "text": "È possibile creare un monaco rapidamente seguendo questi"
+  },
+  {
+   "x1": 100.0,
+   "y1": 990.0,
+   "x2": 561.0,
+   "y2": 1014.0,
+   "text": "proteggere i loro vicini dal mostro o dal tiranno di turno."
+  },
+  {
+   "x1": 645.0,
+   "y1": 988.0,
+   "x2": 1136.0,
+   "y2": 1014.0,
+   "text": "suggerimenti. Per prima cosa, Destrezza dovrebbe essere"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1012.0,
+   "x2": 550.0,
+   "y2": 1036.0,
+   "text": "Per un monaco, diventare un avventuriero significa"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1012.0,
+   "x2": 1136.0,
+   "y2": 1038.0,
+   "text": "il punteggio di caratteristica più alto, seguito da Saggezza."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1036.0,
+   "x2": 578.0,
+   "y2": 1060.0,
+   "text": "lasciarsi alle spalle uno stile divita comune e strutturato"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1032.0,
+   "x2": 990.0,
+   "y2": 1060.0,
+   "text": "Poi si sceglie il background dell'eremita."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1058.0,
+   "x2": 582.0,
+   "y2": 1082.0,
+   "text": "per diventare un nomade. La transizione può essere dura"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1078.0,
+   "x2": 576.0,
+   "y2": 1102.0,
+   "text": "e nessun monaco la intraprende a cuor leggero. Chi esce"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1078.0,
+   "x2": 1023.0,
+   "y2": 1118.0,
+   "text": "PrIVILEGI DI CLASSE"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1100.0,
+   "x2": 582.0,
+   "y2": 1127.0,
+   "text": "dal monastero prende la sua missione sul serio e affronta"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1124.0,
+   "x2": 552.0,
+   "y2": 1151.0,
+   "text": "le avventure che lo attendono come prove personali di"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1122.0,
+   "x2": 1051.0,
+   "y2": 1147.0,
+   "text": "Un monaco ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1149.0,
+   "x2": 554.0,
+   "y2": 1173.0,
+   "text": "crescita fsica e spirituale. Di norma i monaci nutrono"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1158.0,
+   "x2": 807.0,
+   "y2": 1195.0,
+   "text": "Punti FERita"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1171.0,
+   "x2": 587.0,
+   "y2": 1195.0,
+   "text": "ben poco interesse per le ricchezze materiali e sono spinti"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1193.0,
+   "x2": 561.0,
+   "y2": 1221.0,
+   "text": "più dal desiderio di compiere una missione importante"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1189.0,
+   "x2": 999.0,
+   "y2": 1215.0,
+   "text": "Dadi Vita: Id8 per ogni livello da monaco"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1219.0,
+   "x2": 560.0,
+   "y2": 1242.0,
+   "text": "che non dalla semplice necessità di uccidere i mostri e"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1213.0,
+   "x2": 1047.0,
+   "y2": 1239.0,
+   "text": "Punti Ferita al 1° Livello: 8 + il modificatore di"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1242.0,
+   "x2": 319.0,
+   "y2": 1266.0,
+   "text": "saccheggiare i loro tesori."
+  },
+  {
+   "x1": 661.0,
+   "y1": 1235.0,
+   "x2": 879.0,
+   "y2": 1263.0,
+   "text": "Costituzione del monaco"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1261.0,
+   "x2": 1053.0,
+   "y2": 1286.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d8 (o 5) + il"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1283.0,
+   "x2": 386.0,
+   "y2": 1314.0,
+   "text": "Creare un Monaco"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1284.0,
+   "x2": 1084.0,
+   "y2": 1310.0,
+   "text": "modificatore di Costituzione del monaco per ogni"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1306.0,
+   "x2": 899.0,
+   "y2": 1332.0,
+   "text": "livello da monaco dopo il 1°"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1321.0,
+   "x2": 552.0,
+   "y2": 1347.0,
+   "text": "Al momento di creare il proprio monaco, un giocatore"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1343.0,
+   "x2": 567.0,
+   "y2": 1370.0,
+   "text": "dovrebbe pensare al suo legame con il monastero in cui"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1347.0,
+   "x2": 798.0,
+   "y2": 1378.0,
+   "text": "COmpetenzE"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1368.0,
+   "x2": 584.0,
+   "y2": 1394.0,
+   "text": "ha appreso le sue abilità e dove ha trascorso gli anni della"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1376.0,
+   "x2": 824.0,
+   "y2": 1401.0,
+   "text": "Armature: Nessuna"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1390.0,
+   "x2": 589.0,
+   "y2": 1418.0,
+   "text": "sua formazione. Era un orfano o un bambino abbandonato"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1400.0,
+   "x2": 933.0,
+   "y2": 1423.0,
+   "text": "Armi: Armi semplici, spade corte"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1416.0,
+   "x2": 534.0,
+   "y2": 1440.0,
+   "text": "sulla soglia del monastero? Isuoi genitori gli hanno"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1420.0,
+   "x2": 1080.0,
+   "y2": 1447.0,
+   "text": "Strumenti: Un tipo di strumenti da artigiano o uno"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1438.0,
+   "x2": 584.0,
+   "y2": 1462.0,
+   "text": "promesso di inviarlo al monastero in segno di gratitudine"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1447.0,
+   "x2": 901.0,
+   "y2": 1471.0,
+   "text": "strumento musicale a scelta"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1460.0,
+   "x2": 597.0,
+   "y2": 1487.0,
+   "text": "per un servigio ottenuto dai monaci? Conduceva una vita di"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1485.0,
+   "x2": 591.0,
+   "y2": 1509.0,
+   "text": "clausura per nascondersi dalle conseguenze di un crimine"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1478.0,
+   "x2": 918.0,
+   "y2": 1504.0,
+   "text": "Tiri Salvezza: Forza, Destrezza"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1507.0,
+   "x2": 600.0,
+   "y2": 1531.0,
+   "text": "che aveva commesso? Oppure ha scelto la vita monastica di"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1502.0,
+   "x2": 1102.0,
+   "y2": 1527.0,
+   "text": "Abilità: Due a scelta tra Acrobazia, Atletica, Furtività,"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1531.0,
+   "x2": 319.0,
+   "y2": 1555.0,
+   "text": "sua spontanea iniziativa?"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1526.0,
+   "x2": 912.0,
+   "y2": 1549.0,
+   "text": "Intuizione, Religione e Storia"
+  },
+  {
+   "x1": 114.0,
+   "y1": 1551.0,
+   "x2": 552.0,
+   "y2": 1579.0,
+   "text": "Quindi dovrà chiedersi perché se n'è andato. Il capo"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1577.0,
+   "x2": 502.0,
+   "y2": 1601.0,
+   "text": "del suo monastero lo ha scelto per una missione"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1568.0,
+   "x2": 859.0,
+   "y2": 1593.0,
+   "text": "EQuipaggiamento"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1599.0,
+   "x2": 539.0,
+   "y2": 1624.0,
+   "text": "particolarmente importante da portare a termine nel"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1595.0,
+   "x2": 1097.0,
+   "y2": 1621.0,
+   "text": "Un monaco inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1624.0,
+   "x2": 547.0,
+   "y2": 1648.0,
+   "text": "mondo esterno? O forse è stato allontanato perché ha"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1617.0,
+   "x2": 1151.0,
+   "y2": 1646.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1681.0,
+   "x2": 279.0,
+   "y2": 1705.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 26.0,
+   "y1": 1705.0,
+   "x2": 44.0,
+   "y2": 1721.0,
+   "text": "go"
+  }
+ ],
+ "reading_text": "Monaco\nMovimento\nArti\nBonus di\nLivello Competenza\nMarziali\nPunti Ki\nSenza Armatura\nPrivilegi\n1d4\n+2\n1°\n-\n1d4\n2°\n+2\n2\n+3 m\n3°\n+2\n1d4\n3\n+3 m\n+3 m\n+2\n1d4\n4°\n4\n5°\n1d6\n5\n+3 m\n+3\n6\n+3\n1d6\n6\n+4,5 m\n7°\n+3\n1d6\n7\n+4,5 m\n1d6\n+3\n8\n+4,5 m\n8\n+4\n1d6\n9\n9°\n+4,5 m\n10°\n1d6\n+4\n10\n+6m\n11\n11°\n+4\n1d8\n+6 m\n12\n12°\n1d8\n+6 m\n+4\n13\n13°\n1d8\n+6m\n+5\n14°\n1d8\n+7,5 m\n+5\n74\n+5\n15°\n1d8\n15\n+7,5 m\n16\n1d8\n16\n+5\n+7,5 m\n17°\n17\n+7,5 m\n+6\n1d10\n+9 m\n1d10\n18*\n18\n+6\n+9 m\n1d10\n19°\n19\n+6\n+9 m\n+6\n1d10\n20\n20°\nAlcuni monaci conducono vite completamente separate\ndalla popolazione circostante, isolati da tutto ciò che\npotrebbe interferire nella loro evoluzione spirituale. Altri\nhanno giurato di vivere in isolamento ed escono solo per\nfungere da spie o da assassini al servizio del loro capo, di un\nnobile patrono o di qualche altra potenza mortale o divina.\nLa maggior parte dei monaci non rifugge dai vicini: molti\nmonaci visitano frequentemente i villaggi o ipaesi, dove\noffrono i loro servigi in cambio di cibo o altri beni. In qualità\ndi combattenti versatili, i monaci spesso finiscono per\nproteggere i loro vicini dal mostro o dal tiranno di turno.\nPer un monaco, diventare un avventuriero significa\nlasciarsi alle spalle uno stile divita comune e strutturato\nper diventare un nomade. La transizione può essere dura\ne nessun monaco la intraprende a cuor leggero. Chi esce\ndal monastero prende la sua missione sul serio e affronta\nle avventure che lo attendono come prove personali di\ncrescita fsica e spirituale. Di norma i monaci nutrono\nben poco interesse per le ricchezze materiali e sono spinti\npiù dal desiderio di compiere una missione importante\nche non dalla semplice necessità di uccidere i mostri e\nsaccheggiare i loro tesori.\nCreare un Monaco\nAl momento di creare il proprio monaco, un giocatore\ndovrebbe pensare al suo legame con il monastero in cui\nha appreso le sue abilità e dove ha trascorso gli anni della\nsua formazione. Era un orfano o un bambino abbandonato\nsulla soglia del monastero? Isuoi genitori gli hanno\npromesso di inviarlo al monastero in segno di gratitudine\nper un servigio ottenuto dai monaci? Conduceva una vita di\nclausura per nascondersi dalle conseguenze di un crimine\nche aveva commesso? Oppure ha scelto la vita monastica di\nsua spontanea iniziativa?\nQuindi dovrà chiedersi perché se n'è andato. Il capo\ndel suo monastero lo ha scelto per una missione\nparticolarmente importante da portare a termine nel\nmondo esterno? O forse è stato allontanato perché ha\nCAPITOLO 3 CLASSI\ngo\nDifesa Senza Armatura, Arti Marziali\nKi, Movimento Senza Armatura\nTradizione Monastica, Deviare Proiettili\nAumento dei Punteggi di Caratteristica, Caduta Lenta\nAttacco Extra, Colpo Stordente\nColpi Ki Potenziati, Privilegio della Tradizione Monastica\nElusione, Mente Lucida\nAumento dei Punteggi di Caratteristica\nMovimento Senza Armatura Migliorato\nPurezza del Corpo\nPrivilegio della Tradizione Monastica\nAumento dei Punteggi di Caratteristica\nLingua del Sole e della Luna\nAnima Adamantina\nCorpo Senza Tempo\nAumento dei Punteggi di Caratteristica\nPrivilegio della Tradizione Monastica\nCorpo Vuoto\nAumento dei Punteggi di Caratteristica\nPerfezione Interiore\nviolato in qualche modo le regole della comunità? Aveva\npaura di lasciare il monastero o ne è stato contento? C'è\nqualcosa di particolare che spera di compiere al di fuori del\nmonastero? È impaziente di tornare a casa?\nLa rigida vita di una comunità monastica e la disciplina\nrichiesta per imbrigliare il ki fanno sì che i monaci siano\nquasi sempre di allineamento legale.\nCreazione Rapida\nÈ possibile creare un monaco rapidamente seguendo questi\nsuggerimenti. Per prima cosa, Destrezza dovrebbe essere\nil punteggio di caratteristica più alto, seguito da Saggezza.\nPoi si sceglie il background dell'eremita.\nPrIVILEGI DI CLASSE\nUn monaco ottiene i seguenti privilegi di classe.\nPunti FERita\nDadi Vita: Id8 per ogni livello da monaco\nPunti Ferita al 1° Livello: 8 + il modificatore di\nCostituzione del monaco\nPunti Ferita ai Livelli Successivi: 1d8 (o 5) + il\nmodificatore di Costituzione del monaco per ogni\nlivello da monaco dopo il 1°\nCOmpetenzE\nArmature: Nessuna\nArmi: Armi semplici, spade corte\nStrumenti: Un tipo di strumenti da artigiano o uno\nstrumento musicale a scelta\nTiri Salvezza: Forza, Destrezza\nAbilità: Due a scelta tra Acrobazia, Atletica, Furtività,\nIntuizione, Religione e Storia\nEQuipaggiamento\nUn monaco inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:"
+}

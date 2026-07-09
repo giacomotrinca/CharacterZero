@@ -1,0 +1,1858 @@
+{
+ "pdf_page_index": 56,
+ "page_label": 57,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 264,
+ "lines": [
+  {
+   "x1": 92.0,
+   "y1": 82.0,
+   "x2": 204.0,
+   "y2": 117.0,
+   "text": "CHIERICO"
+  },
+  {
+   "x1": 770.0,
+   "y1": 115.0,
+   "x2": 1103.0,
+   "y2": 143.0,
+   "text": "—Slot Incantesimo per Livello di Incantesimo"
+  },
+  {
+   "x1": 172.0,
+   "y1": 126.0,
+   "x2": 247.0,
+   "y2": 152.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 667.0,
+   "y1": 126.0,
+   "x2": 750.0,
+   "y2": 152.0,
+   "text": "Trucchetti"
+  },
+  {
+   "x1": 94.0,
+   "y1": 142.0,
+   "x2": 333.0,
+   "y2": 185.0,
+   "text": "Livello Copetenza Privile"
+  },
+  {
+   "x1": 665.0,
+   "y1": 150.0,
+   "x2": 753.0,
+   "y2": 175.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 752.0,
+   "y1": 150.0,
+   "x2": 785.0,
+   "y2": 172.0,
+   "text": "1°"
+  },
+  {
+   "x1": 801.0,
+   "y1": 150.0,
+   "x2": 827.0,
+   "y2": 172.0,
+   "text": "2°"
+  },
+  {
+   "x1": 844.0,
+   "y1": 150.0,
+   "x2": 870.0,
+   "y2": 172.0,
+   "text": "3°"
+  },
+  {
+   "x1": 890.0,
+   "y1": 152.0,
+   "x2": 910.0,
+   "y2": 170.0,
+   "text": "4°"
+  },
+  {
+   "x1": 929.0,
+   "y1": 150.0,
+   "x2": 957.0,
+   "y2": 172.0,
+   "text": "5°"
+  },
+  {
+   "x1": 974.0,
+   "y1": 149.0,
+   "x2": 1000.0,
+   "y2": 171.0,
+   "text": "6°"
+  },
+  {
+   "x1": 1016.0,
+   "y1": 150.0,
+   "x2": 1043.0,
+   "y2": 172.0,
+   "text": "7°"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 153.0,
+   "x2": 1080.0,
+   "y2": 170.0,
+   "text": "8*"
+  },
+  {
+   "x1": 1106.0,
+   "y1": 152.0,
+   "x2": 1125.0,
+   "y2": 170.0,
+   "text": "9*"
+  },
+  {
+   "x1": 111.0,
+   "y1": 179.0,
+   "x2": 144.0,
+   "y2": 210.0,
+   "text": "1°"
+  },
+  {
+   "x1": 190.0,
+   "y1": 175.0,
+   "x2": 225.0,
+   "y2": 206.0,
+   "text": "+2"
+  },
+  {
+   "x1": 264.0,
+   "y1": 177.0,
+   "x2": 482.0,
+   "y2": 203.0,
+   "text": "Incantesimi, Dominio Divino"
+  },
+  {
+   "x1": 700.0,
+   "y1": 179.0,
+   "x2": 717.0,
+   "y2": 201.0,
+   "text": "3"
+  },
+  {
+   "x1": 761.0,
+   "y1": 179.0,
+   "x2": 779.0,
+   "y2": 199.0,
+   "text": "2"
+  },
+  {
+   "x1": 113.0,
+   "y1": 205.0,
+   "x2": 144.0,
+   "y2": 238.0,
+   "text": "2°"
+  },
+  {
+   "x1": 194.0,
+   "y1": 205.0,
+   "x2": 223.0,
+   "y2": 230.0,
+   "text": "+2"
+  },
+  {
+   "x1": 260.0,
+   "y1": 205.0,
+   "x2": 587.0,
+   "y2": 230.0,
+   "text": "Incanalare Divinità (1/riposo), Privilegio del"
+  },
+  {
+   "x1": 700.0,
+   "y1": 206.0,
+   "x2": 717.0,
+   "y2": 228.0,
+   "text": "3"
+  },
+  {
+   "x1": 760.0,
+   "y1": 204.0,
+   "x2": 782.0,
+   "y2": 227.0,
+   "text": "3"
+  },
+  {
+   "x1": 262.0,
+   "y1": 227.0,
+   "x2": 390.0,
+   "y2": 252.0,
+   "text": "Dominio Divino"
+  },
+  {
+   "x1": 114.0,
+   "y1": 256.0,
+   "x2": 140.0,
+   "y2": 283.0,
+   "text": "3°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 254.0,
+   "x2": 223.0,
+   "y2": 280.0,
+   "text": "+2"
+  },
+  {
+   "x1": 262.0,
+   "y1": 259.0,
+   "x2": 279.0,
+   "y2": 276.0,
+   "text": "-"
+  },
+  {
+   "x1": 696.0,
+   "y1": 252.0,
+   "x2": 718.0,
+   "y2": 280.0,
+   "text": "3"
+  },
+  {
+   "x1": 765.0,
+   "y1": 256.0,
+   "x2": 779.0,
+   "y2": 276.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 256.0,
+   "x2": 822.0,
+   "y2": 276.0,
+   "text": "2"
+  },
+  {
+   "x1": 114.0,
+   "y1": 283.0,
+   "x2": 140.0,
+   "y2": 311.0,
+   "text": "4°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 278.0,
+   "x2": 225.0,
+   "y2": 309.0,
+   "text": "+2"
+  },
+  {
+   "x1": 262.0,
+   "y1": 280.0,
+   "x2": 556.0,
+   "y2": 305.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 700.0,
+   "y1": 283.0,
+   "x2": 717.0,
+   "y2": 301.0,
+   "text": "4"
+  },
+  {
+   "x1": 763.0,
+   "y1": 283.0,
+   "x2": 777.0,
+   "y2": 301.0,
+   "text": "4"
+  },
+  {
+   "x1": 807.0,
+   "y1": 283.0,
+   "x2": 822.0,
+   "y2": 301.0,
+   "text": "3"
+  },
+  {
+   "x1": 114.0,
+   "y1": 309.0,
+   "x2": 140.0,
+   "y2": 336.0,
+   "text": "5°"
+  },
+  {
+   "x1": 190.0,
+   "y1": 303.0,
+   "x2": 225.0,
+   "y2": 334.0,
+   "text": "+3"
+  },
+  {
+   "x1": 262.0,
+   "y1": 307.0,
+   "x2": 504.0,
+   "y2": 333.0,
+   "text": "Distruggere Non Morti {GS 1/2)"
+  },
+  {
+   "x1": 698.0,
+   "y1": 309.0,
+   "x2": 717.0,
+   "y2": 329.0,
+   "text": "4"
+  },
+  {
+   "x1": 761.0,
+   "y1": 309.0,
+   "x2": 779.0,
+   "y2": 329.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 309.0,
+   "x2": 822.0,
+   "y2": 329.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 309.0,
+   "x2": 866.0,
+   "y2": 329.0,
+   "text": "2"
+  },
+  {
+   "x1": 114.0,
+   "y1": 336.0,
+   "x2": 140.0,
+   "y2": 362.0,
+   "text": "6°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 329.0,
+   "x2": 225.0,
+   "y2": 360.0,
+   "text": "+3"
+  },
+  {
+   "x1": 262.0,
+   "y1": 333.0,
+   "x2": 591.0,
+   "y2": 358.0,
+   "text": "Incanalare Divinità (2/riposo), Privilegio del"
+  },
+  {
+   "x1": 763.0,
+   "y1": 336.0,
+   "x2": 779.0,
+   "y2": 354.0,
+   "text": "4"
+  },
+  {
+   "x1": 807.0,
+   "y1": 336.0,
+   "x2": 822.0,
+   "y2": 356.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 334.0,
+   "x2": 864.0,
+   "y2": 356.0,
+   "text": "3"
+  },
+  {
+   "x1": 262.0,
+   "y1": 352.0,
+   "x2": 390.0,
+   "y2": 382.0,
+   "text": "Dominio Divino"
+  },
+  {
+   "x1": 691.0,
+   "y1": 329.0,
+   "x2": 721.0,
+   "y2": 358.0,
+   "text": "4"
+  },
+  {
+   "x1": 113.0,
+   "y1": 384.0,
+   "x2": 140.0,
+   "y2": 411.0,
+   "text": "7°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 382.0,
+   "x2": 223.0,
+   "y2": 407.0,
+   "text": "+3"
+  },
+  {
+   "x1": 258.0,
+   "y1": 384.0,
+   "x2": 280.0,
+   "y2": 406.0,
+   "text": "I"
+  },
+  {
+   "x1": 700.0,
+   "y1": 386.0,
+   "x2": 717.0,
+   "y2": 404.0,
+   "text": "4"
+  },
+  {
+   "x1": 761.0,
+   "y1": 386.0,
+   "x2": 781.0,
+   "y2": 404.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 384.0,
+   "x2": 822.0,
+   "y2": 404.0,
+   "text": "3"
+  },
+  {
+   "x1": 849.0,
+   "y1": 384.0,
+   "x2": 866.0,
+   "y2": 404.0,
+   "text": "3"
+  },
+  {
+   "x1": 896.0,
+   "y1": 387.0,
+   "x2": 905.0,
+   "y2": 398.0,
+   "text": "1"
+  },
+  {
+   "x1": 113.0,
+   "y1": 411.0,
+   "x2": 140.0,
+   "y2": 437.0,
+   "text": "8°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 409.0,
+   "x2": 223.0,
+   "y2": 435.0,
+   "text": "+3"
+  },
+  {
+   "x1": 264.0,
+   "y1": 409.0,
+   "x2": 635.0,
+   "y2": 433.0,
+   "text": "Aumento dei Punteggi di Caratteristica, Distruggere"
+  },
+  {
+   "x1": 700.0,
+   "y1": 413.0,
+   "x2": 717.0,
+   "y2": 431.0,
+   "text": "4"
+  },
+  {
+   "x1": 763.0,
+   "y1": 413.0,
+   "x2": 781.0,
+   "y2": 431.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 411.0,
+   "x2": 822.0,
+   "y2": 431.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 411.0,
+   "x2": 864.0,
+   "y2": 431.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 411.0,
+   "x2": 909.0,
+   "y2": 431.0,
+   "text": "2"
+  },
+  {
+   "x1": 260.0,
+   "y1": 429.0,
+   "x2": 609.0,
+   "y2": 457.0,
+   "text": "Non Morti (GS 1). Privilego del Dominio Divino"
+  },
+  {
+   "x1": 113.0,
+   "y1": 459.0,
+   "x2": 140.0,
+   "y2": 486.0,
+   "text": "9°"
+  },
+  {
+   "x1": 190.0,
+   "y1": 455.0,
+   "x2": 225.0,
+   "y2": 486.0,
+   "text": "+4"
+  },
+  {
+   "x1": 264.0,
+   "y1": 466.0,
+   "x2": 273.0,
+   "y2": 477.0,
+   "text": "-"
+  },
+  {
+   "x1": 698.0,
+   "y1": 460.0,
+   "x2": 717.0,
+   "y2": 481.0,
+   "text": "4"
+  },
+  {
+   "x1": 763.0,
+   "y1": 462.0,
+   "x2": 779.0,
+   "y2": 482.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 460.0,
+   "x2": 822.0,
+   "y2": 482.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 460.0,
+   "x2": 866.0,
+   "y2": 481.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 460.0,
+   "x2": 909.0,
+   "y2": 481.0,
+   "text": "3"
+  },
+  {
+   "x1": 938.0,
+   "y1": 464.0,
+   "x2": 947.0,
+   "y2": 477.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 484.0,
+   "x2": 146.0,
+   "y2": 513.0,
+   "text": "10*"
+  },
+  {
+   "x1": 194.0,
+   "y1": 484.0,
+   "x2": 223.0,
+   "y2": 510.0,
+   "text": "+4"
+  },
+  {
+   "x1": 262.0,
+   "y1": 484.0,
+   "x2": 401.0,
+   "y2": 510.0,
+   "text": "Intervento Divino"
+  },
+  {
+   "x1": 698.0,
+   "y1": 486.0,
+   "x2": 715.0,
+   "y2": 506.0,
+   "text": "5"
+  },
+  {
+   "x1": 763.0,
+   "y1": 488.0,
+   "x2": 779.0,
+   "y2": 506.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 488.0,
+   "x2": 822.0,
+   "y2": 508.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 486.0,
+   "x2": 864.0,
+   "y2": 506.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 486.0,
+   "x2": 909.0,
+   "y2": 508.0,
+   "text": "3"
+  },
+  {
+   "x1": 934.0,
+   "y1": 488.0,
+   "x2": 951.0,
+   "y2": 508.0,
+   "text": "2"
+  },
+  {
+   "x1": 107.0,
+   "y1": 510.0,
+   "x2": 146.0,
+   "y2": 539.0,
+   "text": "11°"
+  },
+  {
+   "x1": 190.0,
+   "y1": 508.0,
+   "x2": 225.0,
+   "y2": 539.0,
+   "text": "+4"
+  },
+  {
+   "x1": 258.0,
+   "y1": 506.0,
+   "x2": 491.0,
+   "y2": 539.0,
+   "text": "Distruggere Non Morti (GS 2)"
+  },
+  {
+   "x1": 696.0,
+   "y1": 510.0,
+   "x2": 718.0,
+   "y2": 537.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 513.0,
+   "x2": 779.0,
+   "y2": 534.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 512.0,
+   "x2": 822.0,
+   "y2": 534.0,
+   "text": "3"
+  },
+  {
+   "x1": 846.0,
+   "y1": 510.0,
+   "x2": 868.0,
+   "y2": 535.0,
+   "text": "3"
+  },
+  {
+   "x1": 888.0,
+   "y1": 510.0,
+   "x2": 910.0,
+   "y2": 535.0,
+   "text": "3"
+  },
+  {
+   "x1": 933.0,
+   "y1": 510.0,
+   "x2": 955.0,
+   "y2": 535.0,
+   "text": "2"
+  },
+  {
+   "x1": 977.0,
+   "y1": 513.0,
+   "x2": 994.0,
+   "y2": 532.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 537.0,
+   "x2": 146.0,
+   "y2": 568.0,
+   "text": "12°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 537.0,
+   "x2": 223.0,
+   "y2": 563.0,
+   "text": "+4"
+  },
+  {
+   "x1": 262.0,
+   "y1": 537.0,
+   "x2": 556.0,
+   "y2": 563.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 698.0,
+   "y1": 539.0,
+   "x2": 717.0,
+   "y2": 559.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 541.0,
+   "x2": 779.0,
+   "y2": 559.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 541.0,
+   "x2": 822.0,
+   "y2": 561.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 539.0,
+   "x2": 864.0,
+   "y2": 561.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 539.0,
+   "x2": 907.0,
+   "y2": 561.0,
+   "text": "3"
+  },
+  {
+   "x1": 936.0,
+   "y1": 539.0,
+   "x2": 953.0,
+   "y2": 561.0,
+   "text": "2"
+  },
+  {
+   "x1": 979.0,
+   "y1": 539.0,
+   "x2": 994.0,
+   "y2": 559.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 563.0,
+   "x2": 146.0,
+   "y2": 592.0,
+   "text": "13°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 563.0,
+   "x2": 223.0,
+   "y2": 588.0,
+   "text": "+5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 563.0,
+   "x2": 718.0,
+   "y2": 588.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 566.0,
+   "x2": 779.0,
+   "y2": 585.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 566.0,
+   "x2": 824.0,
+   "y2": 586.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 565.0,
+   "x2": 864.0,
+   "y2": 586.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 566.0,
+   "x2": 909.0,
+   "y2": 586.0,
+   "text": "3"
+  },
+  {
+   "x1": 934.0,
+   "y1": 566.0,
+   "x2": 953.0,
+   "y2": 586.0,
+   "text": "2"
+  },
+  {
+   "x1": 979.0,
+   "y1": 566.0,
+   "x2": 994.0,
+   "y2": 586.0,
+   "text": "1"
+  },
+  {
+   "x1": 1021.0,
+   "y1": 566.0,
+   "x2": 1038.0,
+   "y2": 586.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 588.0,
+   "x2": 146.0,
+   "y2": 619.0,
+   "text": "14°"
+  },
+  {
+   "x1": 194.0,
+   "y1": 590.0,
+   "x2": 223.0,
+   "y2": 616.0,
+   "text": "+5"
+  },
+  {
+   "x1": 262.0,
+   "y1": 590.0,
+   "x2": 489.0,
+   "y2": 616.0,
+   "text": "Distruggere Non Morti (GS 3)"
+  },
+  {
+   "x1": 698.0,
+   "y1": 592.0,
+   "x2": 715.0,
+   "y2": 614.0,
+   "text": "5"
+  },
+  {
+   "x1": 763.0,
+   "y1": 594.0,
+   "x2": 779.0,
+   "y2": 612.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 594.0,
+   "x2": 822.0,
+   "y2": 614.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 594.0,
+   "x2": 864.0,
+   "y2": 614.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 594.0,
+   "x2": 909.0,
+   "y2": 614.0,
+   "text": "3"
+  },
+  {
+   "x1": 934.0,
+   "y1": 594.0,
+   "x2": 951.0,
+   "y2": 614.0,
+   "text": "2"
+  },
+  {
+   "x1": 981.0,
+   "y1": 596.0,
+   "x2": 992.0,
+   "y2": 612.0,
+   "text": "1"
+  },
+  {
+   "x1": 1025.0,
+   "y1": 596.0,
+   "x2": 1036.0,
+   "y2": 612.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 616.0,
+   "x2": 144.0,
+   "y2": 647.0,
+   "text": "15°"
+  },
+  {
+   "x1": 190.0,
+   "y1": 614.0,
+   "x2": 225.0,
+   "y2": 645.0,
+   "text": "+5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 616.0,
+   "x2": 718.0,
+   "y2": 641.0,
+   "text": "5"
+  },
+  {
+   "x1": 755.0,
+   "y1": 616.0,
+   "x2": 782.0,
+   "y2": 644.0,
+   "text": "4"
+  },
+  {
+   "x1": 803.0,
+   "y1": 618.0,
+   "x2": 827.0,
+   "y2": 641.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 618.0,
+   "x2": 864.0,
+   "y2": 639.0,
+   "text": "3"
+  },
+  {
+   "x1": 890.0,
+   "y1": 619.0,
+   "x2": 909.0,
+   "y2": 639.0,
+   "text": "3"
+  },
+  {
+   "x1": 931.0,
+   "y1": 618.0,
+   "x2": 953.0,
+   "y2": 643.0,
+   "text": "2"
+  },
+  {
+   "x1": 977.0,
+   "y1": 619.0,
+   "x2": 994.0,
+   "y2": 639.0,
+   "text": "1"
+  },
+  {
+   "x1": 1019.0,
+   "y1": 619.0,
+   "x2": 1036.0,
+   "y2": 639.0,
+   "text": "1"
+  },
+  {
+   "x1": 1069.0,
+   "y1": 625.0,
+   "x2": 1078.0,
+   "y2": 634.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 643.0,
+   "x2": 146.0,
+   "y2": 672.0,
+   "text": "16*"
+  },
+  {
+   "x1": 192.0,
+   "y1": 643.0,
+   "x2": 222.0,
+   "y2": 669.0,
+   "text": "+5"
+  },
+  {
+   "x1": 260.0,
+   "y1": 641.0,
+   "x2": 556.0,
+   "y2": 669.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 696.0,
+   "y1": 647.0,
+   "x2": 715.0,
+   "y2": 667.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 647.0,
+   "x2": 777.0,
+   "y2": 667.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 647.0,
+   "x2": 822.0,
+   "y2": 667.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 647.0,
+   "x2": 864.0,
+   "y2": 667.0,
+   "text": "3"
+  },
+  {
+   "x1": 890.0,
+   "y1": 647.0,
+   "x2": 907.0,
+   "y2": 667.0,
+   "text": "3"
+  },
+  {
+   "x1": 934.0,
+   "y1": 647.0,
+   "x2": 951.0,
+   "y2": 667.0,
+   "text": "2"
+  },
+  {
+   "x1": 981.0,
+   "y1": 649.0,
+   "x2": 992.0,
+   "y2": 665.0,
+   "text": "1"
+  },
+  {
+   "x1": 1021.0,
+   "y1": 647.0,
+   "x2": 1036.0,
+   "y2": 667.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 669.0,
+   "x2": 146.0,
+   "y2": 698.0,
+   "text": "17°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 667.0,
+   "x2": 225.0,
+   "y2": 698.0,
+   "text": "+6"
+  },
+  {
+   "x1": 262.0,
+   "y1": 671.0,
+   "x2": 595.0,
+   "y2": 696.0,
+   "text": "Distruggere Non Morti (GS 4), Privilegio del"
+  },
+  {
+   "x1": 698.0,
+   "y1": 672.0,
+   "x2": 715.0,
+   "y2": 694.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 672.0,
+   "x2": 779.0,
+   "y2": 692.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 672.0,
+   "x2": 824.0,
+   "y2": 692.0,
+   "text": "3"
+  },
+  {
+   "x1": 844.0,
+   "y1": 669.0,
+   "x2": 866.0,
+   "y2": 694.0,
+   "text": "3"
+  },
+  {
+   "x1": 888.0,
+   "y1": 669.0,
+   "x2": 910.0,
+   "y2": 694.0,
+   "text": "3"
+  },
+  {
+   "x1": 931.0,
+   "y1": 671.0,
+   "x2": 955.0,
+   "y2": 694.0,
+   "text": "2"
+  },
+  {
+   "x1": 977.0,
+   "y1": 672.0,
+   "x2": 994.0,
+   "y2": 692.0,
+   "text": "1"
+  },
+  {
+   "x1": 1019.0,
+   "y1": 672.0,
+   "x2": 1036.0,
+   "y2": 692.0,
+   "text": "1"
+  },
+  {
+   "x1": 1067.0,
+   "y1": 676.0,
+   "x2": 1077.0,
+   "y2": 689.0,
+   "text": "1"
+  },
+  {
+   "x1": 1110.0,
+   "y1": 678.0,
+   "x2": 1119.0,
+   "y2": 689.0,
+   "text": "1"
+  },
+  {
+   "x1": 262.0,
+   "y1": 694.0,
+   "x2": 388.0,
+   "y2": 720.0,
+   "text": "Dominio Divino"
+  },
+  {
+   "x1": 111.0,
+   "y1": 720.0,
+   "x2": 142.0,
+   "y2": 745.0,
+   "text": "18°"
+  },
+  {
+   "x1": 192.0,
+   "y1": 720.0,
+   "x2": 223.0,
+   "y2": 745.0,
+   "text": "+6"
+  },
+  {
+   "x1": 260.0,
+   "y1": 718.0,
+   "x2": 484.0,
+   "y2": 746.0,
+   "text": "Incanalare Divinità (3/riposo)"
+  },
+  {
+   "x1": 698.0,
+   "y1": 722.0,
+   "x2": 715.0,
+   "y2": 742.0,
+   "text": "5"
+  },
+  {
+   "x1": 763.0,
+   "y1": 724.0,
+   "x2": 777.0,
+   "y2": 742.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 722.0,
+   "x2": 822.0,
+   "y2": 744.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 722.0,
+   "x2": 864.0,
+   "y2": 744.0,
+   "text": "3"
+  },
+  {
+   "x1": 892.0,
+   "y1": 722.0,
+   "x2": 907.0,
+   "y2": 742.0,
+   "text": "3"
+  },
+  {
+   "x1": 929.0,
+   "y1": 719.0,
+   "x2": 954.0,
+   "y2": 745.0,
+   "text": "3"
+  },
+  {
+   "x1": 981.0,
+   "y1": 725.0,
+   "x2": 990.0,
+   "y2": 738.0,
+   "text": "1"
+  },
+  {
+   "x1": 1021.0,
+   "y1": 724.0,
+   "x2": 1036.0,
+   "y2": 742.0,
+   "text": "1"
+  },
+  {
+   "x1": 1069.0,
+   "y1": 725.0,
+   "x2": 1080.0,
+   "y2": 742.0,
+   "text": "1"
+  },
+  {
+   "x1": 109.0,
+   "y1": 744.0,
+   "x2": 144.0,
+   "y2": 775.0,
+   "text": "19°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 742.0,
+   "x2": 225.0,
+   "y2": 773.0,
+   "text": "+6"
+  },
+  {
+   "x1": 262.0,
+   "y1": 745.0,
+   "x2": 552.0,
+   "y2": 771.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 698.0,
+   "y1": 749.0,
+   "x2": 715.0,
+   "y2": 769.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 749.0,
+   "x2": 779.0,
+   "y2": 769.0,
+   "text": "4"
+  },
+  {
+   "x1": 805.0,
+   "y1": 747.0,
+   "x2": 822.0,
+   "y2": 769.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 747.0,
+   "x2": 864.0,
+   "y2": 769.0,
+   "text": "3"
+  },
+  {
+   "x1": 890.0,
+   "y1": 749.0,
+   "x2": 909.0,
+   "y2": 769.0,
+   "text": "3"
+  },
+  {
+   "x1": 933.0,
+   "y1": 749.0,
+   "x2": 951.0,
+   "y2": 769.0,
+   "text": "3"
+  },
+  {
+   "x1": 977.0,
+   "y1": 749.0,
+   "x2": 994.0,
+   "y2": 769.0,
+   "text": "2"
+  },
+  {
+   "x1": 1021.0,
+   "y1": 749.0,
+   "x2": 1036.0,
+   "y2": 769.0,
+   "text": "1"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 749.0,
+   "x2": 1078.0,
+   "y2": 767.0,
+   "text": "1"
+  },
+  {
+   "x1": 1105.0,
+   "y1": 747.0,
+   "x2": 1126.0,
+   "y2": 769.0,
+   "text": "1"
+  },
+  {
+   "x1": 107.0,
+   "y1": 771.0,
+   "x2": 146.0,
+   "y2": 800.0,
+   "text": "20°"
+  },
+  {
+   "x1": 190.0,
+   "y1": 773.0,
+   "x2": 222.0,
+   "y2": 797.0,
+   "text": "+6"
+  },
+  {
+   "x1": 258.0,
+   "y1": 771.0,
+   "x2": 478.0,
+   "y2": 799.0,
+   "text": "Intervento Divino Migiorato"
+  },
+  {
+   "x1": 698.0,
+   "y1": 777.0,
+   "x2": 717.0,
+   "y2": 797.0,
+   "text": "5"
+  },
+  {
+   "x1": 761.0,
+   "y1": 777.0,
+   "x2": 777.0,
+   "y2": 797.0,
+   "text": "4"
+  },
+  {
+   "x1": 803.0,
+   "y1": 777.0,
+   "x2": 822.0,
+   "y2": 797.0,
+   "text": "3"
+  },
+  {
+   "x1": 844.0,
+   "y1": 773.0,
+   "x2": 866.0,
+   "y2": 798.0,
+   "text": "3"
+  },
+  {
+   "x1": 886.0,
+   "y1": 775.0,
+   "x2": 910.0,
+   "y2": 798.0,
+   "text": "3"
+  },
+  {
+   "x1": 931.0,
+   "y1": 773.0,
+   "x2": 953.0,
+   "y2": 798.0,
+   "text": "3"
+  },
+  {
+   "x1": 977.0,
+   "y1": 777.0,
+   "x2": 995.0,
+   "y2": 797.0,
+   "text": "2"
+  },
+  {
+   "x1": 1018.0,
+   "y1": 773.0,
+   "x2": 1040.0,
+   "y2": 798.0,
+   "text": "2"
+  },
+  {
+   "x1": 1064.0,
+   "y1": 777.0,
+   "x2": 1078.0,
+   "y2": 795.0,
+   "text": "1"
+  },
+  {
+   "x1": 113.0,
+   "y1": 855.0,
+   "x2": 548.0,
+   "y2": 881.0,
+   "text": "Quando un chierico sceglie la vita dell'avventuriero, in"
+  },
+  {
+   "x1": 643.0,
+   "y1": 857.0,
+   "x2": 853.0,
+   "y2": 882.0,
+   "text": "CreaZione RApida"
+  },
+  {
+   "x1": 94.0,
+   "y1": 879.0,
+   "x2": 593.0,
+   "y2": 904.0,
+   "text": "genere lo fa su ordine del suo dio. Perseguire gli obiettivi degli"
+  },
+  {
+   "x1": 641.0,
+   "y1": 882.0,
+   "x2": 1132.0,
+   "y2": 908.0,
+   "text": "È possibile creare un chierico rapidamente seguendo questi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 903.0,
+   "x2": 584.0,
+   "y2": 926.0,
+   "text": "dèi spesso comporta sfidare pericoli lontani dalle mura delle"
+  },
+  {
+   "x1": 639.0,
+   "y1": 908.0,
+   "x2": 1114.0,
+   "y2": 932.0,
+   "text": "suggerimenti. Per prima cosa, Saggezza dovrebbe essere"
+  },
+  {
+   "x1": 94.0,
+   "y1": 926.0,
+   "x2": 556.0,
+   "y2": 950.0,
+   "text": "città, punire il male o recuperare reliquie sacre da antiche"
+  },
+  {
+   "x1": 639.0,
+   "y1": 930.0,
+   "x2": 1097.0,
+   "y2": 956.0,
+   "text": "il punteggio di caratteristica più alto, seguito da Forza o"
+  },
+  {
+   "x1": 94.0,
+   "y1": 946.0,
+   "x2": 550.0,
+   "y2": 970.0,
+   "text": "tombe. Molti chierici hanno anche il dovere di proteggere"
+  },
+  {
+   "x1": 639.0,
+   "y1": 954.0,
+   "x2": 1084.0,
+   "y2": 977.0,
+   "text": "Costituzione. Poi si sceglie il background dell'accolito."
+  },
+  {
+   "x1": 94.0,
+   "y1": 970.0,
+   "x2": 558.0,
+   "y2": 994.0,
+   "text": "i fedeli della loro divinità, cosa che li obbliga a combattere"
+  },
+  {
+   "x1": 92.0,
+   "y1": 992.0,
+   "x2": 571.0,
+   "y2": 1020.0,
+   "text": "contro orchi razziatori, a condurre negoziati di pace tra due"
+  },
+  {
+   "x1": 637.0,
+   "y1": 994.0,
+   "x2": 1014.0,
+   "y2": 1036.0,
+   "text": "PriVILEGI DI CLaSsE"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1018.0,
+   "x2": 582.0,
+   "y2": 1041.0,
+   "text": "nazioni in guerra o a sigillare un portale che consentirebbe a"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1040.0,
+   "x2": 550.0,
+   "y2": 1063.0,
+   "text": "un principe dei demoni di fare il suo ingresso nel mondo."
+  },
+  {
+   "x1": 637.0,
+   "y1": 1034.0,
+   "x2": 1043.0,
+   "y2": 1067.0,
+   "text": "Un chierico ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 109.0,
+   "y1": 1060.0,
+   "x2": 547.0,
+   "y2": 1087.0,
+   "text": "La maggior parte dei chierici avventurieri mantiene"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1085.0,
+   "x2": 558.0,
+   "y2": 1109.0,
+   "text": "contatti regolari con i templi e gli ordini principali della"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1080.0,
+   "x2": 798.0,
+   "y2": 1109.0,
+   "text": "Punti Ferita"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1107.0,
+   "x2": 584.0,
+   "y2": 1131.0,
+   "text": "fede di appartenenza. Un tempio potrebbe chiedere aiuto a"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1109.0,
+   "x2": 992.0,
+   "y2": 1133.0,
+   "text": "Dadi Vita: 1d8 per ogni livello da chierico"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1131.0,
+   "x2": 584.0,
+   "y2": 1155.0,
+   "text": "un chierico, o un sommo sacerdote potrebbe trovarsi nella"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1129.0,
+   "x2": 1036.0,
+   "y2": 1157.0,
+   "text": "Punti Ferita al 1' Livello: 8 + il modificatore di"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1151.0,
+   "x2": 275.0,
+   "y2": 1180.0,
+   "text": "posizione di esigerlo."
+  },
+  {
+   "x1": 652.0,
+   "y1": 1153.0,
+   "x2": 870.0,
+   "y2": 1180.0,
+   "text": "Costituzione del chierico"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1178.0,
+   "x2": 1042.0,
+   "y2": 1202.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d8 (o 5) + il"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1193.0,
+   "x2": 395.0,
+   "y2": 1230.0,
+   "text": "Creare un Chierico"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1202.0,
+   "x2": 1073.0,
+   "y2": 1228.0,
+   "text": "modificatore di Costituzione del chierico per ogni"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1233.0,
+   "x2": 515.0,
+   "y2": 1261.0,
+   "text": "Al momento di creare un chierico, la domanda più"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1224.0,
+   "x2": 890.0,
+   "y2": 1248.0,
+   "text": "livello da chierico dopo il 1°"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1261.0,
+   "x2": 587.0,
+   "y2": 1284.0,
+   "text": "importante da porsi è quale divinità servire e quali principi"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1264.0,
+   "x2": 789.0,
+   "y2": 1296.0,
+   "text": "CompetEnzE"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1281.0,
+   "x2": 571.0,
+   "y2": 1308.0,
+   "text": "il personaggio desidera incarnare. L'appendice B include"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1290.0,
+   "x2": 1086.0,
+   "y2": 1323.0,
+   "text": "Armature: Armature leggere, armature medie, scudi"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1304.0,
+   "x2": 539.0,
+   "y2": 1332.0,
+   "text": "gli elenchi di molte divinità del multiverso. I giocatori"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1319.0,
+   "x2": 820.0,
+   "y2": 1343.0,
+   "text": "Armi: Armi semplici"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1330.0,
+   "x2": 537.0,
+   "y2": 1354.0,
+   "text": "possono consultarsi con il DM per determinare quali"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1348.0,
+   "x2": 456.0,
+   "y2": 1378.0,
+   "text": "divinità sono presenti nella loro campagna."
+  },
+  {
+   "x1": 637.0,
+   "y1": 1339.0,
+   "x2": 820.0,
+   "y2": 1367.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1372.0,
+   "x2": 589.0,
+   "y2": 1401.0,
+   "text": "Una volta scelta una divinità, basta rifettere sul rapporto"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1374.0,
+   "x2": 931.0,
+   "y2": 1400.0,
+   "text": "Tiri Salvezza: Saggezza, Carisma"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1400.0,
+   "x2": 550.0,
+   "y2": 1423.0,
+   "text": "tra il chierico e quella divinità. È entrato al servizio del"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1396.0,
+   "x2": 1134.0,
+   "y2": 1423.0,
+   "text": "Abilità: Due a scelta traIntuizione, Medicina, Persuasione,"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1423.0,
+   "x2": 548.0,
+   "y2": 1447.0,
+   "text": "dio volontariamente? Oppure è stato il dio a sceglierlo,"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1421.0,
+   "x2": 813.0,
+   "y2": 1447.0,
+   "text": "Religione e Storia"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1441.0,
+   "x2": 563.0,
+   "y2": 1471.0,
+   "text": "imponendogli di servirlo senza tenere in considerazione"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1463.0,
+   "x2": 563.0,
+   "y2": 1493.0,
+   "text": "in alcun modo i suoi desideri? Com'è visto il chierico dai"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1463.0,
+   "x2": 851.0,
+   "y2": 1489.0,
+   "text": "EQuipaggiamento"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1487.0,
+   "x2": 560.0,
+   "y2": 1517.0,
+   "text": "sacerdoti del tempio della sua fede? Come un campione"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1491.0,
+   "x2": 1088.0,
+   "y2": 1516.0,
+   "text": "Un chierico inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 88.0,
+   "y1": 1507.0,
+   "x2": 526.0,
+   "y2": 1544.0,
+   "text": "della fede o come un sovvertitore? Quali sono i suoi"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1515.0,
+   "x2": 1139.0,
+   "y2": 1540.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1529.0,
+   "x2": 539.0,
+   "y2": 1568.0,
+   "text": "oittivi a lungo termine La sua divinità ha in mente"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1555.0,
+   "x2": 576.0,
+   "y2": 1590.0,
+   "text": "un'impresa speciale per lui? Oppure è il chierico a dovere"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1548.0,
+   "x2": 1054.0,
+   "y2": 1573.0,
+   "text": "a) una mazza o (b) un martello da guerra (se ha"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1577.0,
+   "x2": 584.0,
+   "y2": 1613.0,
+   "text": "compiere ogni sforzo per dimostrarsi degno di una grande"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1575.0,
+   "x2": 768.0,
+   "y2": 1595.0,
+   "text": "competenza)"
+  },
+  {
+   "x1": 88.0,
+   "y1": 1600.0,
+   "x2": 281.0,
+   "y2": 1636.0,
+   "text": "impresa da compiere?"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1593.0,
+   "x2": 1093.0,
+   "y2": 1619.0,
+   "text": "(a) una corazza di scaglie, (b) un'armatura di cuoio o"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1619.0,
+   "x2": 1008.0,
+   "y2": 1644.0,
+   "text": "(c)una cotta di maglia (se ha competenza)"
+  },
+  {
+   "x1": 957.0,
+   "y1": 1686.0,
+   "x2": 1138.0,
+   "y2": 1710.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 1200.0,
+   "y1": 1705.0,
+   "x2": 1221.0,
+   "y2": 1721.0,
+   "text": "57"
+  }
+ ],
+ "reading_text": "CHIERICO\nBonus di\nLivello Copetenza Privile\n+2\nIncantesimi, Dominio Divino\n1°\n2°\n+2\nIncanalare Divinità (1/riposo), Privilegio del\nDominio Divino\n+2\n3°\n-\n+2\nAumento dei Punteggi di Caratteristica\n4°\n+3\nDistruggere Non Morti {GS 1/2)\n5°\n+3\nIncanalare Divinità (2/riposo), Privilegio del\n6°\nDominio Divino\n+3\n7°\nI\n+3\nAumento dei Punteggi di Caratteristica, Distruggere\n8°\nNon Morti (GS 1). Privilego del Dominio Divino\n+4\n9°\n-\n10*\n+4\nIntervento Divino\nDistruggere Non Morti (GS 2)\n+4\n11°\n12°\n+4\nAumento dei Punteggi di Caratteristica\n13°\n+5\n14°\n+5\nDistruggere Non Morti (GS 3)\n+5\n15°\nAumento dei Punteggi di Caratteristica\n16*\n+5\n+6\n17°\nDistruggere Non Morti (GS 4), Privilegio del\nDominio Divino\nIncanalare Divinità (3/riposo)\n18°\n+6\n+6\n19°\nAumento dei Punteggi di Caratteristica\n20°\nIntervento Divino Migiorato\n+6\nQuando un chierico sceglie la vita dell'avventuriero, in\ngenere lo fa su ordine del suo dio. Perseguire gli obiettivi degli\ndèi spesso comporta sfidare pericoli lontani dalle mura delle\ncittà, punire il male o recuperare reliquie sacre da antiche\ntombe. Molti chierici hanno anche il dovere di proteggere\ni fedeli della loro divinità, cosa che li obbliga a combattere\ncontro orchi razziatori, a condurre negoziati di pace tra due\nnazioni in guerra o a sigillare un portale che consentirebbe a\nun principe dei demoni di fare il suo ingresso nel mondo.\nLa maggior parte dei chierici avventurieri mantiene\ncontatti regolari con i templi e gli ordini principali della\nfede di appartenenza. Un tempio potrebbe chiedere aiuto a\nun chierico, o un sommo sacerdote potrebbe trovarsi nella\nposizione di esigerlo.\nCreare un Chierico\nAl momento di creare un chierico, la domanda più\nimportante da porsi è quale divinità servire e quali principi\nil personaggio desidera incarnare. L'appendice B include\ngli elenchi di molte divinità del multiverso. I giocatori\npossono consultarsi con il DM per determinare quali\ndivinità sono presenti nella loro campagna.\nUna volta scelta una divinità, basta rifettere sul rapporto\ntra il chierico e quella divinità. È entrato al servizio del\ndio volontariamente? Oppure è stato il dio a sceglierlo,\nimponendogli di servirlo senza tenere in considerazione\nin alcun modo i suoi desideri? Com'è visto il chierico dai\nsacerdoti del tempio della sua fede? Come un campione\ndella fede o come un sovvertitore? Quali sono i suoi\noittivi a lungo termine La sua divinità ha in mente\nun'impresa speciale per lui? Oppure è il chierico a dovere\ncompiere ogni sforzo per dimostrarsi degno di una grande\nimpresa da compiere?\n—Slot Incantesimo per Livello di Incantesimo\nTrucchetti\n6°\nConosciuti\n1°\n2°\n3°\n5°\n7°\n4°\n9*\n8*\n3\n2\n3\n3\n3\n4\n2\n4\n4\n3\n4\n4\n3\n2\n4\n3\n4\n3\n3\n3\n4\n4\n1\n3\n3\n2\n4\n4\n4\n3\n3\n3\n4\n1\n5\n3\n3\n4\n3\n2\n5\n3\n3\n2\n3\n4\n1\n5\n3\n3\n2\n1\n4\n3\n5\n3\n4\n3\n3\n2\n1\n1\n5\n4\n3\n3\n3\n2\n1\n1\n5\n4\n3\n3\n2\n3\n1\n1\n1\n5\n4\n3\n3\n3\n2\n1\n1\n3\n3\n2\n5\n4\n3\n1\n1\n1\n1\n3\n5\n3\n3\n3\n4\n1\n1\n1\n3\n3\n1\n5\n4\n3\n3\n2\n1\n1\n3\n3\n2\n3\n5\n4\n3\n2\n1\nCreaZione RApida\nÈ possibile creare un chierico rapidamente seguendo questi\nsuggerimenti. Per prima cosa, Saggezza dovrebbe essere\nil punteggio di caratteristica più alto, seguito da Forza o\nCostituzione. Poi si sceglie il background dell'accolito.\nPriVILEGI DI CLaSsE\nUn chierico ottiene i seguenti privilegi di classe.\nPunti Ferita\nDadi Vita: 1d8 per ogni livello da chierico\nPunti Ferita al 1' Livello: 8 + il modificatore di\nCostituzione del chierico\nPunti Ferita ai Livelli Successivi: 1d8 (o 5) + il\nmodificatore di Costituzione del chierico per ogni\nlivello da chierico dopo il 1°\nCompetEnzE\nArmature: Armature leggere, armature medie, scudi\nArmi: Armi semplici\nStrumenti: Nessuno\nTiri Salvezza: Saggezza, Carisma\nAbilità: Due a scelta traIntuizione, Medicina, Persuasione,\nReligione e Storia\nEQuipaggiamento\nUn chierico inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\na) una mazza o (b) un martello da guerra (se ha\ncompetenza)\n(a) una corazza di scaglie, (b) un'armatura di cuoio o\n(c)una cotta di maglia (se ha competenza)\nCAPITOLO 3 CLASSI\n57"
+}

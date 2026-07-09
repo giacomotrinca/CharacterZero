@@ -1,0 +1,871 @@
+{
+ "pdf_page_index": 114,
+ "page_label": 115,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 123,
+ "lines": [
+  {
+   "x1": 633.0,
+   "y1": 91.0,
+   "x2": 1136.0,
+   "y2": 119.0,
+   "text": "CD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza"
+  },
+  {
+   "x1": 96.0,
+   "y1": 117.0,
+   "x2": 233.0,
+   "y2": 148.0,
+   "text": "arma semplice"
+  },
+  {
+   "x1": 691.0,
+   "y1": 121.0,
+   "x2": 1082.0,
+   "y2": 144.0,
+   "text": "del warlock + il modifcatore di Carisma del warlock"
+  },
+  {
+   "x1": 90.0,
+   "y1": 157.0,
+   "x2": 539.0,
+   "y2": 196.0,
+   "text": "auna dotazione da studioso o (una dotazione da"
+  },
+  {
+   "x1": 635.0,
+   "y1": 155.0,
+   "x2": 1136.0,
+   "y2": 183.0,
+   "text": "Modificatore di attacco dell'incantesimo = il bonus di competenza"
+  },
+  {
+   "x1": 95.0,
+   "y1": 184.0,
+   "x2": 217.0,
+   "y2": 216.0,
+   "text": "avventuriero"
+  },
+  {
+   "x1": 691.0,
+   "y1": 186.0,
+   "x2": 1080.0,
+   "y2": 210.0,
+   "text": "del warlock + il modificatore di Carisma del warlock"
+  },
+  {
+   "x1": 94.0,
+   "y1": 205.0,
+   "x2": 582.0,
+   "y2": 236.0,
+   "text": "Un'armatura di cuoio, una qualsiasi arma semplice e due"
+  },
+  {
+   "x1": 95.0,
+   "y1": 230.0,
+   "x2": 173.0,
+   "y2": 264.0,
+   "text": "pugnali"
+  },
+  {
+   "x1": 635.0,
+   "y1": 239.0,
+   "x2": 901.0,
+   "y2": 263.0,
+   "text": "Focus da Incantatore"
+  },
+  {
+   "x1": 635.0,
+   "y1": 265.0,
+   "x2": 1110.0,
+   "y2": 289.0,
+   "text": "Un warlock può usare un focus arcano (vedi il capitolo 5,"
+  },
+  {
+   "x1": 79.0,
+   "y1": 270.0,
+   "x2": 430.0,
+   "y2": 307.0,
+   "text": "Patrono UltrAtErreno"
+  },
+  {
+   "x1": 635.0,
+   "y1": 285.0,
+   "x2": 1115.0,
+   "y2": 312.0,
+   "text": "\"Equipaggiamento\") come focus da incantatore per i suoi"
+  },
+  {
+   "x1": 79.0,
+   "y1": 307.0,
+   "x2": 541.0,
+   "y2": 342.0,
+   "text": "A livello, un warlock stipula un patto con un essere"
+  },
+  {
+   "x1": 633.0,
+   "y1": 311.0,
+   "x2": 840.0,
+   "y2": 334.0,
+   "text": "incantesimi da warlock."
+  },
+  {
+   "x1": 79.0,
+   "y1": 329.0,
+   "x2": 582.0,
+   "y2": 364.0,
+   "text": "extraplanare a sua scelta il Signore Fatato, l'Immondo o il"
+  },
+  {
+   "x1": 85.0,
+   "y1": 358.0,
+   "x2": 587.0,
+   "y2": 382.0,
+   "text": "Grande Antico, ognuno dei quali è descritto in dettaglio alla"
+  },
+  {
+   "x1": 635.0,
+   "y1": 351.0,
+   "x2": 922.0,
+   "y2": 380.0,
+   "text": "Suppliche Occulte"
+  },
+  {
+   "x1": 81.0,
+   "y1": 378.0,
+   "x2": 582.0,
+   "y2": 406.0,
+   "text": "fine della sezione di questa classe. La scelta del patrono gli"
+  },
+  {
+   "x1": 633.0,
+   "y1": 389.0,
+   "x2": 1115.0,
+   "y2": 415.0,
+   "text": "Dedicandosi allo studio delle scienze occulte, un warlock"
+  },
+  {
+   "x1": 79.0,
+   "y1": 398.0,
+   "x2": 582.0,
+   "y2": 429.0,
+   "text": "conferisce alcuni privilegi al 1° livello e poi ancora al 6°,10°"
+  },
+  {
+   "x1": 632.0,
+   "y1": 413.0,
+   "x2": 1053.0,
+   "y2": 437.0,
+   "text": "ha scoperto come usare alcune suppliche occulte,"
+  },
+  {
+   "x1": 79.0,
+   "y1": 422.0,
+   "x2": 189.0,
+   "y2": 454.0,
+   "text": "e 14° livello."
+  },
+  {
+   "x1": 633.0,
+   "y1": 435.0,
+   "x2": 1093.0,
+   "y2": 459.0,
+   "text": "frammenti di conoscenze proibite che gli conferiscono"
+  },
+  {
+   "x1": 633.0,
+   "y1": 459.0,
+   "x2": 846.0,
+   "y2": 482.0,
+   "text": "persistenti doti magiche."
+  },
+  {
+   "x1": 85.0,
+   "y1": 470.0,
+   "x2": 331.0,
+   "y2": 495.0,
+   "text": "Magia dEL Patto"
+  },
+  {
+   "x1": 646.0,
+   "y1": 481.0,
+   "x2": 1106.0,
+   "y2": 504.0,
+   "text": "Al 2° livello, il warlock ottiene due suppliche occulte a"
+  },
+  {
+   "x1": 77.0,
+   "y1": 499.0,
+   "x2": 519.0,
+   "y2": 534.0,
+   "text": "Le ricerche arcane condotte dal warlock e l'energia"
+  },
+  {
+   "x1": 632.0,
+   "y1": 504.0,
+   "x2": 1099.0,
+   "y2": 523.0,
+   "text": "sua scelta. Le sue opzioni di invocazione sono descritte"
+  },
+  {
+   "x1": 81.0,
+   "y1": 526.0,
+   "x2": 578.0,
+   "y2": 550.0,
+   "text": "magica che il suo patrono gli conferisce rendono il warlock"
+  },
+  {
+   "x1": 635.0,
+   "y1": 528.0,
+   "x2": 1117.0,
+   "y2": 546.0,
+   "text": "alla fine della sezione di questa classe. Ouando il warlock"
+  },
+  {
+   "x1": 81.0,
+   "y1": 546.0,
+   "x2": 549.0,
+   "y2": 576.0,
+   "text": "particolarmente abile nell'uso degli incantesimi. Vedi il"
+  },
+  {
+   "x1": 633.0,
+   "y1": 548.0,
+   "x2": 1127.0,
+   "y2": 572.0,
+   "text": "raggiunge livelli superiori, ottiene ulteriori suppliche a sua"
+  },
+  {
+   "x1": 83.0,
+   "y1": 572.0,
+   "x2": 547.0,
+   "y2": 597.0,
+   "text": "capitolo 10 per le regole generali relative alla magia e il"
+  },
+  {
+   "x1": 632.0,
+   "y1": 572.0,
+   "x2": 1132.0,
+   "y2": 596.0,
+   "text": "scelta, come indicato nella colonna \"Suppliche Conosciute\""
+  },
+  {
+   "x1": 83.0,
+   "y1": 596.0,
+   "x2": 521.0,
+   "y2": 619.0,
+   "text": "capitolo 1 1 per la lista degli incantesimi da warlock."
+  },
+  {
+   "x1": 630.0,
+   "y1": 590.0,
+   "x2": 837.0,
+   "y2": 618.0,
+   "text": "nella tabella \"Warlock\"."
+  },
+  {
+   "x1": 646.0,
+   "y1": 614.0,
+   "x2": 1104.0,
+   "y2": 638.0,
+   "text": "Inoltre, quando acquisisce un nuovo livello, il warlock"
+  },
+  {
+   "x1": 85.0,
+   "y1": 641.0,
+   "x2": 223.0,
+   "y2": 661.0,
+   "text": "TRucchetti"
+  },
+  {
+   "x1": 633.0,
+   "y1": 639.0,
+   "x2": 1128.0,
+   "y2": 663.0,
+   "text": "può scegliere una delle suppliche che conosce e sostituirla"
+  },
+  {
+   "x1": 81.0,
+   "y1": 661.0,
+   "x2": 587.0,
+   "y2": 689.0,
+   "text": "Un warlock conosce due trucchetti a sua scelta tratti dalla lista"
+  },
+  {
+   "x1": 632.0,
+   "y1": 661.0,
+   "x2": 1045.0,
+   "y2": 685.0,
+   "text": "con un'altra che potrebbe imparare a quel livello."
+  },
+  {
+   "x1": 81.0,
+   "y1": 687.0,
+   "x2": 578.0,
+   "y2": 711.0,
+   "text": "degli incantesimi da warlock. Apprende ulteriori trucchetti da"
+  },
+  {
+   "x1": 81.0,
+   "y1": 709.0,
+   "x2": 563.0,
+   "y2": 733.0,
+   "text": "warlock a sua scelta ai livelli successivi, come indicato dalla"
+  },
+  {
+   "x1": 635.0,
+   "y1": 705.0,
+   "x2": 872.0,
+   "y2": 731.0,
+   "text": "Dono del Patto"
+  },
+  {
+   "x1": 83.0,
+   "y1": 734.0,
+   "x2": 530.0,
+   "y2": 753.0,
+   "text": "colonna \"Trucchetti Conosciuti\" nella tabella \"Warlock\"."
+  },
+  {
+   "x1": 633.0,
+   "y1": 742.0,
+   "x2": 1128.0,
+   "y2": 766.0,
+   "text": "Al 3º livello, il patrono ultraterreno elargisce al warlock un"
+  },
+  {
+   "x1": 81.0,
+   "y1": 771.0,
+   "x2": 297.0,
+   "y2": 800.0,
+   "text": "SLot Incantesimo"
+  },
+  {
+   "x1": 632.0,
+   "y1": 764.0,
+   "x2": 1117.0,
+   "y2": 787.0,
+   "text": "dono per ricompensarlo dei suoi fedeli servigi. Il warlock"
+  },
+  {
+   "x1": 630.0,
+   "y1": 787.0,
+   "x2": 1016.0,
+   "y2": 811.0,
+   "text": "ottiene uno dei privilegi seguenti a sua scelta."
+  },
+  {
+   "x1": 81.0,
+   "y1": 797.0,
+   "x2": 519.0,
+   "y2": 824.0,
+   "text": "La tabella \"Warlock\" indica quanti slot incantesimo"
+  },
+  {
+   "x1": 79.0,
+   "y1": 820.0,
+   "x2": 534.0,
+   "y2": 848.0,
+   "text": "possiede un warlock. La tabella indica anche il livello"
+  },
+  {
+   "x1": 632.0,
+   "y1": 829.0,
+   "x2": 872.0,
+   "y2": 853.0,
+   "text": "Patto della Catena"
+  },
+  {
+   "x1": 83.0,
+   "y1": 848.0,
+   "x2": 547.0,
+   "y2": 866.0,
+   "text": "di quegli slot; tutti gli slot incantesimo da warlock sono"
+  },
+  {
+   "x1": 633.0,
+   "y1": 855.0,
+   "x2": 1128.0,
+   "y2": 879.0,
+   "text": "Il warlock impara l'incantesimo trova famiglio e può lanciarlo"
+  },
+  {
+   "x1": 81.0,
+   "y1": 868.0,
+   "x2": 561.0,
+   "y2": 892.0,
+   "text": "dello stesso livelio. Per lanciare un incantesimo di livello"
+  },
+  {
+   "x1": 630.0,
+   "y1": 875.0,
+   "x2": 1134.0,
+   "y2": 903.0,
+   "text": "come rituale. Questo incantesimo non va conteggiato al fine di"
+  },
+  {
+   "x1": 79.0,
+   "y1": 890.0,
+   "x2": 550.0,
+   "y2": 915.0,
+   "text": "pari o superiore al 1\", il warlock deve spendere uno slot"
+  },
+  {
+   "x1": 632.0,
+   "y1": 901.0,
+   "x2": 1127.0,
+   "y2": 925.0,
+   "text": "determinare il numero di incantesimi conosciuti dal warlock."
+  },
+  {
+   "x1": 81.0,
+   "y1": 914.0,
+   "x2": 571.0,
+   "y2": 937.0,
+   "text": "incantesimo. Il warlock recupera tutti gli slot incantesimo"
+  },
+  {
+   "x1": 650.0,
+   "y1": 921.0,
+   "x2": 1132.0,
+   "y2": 948.0,
+   "text": "Quando il warlock lancia l'incantesimo può scegliere per"
+  },
+  {
+   "x1": 81.0,
+   "y1": 937.0,
+   "x2": 489.0,
+   "y2": 961.0,
+   "text": "spesi quando completa un riposo breve o lungo."
+  },
+  {
+   "x1": 632.0,
+   "y1": 946.0,
+   "x2": 1115.0,
+   "y2": 970.0,
+   "text": "il suo famiglio una delle forme normali o una delle forme"
+  },
+  {
+   "x1": 98.0,
+   "y1": 959.0,
+   "x2": 548.0,
+   "y2": 983.0,
+   "text": "Per esempio, un warlock di 5° livello possiede due slot"
+  },
+  {
+   "x1": 630.0,
+   "y1": 968.0,
+   "x2": 1093.0,
+   "y2": 992.0,
+   "text": "speciali seguenti: imp, pseudodrago, quasit o spiritello."
+  },
+  {
+   "x1": 83.0,
+   "y1": 983.0,
+   "x2": 543.0,
+   "y2": 1001.0,
+   "text": "incantesimo di 3° livello. Per lanciare l'incantesimo di 1"
+  },
+  {
+   "x1": 645.0,
+   "y1": 990.0,
+   "x2": 1102.0,
+   "y2": 1014.0,
+   "text": "Inoltre, quando effettua l'azione di Attacco, il warlock può"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1001.0,
+   "x2": 543.0,
+   "y2": 1029.0,
+   "text": "livello dardo stregato deve spendere uno di quegli slot e"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1027.0,
+   "x2": 412.0,
+   "y2": 1051.0,
+   "text": "lanciarlo come incantesimo di 3° livello."
+  },
+  {
+   "x1": 635.0,
+   "y1": 1018.0,
+   "x2": 1132.0,
+   "y2": 1036.0,
+   "text": "rinunciare a uno deisuoi attacchi per consentire al suo famiglio"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1036.0,
+   "x2": 1101.0,
+   "y2": 1062.0,
+   "text": "di effettuare un suo attacco individuale con la sua reazione."
+  },
+  {
+   "x1": 81.0,
+   "y1": 1069.0,
+   "x2": 524.0,
+   "y2": 1093.0,
+   "text": "Incantesimi Conosciuti di 1° Livello"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1080.0,
+   "x2": 849.0,
+   "y2": 1104.0,
+   "text": "Patto della Lama"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1094.0,
+   "x2": 353.0,
+   "y2": 1118.0,
+   "text": "E dI LiveLlo SUperiore"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1105.0,
+   "x2": 1069.0,
+   "y2": 1129.0,
+   "text": "Il warlock può usare la sua azione per fare apparire"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1118.0,
+   "x2": 534.0,
+   "y2": 1144.0,
+   "text": "Al 1° livello, un warlock conosce due incantesimi di 1°"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1129.0,
+   "x2": 1110.0,
+   "y2": 1153.0,
+   "text": "un'arma del patto nella sua mano vuota. Può scegliere la"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1140.0,
+   "x2": 574.0,
+   "y2": 1168.0,
+   "text": "livello a sua scelta dalla lista degli incantesimi da warlock."
+  },
+  {
+   "x1": 633.0,
+   "y1": 1155.0,
+   "x2": 1134.0,
+   "y2": 1173.0,
+   "text": "forma che questa arma da mischia assume ogni volta che la"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1166.0,
+   "x2": 517.0,
+   "y2": 1184.0,
+   "text": "La colonna \"Incantesimi Conosciuti\" nella tabella"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1184.0,
+   "x2": 497.0,
+   "y2": 1211.0,
+   "text": "Warlock\" indica quando un warlock impara altri"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1175.0,
+   "x2": 1125.0,
+   "y2": 1199.0,
+   "text": "crea (vedi il capitolo 5 per le armi disponibili). Il warlock è"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1200.0,
+   "x2": 1125.0,
+   "y2": 1219.0,
+   "text": "considerato competente nell'arma fintanto che la impugna."
+  },
+  {
+   "x1": 81.0,
+   "y1": 1211.0,
+   "x2": 499.0,
+   "y2": 1235.0,
+   "text": "incantesimi da warlock a sua scelta, di 1° livello o"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1220.0,
+   "x2": 1134.0,
+   "y2": 1244.0,
+   "text": "Questa arma è considerata magica al fine di oltrepassare la"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1237.0,
+   "x2": 571.0,
+   "y2": 1255.0,
+   "text": "superiore. Ognuno di questi incantesimi deve appartenere"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1242.0,
+   "x2": 1128.0,
+   "y2": 1266.0,
+   "text": "resistenza e l'immunità agli attacchi e ai danni non magici."
+  },
+  {
+   "x1": 79.0,
+   "y1": 1255.0,
+   "x2": 552.0,
+   "y2": 1279.0,
+   "text": "a un livello pari o inferiore al \"Livello di Slot\" relativo al"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1266.0,
+   "x2": 1125.0,
+   "y2": 1290.0,
+   "text": "L'arma del patto scompare se rimane per un minuto a più"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1277.0,
+   "x2": 565.0,
+   "y2": 1301.0,
+   "text": "livello attuale del warlock e indicato nella sua tabella. Per"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1286.0,
+   "x2": 1132.0,
+   "y2": 1314.0,
+   "text": "di 1,5 metri di distanza dal warlock. L'arma scompare anche"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1303.0,
+   "x2": 560.0,
+   "y2": 1326.0,
+   "text": "esempio, quando un warlock arriva al 6° livello apprende"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1312.0,
+   "x2": 1136.0,
+   "y2": 1336.0,
+   "text": "se il warlock utilizza di nuovo il privilegio, se la congeda (non"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1325.0,
+   "x2": 526.0,
+   "y2": 1348.0,
+   "text": "un nuovo incantesimo da warlock di 1°, 2ª o 3° livello."
+  },
+  {
+   "x1": 630.0,
+   "y1": 1332.0,
+   "x2": 1021.0,
+   "y2": 1358.0,
+   "text": "è richiesta alcuna azione per farlo), o se muore."
+  },
+  {
+   "x1": 98.0,
+   "y1": 1348.0,
+   "x2": 524.0,
+   "y2": 1372.0,
+   "text": "Inoltre, quando un warlock acquisisce un livello, può"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1356.0,
+   "x2": 1127.0,
+   "y2": 1379.0,
+   "text": "Il warlock può trasformare un'arma magica nella sua arma"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1370.0,
+   "x2": 580.0,
+   "y2": 1394.0,
+   "text": "scegliere un incantesimo da warlock che conosce e sostituirlo"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1378.0,
+   "x2": 1112.0,
+   "y2": 1405.0,
+   "text": "del patto celebrando un rituale speciale mentre la impugna."
+  },
+  {
+   "x1": 79.0,
+   "y1": 1394.0,
+   "x2": 534.0,
+   "y2": 1418.0,
+   "text": "con un altro incantesimo della lista degli incantesimi da"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1401.0,
+   "x2": 1084.0,
+   "y2": 1427.0,
+   "text": "Il rituale dura l ora e può essere completato durante un"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1416.0,
+   "x2": 572.0,
+   "y2": 1440.0,
+   "text": "warlock; anche il nuovo incantesimo deve essere di un livello"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1423.0,
+   "x2": 1090.0,
+   "y2": 1451.0,
+   "text": "periodo di riposo breve. Una volta completato il rituale, il"
+  },
+  {
+   "x1": 77.0,
+   "y1": 1436.0,
+   "x2": 471.0,
+   "y2": 1464.0,
+   "text": "di cui il warlock possiede degli slot incantesimo."
+  },
+  {
+   "x1": 628.0,
+   "y1": 1449.0,
+   "x2": 1086.0,
+   "y2": 1473.0,
+   "text": "warlock può congedare l'arma relegandola in uno spazio"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1480.0,
+   "x2": 460.0,
+   "y2": 1507.0,
+   "text": "Caratteristica da Incantatore"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1473.0,
+   "x2": 1075.0,
+   "y2": 1496.0,
+   "text": "extradimensionale; da allora in poi compare ogni volta"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1495.0,
+   "x2": 1088.0,
+   "y2": 1518.0,
+   "text": "che il warlock crea la sua arma del patto. Non è possibile"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1505.0,
+   "x2": 488.0,
+   "y2": 1533.0,
+   "text": "Carisma è la caratteristica da incantatore per gli"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1518.0,
+   "x2": 1119.0,
+   "y2": 1542.0,
+   "text": "influenzare un artefatto o un'arma senziente in questo modo."
+  },
+  {
+   "x1": 78.0,
+   "y1": 1531.0,
+   "x2": 552.0,
+   "y2": 1557.0,
+   "text": "incantesimi da warlock, quindi un warlock usa Carisma"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1538.0,
+   "x2": 1115.0,
+   "y2": 1566.0,
+   "text": "L'arma cessa di essere l'arma del patto se il warlock muore,"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1553.0,
+   "x2": 525.0,
+   "y2": 1580.0,
+   "text": "ogni volta che un incantesimo fa riferimento alla sua"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1564.0,
+   "x2": 1123.0,
+   "y2": 1588.0,
+   "text": "se celebra un rituale di I ora su un'altra arma o se celebra un"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1577.0,
+   "x2": 585.0,
+   "y2": 1602.0,
+   "text": "caratteristica da incantatore. Usa inoltre il suo modificatore"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1588.0,
+   "x2": 1104.0,
+   "y2": 1611.0,
+   "text": "altro rituale di 1 ora per spezzare il suo vincolo con l'arma."
+  },
+  {
+   "x1": 78.0,
+   "y1": 1601.0,
+   "x2": 517.0,
+   "y2": 1624.0,
+   "text": "di Carisma per definire la CD del tiro salvezza di un"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1610.0,
+   "x2": 1108.0,
+   "y2": 1633.0,
+   "text": "Se l'arma si trova nello spazio extradimensionale quando il"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1624.0,
+   "x2": 584.0,
+   "y2": 1648.0,
+   "text": "incantesimo da warlock da lui lanciato e quando effettua un"
+  },
+  {
+   "x1": 628.0,
+   "y1": 1633.0,
+   "x2": 1108.0,
+   "y2": 1657.0,
+   "text": "vincolo viene spezzato, essa ricompare ai piedi del warlock."
+  },
+  {
+   "x1": 76.0,
+   "y1": 1644.0,
+   "x2": 382.0,
+   "y2": 1674.0,
+   "text": "tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 955.0,
+   "y1": 1696.0,
+   "x2": 1130.0,
+   "y2": 1714.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1199.0,
+   "y1": 1709.0,
+   "x2": 1222.0,
+   "y2": 1728.0,
+   "text": "1E"
+  }
+ ],
+ "reading_text": "arma semplice\nauna dotazione da studioso o (una dotazione da\navventuriero\nUn'armatura di cuoio, una qualsiasi arma semplice e due\npugnali\nPatrono UltrAtErreno\nA livello, un warlock stipula un patto con un essere\nextraplanare a sua scelta il Signore Fatato, l'Immondo o il\nGrande Antico, ognuno dei quali è descritto in dettaglio alla\nfine della sezione di questa classe. La scelta del patrono gli\nconferisce alcuni privilegi al 1° livello e poi ancora al 6°,10°\ne 14° livello.\nMagia dEL Patto\nLe ricerche arcane condotte dal warlock e l'energia\nmagica che il suo patrono gli conferisce rendono il warlock\nparticolarmente abile nell'uso degli incantesimi. Vedi il\ncapitolo 10 per le regole generali relative alla magia e il\ncapitolo 1 1 per la lista degli incantesimi da warlock.\nTRucchetti\nUn warlock conosce due trucchetti a sua scelta tratti dalla lista\ndegli incantesimi da warlock. Apprende ulteriori trucchetti da\nwarlock a sua scelta ai livelli successivi, come indicato dalla\ncolonna \"Trucchetti Conosciuti\" nella tabella \"Warlock\".\nSLot Incantesimo\nLa tabella \"Warlock\" indica quanti slot incantesimo\npossiede un warlock. La tabella indica anche il livello\ndi quegli slot; tutti gli slot incantesimo da warlock sono\ndello stesso livelio. Per lanciare un incantesimo di livello\npari o superiore al 1\", il warlock deve spendere uno slot\nincantesimo. Il warlock recupera tutti gli slot incantesimo\nspesi quando completa un riposo breve o lungo.\nPer esempio, un warlock di 5° livello possiede due slot\nincantesimo di 3° livello. Per lanciare l'incantesimo di 1\nlivello dardo stregato deve spendere uno di quegli slot e\nlanciarlo come incantesimo di 3° livello.\nIncantesimi Conosciuti di 1° Livello\nE dI LiveLlo SUperiore\nAl 1° livello, un warlock conosce due incantesimi di 1°\nlivello a sua scelta dalla lista degli incantesimi da warlock.\nLa colonna \"Incantesimi Conosciuti\" nella tabella\nWarlock\" indica quando un warlock impara altri\nincantesimi da warlock a sua scelta, di 1° livello o\nsuperiore. Ognuno di questi incantesimi deve appartenere\na un livello pari o inferiore al \"Livello di Slot\" relativo al\nlivello attuale del warlock e indicato nella sua tabella. Per\nesempio, quando un warlock arriva al 6° livello apprende\nun nuovo incantesimo da warlock di 1°, 2ª o 3° livello.\nInoltre, quando un warlock acquisisce un livello, può\nscegliere un incantesimo da warlock che conosce e sostituirlo\ncon un altro incantesimo della lista degli incantesimi da\nwarlock; anche il nuovo incantesimo deve essere di un livello\ndi cui il warlock possiede degli slot incantesimo.\nCaratteristica da Incantatore\nCarisma è la caratteristica da incantatore per gli\nincantesimi da warlock, quindi un warlock usa Carisma\nogni volta che un incantesimo fa riferimento alla sua\ncaratteristica da incantatore. Usa inoltre il suo modificatore\ndi Carisma per definire la CD del tiro salvezza di un\nincantesimo da warlock da lui lanciato e quando effettua un\ntiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza\ndel warlock + il modifcatore di Carisma del warlock\nModificatore di attacco dell'incantesimo = il bonus di competenza\ndel warlock + il modificatore di Carisma del warlock\nFocus da Incantatore\nUn warlock può usare un focus arcano (vedi il capitolo 5,\n\"Equipaggiamento\") come focus da incantatore per i suoi\nincantesimi da warlock.\nSuppliche Occulte\nDedicandosi allo studio delle scienze occulte, un warlock\nha scoperto come usare alcune suppliche occulte,\nframmenti di conoscenze proibite che gli conferiscono\npersistenti doti magiche.\nAl 2° livello, il warlock ottiene due suppliche occulte a\nsua scelta. Le sue opzioni di invocazione sono descritte\nalla fine della sezione di questa classe. Ouando il warlock\nraggiunge livelli superiori, ottiene ulteriori suppliche a sua\nscelta, come indicato nella colonna \"Suppliche Conosciute\"\nnella tabella \"Warlock\".\nInoltre, quando acquisisce un nuovo livello, il warlock\npuò scegliere una delle suppliche che conosce e sostituirla\ncon un'altra che potrebbe imparare a quel livello.\nDono del Patto\nAl 3º livello, il patrono ultraterreno elargisce al warlock un\ndono per ricompensarlo dei suoi fedeli servigi. Il warlock\nottiene uno dei privilegi seguenti a sua scelta.\nPatto della Catena\nIl warlock impara l'incantesimo trova famiglio e può lanciarlo\ncome rituale. Questo incantesimo non va conteggiato al fine di\ndeterminare il numero di incantesimi conosciuti dal warlock.\nQuando il warlock lancia l'incantesimo può scegliere per\nil suo famiglio una delle forme normali o una delle forme\nspeciali seguenti: imp, pseudodrago, quasit o spiritello.\nInoltre, quando effettua l'azione di Attacco, il warlock può\nrinunciare a uno deisuoi attacchi per consentire al suo famiglio\ndi effettuare un suo attacco individuale con la sua reazione.\nPatto della Lama\nIl warlock può usare la sua azione per fare apparire\nun'arma del patto nella sua mano vuota. Può scegliere la\nforma che questa arma da mischia assume ogni volta che la\ncrea (vedi il capitolo 5 per le armi disponibili). Il warlock è\nconsiderato competente nell'arma fintanto che la impugna.\nQuesta arma è considerata magica al fine di oltrepassare la\nresistenza e l'immunità agli attacchi e ai danni non magici.\nL'arma del patto scompare se rimane per un minuto a più\ndi 1,5 metri di distanza dal warlock. L'arma scompare anche\nse il warlock utilizza di nuovo il privilegio, se la congeda (non\nè richiesta alcuna azione per farlo), o se muore.\nIl warlock può trasformare un'arma magica nella sua arma\ndel patto celebrando un rituale speciale mentre la impugna.\nIl rituale dura l ora e può essere completato durante un\nperiodo di riposo breve. Una volta completato il rituale, il\nwarlock può congedare l'arma relegandola in uno spazio\nextradimensionale; da allora in poi compare ogni volta\nche il warlock crea la sua arma del patto. Non è possibile\ninfluenzare un artefatto o un'arma senziente in questo modo.\nL'arma cessa di essere l'arma del patto se il warlock muore,\nse celebra un rituale di I ora su un'altra arma o se celebra un\naltro rituale di 1 ora per spezzare il suo vincolo con l'arma.\nSe l'arma si trova nello spazio extradimensionale quando il\nvincolo viene spezzato, essa ricompare ai piedi del warlock.\nCAPITOLO 3 |CLASSI\n1E"
+}

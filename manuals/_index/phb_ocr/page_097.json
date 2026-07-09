@@ -1,0 +1,836 @@
+{
+ "pdf_page_index": 97,
+ "page_label": 98,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 118,
+ "lines": [
+  {
+   "x1": 131.0,
+   "y1": 75.0,
+   "x2": 584.0,
+   "y2": 99.0,
+   "text": "Il paladino può cambiare la lista dei suoi incantesimi"
+  },
+  {
+   "x1": 672.0,
+   "y1": 77.0,
+   "x2": 923.0,
+   "y2": 102.0,
+   "text": "Incanalare DivinitÀ"
+  },
+  {
+   "x1": 116.0,
+   "y1": 100.0,
+   "x2": 613.0,
+   "y2": 124.0,
+   "text": "preparati quando completa un riposo lungo. Per preparare"
+  },
+  {
+   "x1": 672.0,
+   "y1": 104.0,
+   "x2": 1130.0,
+   "y2": 128.0,
+   "text": "Grazie al suo giuramento, un paladino può incanalare"
+  },
+  {
+   "x1": 113.0,
+   "y1": 121.0,
+   "x2": 585.0,
+   "y2": 144.0,
+   "text": "una nuova lista di incantesimi da paladino è necessario"
+  },
+  {
+   "x1": 669.0,
+   "y1": 126.0,
+   "x2": 1112.0,
+   "y2": 150.0,
+   "text": "l'energia divina per alimentare alcuni effetti magici."
+  },
+  {
+   "x1": 114.0,
+   "y1": 146.0,
+   "x2": 604.0,
+   "y2": 170.0,
+   "text": "un certo ammontare di tempo da trascorrere in preghiera"
+  },
+  {
+   "x1": 668.0,
+   "y1": 148.0,
+   "x2": 1127.0,
+   "y2": 175.0,
+   "text": "Ogni opzione di Incanalare Divinità fornitagli dal suo"
+  },
+  {
+   "x1": 116.0,
+   "y1": 172.0,
+   "x2": 606.0,
+   "y2": 190.0,
+   "text": "e meditazione: almeno 1 minuto per livello di incantesimo"
+  },
+  {
+   "x1": 670.0,
+   "y1": 174.0,
+   "x2": 1101.0,
+   "y2": 197.0,
+   "text": "giuramento include la spiegazione del suo utilizzo."
+  },
+  {
+   "x1": 114.0,
+   "y1": 192.0,
+   "x2": 425.0,
+   "y2": 216.0,
+   "text": "per ogni incantesimo nella sua lista."
+  },
+  {
+   "x1": 689.0,
+   "y1": 197.0,
+   "x2": 1143.0,
+   "y2": 221.0,
+   "text": "Quando un paladino utilizza Incanalare Divinità, può"
+  },
+  {
+   "x1": 669.0,
+   "y1": 219.0,
+   "x2": 1112.0,
+   "y2": 243.0,
+   "text": "scegliere quale opzione usare. Deve poi completare"
+  },
+  {
+   "x1": 118.0,
+   "y1": 234.0,
+   "x2": 497.0,
+   "y2": 258.0,
+   "text": "Caratteristica da Incantatore"
+  },
+  {
+   "x1": 667.0,
+   "y1": 239.0,
+   "x2": 1071.0,
+   "y2": 267.0,
+   "text": "un riposo breve o lungo per utilizzare di nuovo"
+  },
+  {
+   "x1": 114.0,
+   "y1": 258.0,
+   "x2": 580.0,
+   "y2": 285.0,
+   "text": "Carisma è la caratteristica da incantatore usata per gli"
+  },
+  {
+   "x1": 669.0,
+   "y1": 265.0,
+   "x2": 849.0,
+   "y2": 289.0,
+   "text": "Incanalare Divinità."
+  },
+  {
+   "x1": 113.0,
+   "y1": 281.0,
+   "x2": 584.0,
+   "y2": 305.0,
+   "text": "incantesimi da paladino, dal momento che il suo potere"
+  },
+  {
+   "x1": 685.0,
+   "y1": 283.0,
+   "x2": 1086.0,
+   "y2": 309.0,
+   "text": "Alcuni effetti di Incanalare Divinità richiedono"
+  },
+  {
+   "x1": 114.0,
+   "y1": 305.0,
+   "x2": 595.0,
+   "y2": 329.0,
+   "text": "deriva dalla forza delle sue convinzioni. Un paladino usa"
+  },
+  {
+   "x1": 668.0,
+   "y1": 307.0,
+   "x2": 1119.0,
+   "y2": 334.0,
+   "text": "dei tiri salvezza. Quando un paladino utilizza un tale"
+  },
+  {
+   "x1": 116.0,
+   "y1": 329.0,
+   "x2": 572.0,
+   "y2": 353.0,
+   "text": "Carisma ogni volta che un incantesimo da paladino fa"
+  },
+  {
+   "x1": 669.0,
+   "y1": 331.0,
+   "x2": 1117.0,
+   "y2": 354.0,
+   "text": "effetto, la CD è pari alla CD del tiro salvezza dei suoi"
+  },
+  {
+   "x1": 114.0,
+   "y1": 353.0,
+   "x2": 574.0,
+   "y2": 376.0,
+   "text": "riferimento alla sua caratteristica da incantatore. Usa"
+  },
+  {
+   "x1": 670.0,
+   "y1": 356.0,
+   "x2": 877.0,
+   "y2": 380.0,
+   "text": "incantesimi da paladino."
+  },
+  {
+   "x1": 113.0,
+   "y1": 371.0,
+   "x2": 621.0,
+   "y2": 398.0,
+   "text": "inoltre il suo modificatore di Carisma per definire la CD del"
+  },
+  {
+   "x1": 114.0,
+   "y1": 396.0,
+   "x2": 624.0,
+   "y2": 420.0,
+   "text": "tiro salvezza di un incantesimo da paladino da lui lanciato e"
+  },
+  {
+   "x1": 672.0,
+   "y1": 400.0,
+   "x2": 1016.0,
+   "y2": 426.0,
+   "text": "AUMento dEI PUNteGgI"
+  },
+  {
+   "x1": 114.0,
+   "y1": 420.0,
+   "x2": 582.0,
+   "y2": 444.0,
+   "text": "quando effettua un tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 668.0,
+   "y1": 429.0,
+   "x2": 946.0,
+   "y2": 462.0,
+   "text": "Di CARATTERISTICA"
+  },
+  {
+   "x1": 114.0,
+   "y1": 453.0,
+   "x2": 624.0,
+   "y2": 486.0,
+   "text": "CD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza"
+  },
+  {
+   "x1": 672.0,
+   "y1": 470.0,
+   "x2": 1156.0,
+   "y2": 493.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8, 12°, 16° e"
+  },
+  {
+   "x1": 162.0,
+   "y1": 484.0,
+   "x2": 573.0,
+   "y2": 512.0,
+   "text": "del paladino + il modificatore di Carisma del paladino"
+  },
+  {
+   "x1": 670.0,
+   "y1": 490.0,
+   "x2": 1173.0,
+   "y2": 517.0,
+   "text": "19° livello, un paladino può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 120.0,
+   "y1": 524.0,
+   "x2": 620.0,
+   "y2": 548.0,
+   "text": "Modificatore di attacco dell'incantesimo - il bonus di competenza"
+  },
+  {
+   "x1": 670.0,
+   "y1": 517.0,
+   "x2": 1167.0,
+   "y2": 541.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di 1due"
+  },
+  {
+   "x1": 670.0,
+   "y1": 541.0,
+   "x2": 1158.0,
+   "y2": 565.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 166.0,
+   "y1": 552.0,
+   "x2": 574.0,
+   "y2": 576.0,
+   "text": "del paladino + il modificatore di Carisma del paladino"
+  },
+  {
+   "x1": 669.0,
+   "y1": 563.0,
+   "x2": 1180.0,
+   "y2": 586.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 668.0,
+   "y1": 583.0,
+   "x2": 997.0,
+   "y2": 610.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 118.0,
+   "y1": 605.0,
+   "x2": 380.0,
+   "y2": 630.0,
+   "text": "Focus da Incantatore"
+  },
+  {
+   "x1": 118.0,
+   "y1": 630.0,
+   "x2": 611.0,
+   "y2": 656.0,
+   "text": "Un paladino può usare un simbolo sacro (vedi il capitolo 5,"
+  },
+  {
+   "x1": 672.0,
+   "y1": 627.0,
+   "x2": 901.0,
+   "y2": 652.0,
+   "text": "Attacco Extra"
+  },
+  {
+   "x1": 116.0,
+   "y1": 652.0,
+   "x2": 602.0,
+   "y2": 680.0,
+   "text": "Equipaggiamento\") come focus da incantatore per i suoi"
+  },
+  {
+   "x1": 669.0,
+   "y1": 663.0,
+   "x2": 1167.0,
+   "y2": 689.0,
+   "text": "A partire dal 5° livello, un paladino può attaccare due volte"
+  },
+  {
+   "x1": 118.0,
+   "y1": 678.0,
+   "x2": 327.0,
+   "y2": 702.0,
+   "text": "incantesimi da paladino."
+  },
+  {
+   "x1": 669.0,
+   "y1": 689.0,
+   "x2": 1162.0,
+   "y2": 713.0,
+   "text": "anziché una, ogni volta che effettua l'azione di Attacco nel"
+  },
+  {
+   "x1": 666.0,
+   "y1": 709.0,
+   "x2": 796.0,
+   "y2": 738.0,
+   "text": "proprio turno."
+  },
+  {
+   "x1": 120.0,
+   "y1": 722.0,
+   "x2": 379.0,
+   "y2": 747.0,
+   "text": "Punizione Divina"
+  },
+  {
+   "x1": 118.0,
+   "y1": 758.0,
+   "x2": 578.0,
+   "y2": 782.0,
+   "text": "A partire dal 2* livello, quando il paladino colpisce una"
+  },
+  {
+   "x1": 672.0,
+   "y1": 756.0,
+   "x2": 966.0,
+   "y2": 782.0,
+   "text": "Aura di Protezione"
+  },
+  {
+   "x1": 116.0,
+   "y1": 782.0,
+   "x2": 567.0,
+   "y2": 806.0,
+   "text": "creatura con un attacco con un'arma da mischia, può"
+  },
+  {
+   "x1": 670.0,
+   "y1": 791.0,
+   "x2": 1130.0,
+   "y2": 817.0,
+   "text": "A partire dal 6° livello, ogni volta che il paladino o una"
+  },
+  {
+   "x1": 116.0,
+   "y1": 802.0,
+   "x2": 611.0,
+   "y2": 830.0,
+   "text": "spendere uno slot incantesimo per infliggere danni radiosi"
+  },
+  {
+   "x1": 669.0,
+   "y1": 817.0,
+   "x2": 1163.0,
+   "y2": 840.0,
+   "text": "creatura amica entro 3 metri da lui deve effettuare un tiro"
+  },
+  {
+   "x1": 118.0,
+   "y1": 828.0,
+   "x2": 600.0,
+   "y2": 851.0,
+   "text": "al bersaglio, in aggiunta ai danni dell'arma. I danni extra"
+  },
+  {
+   "x1": 669.0,
+   "y1": 839.0,
+   "x2": 1156.0,
+   "y2": 862.0,
+   "text": "salvezza, il paladino o la creatura in questione ottiene un"
+  },
+  {
+   "x1": 116.0,
+   "y1": 850.0,
+   "x2": 578.0,
+   "y2": 873.0,
+   "text": "sono 2d8 per uno slot incantesimo di 1° livello, più 1d8"
+  },
+  {
+   "x1": 669.0,
+   "y1": 861.0,
+   "x2": 1156.0,
+   "y2": 884.0,
+   "text": "bonus al tiro salvezza pari al modificatore di Carisma del"
+  },
+  {
+   "x1": 116.0,
+   "y1": 871.0,
+   "x2": 580.0,
+   "y2": 899.0,
+   "text": "per ogni livello di incantesimo superiore al I°, fino a un"
+  },
+  {
+   "x1": 667.0,
+   "y1": 882.0,
+   "x2": 1154.0,
+   "y2": 910.0,
+   "text": "paladino (fino a un bonus minimo di +1). Il paladino deve"
+  },
+  {
+   "x1": 118.0,
+   "y1": 895.0,
+   "x2": 619.0,
+   "y2": 921.0,
+   "text": "massimo di 5d8. I danni aumentano di 1d8 se il bersaglio è"
+  },
+  {
+   "x1": 669.0,
+   "y1": 908.0,
+   "x2": 1051.0,
+   "y2": 932.0,
+   "text": "essere cosciente per conferire questo bonus."
+  },
+  {
+   "x1": 114.0,
+   "y1": 919.0,
+   "x2": 364.0,
+   "y2": 943.0,
+   "text": "un non morto o un immondo."
+  },
+  {
+   "x1": 685.0,
+   "y1": 928.0,
+   "x2": 1171.0,
+   "y2": 956.0,
+   "text": "Al 18º livello, la gittata di questa aura aumenta a 9 metri."
+  },
+  {
+   "x1": 116.0,
+   "y1": 957.0,
+   "x2": 333.0,
+   "y2": 992.0,
+   "text": "Salute Divina"
+  },
+  {
+   "x1": 669.0,
+   "y1": 970.0,
+   "x2": 942.0,
+   "y2": 1001.0,
+   "text": "Aura di Coraggio"
+  },
+  {
+   "x1": 116.0,
+   "y1": 996.0,
+   "x2": 560.0,
+   "y2": 1023.0,
+   "text": "Giunto al 3° livello, un paladino diventa immune alle"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1009.0,
+   "x2": 1147.0,
+   "y2": 1036.0,
+   "text": "A partire dal 10° livello, il paladino e le creature amiche"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1027.0,
+   "x2": 397.0,
+   "y2": 1045.0,
+   "text": "malattie grazie alla magia divina."
+  },
+  {
+   "x1": 667.0,
+   "y1": 1032.0,
+   "x2": 1175.0,
+   "y2": 1060.0,
+   "text": "entro 3 metri da lui non possono essere spaventate finché il"
+  },
+  {
+   "x1": 122.0,
+   "y1": 1067.0,
+   "x2": 401.0,
+   "y2": 1093.0,
+   "text": "Giuramento Sacro"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1058.0,
+   "x2": 851.0,
+   "y2": 1082.0,
+   "text": "paladino è cosciente."
+  },
+  {
+   "x1": 683.0,
+   "y1": 1082.0,
+   "x2": 1169.0,
+   "y2": 1105.0,
+   "text": "Al 18* livello, la gittata di questa aura aumenta a 9 metri."
+  },
+  {
+   "x1": 118.0,
+   "y1": 1102.0,
+   "x2": 524.0,
+   "y2": 1125.0,
+   "text": "Una volta giunto al 3' livello, il paladino formula il"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1125.0,
+   "x2": 602.0,
+   "y2": 1151.0,
+   "text": "giuramento che lo vincolerà alla sua vocazione per sempre."
+  },
+  {
+   "x1": 670.0,
+   "y1": 1124.0,
+   "x2": 1114.0,
+   "y2": 1153.0,
+   "text": "Punizione Divina Migliorata"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1151.0,
+   "x2": 585.0,
+   "y2": 1175.0,
+   "text": "Finora il paladino ha vissuto una fase preparatoria in cui"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1160.0,
+   "x2": 1165.0,
+   "y2": 1188.0,
+   "text": "All'1 1' livello, il paladino è talmente pervaso dalla potenza"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1175.0,
+   "x2": 591.0,
+   "y2": 1199.0,
+   "text": "si è dedicato a una causa, ma non ha ancora formulato un"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1184.0,
+   "x2": 1158.0,
+   "y2": 1213.0,
+   "text": "della giustizia che tutti i suoi colpi con le armi si caricano"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1199.0,
+   "x2": 620.0,
+   "y2": 1222.0,
+   "text": "giuramento. Ora deve scegliere tra Giuramento di Devozione,"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1208.0,
+   "x2": 1139.0,
+   "y2": 1231.0,
+   "text": "di potere divino. Ogni volta che il paladino colpisce una"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1220.0,
+   "x2": 587.0,
+   "y2": 1244.0,
+   "text": "Giuramento degli Antichi o Giuramento di Vendetta, tutti"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1231.0,
+   "x2": 1156.0,
+   "y2": 1255.0,
+   "text": "creatura con un'arma da mischia, quella creatura subisce"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1244.0,
+   "x2": 506.0,
+   "y2": 1268.0,
+   "text": "descritti alla fine della sezione di questa classe."
+  },
+  {
+   "x1": 135.0,
+   "y1": 1262.0,
+   "x2": 595.0,
+   "y2": 1290.0,
+   "text": "Il giuramento scelto gli conferisce alcuni privilegi al 3"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1255.0,
+   "x2": 1125.0,
+   "y2": 1279.0,
+   "text": "1d8 danni radiosi extra. Inoltre, se utilizza Punizione"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1284.0,
+   "x2": 608.0,
+   "y2": 1317.0,
+   "text": "livello e poi di nuovo al e  livello. Questi privilei"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1275.0,
+   "x2": 1175.0,
+   "y2": 1303.0,
+   "text": "Divina con un attacco, aggiunge questi danni ai danni extra"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1310.0,
+   "x2": 598.0,
+   "y2": 1337.0,
+   "text": "includono alcuni incantesimi di giuramento e il privilegio"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1301.0,
+   "x2": 909.0,
+   "y2": 1325.0,
+   "text": "della sua Punizione Divina."
+  },
+  {
+   "x1": 118.0,
+   "y1": 1336.0,
+   "x2": 286.0,
+   "y2": 1359.0,
+   "text": "Incanalare Divinità."
+  },
+  {
+   "x1": 670.0,
+   "y1": 1343.0,
+   "x2": 975.0,
+   "y2": 1374.0,
+   "text": "Tocco Purificatore"
+  },
+  {
+   "x1": 122.0,
+   "y1": 1379.0,
+   "x2": 445.0,
+   "y2": 1403.0,
+   "text": "Incantesimi di Giuramento"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1381.0,
+   "x2": 1169.0,
+   "y2": 1409.0,
+   "text": "A partire dal 14° livello, il paladino può usare la sua azione"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1405.0,
+   "x2": 580.0,
+   "y2": 1429.0,
+   "text": "A ogni giuramento è associata una lista di incantesimi."
+  },
+  {
+   "x1": 665.0,
+   "y1": 1407.0,
+   "x2": 1106.0,
+   "y2": 1432.0,
+   "text": "per terminare un incantesimo su se stesso o su una"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1429.0,
+   "x2": 596.0,
+   "y2": 1453.0,
+   "text": "Il paladino ottiene l'accesso a questi incantesimi ai livelli"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1431.0,
+   "x2": 1010.0,
+   "y2": 1454.0,
+   "text": "creatura consenziente che sta toccando."
+  },
+  {
+   "x1": 120.0,
+   "y1": 1453.0,
+   "x2": 572.0,
+   "y2": 1476.0,
+   "text": "specificati nella descrizione del giuramento. Una volta"
+  },
+  {
+   "x1": 683.0,
+   "y1": 1451.0,
+   "x2": 1167.0,
+   "y2": 1478.0,
+   "text": "Il paladino può utilizzare questo privilegio un numero di"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1474.0,
+   "x2": 572.0,
+   "y2": 1498.0,
+   "text": "ottenuto l'accesso a un incantesimo, quell'incantesimo"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1476.0,
+   "x2": 1169.0,
+   "y2": 1500.0,
+   "text": "volte pari al suo modificatore di Carisma (fino a un minimo"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1498.0,
+   "x2": 545.0,
+   "y2": 1522.0,
+   "text": "è sempre considerato preparato e non conta al fine"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1500.0,
+   "x2": 1154.0,
+   "y2": 1524.0,
+   "text": "di una volta). Recupera gli utilizzi spesi quando completa"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1520.0,
+   "x2": 595.0,
+   "y2": 1544.0,
+   "text": "determinare il numero di incantesimi che il paladino può"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1524.0,
+   "x2": 811.0,
+   "y2": 1549.0,
+   "text": "un riposo lungo."
+  },
+  {
+   "x1": 118.0,
+   "y1": 1542.0,
+   "x2": 310.0,
+   "y2": 1570.0,
+   "text": "preparare ogni giorno."
+  },
+  {
+   "x1": 135.0,
+   "y1": 1564.0,
+   "x2": 591.0,
+   "y2": 1593.0,
+   "text": "Se il paladino possiede un incantesimo di giuramento"
+  },
+  {
+   "x1": 670.0,
+   "y1": 1568.0,
+   "x2": 1025.0,
+   "y2": 1604.0,
+   "text": "Giuramenti Sacri"
+  },
+  {
+   "x1": 122.0,
+   "y1": 1591.0,
+   "x2": 606.0,
+   "y2": 1615.0,
+   "text": "che non compare sulla lista degli incantesimi da paladino,"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1615.0,
+   "x2": 609.0,
+   "y2": 1639.0,
+   "text": "quell'incantesimo è comunque considerato un incantesimo"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1608.0,
+   "x2": 1101.0,
+   "y2": 1635.0,
+   "text": "Per diventare un paladino è richiesto formulare un"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1635.0,
+   "x2": 279.0,
+   "y2": 1663.0,
+   "text": "da paladino per lui."
+  },
+  {
+   "x1": 667.0,
+   "y1": 1635.0,
+   "x2": 1147.0,
+   "y2": 1659.0,
+   "text": "giuramento che vincolerà il personaggio alla causa della"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1688.0,
+   "x2": 292.0,
+   "y2": 1712.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 48.0,
+   "y1": 1706.0,
+   "x2": 63.0,
+   "y2": 1723.0,
+   "text": "98"
+  }
+ ],
+ "reading_text": "Il paladino può cambiare la lista dei suoi incantesimi\npreparati quando completa un riposo lungo. Per preparare\nuna nuova lista di incantesimi da paladino è necessario\nun certo ammontare di tempo da trascorrere in preghiera\ne meditazione: almeno 1 minuto per livello di incantesimo\nper ogni incantesimo nella sua lista.\nCaratteristica da Incantatore\nCarisma è la caratteristica da incantatore usata per gli\nincantesimi da paladino, dal momento che il suo potere\nderiva dalla forza delle sue convinzioni. Un paladino usa\nCarisma ogni volta che un incantesimo da paladino fa\nriferimento alla sua caratteristica da incantatore. Usa\ninoltre il suo modificatore di Carisma per definire la CD del\ntiro salvezza di un incantesimo da paladino da lui lanciato e\nquando effettua un tiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza\ndel paladino + il modificatore di Carisma del paladino\nModificatore di attacco dell'incantesimo - il bonus di competenza\ndel paladino + il modificatore di Carisma del paladino\nFocus da Incantatore\nUn paladino può usare un simbolo sacro (vedi il capitolo 5,\nEquipaggiamento\") come focus da incantatore per i suoi\nincantesimi da paladino.\nPunizione Divina\nA partire dal 2* livello, quando il paladino colpisce una\ncreatura con un attacco con un'arma da mischia, può\nspendere uno slot incantesimo per infliggere danni radiosi\nal bersaglio, in aggiunta ai danni dell'arma. I danni extra\nsono 2d8 per uno slot incantesimo di 1° livello, più 1d8\nper ogni livello di incantesimo superiore al I°, fino a un\nmassimo di 5d8. I danni aumentano di 1d8 se il bersaglio è\nun non morto o un immondo.\nSalute Divina\nGiunto al 3° livello, un paladino diventa immune alle\nmalattie grazie alla magia divina.\nGiuramento Sacro\nUna volta giunto al 3' livello, il paladino formula il\ngiuramento che lo vincolerà alla sua vocazione per sempre.\nFinora il paladino ha vissuto una fase preparatoria in cui\nsi è dedicato a una causa, ma non ha ancora formulato un\ngiuramento. Ora deve scegliere tra Giuramento di Devozione,\nGiuramento degli Antichi o Giuramento di Vendetta, tutti\ndescritti alla fine della sezione di questa classe.\nIl giuramento scelto gli conferisce alcuni privilegi al 3\nlivello e poi di nuovo al e  livello. Questi privilei\nincludono alcuni incantesimi di giuramento e il privilegio\nIncanalare Divinità.\nIncantesimi di Giuramento\nA ogni giuramento è associata una lista di incantesimi.\nIl paladino ottiene l'accesso a questi incantesimi ai livelli\nspecificati nella descrizione del giuramento. Una volta\nottenuto l'accesso a un incantesimo, quell'incantesimo\nè sempre considerato preparato e non conta al fine\ndeterminare il numero di incantesimi che il paladino può\npreparare ogni giorno.\nSe il paladino possiede un incantesimo di giuramento\nche non compare sulla lista degli incantesimi da paladino,\nquell'incantesimo è comunque considerato un incantesimo\nda paladino per lui.\nCAPITOLO 3 |CLASSI\n98\nIncanalare DivinitÀ\nGrazie al suo giuramento, un paladino può incanalare\nl'energia divina per alimentare alcuni effetti magici.\nOgni opzione di Incanalare Divinità fornitagli dal suo\ngiuramento include la spiegazione del suo utilizzo.\nQuando un paladino utilizza Incanalare Divinità, può\nscegliere quale opzione usare. Deve poi completare\nun riposo breve o lungo per utilizzare di nuovo\nIncanalare Divinità.\nAlcuni effetti di Incanalare Divinità richiedono\ndei tiri salvezza. Quando un paladino utilizza un tale\neffetto, la CD è pari alla CD del tiro salvezza dei suoi\nincantesimi da paladino.\nAUMento dEI PUNteGgI\nDi CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8, 12°, 16° e\n19° livello, un paladino può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di 1due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nAttacco Extra\nA partire dal 5° livello, un paladino può attaccare due volte\nanziché una, ogni volta che effettua l'azione di Attacco nel\nproprio turno.\nAura di Protezione\nA partire dal 6° livello, ogni volta che il paladino o una\ncreatura amica entro 3 metri da lui deve effettuare un tiro\nsalvezza, il paladino o la creatura in questione ottiene un\nbonus al tiro salvezza pari al modificatore di Carisma del\npaladino (fino a un bonus minimo di +1). Il paladino deve\nessere cosciente per conferire questo bonus.\nAl 18º livello, la gittata di questa aura aumenta a 9 metri.\nAura di Coraggio\nA partire dal 10° livello, il paladino e le creature amiche\nentro 3 metri da lui non possono essere spaventate finché il\npaladino è cosciente.\nAl 18* livello, la gittata di questa aura aumenta a 9 metri.\nPunizione Divina Migliorata\nAll'1 1' livello, il paladino è talmente pervaso dalla potenza\ndella giustizia che tutti i suoi colpi con le armi si caricano\ndi potere divino. Ogni volta che il paladino colpisce una\ncreatura con un'arma da mischia, quella creatura subisce\n1d8 danni radiosi extra. Inoltre, se utilizza Punizione\nDivina con un attacco, aggiunge questi danni ai danni extra\ndella sua Punizione Divina.\nTocco Purificatore\nA partire dal 14° livello, il paladino può usare la sua azione\nper terminare un incantesimo su se stesso o su una\ncreatura consenziente che sta toccando.\nIl paladino può utilizzare questo privilegio un numero di\nvolte pari al suo modificatore di Carisma (fino a un minimo\ndi una volta). Recupera gli utilizzi spesi quando completa\nun riposo lungo.\nGiuramenti Sacri\nPer diventare un paladino è richiesto formulare un\ngiuramento che vincolerà il personaggio alla causa della"
+}

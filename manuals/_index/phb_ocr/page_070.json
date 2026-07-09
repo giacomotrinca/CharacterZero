@@ -1,0 +1,934 @@
+{
+ "pdf_page_index": 70,
+ "page_label": 71,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 132,
+ "lines": [
+  {
+   "x1": 93.0,
+   "y1": 113.0,
+   "x2": 222.0,
+   "y2": 152.0,
+   "text": "GUERRIERO"
+  },
+  {
+   "x1": 160.0,
+   "y1": 147.0,
+   "x2": 237.0,
+   "y2": 180.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 92.0,
+   "y1": 168.0,
+   "x2": 324.0,
+   "y2": 209.0,
+   "text": "Livello Competenza Privilegi"
+  },
+  {
+   "x1": 114.0,
+   "y1": 206.0,
+   "x2": 140.0,
+   "y2": 230.0,
+   "text": "1°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 199.0,
+   "x2": 220.0,
+   "y2": 230.0,
+   "text": "+2"
+  },
+  {
+   "x1": 253.0,
+   "y1": 197.0,
+   "x2": 589.0,
+   "y2": 227.0,
+   "text": "Stile di Combattimento, Recuperare Energie"
+  },
+  {
+   "x1": 113.0,
+   "y1": 232.0,
+   "x2": 140.0,
+   "y2": 258.0,
+   "text": "2°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 228.0,
+   "x2": 220.0,
+   "y2": 254.0,
+   "text": "+2"
+  },
+  {
+   "x1": 257.0,
+   "y1": 228.0,
+   "x2": 489.0,
+   "y2": 252.0,
+   "text": "Azione Impetuosa (un utilizzo)"
+  },
+  {
+   "x1": 113.0,
+   "y1": 258.0,
+   "x2": 139.0,
+   "y2": 281.0,
+   "text": "3°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 252.0,
+   "x2": 220.0,
+   "y2": 283.0,
+   "text": "+2"
+  },
+  {
+   "x1": 255.0,
+   "y1": 254.0,
+   "x2": 403.0,
+   "y2": 278.0,
+   "text": "Archetipo Marziale"
+  },
+  {
+   "x1": 113.0,
+   "y1": 285.0,
+   "x2": 140.0,
+   "y2": 311.0,
+   "text": "4°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 281.0,
+   "x2": 218.0,
+   "y2": 307.0,
+   "text": "+2"
+  },
+  {
+   "x1": 257.0,
+   "y1": 281.0,
+   "x2": 550.0,
+   "y2": 305.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 114.0,
+   "y1": 311.0,
+   "x2": 140.0,
+   "y2": 336.0,
+   "text": "5°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 307.0,
+   "x2": 218.0,
+   "y2": 333.0,
+   "text": "+3"
+  },
+  {
+   "x1": 259.0,
+   "y1": 309.0,
+   "x2": 360.0,
+   "y2": 329.0,
+   "text": "Attacco Extra"
+  },
+  {
+   "x1": 114.0,
+   "y1": 336.0,
+   "x2": 139.0,
+   "y2": 362.0,
+   "text": "6°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 334.0,
+   "x2": 220.0,
+   "y2": 358.0,
+   "text": "+3"
+  },
+  {
+   "x1": 257.0,
+   "y1": 333.0,
+   "x2": 548.0,
+   "y2": 358.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 113.0,
+   "y1": 362.0,
+   "x2": 140.0,
+   "y2": 387.0,
+   "text": "7°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 360.0,
+   "x2": 218.0,
+   "y2": 386.0,
+   "text": "+3"
+  },
+  {
+   "x1": 255.0,
+   "y1": 360.0,
+   "x2": 510.0,
+   "y2": 384.0,
+   "text": "Privilegio dell'Archetipo Marziale"
+  },
+  {
+   "x1": 111.0,
+   "y1": 389.0,
+   "x2": 140.0,
+   "y2": 415.0,
+   "text": "8°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 387.0,
+   "x2": 218.0,
+   "y2": 411.0,
+   "text": "+3"
+  },
+  {
+   "x1": 257.0,
+   "y1": 387.0,
+   "x2": 554.0,
+   "y2": 411.0,
+   "text": "Aumento dei Punteggi di Caratteristica."
+  },
+  {
+   "x1": 113.0,
+   "y1": 415.0,
+   "x2": 140.0,
+   "y2": 440.0,
+   "text": "9°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 413.0,
+   "x2": 218.0,
+   "y2": 438.0,
+   "text": "+4"
+  },
+  {
+   "x1": 255.0,
+   "y1": 411.0,
+   "x2": 423.0,
+   "y2": 439.0,
+   "text": "Indomito (un utilizzo)"
+  },
+  {
+   "x1": 113.0,
+   "y1": 442.0,
+   "x2": 142.0,
+   "y2": 468.0,
+   "text": "10*"
+  },
+  {
+   "x1": 187.0,
+   "y1": 440.0,
+   "x2": 218.0,
+   "y2": 464.0,
+   "text": "+4"
+  },
+  {
+   "x1": 255.0,
+   "y1": 437.0,
+   "x2": 508.0,
+   "y2": 464.0,
+   "text": "Privilegio dell'Archetipo Marziale"
+  },
+  {
+   "x1": 109.0,
+   "y1": 464.0,
+   "x2": 144.0,
+   "y2": 495.0,
+   "text": "11°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 466.0,
+   "x2": 218.0,
+   "y2": 491.0,
+   "text": "+4"
+  },
+  {
+   "x1": 255.0,
+   "y1": 466.0,
+   "x2": 386.0,
+   "y2": 491.0,
+   "text": "Attacco Extra (2)"
+  },
+  {
+   "x1": 109.0,
+   "y1": 491.0,
+   "x2": 146.0,
+   "y2": 521.0,
+   "text": "12°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 493.0,
+   "x2": 220.0,
+   "y2": 517.0,
+   "text": "+4"
+  },
+  {
+   "x1": 255.0,
+   "y1": 490.0,
+   "x2": 550.0,
+   "y2": 517.0,
+   "text": "Aumento dei Punteggidi Caratteristica"
+  },
+  {
+   "x1": 107.0,
+   "y1": 517.0,
+   "x2": 144.0,
+   "y2": 546.0,
+   "text": "13°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 517.0,
+   "x2": 218.0,
+   "y2": 543.0,
+   "text": "+5"
+  },
+  {
+   "x1": 257.0,
+   "y1": 519.0,
+   "x2": 428.0,
+   "y2": 544.0,
+   "text": "Indormito (due utilizzi)"
+  },
+  {
+   "x1": 107.0,
+   "y1": 544.0,
+   "x2": 146.0,
+   "y2": 574.0,
+   "text": "14°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 544.0,
+   "x2": 218.0,
+   "y2": 570.0,
+   "text": "+5"
+  },
+  {
+   "x1": 257.0,
+   "y1": 544.0,
+   "x2": 550.0,
+   "y2": 570.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 109.0,
+   "y1": 570.0,
+   "x2": 144.0,
+   "y2": 601.0,
+   "text": "15°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 572.0,
+   "x2": 218.0,
+   "y2": 597.0,
+   "text": "+5"
+  },
+  {
+   "x1": 257.0,
+   "y1": 572.0,
+   "x2": 508.0,
+   "y2": 596.0,
+   "text": "Privilegio dell'Archetipo Marziale"
+  },
+  {
+   "x1": 109.0,
+   "y1": 597.0,
+   "x2": 146.0,
+   "y2": 627.0,
+   "text": "16°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 596.0,
+   "x2": 220.0,
+   "y2": 627.0,
+   "text": "+5"
+  },
+  {
+   "x1": 257.0,
+   "y1": 597.0,
+   "x2": 552.0,
+   "y2": 623.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 107.0,
+   "y1": 623.0,
+   "x2": 144.0,
+   "y2": 652.0,
+   "text": "17°"
+  },
+  {
+   "x1": 185.0,
+   "y1": 621.0,
+   "x2": 220.0,
+   "y2": 652.0,
+   "text": "+6"
+  },
+  {
+   "x1": 257.0,
+   "y1": 625.0,
+   "x2": 574.0,
+   "y2": 649.0,
+   "text": "Azione Impetuosa (due utilizzi), Indorito"
+  },
+  {
+   "x1": 259.0,
+   "y1": 650.0,
+   "x2": 345.0,
+   "y2": 671.0,
+   "text": "(tre utilizzi)"
+  },
+  {
+   "x1": 109.0,
+   "y1": 674.0,
+   "x2": 142.0,
+   "y2": 698.0,
+   "text": "18°"
+  },
+  {
+   "x1": 188.0,
+   "y1": 674.0,
+   "x2": 218.0,
+   "y2": 700.0,
+   "text": "+6"
+  },
+  {
+   "x1": 257.0,
+   "y1": 674.0,
+   "x2": 508.0,
+   "y2": 698.0,
+   "text": "Privilegio dell'Archetipo Marziale"
+  },
+  {
+   "x1": 109.0,
+   "y1": 698.0,
+   "x2": 146.0,
+   "y2": 727.0,
+   "text": "19°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 702.0,
+   "x2": 218.0,
+   "y2": 725.0,
+   "text": "+6"
+  },
+  {
+   "x1": 255.0,
+   "y1": 702.0,
+   "x2": 550.0,
+   "y2": 725.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 646.0,
+   "y1": 713.0,
+   "x2": 997.0,
+   "y2": 736.0,
+   "text": "armi ora sono le sue proprietà più preziose."
+  },
+  {
+   "x1": 111.0,
+   "y1": 727.0,
+   "x2": 142.0,
+   "y2": 751.0,
+   "text": "20°"
+  },
+  {
+   "x1": 187.0,
+   "y1": 727.0,
+   "x2": 218.0,
+   "y2": 751.0,
+   "text": "+6"
+  },
+  {
+   "x1": 257.0,
+   "y1": 727.0,
+   "x2": 384.0,
+   "y2": 753.0,
+   "text": "Attacco Extra (3)"
+  },
+  {
+   "x1": 648.0,
+   "y1": 736.0,
+   "x2": 975.0,
+   "y2": 760.0,
+   "text": "le uniche cose che separano il guerriero"
+  },
+  {
+   "x1": 648.0,
+   "y1": 758.0,
+   "x2": 862.0,
+   "y2": 782.0,
+   "text": "dall'abbraccio della morte."
+  },
+  {
+   "x1": 648.0,
+   "y1": 798.0,
+   "x2": 864.0,
+   "y2": 826.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 648.0,
+   "y1": 826.0,
+   "x2": 1091.0,
+   "y2": 851.0,
+   "text": "È possibile creare un guerriero rapidamente seguendo"
+  },
+  {
+   "x1": 646.0,
+   "y1": 851.0,
+   "x2": 1099.0,
+   "y2": 875.0,
+   "text": "questi suggerimenti. Per prima cosa, Forza o Destrezza"
+  },
+  {
+   "x1": 96.0,
+   "y1": 877.0,
+   "x2": 593.0,
+   "y2": 901.0,
+   "text": "ufficiali militari, le guardie del corpo addestrate, i cavalieri"
+  },
+  {
+   "x1": 646.0,
+   "y1": 873.0,
+   "x2": 1141.0,
+   "y2": 897.0,
+   "text": "dovrebbe essere il punteggio di caratteristica più alto, in base"
+  },
+  {
+   "x1": 94.0,
+   "y1": 897.0,
+   "x2": 565.0,
+   "y2": 926.0,
+   "text": "giurati e altre figure analoghe sono invece dei guerrieri,"
+  },
+  {
+   "x1": 648.0,
+   "y1": 899.0,
+   "x2": 1130.0,
+   "y2": 917.0,
+   "text": "all'intenzione di concentrarsi sulle armi da mischia o quelle"
+  },
+  {
+   "x1": 113.0,
+   "y1": 923.0,
+   "x2": 574.0,
+   "y2": 948.0,
+   "text": "Alcuni guerrieri sentono il bisogno di impiegare il loro"
+  },
+  {
+   "x1": 646.0,
+   "y1": 919.0,
+   "x2": 1139.0,
+   "y2": 943.0,
+   "text": "a distanza (oppure nelle armi accurate). Il secondo punteggio"
+  },
+  {
+   "x1": 96.0,
+   "y1": 946.0,
+   "x2": 569.0,
+   "y2": 970.0,
+   "text": "addestramento come avventurieri. Esplorare i dungeon,"
+  },
+  {
+   "x1": 646.0,
+   "y1": 943.0,
+   "x2": 1141.0,
+   "y2": 967.0,
+   "text": "più alto dovrebbe essere Costituzione, oppure Intelligenza se"
+  },
+  {
+   "x1": 94.0,
+   "y1": 970.0,
+   "x2": 600.0,
+   "y2": 994.0,
+   "text": "uccidere i mostri e altre attività pericolose spesso associate"
+  },
+  {
+   "x1": 646.0,
+   "y1": 965.0,
+   "x2": 1149.0,
+   "y2": 988.0,
+   "text": "il giocatore intende adottare l'archetipo marziale del Cavaliere"
+  },
+  {
+   "x1": 96.0,
+   "y1": 992.0,
+   "x2": 585.0,
+   "y2": 1016.0,
+   "text": "agli avventurieri sono il pane quotidiano di un guerriero e"
+  },
+  {
+   "x1": 644.0,
+   "y1": 985.0,
+   "x2": 1034.0,
+   "y2": 1012.0,
+   "text": "Mistico. Poi si sceglie il background del soldato."
+  },
+  {
+   "x1": 98.0,
+   "y1": 1016.0,
+   "x2": 572.0,
+   "y2": 1034.0,
+   "text": "la vita da avventuriero non è poi troppo diversa da guella"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1038.0,
+   "x2": 556.0,
+   "y2": 1062.0,
+   "text": "che il guerriero si lascia alle spalle. Forse i rischi sono"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1030.0,
+   "x2": 1023.0,
+   "y2": 1071.0,
+   "text": "PriVILeGI DI CLassE"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1062.0,
+   "x2": 595.0,
+   "y2": 1085.0,
+   "text": "maggiori, ma lo stesso vale anche per le ricompense: pochi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1082.0,
+   "x2": 567.0,
+   "y2": 1105.0,
+   "text": "membri della guardia cittadina avranno l'opportunità di"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1074.0,
+   "x2": 1062.0,
+   "y2": 1098.0,
+   "text": "Un guerriero ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1107.0,
+   "x2": 561.0,
+   "y2": 1131.0,
+   "text": "trovare una spada magica lingua di fuoco, per esempio."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1114.0,
+   "x2": 805.0,
+   "y2": 1144.0,
+   "text": "PunTi FERItA"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1147.0,
+   "x2": 421.0,
+   "y2": 1180.0,
+   "text": "Creare Un Guerriero"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1142.0,
+   "x2": 1023.0,
+   "y2": 1169.0,
+   "text": "Dadi Vita: 1d10 per ogni livello da guerriero"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1168.0,
+   "x2": 1056.0,
+   "y2": 1191.0,
+   "text": "Punti Ferita al 1° Livello: 10 + il modificatore di"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1189.0,
+   "x2": 536.0,
+   "y2": 1213.0,
+   "text": "Al momento di creare il proprio guerriero, un giocatore"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1191.0,
+   "x2": 890.0,
+   "y2": 1215.0,
+   "text": "Costituzione del guerriero"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1213.0,
+   "x2": 600.0,
+   "y2": 1237.0,
+   "text": "dovrebbe pensare a due elementi relativi al background del suo"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1213.0,
+   "x2": 1042.0,
+   "y2": 1237.0,
+   "text": "Punti Ferita ai Liveili Successivi: 1d10 (o 6) + il"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1235.0,
+   "x2": 582.0,
+   "y2": 1259.0,
+   "text": "personaggio: dove ha ricevuto il suo addestramento marziale"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1237.0,
+   "x2": 1077.0,
+   "y2": 1263.0,
+   "text": "modificatore di Costituzione del guerriero per ogni"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1259.0,
+   "x2": 582.0,
+   "y2": 1283.0,
+   "text": "e cosa lo distingue dai comuni combattenti attorno a lui? Era"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1261.0,
+   "x2": 898.0,
+   "y2": 1284.0,
+   "text": "livello da guerriero dopo i) 1"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1283.0,
+   "x2": 563.0,
+   "y2": 1306.0,
+   "text": "particolarmente spietato? Ha ottenuto un aiuto particolare"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1303.0,
+   "x2": 578.0,
+   "y2": 1330.0,
+   "text": "da un mentore grazie alla sua straordinaria dedizione? Cosa"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1301.0,
+   "x2": 796.0,
+   "y2": 1328.0,
+   "text": "CompeTenze"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1325.0,
+   "x2": 574.0,
+   "y2": 1352.0,
+   "text": "lo ha spinto a cercare questo addestramento? Una minaccia"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1330.0,
+   "x2": 951.0,
+   "y2": 1354.0,
+   "text": "Armature: Tutte le armature, scudi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1350.0,
+   "x2": 582.0,
+   "y2": 1374.0,
+   "text": "alla sua terra natia, il desiderio di vendicarsi o la necessità di"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1354.0,
+   "x2": 962.0,
+   "y2": 1378.0,
+   "text": "Armi: Armi semplici, armi da guerra"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1376.0,
+   "x2": 497.0,
+   "y2": 1394.0,
+   "text": "dimostrare il suo valore sono tutti fattori plausibili."
+  },
+  {
+   "x1": 644.0,
+   "y1": 1372.0,
+   "x2": 831.0,
+   "y2": 1402.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1396.0,
+   "x2": 593.0,
+   "y2": 1420.0,
+   "text": "Un guerriero può avere ricevuto un addestramento formale"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1409.0,
+   "x2": 942.0,
+   "y2": 1432.0,
+   "text": "Tiri Salvezza: Forza, Costituzione"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1420.0,
+   "x2": 547.0,
+   "y2": 1443.0,
+   "text": "nell'esercito di un nobile o in una milizia locale. Forse si"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1440.0,
+   "x2": 539.0,
+   "y2": 1467.0,
+   "text": "è addestrato presso un'accademia di guerra, studiando"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1432.0,
+   "x2": 1043.0,
+   "y2": 1456.0,
+   "text": "Abilità: Due a scelta tra Acrobazia, Addestrare"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1463.0,
+   "x2": 534.0,
+   "y2": 1491.0,
+   "text": "strategie, tattiche e storia militare. O forse si è fatto da"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1454.0,
+   "x2": 1104.0,
+   "y2": 1482.0,
+   "text": "Animali, Atletica, Intimidire, Intuizione, Percezione,"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1478.0,
+   "x2": 864.0,
+   "y2": 1504.0,
+   "text": "Sopravvivenza e Storia"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1493.0,
+   "x2": 556.0,
+   "y2": 1511.0,
+   "text": "solo, senza benefciare di un addestramento raffinato, ma"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1513.0,
+   "x2": 548.0,
+   "y2": 1537.0,
+   "text": "facendo buon uso delle sue esperienze. Ha impugnato la"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1520.0,
+   "x2": 859.0,
+   "y2": 1548.0,
+   "text": "EQuipaggiamento"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1537.0,
+   "x2": 578.0,
+   "y2": 1560.0,
+   "text": "spada per sfuggire ai limiti di una vita da contadino, oppure"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1546.0,
+   "x2": 1086.0,
+   "y2": 1575.0,
+   "text": "Un guerriero inizia con l'equipaggiamento seguente,"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1557.0,
+   "x2": 560.0,
+   "y2": 1584.0,
+   "text": "porta avanti un'orgogliosa tradizione familiare? Dove si è"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1571.0,
+   "x2": 1064.0,
+   "y2": 1597.0,
+   "text": "in aggiunta all'equipaggiamento conferito dal suo"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1582.0,
+   "x2": 596.0,
+   "y2": 1606.0,
+   "text": "procurato le sue armi e la sua armatura? Gli sono state fornite"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1602.0,
+   "x2": 576.0,
+   "y2": 1630.0,
+   "text": "dall'esercito, sono cimeli di famiglia o forse le ha acquistate"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1595.0,
+   "x2": 759.0,
+   "y2": 1621.0,
+   "text": "background:"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1626.0,
+   "x2": 574.0,
+   "y2": 1654.0,
+   "text": "tirando la cinghia e usando i risparmi di molti anni? Le sue"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1628.0,
+   "x2": 1147.0,
+   "y2": 1654.0,
+   "text": "(a) una cotta di maglia o (b) un'armatura di cuoio, un arco"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1654.0,
+   "x2": 814.0,
+   "y2": 1677.0,
+   "text": "lungo e 20 frecce"
+  },
+  {
+   "x1": 971.0,
+   "y1": 1688.0,
+   "x2": 1147.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3|CLASSI"
+  }
+ ],
+ "reading_text": "GUERRIERO\nBonus di\nLivello Competenza Privilegi\nStile di Combattimento, Recuperare Energie\n+2\n1°\n+2\nAzione Impetuosa (un utilizzo)\n2°\n+2\nArchetipo Marziale\n3°\n+2\nAumento dei Punteggi di Caratteristica\n4°\n+3\nAttacco Extra\n5°\nAumento dei Punteggi di Caratteristica\n+3\n6°\n+3\nPrivilegio dell'Archetipo Marziale\n7°\n+3\nAumento dei Punteggi di Caratteristica.\n8°\nIndomito (un utilizzo)\n+4\n9°\nPrivilegio dell'Archetipo Marziale\n+4\n10*\n11°\n+4\nAttacco Extra (2)\nAumento dei Punteggidi Caratteristica\n12°\n+4\n13°\n+5\nIndormito (due utilizzi)\n14°\n+5\nAumento dei Punteggi di Caratteristica\n15°\n+5\nPrivilegio dell'Archetipo Marziale\n+5\n16°\nAumento dei Punteggi di Caratteristica\n+6\n17°\nAzione Impetuosa (due utilizzi), Indorito\n(tre utilizzi)\n18°\n+6\nPrivilegio dell'Archetipo Marziale\n19°\n+6\nAumento dei Punteggi di Caratteristica\n20°\n+6\nAttacco Extra (3)\nufficiali militari, le guardie del corpo addestrate, i cavalieri\ngiurati e altre figure analoghe sono invece dei guerrieri,\nAlcuni guerrieri sentono il bisogno di impiegare il loro\naddestramento come avventurieri. Esplorare i dungeon,\nuccidere i mostri e altre attività pericolose spesso associate\nagli avventurieri sono il pane quotidiano di un guerriero e\nla vita da avventuriero non è poi troppo diversa da guella\nche il guerriero si lascia alle spalle. Forse i rischi sono\nmaggiori, ma lo stesso vale anche per le ricompense: pochi\nmembri della guardia cittadina avranno l'opportunità di\ntrovare una spada magica lingua di fuoco, per esempio.\nCreare Un Guerriero\nAl momento di creare il proprio guerriero, un giocatore\ndovrebbe pensare a due elementi relativi al background del suo\npersonaggio: dove ha ricevuto il suo addestramento marziale\ne cosa lo distingue dai comuni combattenti attorno a lui? Era\nparticolarmente spietato? Ha ottenuto un aiuto particolare\nda un mentore grazie alla sua straordinaria dedizione? Cosa\nlo ha spinto a cercare questo addestramento? Una minaccia\nalla sua terra natia, il desiderio di vendicarsi o la necessità di\ndimostrare il suo valore sono tutti fattori plausibili.\nUn guerriero può avere ricevuto un addestramento formale\nnell'esercito di un nobile o in una milizia locale. Forse si\nè addestrato presso un'accademia di guerra, studiando\nstrategie, tattiche e storia militare. O forse si è fatto da\nsolo, senza benefciare di un addestramento raffinato, ma\nfacendo buon uso delle sue esperienze. Ha impugnato la\nspada per sfuggire ai limiti di una vita da contadino, oppure\nporta avanti un'orgogliosa tradizione familiare? Dove si è\nprocurato le sue armi e la sua armatura? Gli sono state fornite\ndall'esercito, sono cimeli di famiglia o forse le ha acquistate\ntirando la cinghia e usando i risparmi di molti anni? Le sue\narmi ora sono le sue proprietà più preziose.\nle uniche cose che separano il guerriero\ndall'abbraccio della morte.\nCreazione Rapida\nÈ possibile creare un guerriero rapidamente seguendo\nquesti suggerimenti. Per prima cosa, Forza o Destrezza\ndovrebbe essere il punteggio di caratteristica più alto, in base\nall'intenzione di concentrarsi sulle armi da mischia o quelle\na distanza (oppure nelle armi accurate). Il secondo punteggio\npiù alto dovrebbe essere Costituzione, oppure Intelligenza se\nil giocatore intende adottare l'archetipo marziale del Cavaliere\nMistico. Poi si sceglie il background del soldato.\nPriVILeGI DI CLassE\nUn guerriero ottiene i seguenti privilegi di classe.\nPunTi FERItA\nDadi Vita: 1d10 per ogni livello da guerriero\nPunti Ferita al 1° Livello: 10 + il modificatore di\nCostituzione del guerriero\nPunti Ferita ai Liveili Successivi: 1d10 (o 6) + il\nmodificatore di Costituzione del guerriero per ogni\nlivello da guerriero dopo i) 1\nCompeTenze\nArmature: Tutte le armature, scudi\nArmi: Armi semplici, armi da guerra\nStrumenti: Nessuno\nTiri Salvezza: Forza, Costituzione\nAbilità: Due a scelta tra Acrobazia, Addestrare\nAnimali, Atletica, Intimidire, Intuizione, Percezione,\nSopravvivenza e Storia\nEQuipaggiamento\nUn guerriero inizia con l'equipaggiamento seguente,\nin aggiunta all'equipaggiamento conferito dal suo\nbackground:\n(a) una cotta di maglia o (b) un'armatura di cuoio, un arco\nlungo e 20 frecce\nCAPITOLO 3|CLASSI"
+}

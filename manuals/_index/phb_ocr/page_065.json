@@ -1,0 +1,913 @@
+{
+ "pdf_page_index": 65,
+ "page_label": 66,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 129,
+ "lines": [
+  {
+   "x1": 122.0,
+   "y1": 88.0,
+   "x2": 334.0,
+   "y2": 111.0,
+   "text": "EQUipaggiamento"
+  },
+  {
+   "x1": 683.0,
+   "y1": 86.0,
+   "x2": 1136.0,
+   "y2": 110.0,
+   "text": "Per esempio, un druido di 3° livello possiede quattro slot"
+  },
+  {
+   "x1": 122.0,
+   "y1": 110.0,
+   "x2": 556.0,
+   "y2": 137.0,
+   "text": "Un druido inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 665.0,
+   "y1": 110.0,
+   "x2": 1136.0,
+   "y2": 133.0,
+   "text": "incantesimo di 1º livello e due slot incantesimo di 2° livello."
+  },
+  {
+   "x1": 120.0,
+   "y1": 135.0,
+   "x2": 621.0,
+   "y2": 163.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 667.0,
+   "y1": 132.0,
+   "x2": 1162.0,
+   "y2": 155.0,
+   "text": "Con Saggezza pari a 16, la lista dei suoi incantesimi preparati"
+  },
+  {
+   "x1": 665.0,
+   "y1": 155.0,
+   "x2": 1128.0,
+   "y2": 179.0,
+   "text": "può includere sei incantesimi di 1° o 2° livello, in qualsiasi"
+  },
+  {
+   "x1": 133.0,
+   "y1": 166.0,
+   "x2": 606.0,
+   "y2": 192.0,
+   "text": "(a) uno scudo di legno o (b) una qualsiasi arma semplice"
+  },
+  {
+   "x1": 665.0,
+   "y1": 177.0,
+   "x2": 1121.0,
+   "y2": 201.0,
+   "text": "combinazione. Se prepara l'incantesimo di 1° livello cura"
+  },
+  {
+   "x1": 137.0,
+   "y1": 192.0,
+   "x2": 574.0,
+   "y2": 216.0,
+   "text": "(a) una scimitarra o (b) una qualsiasi arma semplice"
+  },
+  {
+   "x1": 667.0,
+   "y1": 201.0,
+   "x2": 1160.0,
+   "y2": 225.0,
+   "text": "ferite, potrà lanciarlo usando uno slot incantesimo di 1º livello"
+  },
+  {
+   "x1": 136.0,
+   "y1": 212.0,
+   "x2": 244.0,
+   "y2": 242.0,
+   "text": "da mischia"
+  },
+  {
+   "x1": 665.0,
+   "y1": 223.0,
+   "x2": 1114.0,
+   "y2": 247.0,
+   "text": "o di 2° livello. Il lancio di quell'incantesimo non rimuove"
+  },
+  {
+   "x1": 133.0,
+   "y1": 234.0,
+   "x2": 611.0,
+   "y2": 261.0,
+   "text": "Un'armatura di cuoio, una dotazione da esploratore e un"
+  },
+  {
+   "x1": 665.0,
+   "y1": 247.0,
+   "x2": 1091.0,
+   "y2": 270.0,
+   "text": "quell'incantesimo dalla lista di incantesimi preparati."
+  },
+  {
+   "x1": 140.0,
+   "y1": 261.0,
+   "x2": 264.0,
+   "y2": 281.0,
+   "text": "focus druidico"
+  },
+  {
+   "x1": 683.0,
+   "y1": 269.0,
+   "x2": 1112.0,
+   "y2": 292.0,
+   "text": "Il druido può cambiare la lista dei suoi incantesimi"
+  },
+  {
+   "x1": 122.0,
+   "y1": 298.0,
+   "x2": 262.0,
+   "y2": 329.0,
+   "text": "DRUIdicO"
+  },
+  {
+   "x1": 665.0,
+   "y1": 290.0,
+   "x2": 1156.0,
+   "y2": 316.0,
+   "text": "preparati quando completa un riposo lungo. Per preparare"
+  },
+  {
+   "x1": 663.0,
+   "y1": 312.0,
+   "x2": 1139.0,
+   "y2": 336.0,
+   "text": "una nuova lista di incantesimi da druido è necessario un"
+  },
+  {
+   "x1": 120.0,
+   "y1": 338.0,
+   "x2": 619.0,
+   "y2": 365.0,
+   "text": "Un druido conosce il Druidico, il linguaggio segreto del suo"
+  },
+  {
+   "x1": 665.0,
+   "y1": 338.0,
+   "x2": 1134.0,
+   "y2": 356.0,
+   "text": "certo ammontare di tempo da trascorrere in preghiera e"
+  },
+  {
+   "x1": 120.0,
+   "y1": 364.0,
+   "x2": 613.0,
+   "y2": 387.0,
+   "text": "ordine: può parlare in quel linguaggio e usarlo per lasciare"
+  },
+  {
+   "x1": 665.0,
+   "y1": 362.0,
+   "x2": 1134.0,
+   "y2": 380.0,
+   "text": "meditazione: almeno 1 minuto per livello di incantesimo"
+  },
+  {
+   "x1": 120.0,
+   "y1": 384.0,
+   "x2": 609.0,
+   "y2": 411.0,
+   "text": "messaggi segreti. Il druido e coloro che conoscono questo"
+  },
+  {
+   "x1": 665.0,
+   "y1": 380.0,
+   "x2": 971.0,
+   "y2": 407.0,
+   "text": "per ogni incantesimo nella sua lista."
+  },
+  {
+   "x1": 120.0,
+   "y1": 409.0,
+   "x2": 571.0,
+   "y2": 433.0,
+   "text": "linguaggio sono in grado di avvistare questi messaggi"
+  },
+  {
+   "x1": 118.0,
+   "y1": 431.0,
+   "x2": 595.0,
+   "y2": 455.0,
+   "text": "automaticamente. Altri possono notare la presenza di un"
+  },
+  {
+   "x1": 669.0,
+   "y1": 424.0,
+   "x2": 1042.0,
+   "y2": 448.0,
+   "text": "Caratteristica da Incantatore"
+  },
+  {
+   "x1": 122.0,
+   "y1": 453.0,
+   "x2": 598.0,
+   "y2": 479.0,
+   "text": "messaggio in Druidico superando una prova di Saggezza"
+  },
+  {
+   "x1": 663.0,
+   "y1": 444.0,
+   "x2": 1125.0,
+   "y2": 477.0,
+   "text": "Saggezza è la caratteristica da incantatore usata per gli"
+  },
+  {
+   "x1": 122.0,
+   "y1": 477.0,
+   "x2": 606.0,
+   "y2": 501.0,
+   "text": "(Percezione) conCD 15, ma non possono decifrarlo senza"
+  },
+  {
+   "x1": 665.0,
+   "y1": 473.0,
+   "x2": 1149.0,
+   "y2": 497.0,
+   "text": "incantesimi da druido. Il potere dei suoi incantesimi deriva"
+  },
+  {
+   "x1": 118.0,
+   "y1": 495.0,
+   "x2": 285.0,
+   "y2": 527.0,
+   "text": "l'aiuto della magia."
+  },
+  {
+   "x1": 665.0,
+   "y1": 495.0,
+   "x2": 1106.0,
+   "y2": 519.0,
+   "text": "dalla sua devozione e dalla sua sintonia con la natura."
+  },
+  {
+   "x1": 663.0,
+   "y1": 515.0,
+   "x2": 1116.0,
+   "y2": 543.0,
+   "text": "Un druido usa Saggezza ogni volta che un incantesimo"
+  },
+  {
+   "x1": 120.0,
+   "y1": 537.0,
+   "x2": 307.0,
+   "y2": 574.0,
+   "text": "IncaNTesimi"
+  },
+  {
+   "x1": 667.0,
+   "y1": 541.0,
+   "x2": 1125.0,
+   "y2": 565.0,
+   "text": "fa riferimento alla sua caratteristica da incantatore. Usa"
+  },
+  {
+   "x1": 667.0,
+   "y1": 563.0,
+   "x2": 1160.0,
+   "y2": 586.0,
+   "text": "inoltre il suo modificatore di Saggezza per definire la CD del"
+  },
+  {
+   "x1": 120.0,
+   "y1": 575.0,
+   "x2": 602.0,
+   "y2": 603.0,
+   "text": "Un druido attinge all'essenza divina della natura stessa e può"
+  },
+  {
+   "x1": 669.0,
+   "y1": 588.0,
+   "x2": 1138.0,
+   "y2": 607.0,
+   "text": "tiro salvezza di un incantesimo da druido da lui lanciato e"
+  },
+  {
+   "x1": 118.0,
+   "y1": 601.0,
+   "x2": 595.0,
+   "y2": 625.0,
+   "text": "lanciare incantesimi che modellano tale essenza in base alla"
+  },
+  {
+   "x1": 665.0,
+   "y1": 607.0,
+   "x2": 1115.0,
+   "y2": 630.0,
+   "text": "quando effettua un tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 120.0,
+   "y1": 625.0,
+   "x2": 619.0,
+   "y2": 649.0,
+   "text": "sua volontà. Vedi il capitolo 10 per le regole generali relative alla"
+  },
+  {
+   "x1": 118.0,
+   "y1": 647.0,
+   "x2": 595.0,
+   "y2": 671.0,
+   "text": "magia e il capitolo 11 per la lista degli incantesimi da druido."
+  },
+  {
+   "x1": 669.0,
+   "y1": 645.0,
+   "x2": 1163.0,
+   "y2": 669.0,
+   "text": "CD del tiro salvezza dell'incanteslmo = 8 + il bonus dicompetenza"
+  },
+  {
+   "x1": 726.0,
+   "y1": 672.0,
+   "x2": 1108.0,
+   "y2": 696.0,
+   "text": "del druido + il modificatore di Saggezza del druido"
+  },
+  {
+   "x1": 120.0,
+   "y1": 685.0,
+   "x2": 263.0,
+   "y2": 715.0,
+   "text": "TRucchetti"
+  },
+  {
+   "x1": 120.0,
+   "y1": 716.0,
+   "x2": 613.0,
+   "y2": 740.0,
+   "text": "Al 1' livello, un druido conosce due trucchetti a sua scelta tratti"
+  },
+  {
+   "x1": 670.0,
+   "y1": 711.0,
+   "x2": 1162.0,
+   "y2": 734.0,
+   "text": "Modificatore di attacco dell'incantesimo = il bonus di competenza"
+  },
+  {
+   "x1": 120.0,
+   "y1": 736.0,
+   "x2": 609.0,
+   "y2": 764.0,
+   "text": "dalla lista degli incantesimi da druido. Apprende ulteriori truc-"
+  },
+  {
+   "x1": 726.0,
+   "y1": 738.0,
+   "x2": 1108.0,
+   "y2": 762.0,
+   "text": "del druido + il modificatore di Saggezza del druido"
+  },
+  {
+   "x1": 124.0,
+   "y1": 764.0,
+   "x2": 604.0,
+   "y2": 782.0,
+   "text": "chetti da druido a sua scelta ai livelli successivi, come indicato"
+  },
+  {
+   "x1": 120.0,
+   "y1": 786.0,
+   "x2": 589.0,
+   "y2": 804.0,
+   "text": "dalla colonna \"Trucchetti Conosciuti\" nella tabella \"Druido\"."
+  },
+  {
+   "x1": 667.0,
+   "y1": 787.0,
+   "x2": 890.0,
+   "y2": 817.0,
+   "text": "Celebrare Rituali"
+  },
+  {
+   "x1": 667.0,
+   "y1": 817.0,
+   "x2": 1132.0,
+   "y2": 840.0,
+   "text": "Un druido può lanciare un incantesimo da druido come"
+  },
+  {
+   "x1": 122.0,
+   "y1": 837.0,
+   "x2": 528.0,
+   "y2": 861.0,
+   "text": "Preparare e Lanciare Incantesimi"
+  },
+  {
+   "x1": 665.0,
+   "y1": 839.0,
+   "x2": 1162.0,
+   "y2": 862.0,
+   "text": "rituale se quell'incantesimo possiede il descrittore rituale e"
+  },
+  {
+   "x1": 120.0,
+   "y1": 862.0,
+   "x2": 609.0,
+   "y2": 886.0,
+   "text": "La tabella \"Druido\" indica quanti slot incantesimo possiede"
+  },
+  {
+   "x1": 663.0,
+   "y1": 859.0,
+   "x2": 877.0,
+   "y2": 886.0,
+   "text": "il druido lo ha preparato."
+  },
+  {
+   "x1": 122.0,
+   "y1": 888.0,
+   "x2": 582.0,
+   "y2": 906.0,
+   "text": "un druido per lanciare i suoi incantesimi di 1° livello e di"
+  },
+  {
+   "x1": 120.0,
+   "y1": 908.0,
+   "x2": 595.0,
+   "y2": 934.0,
+   "text": "livello superiore. Per lanciare uno di questi incantesimi, il"
+  },
+  {
+   "x1": 665.0,
+   "y1": 901.0,
+   "x2": 931.0,
+   "y2": 930.0,
+   "text": "Focus da Incantatore"
+  },
+  {
+   "x1": 120.0,
+   "y1": 932.0,
+   "x2": 602.0,
+   "y2": 956.0,
+   "text": "druido deve spendere uno slot incantesimo di livello pari o"
+  },
+  {
+   "x1": 665.0,
+   "y1": 928.0,
+   "x2": 1138.0,
+   "y2": 952.0,
+   "text": "Un druido può usare un focus druidico (vedi il capitoto 5,"
+  },
+  {
+   "x1": 118.0,
+   "y1": 954.0,
+   "x2": 608.0,
+   "y2": 977.0,
+   "text": "superiore al livello dell'incantesimo. Il druido recupera tutti"
+  },
+  {
+   "x1": 667.0,
+   "y1": 950.0,
+   "x2": 1143.0,
+   "y2": 979.0,
+   "text": "Equipaggiamento\") come focus da incantatore per i suoi"
+  },
+  {
+   "x1": 120.0,
+   "y1": 977.0,
+   "x2": 609.0,
+   "y2": 1001.0,
+   "text": "gli slot incantesimo spesi quando completa un riposo lungo."
+  },
+  {
+   "x1": 667.0,
+   "y1": 977.0,
+   "x2": 859.0,
+   "y2": 1001.0,
+   "text": "incantesimi da druido."
+  },
+  {
+   "x1": 139.0,
+   "y1": 1003.0,
+   "x2": 578.0,
+   "y2": 1021.0,
+   "text": "Il druido prepara la lista degli incantesimi da druido"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1023.0,
+   "x2": 547.0,
+   "y2": 1047.0,
+   "text": "disponibili da lanciare scegliendoli dalla lista degli"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1016.0,
+   "x2": 912.0,
+   "y2": 1049.0,
+   "text": "Forma Selvatica"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1045.0,
+   "x2": 578.0,
+   "y2": 1069.0,
+   "text": "incantesimi da druido. Quando lo fa, deve scegliere un"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1056.0,
+   "x2": 1141.0,
+   "y2": 1080.0,
+   "text": "A partire dal 2° livello, un druido può usare la sua azione"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1069.0,
+   "x2": 620.0,
+   "y2": 1093.0,
+   "text": "numero di incantesimi da druido pari al suo modificatore di"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1091.0,
+   "x2": 609.0,
+   "y2": 1115.0,
+   "text": "Saggezza + il suo livello da druido (fino a un minimo di un"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1082.0,
+   "x2": 1145.0,
+   "y2": 1105.0,
+   "text": "per assumere magicamente la forma di una bestia che ha"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1104.0,
+   "x2": 1132.0,
+   "y2": 1127.0,
+   "text": "già visto in precedenza. Può utilizzare questo privilegio"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1111.0,
+   "x2": 613.0,
+   "y2": 1138.0,
+   "text": "incantesimo). Gli incantesimi devono essere di un livello di"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1124.0,
+   "x2": 1141.0,
+   "y2": 1147.0,
+   "text": "due volte e recupera gli utilizzi spesi quando completa un"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1135.0,
+   "x2": 493.0,
+   "y2": 1158.0,
+   "text": "cui il druido possiede degli slot incantesimo."
+  },
+  {
+   "x1": 665.0,
+   "y1": 1149.0,
+   "x2": 859.0,
+   "y2": 1173.0,
+   "text": "riposo breve o lungo."
+  },
+  {
+   "x1": 680.0,
+   "y1": 1169.0,
+   "x2": 1123.0,
+   "y2": 1193.0,
+   "text": "Il livello da druido determina le bestie in cui egli può"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1189.0,
+   "x2": 351.0,
+   "y2": 1213.0,
+   "text": "ALBERI E PIANTE SACRe"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1191.0,
+   "x2": 1149.0,
+   "y2": 1219.0,
+   "text": "trasformarsi, come indicato nella tabella \"Forme Bestiali\""
+  },
+  {
+   "x1": 127.0,
+   "y1": 1217.0,
+   "x2": 595.0,
+   "y2": 1241.0,
+   "text": "Un druido considera alcune piante particolarmente sacre: betulla,"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1219.0,
+   "x2": 1147.0,
+   "y2": 1242.0,
+   "text": "sottostante. Al 2° livello, per esempio, può trasformarsi in"
+  },
+  {
+   "x1": 131.0,
+   "y1": 1242.0,
+   "x2": 571.0,
+   "y2": 1266.0,
+   "text": "frassino, ginepro, nocciolo, ontano, quercia, salice, sambuco,"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1241.0,
+   "x2": 1154.0,
+   "y2": 1264.0,
+   "text": "qualsiasi bestia che abbia un grado di sfida pari o inferiore"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1263.0,
+   "x2": 593.0,
+   "y2": 1286.0,
+   "text": "sorbo, tasso e vischio. I druidi spesso usano queste piante come"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1264.0,
+   "x2": 1119.0,
+   "y2": 1288.0,
+   "text": "a 1,4 che non abbia una velocità di nuotare o di volare."
+  },
+  {
+   "x1": 127.0,
+   "y1": 1286.0,
+   "x2": 596.0,
+   "y2": 1310.0,
+   "text": "parte di un focus da incantatore, utilizzando frammenti di quercia"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1310.0,
+   "x2": 355.0,
+   "y2": 1334.0,
+   "text": "o di tasso, o rametti di vischio."
+  },
+  {
+   "x1": 667.0,
+   "y1": 1312.0,
+   "x2": 840.0,
+   "y2": 1337.0,
+   "text": "FORmE BESTIALI"
+  },
+  {
+   "x1": 140.0,
+   "y1": 1330.0,
+   "x2": 595.0,
+   "y2": 1359.0,
+   "text": "Allo stesso modo, un druido usa il legno di queste piante per"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1343.0,
+   "x2": 886.0,
+   "y2": 1367.0,
+   "text": "Livello GS Max Limitazionl"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1354.0,
+   "x2": 580.0,
+   "y2": 1381.0,
+   "text": "fabbricare altri oggetti come armi e scudi. Il tasso è associato"
+  },
+  {
+   "x1": 1038.0,
+   "y1": 1345.0,
+   "x2": 1110.0,
+   "y2": 1370.0,
+   "text": "Esempio"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1378.0,
+   "x2": 561.0,
+   "y2": 1405.0,
+   "text": "alla morte e alla rinascita, quindi in genere viene usato per"
+  },
+  {
+   "x1": 683.0,
+   "y1": 1374.0,
+   "x2": 709.0,
+   "y2": 1400.0,
+   "text": "2°"
+  },
+  {
+   "x1": 746.0,
+   "y1": 1376.0,
+   "x2": 777.0,
+   "y2": 1400.0,
+   "text": "1/4"
+  },
+  {
+   "x1": 801.0,
+   "y1": 1376.0,
+   "x2": 1016.0,
+   "y2": 1400.0,
+   "text": "Nessuna velocità di nuotare"
+  },
+  {
+   "x1": 1031.0,
+   "y1": 1373.0,
+   "x2": 1087.0,
+   "y2": 1404.0,
+   "text": "Lupo"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1403.0,
+   "x2": 587.0,
+   "y2": 1427.0,
+   "text": "costruire le impugnature di scimitarre e falcetti. Con il legno di"
+  },
+  {
+   "x1": 801.0,
+   "y1": 1401.0,
+   "x2": 886.0,
+   "y2": 1421.0,
+   "text": "o di volare"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1425.0,
+   "x2": 576.0,
+   "y2": 1451.0,
+   "text": "queste piante si fabbricano ottime impugnature o addirittura"
+  },
+  {
+   "x1": 746.0,
+   "y1": 1427.0,
+   "x2": 779.0,
+   "y2": 1451.0,
+   "text": "1/2"
+  },
+  {
+   "x1": 801.0,
+   "y1": 1425.0,
+   "x2": 1003.0,
+   "y2": 1449.0,
+   "text": "Nessuna velocità di volare"
+  },
+  {
+   "x1": 1034.0,
+   "y1": 1423.0,
+   "x2": 1128.0,
+   "y2": 1449.0,
+   "text": "Coccodrillo"
+  },
+  {
+   "x1": 678.0,
+   "y1": 1418.0,
+   "x2": 713.0,
+   "y2": 1453.0,
+   "text": "\\r$"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1447.0,
+   "x2": 598.0,
+   "y2": 1473.0,
+   "text": "armi intere, come randelli e bastoni ferrati, e perfino degli scudi."
+  },
+  {
+   "x1": 683.0,
+   "y1": 1449.0,
+   "x2": 709.0,
+   "y2": 1476.0,
+   "text": "8°"
+  },
+  {
+   "x1": 752.0,
+   "y1": 1451.0,
+   "x2": 770.0,
+   "y2": 1469.0,
+   "text": "1"
+  },
+  {
+   "x1": 1036.0,
+   "y1": 1449.0,
+   "x2": 1151.0,
+   "y2": 1480.0,
+   "text": "Aquila gigante"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1473.0,
+   "x2": 585.0,
+   "y2": 1496.0,
+   "text": "L'ontano è associato all'aria e può essere usato per armi come"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1496.0,
+   "x2": 266.0,
+   "y2": 1516.0,
+   "text": "dardi e giavellotti."
+  },
+  {
+   "x1": 680.0,
+   "y1": 1489.0,
+   "x2": 1145.0,
+   "y2": 1517.0,
+   "text": "Un druido può rimanere in forma bestiale per un numero"
+  },
+  {
+   "x1": 142.0,
+   "y1": 1516.0,
+   "x2": 569.0,
+   "y2": 1540.0,
+   "text": "I druidi di quelle regioni in cui le piante e'encate finora non"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1516.0,
+   "x2": 1154.0,
+   "y2": 1540.0,
+   "text": "di ore pari alla metà del suo livello da druido (arrotondato per"
+  },
+  {
+   "x1": 129.0,
+   "y1": 1540.0,
+   "x2": 571.0,
+   "y2": 1564.0,
+   "text": "es stono scelgono in genere altre piante da utilizzare in modo"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1540.0,
+   "x2": 1127.0,
+   "y2": 1564.0,
+   "text": "difetto), poi torna alla sua forma normale, a meno che non"
+  },
+  {
+   "x1": 127.0,
+   "y1": 1564.0,
+   "x2": 543.0,
+   "y2": 1588.0,
+   "text": "analogo. Per esempio, un druido di una regione desertica"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1562.0,
+   "x2": 1149.0,
+   "y2": 1586.0,
+   "text": "spenda un altro utilizzo di questo privilegio.Può tornare alla"
+  },
+  {
+   "x1": 126.0,
+   "y1": 1586.0,
+   "x2": 550.0,
+   "y2": 1610.0,
+   "text": "potrebbe considerare sacri l'albero defla gomma e il cactus."
+  },
+  {
+   "x1": 665.0,
+   "y1": 1586.0,
+   "x2": 1149.0,
+   "y2": 1610.0,
+   "text": "sua forma normale anticipatamente usando un'azione bonus"
+  },
+  {
+   "x1": 667.0,
+   "y1": 1611.0,
+   "x2": 1160.0,
+   "y2": 1630.0,
+   "text": "nel suo turno. Torna automaticamente alla sua forma normale"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1632.0,
+   "x2": 1097.0,
+   "y2": 1655.0,
+   "text": "se cade privo di sensi, scende a O punti ferita o muore."
+  },
+  {
+   "x1": 30.0,
+   "y1": 1697.0,
+   "x2": 57.0,
+   "y2": 1719.0,
+   "text": "66"
+  },
+  {
+   "x1": 120.0,
+   "y1": 1688.0,
+   "x2": 295.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3 CLASSI"
+  }
+ ],
+ "reading_text": "EQUipaggiamento\nUn druido inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\n(a) uno scudo di legno o (b) una qualsiasi arma semplice\n(a) una scimitarra o (b) una qualsiasi arma semplice\nda mischia\nUn'armatura di cuoio, una dotazione da esploratore e un\nfocus druidico\nDRUIdicO\nUn druido conosce il Druidico, il linguaggio segreto del suo\nordine: può parlare in quel linguaggio e usarlo per lasciare\nmessaggi segreti. Il druido e coloro che conoscono questo\nlinguaggio sono in grado di avvistare questi messaggi\nautomaticamente. Altri possono notare la presenza di un\nmessaggio in Druidico superando una prova di Saggezza\n(Percezione) conCD 15, ma non possono decifrarlo senza\nl'aiuto della magia.\nIncaNTesimi\nUn druido attinge all'essenza divina della natura stessa e può\nlanciare incantesimi che modellano tale essenza in base alla\nsua volontà. Vedi il capitolo 10 per le regole generali relative alla\nmagia e il capitolo 11 per la lista degli incantesimi da druido.\nTRucchetti\nAl 1' livello, un druido conosce due trucchetti a sua scelta tratti\ndalla lista degli incantesimi da druido. Apprende ulteriori truc-\nchetti da druido a sua scelta ai livelli successivi, come indicato\ndalla colonna \"Trucchetti Conosciuti\" nella tabella \"Druido\".\nPreparare e Lanciare Incantesimi\nLa tabella \"Druido\" indica quanti slot incantesimo possiede\nun druido per lanciare i suoi incantesimi di 1° livello e di\nlivello superiore. Per lanciare uno di questi incantesimi, il\ndruido deve spendere uno slot incantesimo di livello pari o\nsuperiore al livello dell'incantesimo. Il druido recupera tutti\ngli slot incantesimo spesi quando completa un riposo lungo.\nIl druido prepara la lista degli incantesimi da druido\ndisponibili da lanciare scegliendoli dalla lista degli\nincantesimi da druido. Quando lo fa, deve scegliere un\nnumero di incantesimi da druido pari al suo modificatore di\nSaggezza + il suo livello da druido (fino a un minimo di un\nincantesimo). Gli incantesimi devono essere di un livello di\ncui il druido possiede degli slot incantesimo.\nALBERI E PIANTE SACRe\nUn druido considera alcune piante particolarmente sacre: betulla,\nfrassino, ginepro, nocciolo, ontano, quercia, salice, sambuco,\nsorbo, tasso e vischio. I druidi spesso usano queste piante come\nparte di un focus da incantatore, utilizzando frammenti di quercia\no di tasso, o rametti di vischio.\nAllo stesso modo, un druido usa il legno di queste piante per\nfabbricare altri oggetti come armi e scudi. Il tasso è associato\nalla morte e alla rinascita, quindi in genere viene usato per\ncostruire le impugnature di scimitarre e falcetti. Con il legno di\nqueste piante si fabbricano ottime impugnature o addirittura\narmi intere, come randelli e bastoni ferrati, e perfino degli scudi.\nL'ontano è associato all'aria e può essere usato per armi come\ndardi e giavellotti.\nI druidi di quelle regioni in cui le piante e'encate finora non\nes stono scelgono in genere altre piante da utilizzare in modo\nanalogo. Per esempio, un druido di una regione desertica\npotrebbe considerare sacri l'albero defla gomma e il cactus.\nCAPITOLO 3 CLASSI\n66\nPer esempio, un druido di 3° livello possiede quattro slot\nincantesimo di 1º livello e due slot incantesimo di 2° livello.\nCon Saggezza pari a 16, la lista dei suoi incantesimi preparati\npuò includere sei incantesimi di 1° o 2° livello, in qualsiasi\ncombinazione. Se prepara l'incantesimo di 1° livello cura\nferite, potrà lanciarlo usando uno slot incantesimo di 1º livello\no di 2° livello. Il lancio di quell'incantesimo non rimuove\nquell'incantesimo dalla lista di incantesimi preparati.\nIl druido può cambiare la lista dei suoi incantesimi\npreparati quando completa un riposo lungo. Per preparare\nuna nuova lista di incantesimi da druido è necessario un\ncerto ammontare di tempo da trascorrere in preghiera e\nmeditazione: almeno 1 minuto per livello di incantesimo\nper ogni incantesimo nella sua lista.\nCaratteristica da Incantatore\nSaggezza è la caratteristica da incantatore usata per gli\nincantesimi da druido. Il potere dei suoi incantesimi deriva\ndalla sua devozione e dalla sua sintonia con la natura.\nUn druido usa Saggezza ogni volta che un incantesimo\nfa riferimento alla sua caratteristica da incantatore. Usa\ninoltre il suo modificatore di Saggezza per definire la CD del\ntiro salvezza di un incantesimo da druido da lui lanciato e\nquando effettua un tiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incanteslmo = 8 + il bonus dicompetenza\ndel druido + il modificatore di Saggezza del druido\nModificatore di attacco dell'incantesimo = il bonus di competenza\ndel druido + il modificatore di Saggezza del druido\nCelebrare Rituali\nUn druido può lanciare un incantesimo da druido come\nrituale se quell'incantesimo possiede il descrittore rituale e\nil druido lo ha preparato.\nFocus da Incantatore\nUn druido può usare un focus druidico (vedi il capitoto 5,\nEquipaggiamento\") come focus da incantatore per i suoi\nincantesimi da druido.\nForma Selvatica\nA partire dal 2° livello, un druido può usare la sua azione\nper assumere magicamente la forma di una bestia che ha\ngià visto in precedenza. Può utilizzare questo privilegio\ndue volte e recupera gli utilizzi spesi quando completa un\nriposo breve o lungo.\nIl livello da druido determina le bestie in cui egli può\ntrasformarsi, come indicato nella tabella \"Forme Bestiali\"\nsottostante. Al 2° livello, per esempio, può trasformarsi in\nqualsiasi bestia che abbia un grado di sfida pari o inferiore\na 1,4 che non abbia una velocità di nuotare o di volare.\nFORmE BESTIALI\nLivello GS Max Limitazionl\nEsempio\nLupo\n2°\n1/4\nNessuna velocità di nuotare\no di volare\n\\r$\nCoccodrillo\nNessuna velocità di volare\n1/2\n8°\nAquila gigante\n1\nUn druido può rimanere in forma bestiale per un numero\ndi ore pari alla metà del suo livello da druido (arrotondato per\ndifetto), poi torna alla sua forma normale, a meno che non\nspenda un altro utilizzo di questo privilegio.Può tornare alla\nsua forma normale anticipatamente usando un'azione bonus\nnel suo turno. Torna automaticamente alla sua forma normale\nse cade privo di sensi, scende a O punti ferita o muore."
+}

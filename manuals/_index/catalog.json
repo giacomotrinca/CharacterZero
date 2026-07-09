@@ -1,0 +1,2689 @@
+{
+  "manuals": [
+    {
+      "value": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+      "label": "Guida degli Avventurieri",
+      "source": "D&D 5th Guida degli Avventurieri alla Costa della Spada"
+    },
+    {
+      "value": "d_d_5th_manuale_dei_mostri",
+      "label": "Manuale dei Mostri",
+      "source": "D&D 5th Manuale dei Mostri"
+    },
+    {
+      "value": "d_d_5th_manuale_del_giocatore",
+      "label": "Manuale del Giocatore",
+      "source": "D&D 5th Manuale del Giocatore"
+    },
+    {
+      "value": "d_d_5th_manuale_del_master",
+      "label": "Manuale del Master",
+      "source": "D&D 5th Manuale del Master"
+    },
+    {
+      "value": "guida_omnicomprensiva_di_xanathar_5e",
+      "label": "Guida di Xanathar",
+      "source": "Guida Omnicomprensiva di Xanathar 5e"
+    },
+    {
+      "value": "tasha_italiano",
+      "label": "Calderone di Tasha",
+      "source": "tasha italiano"
+    }
+  ],
+  "classes": [
+    {
+      "value": "barbaro",
+      "label": "Barbaro",
+      "subclass_level": 3,
+      "group_label": "Cammino Primordiale",
+      "caster": "none",
+      "subclasses": [
+        {
+          "name": "Cammino del Berserker",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 122,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Cammino del Combattente Totemico",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 159,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 47,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Cammino della Furia Combattente",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 159
+            }
+          ]
+        },
+        {
+          "name": "Cammino del Combattente",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312
+            }
+          ]
+        },
+        {
+          "name": "Cammino dello Zelota",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "name": "Cammino del Kensei",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 41
+            }
+          ]
+        },
+        {
+          "name": "Cammino della Magia Selvaggia",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 25
+            }
+          ]
+        },
+        {
+          "name": "Cammino della Bestia",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "bardo",
+      "label": "Bardo",
+      "subclass_level": 3,
+      "group_label": "Collegio Bardico",
+      "caster": "full",
+      "subclasses": [
+        {
+          "name": "Collegio della Sapienza",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 124,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 53,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 286,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Collegio del Valore",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 124,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 54,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 286,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Collegio di Fochlucan",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 124
+            }
+          ]
+        },
+        {
+          "name": "Collegio di Nuovo Olamn",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 124
+            }
+          ]
+        },
+        {
+          "name": "Collegio dei Sussurri",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "name": "Collegio delle Spade",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "name": "Collegio dell'Incanto",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "name": "Collegio dell Eloquenza",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 28
+            }
+          ]
+        },
+        {
+          "name": "Collegio della Creazione",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "chierico",
+      "label": "Chierico",
+      "subclass_level": 1,
+      "group_label": "Dominio Divino",
+      "caster": "full",
+      "subclasses": [
+        {
+          "name": "Dominio della Conoscenza",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 58,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Dominio della Guerra",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 59,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 11,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 8,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Dominio dell'Inganno",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 60,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Dominio della Luce",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 313,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Dominio della Natura",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 61,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 11,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Dominio della Tempesta",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 61,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Dominio della Vita",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 62,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 19,
+              "score": 0.865
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 8,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Dominio dell'Arcano",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 126
+            }
+          ]
+        },
+        {
+          "name": "Dominio della Forgia",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "druido",
+      "label": "Druido",
+      "subclass_level": 2,
+      "group_label": "Circolo Druidico",
+      "caster": "full",
+      "subclasses": [
+        {
+          "name": "Circolo della Terra",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 128,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Circolo della Luna",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 128,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 24,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Circolo dei Sogni",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 22
+            }
+          ]
+        },
+        {
+          "name": "Circolo del Pastore",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 23
+            }
+          ]
+        },
+        {
+          "name": "Circolo della Fiamma",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 36
+            }
+          ]
+        },
+        {
+          "name": "Circolo delle Spore",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 38
+            }
+          ]
+        },
+        {
+          "name": "Circolo delle Stelle",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "guerriero",
+      "label": "Guerriero",
+      "subclass_level": 3,
+      "group_label": "Archetipo Marziale",
+      "caster": "none",
+      "subclasses": [
+        {
+          "name": "Campione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 115,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 243,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 71,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 92,
+              "score": 0.9
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 172,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 102,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Maestro di Battaglia",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 46,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Cavaliere Mistico",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 73,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 287,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Arciere Arcano",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 3,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Cavaliere Errante",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 3,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Samurai",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 40,
+              "score": 0.9
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 31,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Cavaliere Runico",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 45,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Guerriero Psionico",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 45,
+              "score": 0.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "ladro",
+      "label": "Ladro",
+      "subclass_level": 3,
+      "group_label": "Archetipo Ladresco",
+      "caster": "none",
+      "subclasses": [
+        {
+          "name": "Ladro",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 156,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 237,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 2,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 67,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 48,
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "name": "Assassino",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 28,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 203,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 280,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 112,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 177,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Mistificatore Arcano",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 315,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 287,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Esploratore",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 163,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 350,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 71,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 305,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 93,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 64,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Indagatore",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 88,
+              "score": 0.9
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 34,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Pianificatore",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 130,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 34,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Spadaccino",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 159,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 35,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Fantasma",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 122,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 2,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 274,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 306,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 60,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 132,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Lama Spirituale",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 214,
+              "score": 0.933
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 307,
+              "score": 0.867
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 50,
+              "score": 0.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "mago",
+      "label": "Mago",
+      "subclass_level": 2,
+      "group_label": "Tradizione Arcana",
+      "caster": "full",
+      "subclasses": [
+        {
+          "name": "Scuola di Abiurazione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 315,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 136,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Ammaliamento",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 84,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 131,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Divinazione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 84,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 8,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Evocazione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 85,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 119,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Illusione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 315,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 128,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Invocazione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 86,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 29,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 136,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Necromanzia",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 315,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Scuola di Trasmutazione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 315,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 121,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Magia della Guerra",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 132,
+              "score": 0.944
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 74,
+              "score": 0.909
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 37,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Canto della Lama",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 133,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 52,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Ordine degli Scribi",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 54,
+              "score": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "monaco",
+      "label": "Monaco",
+      "subclass_level": 3,
+      "group_label": "Tradizione Monastica",
+      "caster": "none",
+      "subclasses": [
+        {
+          "name": "Via della Mano Aperta",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 156,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 91,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Via dell'Ombra",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 134,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 92,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 40,
+              "score": 0.9
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 49,
+              "score": 0.933
+            }
+          ]
+        },
+        {
+          "name": "Via dei Quattro Elementi",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 315,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Via della Lunga Morte",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 135
+            }
+          ]
+        },
+        {
+          "name": "Via dell'Anima Solare",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 136
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 42
+            }
+          ]
+        },
+        {
+          "name": "Via del Kensei",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 40
+            }
+          ]
+        },
+        {
+          "name": "Via del Maestro Ubriaco",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 41
+            }
+          ]
+        },
+        {
+          "name": "Via del Male",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 124
+            }
+          ]
+        },
+        {
+          "name": "Via del Se Astrale",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 56
+            }
+          ]
+        },
+        {
+          "name": "Via della Misericordia Do",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "paladino",
+      "label": "Paladino",
+      "subclass_level": 3,
+      "group_label": "Giuramento Sacro",
+      "caster": "half",
+      "subclasses": [
+        {
+          "name": "Giuramento di Devozione",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 137,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 313,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 40,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 8,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Giuramento degli Antichi",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 137,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 313,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Giuramento di Vendetta",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 137,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 99,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 8,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Giuramento della Corona",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 137
+            }
+          ]
+        },
+        {
+          "name": "Giuramento di Inimicizia",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 313
+            }
+          ]
+        },
+        {
+          "name": "Giuramento di Conquista",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 44
+            }
+          ]
+        },
+        {
+          "name": "Giuramento di Gloria",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 62
+            }
+          ]
+        },
+        {
+          "name": "Giuramento delle Sentinelle",
+          "canonical": false,
+          "manuals": [
+            {
+              "manual": "tasha_italiano",
+              "page": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "ranger",
+      "label": "Ranger",
+      "subclass_level": 3,
+      "group_label": "Archetipo Ranger",
+      "caster": "half",
+      "subclasses": [
+        {
+          "name": "Cacciatore",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 147,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 337,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 104,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 306,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 49,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Signore delle Bestie",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 127,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 312,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 68,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Cacciatore delle Tenebre",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 7,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Uccisore di Mostri",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 7,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Custode degli Sciami",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 65,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Viandante Fatato",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 67,
+              "score": 0.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "stregone",
+      "label": "Stregone",
+      "subclass_level": 1,
+      "group_label": "Origine Stregonesca",
+      "caster": "full",
+      "subclasses": [
+        {
+          "name": "Discendenza Draconica",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 140,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 33,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 281,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 8,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Magia Selvaggia",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 160,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 110,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 108,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 25,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Anima Divina",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 53,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Magia delle Ombre",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 53,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Stregoneria della Tempesta",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 160,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 53,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Anima Meccanica",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 70,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Mente Aberrante",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 73,
+              "score": 0.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "warlock",
+      "label": "Warlock",
+      "subclass_level": 1,
+      "group_label": "Patrono Ultraterreno",
+      "caster": "pact",
+      "subclasses": [
+        {
+          "name": "L'Immondo",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 141,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 49,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 116,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 188,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 111,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "Il Grande Antico",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 142,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 116,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Il Signore Fatato",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 141,
+              "score": 0.97
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 115,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 169,
+              "score": 0.903
+            }
+          ]
+        },
+        {
+          "name": "Il Celestiale",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 251,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 231,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 284,
+              "score": 0.87
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 7,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 108,
+              "score": 0.9
+            }
+          ]
+        },
+        {
+          "name": "La Lama del Sortilegio",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 7,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Il Genio",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_manuale_dei_mostri",
+              "page": 146,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 76,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "L'Insondabile",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 78,
+              "score": 0.97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "artefice",
+      "label": "Artefice",
+      "subclass_level": 3,
+      "group_label": "Specialista Artefice",
+      "caster": "half",
+      "subclasses": [
+        {
+          "name": "Alchimista",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": 149,
+              "score": 0.9
+            },
+            {
+              "manual": "d_d_5th_manuale_del_master",
+              "page": 300,
+              "score": 0.97
+            },
+            {
+              "manual": "guida_omnicomprensiva_di_xanathar_5e",
+              "page": 79,
+              "score": 0.97
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 14,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Artigliere",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 17,
+              "score": 0.97
+            }
+          ]
+        },
+        {
+          "name": "Forgia di Battaglia",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "name": "Armaiolo",
+          "canonical": true,
+          "manuals": [
+            {
+              "manual": "d_d_5th_manuale_del_giocatore",
+              "page": null,
+              "score": 1.0
+            },
+            {
+              "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+              "page": 52,
+              "score": 0.9
+            },
+            {
+              "manual": "tasha_italiano",
+              "page": 15,
+              "score": 0.97
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "backgrounds": [
+    {
+      "name": "Accolito",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_dei_mostri",
+          "page": 341,
+          "score": 0.97
+        },
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 126,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Artigiano di Gilda",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 127,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Ciarlatano",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 128,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Criminale",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 129,
+          "score": 0.97
+        },
+        {
+          "manual": "tasha_italiano",
+          "page": 98,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Eremita",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 130,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Eroe Popolare",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 131,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Forestiero",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 132,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Intrattenitore",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Marinaio",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 135,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Monello",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 136,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Nobile",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_dei_mostri",
+          "page": 348,
+          "score": 0.97
+        },
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 137,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Sapiente",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 138,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Soldato",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 139,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Agente della Fazione",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 4,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Artigiano di Clan",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 4,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Cacciatore di Taglie Urbano",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Cortigiano",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 149,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Ereditiere",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 4,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Membro della Tribù Uthgardt",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Membro della Vigilanza Cittadina",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Nobile di Waterdeep",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 4,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Viaggiatore Straniero",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 4,
+          "score": 0.97
+        }
+      ]
+    }
+  ],
+  "races": [
+    {
+      "name": "Dragonide",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 31,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Elfo Alto",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Elfo dei Boschi",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Elfo Oscuro",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Gnomo delle Foreste",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Gnomo delle Rocce",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Halfling Piedileggeri",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Halfling Robusto",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Mezzelfo",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 37,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Mezzorco",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 39,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Nano delle Colline",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Nano delle Montagne",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Tiefling",
+      "manuals": [
+        {
+          "manual": "d_d_5th_guida_degli_avventurieri_alla_costa_della_spada",
+          "page": 119,
+          "score": 0.97
+        },
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 41,
+          "score": 0.97
+        },
+        {
+          "manual": "tasha_italiano",
+          "page": 49,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Umano",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 28,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Umano Variante",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 28,
+          "score": 0.97
+        }
+      ]
+    }
+  ],
+  "feats": [
+    {
+      "name": "Abile",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Adepto Elementale",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Adepto Marziale",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Aggressore Selvaggio",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Allerta",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Appostato",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Atleta",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Attore",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 164,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Carica",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 165,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Cecchino Magico",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 165,
+          "score": 0.903
+        }
+      ]
+    },
+    {
+      "name": "Combattente a Due Armi",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Combattente in Sella",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Condottiero Ispiratore",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Corazze Leggere",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Corazze Medie",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": null,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Corazze Pesanti",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Duellante Difensivo",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Esperto di Balestre",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Esperto di Dungeon",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Fortunato",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Guaritore",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 166,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Incantatore da Guerra",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Incantatore Rituale",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Iniziato alla Magia",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Linguista",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Lottatore",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Lottatore da Taverna",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Maestro d'Armi",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Maestro d'Armi Possenti",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 167,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Maestro degli Scudi",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 168,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Maestro delle Armature Medie",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 168,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Maestro delle Armature Pesanti",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 168,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Maestro delle Armi su Asta",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Mente Acuta",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        },
+        {
+          "manual": "tasha_italiano",
+          "page": 22,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Mobilità",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Osservatore",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Resiliente",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Robusto",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Sentinella",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Sterminatore di Maghi",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Tenace",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    },
+    {
+      "name": "Tiratore Scelto",
+      "manuals": [
+        {
+          "manual": "d_d_5th_manuale_del_giocatore",
+          "page": 169,
+          "score": 0.97
+        }
+      ]
+    }
+  ]
+}

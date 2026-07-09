@@ -1,0 +1,724 @@
+{
+ "pdf_page_index": 77,
+ "page_label": 78,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 102,
+ "lines": [
+  {
+   "x1": 659.0,
+   "y1": 75.0,
+   "x2": 896.0,
+   "y2": 112.0,
+   "text": "Azione Scaltra"
+  },
+  {
+   "x1": 659.0,
+   "y1": 119.0,
+   "x2": 1149.0,
+   "y2": 143.0,
+   "text": "A partire da12° livello, la prontezza di spirito e l'agilità del"
+  },
+  {
+   "x1": 659.0,
+   "y1": 143.0,
+   "x2": 1163.0,
+   "y2": 166.0,
+   "text": "ladro gli consentono di muoversi e di agire in fretta. Il ladro"
+  },
+  {
+   "x1": 659.0,
+   "y1": 166.0,
+   "x2": 1149.0,
+   "y2": 190.0,
+   "text": "può effettuare un'azione bonus in ognuno dei suoi turni in"
+  },
+  {
+   "x1": 659.0,
+   "y1": 190.0,
+   "x2": 1138.0,
+   "y2": 214.0,
+   "text": "combattimento. Questa azione può essere usata solo per"
+  },
+  {
+   "x1": 657.0,
+   "y1": 212.0,
+   "x2": 1134.0,
+   "y2": 236.0,
+   "text": "effettuare l'azione di Disimpegno, Nascondersi o Scatto."
+  },
+  {
+   "x1": 663.0,
+   "y1": 256.0,
+   "x2": 970.0,
+   "y2": 281.0,
+   "text": "ARChEtIpo LADRESco"
+  },
+  {
+   "x1": 656.0,
+   "y1": 289.0,
+   "x2": 1114.0,
+   "y2": 316.0,
+   "text": "A1 3º livello, un ladro sceglie un archetipo da emulare"
+  },
+  {
+   "x1": 657.0,
+   "y1": 316.0,
+   "x2": 1088.0,
+   "y2": 340.0,
+   "text": "nell'esercizio delle sue capacità da ladro: Furfante,"
+  },
+  {
+   "x1": 657.0,
+   "y1": 338.0,
+   "x2": 1134.0,
+   "y2": 362.0,
+   "text": "Assassino o Mistificatore Arcano, tutti descritti alla fine"
+  },
+  {
+   "x1": 656.0,
+   "y1": 358.0,
+   "x2": 1160.0,
+   "y2": 386.0,
+   "text": "della sezione di questa classe. L'archetipo scelto conferisce"
+  },
+  {
+   "x1": 657.0,
+   "y1": 384.0,
+   "x2": 1151.0,
+   "y2": 407.0,
+   "text": "al ladro alcuni privilegi al 3° livello e poi di nuovo al 9°, 13"
+  },
+  {
+   "x1": 656.0,
+   "y1": 406.0,
+   "x2": 765.0,
+   "y2": 431.0,
+   "text": "e 17° livello."
+  },
+  {
+   "x1": 109.0,
+   "y1": 440.0,
+   "x2": 323.0,
+   "y2": 466.0,
+   "text": "EQuipaggIamento"
+  },
+  {
+   "x1": 659.0,
+   "y1": 451.0,
+   "x2": 1003.0,
+   "y2": 477.0,
+   "text": "AUmento dEi PunteGgi"
+  },
+  {
+   "x1": 105.0,
+   "y1": 464.0,
+   "x2": 611.0,
+   "y2": 492.0,
+   "text": "Un ladro inizia con l'equipaggiamento seguente, in aggiunta"
+  },
+  {
+   "x1": 109.0,
+   "y1": 490.0,
+   "x2": 534.0,
+   "y2": 515.0,
+   "text": "all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 659.0,
+   "y1": 484.0,
+   "x2": 929.0,
+   "y2": 510.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 122.0,
+   "y1": 523.0,
+   "x2": 423.0,
+   "y2": 546.0,
+   "text": "a) uno stocco o (b) una spada corta"
+  },
+  {
+   "x1": 657.0,
+   "y1": 519.0,
+   "x2": 1160.0,
+   "y2": 546.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8°, 10°, 12°, 16"
+  },
+  {
+   "x1": 124.0,
+   "y1": 546.0,
+   "x2": 572.0,
+   "y2": 570.0,
+   "text": "(a) un arco corto e una faretra con 20 frecce o (b) una"
+  },
+  {
+   "x1": 657.0,
+   "y1": 544.0,
+   "x2": 1147.0,
+   "y2": 568.0,
+   "text": "e19*livello, un ladro può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 127.0,
+   "y1": 572.0,
+   "x2": 229.0,
+   "y2": 590.0,
+   "text": "spada corta"
+  },
+  {
+   "x1": 657.0,
+   "y1": 568.0,
+   "x2": 1151.0,
+   "y2": 592.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di 1 due"
+  },
+  {
+   "x1": 120.0,
+   "y1": 588.0,
+   "x2": 585.0,
+   "y2": 616.0,
+   "text": "(a) una dotazione da scassinatore, (b) una dotazione da"
+  },
+  {
+   "x1": 657.0,
+   "y1": 592.0,
+   "x2": 1145.0,
+   "y2": 616.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 124.0,
+   "y1": 614.0,
+   "x2": 523.0,
+   "y2": 638.0,
+   "text": "avventuriero o (c) una dotazione da esploratore"
+  },
+  {
+   "x1": 657.0,
+   "y1": 614.0,
+   "x2": 1165.0,
+   "y2": 638.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 122.0,
+   "y1": 638.0,
+   "x2": 574.0,
+   "y2": 661.0,
+   "text": "Un'armatura di cuoio, due pugnali e arnesi da scasso"
+  },
+  {
+   "x1": 657.0,
+   "y1": 638.0,
+   "x2": 986.0,
+   "y2": 661.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 107.0,
+   "y1": 678.0,
+   "x2": 255.0,
+   "y2": 709.0,
+   "text": "MAESTria"
+  },
+  {
+   "x1": 661.0,
+   "y1": 682.0,
+   "x2": 966.0,
+   "y2": 707.0,
+   "text": "Schivata Prodigiosa"
+  },
+  {
+   "x1": 107.0,
+   "y1": 718.0,
+   "x2": 569.0,
+   "y2": 742.0,
+   "text": "Al I' livello, un ladro sceglie due tra le sue competenze"
+  },
+  {
+   "x1": 656.0,
+   "y1": 716.0,
+   "x2": 1134.0,
+   "y2": 742.0,
+   "text": "A partire dal 5° livello, quando un attaccante che il ladro"
+  },
+  {
+   "x1": 105.0,
+   "y1": 740.0,
+   "x2": 569.0,
+   "y2": 766.0,
+   "text": "nelle abilità, oppure una sua competenza in una abilità"
+  },
+  {
+   "x1": 657.0,
+   "y1": 740.0,
+   "x2": 1099.0,
+   "y2": 766.0,
+   "text": "è in grado di vedere colpisce il ladro con un attacco,"
+  },
+  {
+   "x1": 107.0,
+   "y1": 764.0,
+   "x2": 567.0,
+   "y2": 787.0,
+   "text": "e la competenza negli arnesi da scasso. Il suo bonus di"
+  },
+  {
+   "x1": 656.0,
+   "y1": 764.0,
+   "x2": 1121.0,
+   "y2": 787.0,
+   "text": "quest'ultimo può usare la sua reazione per dimezzare i"
+  },
+  {
+   "x1": 105.0,
+   "y1": 787.0,
+   "x2": 565.0,
+   "y2": 811.0,
+   "text": "competenza raddoppia per ogni prova di caratteristica"
+  },
+  {
+   "x1": 657.0,
+   "y1": 787.0,
+   "x2": 938.0,
+   "y2": 811.0,
+   "text": "danni che subirebbe dall'attacco."
+  },
+  {
+   "x1": 107.0,
+   "y1": 809.0,
+   "x2": 499.0,
+   "y2": 833.0,
+   "text": "effettuata usando una delle competenze scelte."
+  },
+  {
+   "x1": 122.0,
+   "y1": 833.0,
+   "x2": 517.0,
+   "y2": 857.0,
+   "text": "A1 6livello, il ladro sceglie altre due tra le sue"
+  },
+  {
+   "x1": 657.0,
+   "y1": 826.0,
+   "x2": 800.0,
+   "y2": 861.0,
+   "text": "ELusione"
+  },
+  {
+   "x1": 105.0,
+   "y1": 853.0,
+   "x2": 563.0,
+   "y2": 881.0,
+   "text": "competenze (nelle abilità o negli arnesi da scasso) che"
+  },
+  {
+   "x1": 656.0,
+   "y1": 866.0,
+   "x2": 1125.0,
+   "y2": 890.0,
+   "text": "A partire dal 7° livello, un ladro può schivare agilmente"
+  },
+  {
+   "x1": 105.0,
+   "y1": 879.0,
+   "x2": 340.0,
+   "y2": 903.0,
+   "text": "ottengono questo beneficio."
+  },
+  {
+   "x1": 657.0,
+   "y1": 892.0,
+   "x2": 1162.0,
+   "y2": 915.0,
+   "text": "certi effetti ad area come il soffio di fuoco di un drago rosso"
+  },
+  {
+   "x1": 657.0,
+   "y1": 914.0,
+   "x2": 1139.0,
+   "y2": 937.0,
+   "text": "o un incantesimo tempesta di ghiaccio. Quando il ladro è"
+  },
+  {
+   "x1": 111.0,
+   "y1": 925.0,
+   "x2": 366.0,
+   "y2": 950.0,
+   "text": "AttAcco Furtivo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 937.0,
+   "x2": 1141.0,
+   "y2": 961.0,
+   "text": "soggetto a un effetto che gli consente di effettuare un tiro"
+  },
+  {
+   "x1": 105.0,
+   "y1": 959.0,
+   "x2": 543.0,
+   "y2": 983.0,
+   "text": "A partire dal 1° livello, un ladro sa come colpire con"
+  },
+  {
+   "x1": 657.0,
+   "y1": 963.0,
+   "x2": 1143.0,
+   "y2": 981.0,
+   "text": "salvezza su Destrezza per dimezzare i danni, non subisce"
+  },
+  {
+   "x1": 105.0,
+   "y1": 983.0,
+   "x2": 587.0,
+   "y2": 1007.0,
+   "text": "precisione sfruttando le distrazioni di un avversario. Una"
+  },
+  {
+   "x1": 657.0,
+   "y1": 983.0,
+   "x2": 1138.0,
+   "y2": 1007.0,
+   "text": "alcun danno se supera il tiro salvezza, e soltanto la metà"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1007.0,
+   "x2": 561.0,
+   "y2": 1030.0,
+   "text": "volta per turno, il ladro può infliggere 1d6 danni extra"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1007.0,
+   "x2": 855.0,
+   "y2": 1030.0,
+   "text": "dei danni se lo fallisce."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1029.0,
+   "x2": 565.0,
+   "y2": 1052.0,
+   "text": "a una creatura che colpisce con un attacco, se dispone"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1052.0,
+   "x2": 571.0,
+   "y2": 1071.0,
+   "text": "di vantaggio al tiro per colpire, L'attacco deve utilizzare"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1047.0,
+   "x2": 907.0,
+   "y2": 1076.0,
+   "text": "Dote Affidabile"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1078.0,
+   "x2": 438.0,
+   "y2": 1096.0,
+   "text": "un'arma accurata o un'arma a distanza."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1083.0,
+   "x2": 1127.0,
+   "y2": 1111.0,
+   "text": "All'l1° livello, un ladro ha affinato le abilità da lui scelte"
+  },
+  {
+   "x1": 124.0,
+   "y1": 1096.0,
+   "x2": 589.0,
+   "y2": 1122.0,
+   "text": "Il ladro non necessita di vantaggio al tiro per colpire se"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1118.0,
+   "x2": 578.0,
+   "y2": 1142.0,
+   "text": "un altro nemico del bersaglio si trova entro1,5 metri da"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1111.0,
+   "x2": 1154.0,
+   "y2": 1135.0,
+   "text": "fino a portarle quasi alla perfezione. Ogni volta che il ladro"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1142.0,
+   "x2": 584.0,
+   "y2": 1166.0,
+   "text": "esso (purché tale nemico non sia incapacitato) e se il tiro"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1135.0,
+   "x2": 1115.0,
+   "y2": 1158.0,
+   "text": "effettua una prova di caratteristica che gli permette di"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1155.0,
+   "x2": 1163.0,
+   "y2": 1182.0,
+   "text": "aggiungere il suo bonus di competenza, può considerare un"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1168.0,
+   "x2": 480.0,
+   "y2": 1191.0,
+   "text": "per colpire del ladro non subisce svantaggio."
+  },
+  {
+   "x1": 124.0,
+   "y1": 1189.0,
+   "x2": 569.0,
+   "y2": 1213.0,
+   "text": "L'ammontare di danni extra aumenta man mano che"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1180.0,
+   "x2": 1099.0,
+   "y2": 1204.0,
+   "text": "tiro del d20 pari o inferiore a 9 come se fosse un10."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1209.0,
+   "x2": 556.0,
+   "y2": 1237.0,
+   "text": "il ladro acquisisce livelli, come indicato nella colonna"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1219.0,
+   "x2": 922.0,
+   "y2": 1252.0,
+   "text": "PErcezione CiEca"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1233.0,
+   "x2": 438.0,
+   "y2": 1261.0,
+   "text": "Attacco Furtivo\" nella tabella \"Ladro\"."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1259.0,
+   "x2": 1138.0,
+   "y2": 1286.0,
+   "text": "A partire dal 14° livello, se il ladro è in grado di sentire, è"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1279.0,
+   "x2": 355.0,
+   "y2": 1305.0,
+   "text": "Gergo Ladresco"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1284.0,
+   "x2": 1128.0,
+   "y2": 1308.0,
+   "text": "consapevole dell'ubicazione di ogni creatura nascosta o"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1316.0,
+   "x2": 561.0,
+   "y2": 1341.0,
+   "text": "Durante il proprio addestramento, il ladro apprende il"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1308.0,
+   "x2": 910.0,
+   "y2": 1332.0,
+   "text": "invisibile entro 3 metri da lui."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1339.0,
+   "x2": 585.0,
+   "y2": 1367.0,
+   "text": "gergo ladresco, un misto di dialetto, termini colloquiali e"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1348.0,
+   "x2": 925.0,
+   "y2": 1381.0,
+   "text": "Mente Sfuggente"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1365.0,
+   "x2": 595.0,
+   "y2": 1389.0,
+   "text": "codici che gli permette di nascondere dei messaggi in una"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1389.0,
+   "x2": 595.0,
+   "y2": 1412.0,
+   "text": "conversazione apparentemente normale. Soltanto un'altra"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1387.0,
+   "x2": 1121.0,
+   "y2": 1414.0,
+   "text": "Al 15° livello, il ladro sviluppa una maggiore resistenza"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1411.0,
+   "x2": 558.0,
+   "y2": 1434.0,
+   "text": "creatura che conosca il gergo ladresco capisce questi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1414.0,
+   "x2": 1156.0,
+   "y2": 1438.0,
+   "text": "mentale. Ottiene competenza nei tiri salvezza su Saggezza."
+  },
+  {
+   "x1": 105.0,
+   "y1": 1434.0,
+   "x2": 567.0,
+   "y2": 1458.0,
+   "text": "messaggi. Per trasmettere un concetto tramite il gergo"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1456.0,
+   "x2": 574.0,
+   "y2": 1480.0,
+   "text": "ladresco serve il quadruplo del tempo che normalmente"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1458.0,
+   "x2": 872.0,
+   "y2": 1484.0,
+   "text": "INAFFERRABILE"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1480.0,
+   "x2": 443.0,
+   "y2": 1504.0,
+   "text": "servirebbe per esprimerlo direttamente."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1493.0,
+   "x2": 1136.0,
+   "y2": 1520.0,
+   "text": "A partire dal 18° livello, il ladro è talmente sfuggente che"
+  },
+  {
+   "x1": 124.0,
+   "y1": 1504.0,
+   "x2": 606.0,
+   "y2": 1527.0,
+   "text": "Inoltre, il ladro capisce una serie di simboli e segni segreti"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1529.0,
+   "x2": 569.0,
+   "y2": 1548.0,
+   "text": "usati per trasmettere semplici messaggi brevi, come per"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1522.0,
+   "x2": 1136.0,
+   "y2": 1540.0,
+   "text": "gli attaccanti riescono raramente ad avere il sopravvento"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1549.0,
+   "x2": 608.0,
+   "y2": 1573.0,
+   "text": "esempio per indicare se un'area è pericolosa, se un territorio"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1542.0,
+   "x2": 1091.0,
+   "y2": 1568.0,
+   "text": "su di lui. Nessun tiro per colpire effettuato contro il"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1573.0,
+   "x2": 552.0,
+   "y2": 1597.0,
+   "text": "ricade sotto il controllo di una gilda di ladri, se ci sono"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1566.0,
+   "x2": 1117.0,
+   "y2": 1591.0,
+   "text": "ladro dispone di vantaggio, a meno che il ladro non sia"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1593.0,
+   "x2": 608.0,
+   "y2": 1621.0,
+   "text": "bottini appetitosi o bersagli facili nei paraggi o se qualcuno è"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1591.0,
+   "x2": 770.0,
+   "y2": 1611.0,
+   "text": "incapacitato."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1617.0,
+   "x2": 543.0,
+   "y2": 1644.0,
+   "text": "disposto a offrire un rifugio sicuro a un ladro in fuga."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1696.0,
+   "x2": 286.0,
+   "y2": 1714.0,
+   "text": "CAPITOLO 3|CLASSI"
+  },
+  {
+   "x1": 22.0,
+   "y1": 1708.0,
+   "x2": 41.0,
+   "y2": 1723.0,
+   "text": "78"
+  }
+ ],
+ "reading_text": "EQuipaggIamento\nUn ladro inizia con l'equipaggiamento seguente, in aggiunta\nall'equipaggiamento conferito dal suo background:\na) uno stocco o (b) una spada corta\n(a) un arco corto e una faretra con 20 frecce o (b) una\nspada corta\n(a) una dotazione da scassinatore, (b) una dotazione da\navventuriero o (c) una dotazione da esploratore\nUn'armatura di cuoio, due pugnali e arnesi da scasso\nMAESTria\nAl I' livello, un ladro sceglie due tra le sue competenze\nnelle abilità, oppure una sua competenza in una abilità\ne la competenza negli arnesi da scasso. Il suo bonus di\ncompetenza raddoppia per ogni prova di caratteristica\neffettuata usando una delle competenze scelte.\nA1 6livello, il ladro sceglie altre due tra le sue\ncompetenze (nelle abilità o negli arnesi da scasso) che\nottengono questo beneficio.\nAttAcco Furtivo\nA partire dal 1° livello, un ladro sa come colpire con\nprecisione sfruttando le distrazioni di un avversario. Una\nvolta per turno, il ladro può infliggere 1d6 danni extra\na una creatura che colpisce con un attacco, se dispone\ndi vantaggio al tiro per colpire, L'attacco deve utilizzare\nun'arma accurata o un'arma a distanza.\nIl ladro non necessita di vantaggio al tiro per colpire se\nun altro nemico del bersaglio si trova entro1,5 metri da\nesso (purché tale nemico non sia incapacitato) e se il tiro\nper colpire del ladro non subisce svantaggio.\nL'ammontare di danni extra aumenta man mano che\nil ladro acquisisce livelli, come indicato nella colonna\nAttacco Furtivo\" nella tabella \"Ladro\".\nGergo Ladresco\nDurante il proprio addestramento, il ladro apprende il\ngergo ladresco, un misto di dialetto, termini colloquiali e\ncodici che gli permette di nascondere dei messaggi in una\nconversazione apparentemente normale. Soltanto un'altra\ncreatura che conosca il gergo ladresco capisce questi\nmessaggi. Per trasmettere un concetto tramite il gergo\nladresco serve il quadruplo del tempo che normalmente\nservirebbe per esprimerlo direttamente.\nInoltre, il ladro capisce una serie di simboli e segni segreti\nusati per trasmettere semplici messaggi brevi, come per\nesempio per indicare se un'area è pericolosa, se un territorio\nricade sotto il controllo di una gilda di ladri, se ci sono\nbottini appetitosi o bersagli facili nei paraggi o se qualcuno è\ndisposto a offrire un rifugio sicuro a un ladro in fuga.\nCAPITOLO 3|CLASSI\n78\nAzione Scaltra\nA partire da12° livello, la prontezza di spirito e l'agilità del\nladro gli consentono di muoversi e di agire in fretta. Il ladro\npuò effettuare un'azione bonus in ognuno dei suoi turni in\ncombattimento. Questa azione può essere usata solo per\neffettuare l'azione di Disimpegno, Nascondersi o Scatto.\nARChEtIpo LADRESco\nA1 3º livello, un ladro sceglie un archetipo da emulare\nnell'esercizio delle sue capacità da ladro: Furfante,\nAssassino o Mistificatore Arcano, tutti descritti alla fine\ndella sezione di questa classe. L'archetipo scelto conferisce\nal ladro alcuni privilegi al 3° livello e poi di nuovo al 9°, 13\ne 17° livello.\nAUmento dEi PunteGgi\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8°, 10°, 12°, 16\ne19*livello, un ladro può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di 1 due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nSchivata Prodigiosa\nA partire dal 5° livello, quando un attaccante che il ladro\nè in grado di vedere colpisce il ladro con un attacco,\nquest'ultimo può usare la sua reazione per dimezzare i\ndanni che subirebbe dall'attacco.\nELusione\nA partire dal 7° livello, un ladro può schivare agilmente\ncerti effetti ad area come il soffio di fuoco di un drago rosso\no un incantesimo tempesta di ghiaccio. Quando il ladro è\nsoggetto a un effetto che gli consente di effettuare un tiro\nsalvezza su Destrezza per dimezzare i danni, non subisce\nalcun danno se supera il tiro salvezza, e soltanto la metà\ndei danni se lo fallisce.\nDote Affidabile\nAll'l1° livello, un ladro ha affinato le abilità da lui scelte\nfino a portarle quasi alla perfezione. Ogni volta che il ladro\neffettua una prova di caratteristica che gli permette di\naggiungere il suo bonus di competenza, può considerare un\ntiro del d20 pari o inferiore a 9 come se fosse un10.\nPErcezione CiEca\nA partire dal 14° livello, se il ladro è in grado di sentire, è\nconsapevole dell'ubicazione di ogni creatura nascosta o\ninvisibile entro 3 metri da lui.\nMente Sfuggente\nAl 15° livello, il ladro sviluppa una maggiore resistenza\nmentale. Ottiene competenza nei tiri salvezza su Saggezza.\nINAFFERRABILE\nA partire dal 18° livello, il ladro è talmente sfuggente che\ngli attaccanti riescono raramente ad avere il sopravvento\nsu di lui. Nessun tiro per colpire effettuato contro il\nladro dispone di vantaggio, a meno che il ladro non sia\nincapacitato."
+}

@@ -1,0 +1,2005 @@
+{
+ "pdf_page_index": 52,
+ "page_label": 53,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 285,
+ "lines": [
+  {
+   "x1": 79.0,
+   "y1": 78.0,
+   "x2": 169.0,
+   "y2": 118.0,
+   "text": "BARDO"
+  },
+  {
+   "x1": 800.0,
+   "y1": 113.0,
+   "x2": 1127.0,
+   "y2": 143.0,
+   "text": "—Slot Incantesimo per Livello di Incantesimo"
+  },
+  {
+   "x1": 155.0,
+   "y1": 122.0,
+   "x2": 230.0,
+   "y2": 154.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 595.0,
+   "y1": 124.0,
+   "x2": 676.0,
+   "y2": 150.0,
+   "text": "Truochetti"
+  },
+  {
+   "x1": 681.0,
+   "y1": 124.0,
+   "x2": 772.0,
+   "y2": 150.0,
+   "text": "Incantesimi"
+  },
+  {
+   "x1": 84.0,
+   "y1": 142.0,
+   "x2": 254.0,
+   "y2": 181.0,
+   "text": "Livello Competenza"
+  },
+  {
+   "x1": 246.0,
+   "y1": 148.0,
+   "x2": 312.0,
+   "y2": 175.0,
+   "text": "Privilegi"
+  },
+  {
+   "x1": 590.0,
+   "y1": 144.0,
+   "x2": 676.0,
+   "y2": 176.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 683.0,
+   "y1": 148.0,
+   "x2": 772.0,
+   "y2": 174.0,
+   "text": "Conosoiuti"
+  },
+  {
+   "x1": 789.0,
+   "y1": 148.0,
+   "x2": 814.0,
+   "y2": 170.0,
+   "text": "1°"
+  },
+  {
+   "x1": 827.0,
+   "y1": 148.0,
+   "x2": 853.0,
+   "y2": 170.0,
+   "text": "2°"
+  },
+  {
+   "x1": 872.0,
+   "y1": 150.0,
+   "x2": 892.0,
+   "y2": 168.0,
+   "text": "3°"
+  },
+  {
+   "x1": 912.0,
+   "y1": 150.0,
+   "x2": 933.0,
+   "y2": 166.0,
+   "text": "4*"
+  },
+  {
+   "x1": 953.0,
+   "y1": 150.0,
+   "x2": 975.0,
+   "y2": 166.0,
+   "text": "5°"
+  },
+  {
+   "x1": 992.0,
+   "y1": 150.0,
+   "x2": 1016.0,
+   "y2": 166.0,
+   "text": "6"
+  },
+  {
+   "x1": 1034.0,
+   "y1": 150.0,
+   "x2": 1054.0,
+   "y2": 166.0,
+   "text": "7°"
+  },
+  {
+   "x1": 1073.0,
+   "y1": 148.0,
+   "x2": 1104.0,
+   "y2": 168.0,
+   "text": "8*"
+  },
+  {
+   "x1": 1114.0,
+   "y1": 150.0,
+   "x2": 1134.0,
+   "y2": 166.0,
+   "text": "9*"
+  },
+  {
+   "x1": 103.0,
+   "y1": 179.0,
+   "x2": 129.0,
+   "y2": 205.0,
+   "text": "1°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 177.0,
+   "x2": 209.0,
+   "y2": 203.0,
+   "text": "+2"
+  },
+  {
+   "x1": 249.0,
+   "y1": 177.0,
+   "x2": 512.0,
+   "y2": 201.0,
+   "text": "Incantesimi, Ispirazione Bardica (d6)"
+  },
+  {
+   "x1": 622.0,
+   "y1": 175.0,
+   "x2": 645.0,
+   "y2": 201.0,
+   "text": "2"
+  },
+  {
+   "x1": 717.0,
+   "y1": 174.0,
+   "x2": 739.0,
+   "y2": 201.0,
+   "text": "4"
+  },
+  {
+   "x1": 790.0,
+   "y1": 175.0,
+   "x2": 814.0,
+   "y2": 199.0,
+   "text": "2"
+  },
+  {
+   "x1": 103.0,
+   "y1": 206.0,
+   "x2": 129.0,
+   "y2": 234.0,
+   "text": "2*"
+  },
+  {
+   "x1": 179.0,
+   "y1": 205.0,
+   "x2": 209.0,
+   "y2": 228.0,
+   "text": "+2"
+  },
+  {
+   "x1": 247.0,
+   "y1": 201.0,
+   "x2": 475.0,
+   "y2": 228.0,
+   "text": "Factotum, Canto di Riposo (d6)"
+  },
+  {
+   "x1": 626.0,
+   "y1": 205.0,
+   "x2": 643.0,
+   "y2": 227.0,
+   "text": "2"
+  },
+  {
+   "x1": 717.0,
+   "y1": 203.0,
+   "x2": 739.0,
+   "y2": 228.0,
+   "text": "5"
+  },
+  {
+   "x1": 792.0,
+   "y1": 205.0,
+   "x2": 809.0,
+   "y2": 227.0,
+   "text": "3"
+  },
+  {
+   "x1": 103.0,
+   "y1": 232.0,
+   "x2": 129.0,
+   "y2": 259.0,
+   "text": "3"
+  },
+  {
+   "x1": 175.0,
+   "y1": 228.0,
+   "x2": 211.0,
+   "y2": 259.0,
+   "text": "+2"
+  },
+  {
+   "x1": 249.0,
+   "y1": 230.0,
+   "x2": 440.0,
+   "y2": 256.0,
+   "text": "Collegio Bardico, Maestria"
+  },
+  {
+   "x1": 624.0,
+   "y1": 228.0,
+   "x2": 646.0,
+   "y2": 254.0,
+   "text": "2"
+  },
+  {
+   "x1": 717.0,
+   "y1": 228.0,
+   "x2": 739.0,
+   "y2": 254.0,
+   "text": "6"
+  },
+  {
+   "x1": 792.0,
+   "y1": 230.0,
+   "x2": 811.0,
+   "y2": 250.0,
+   "text": "4"
+  },
+  {
+   "x1": 831.0,
+   "y1": 228.0,
+   "x2": 853.0,
+   "y2": 254.0,
+   "text": "2"
+  },
+  {
+   "x1": 103.0,
+   "y1": 259.0,
+   "x2": 129.0,
+   "y2": 287.0,
+   "text": "4°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 258.0,
+   "x2": 209.0,
+   "y2": 283.0,
+   "text": "+2"
+  },
+  {
+   "x1": 247.0,
+   "y1": 258.0,
+   "x2": 526.0,
+   "y2": 281.0,
+   "text": "Aumento dei Punteggi d. Caratteristica"
+  },
+  {
+   "x1": 626.0,
+   "y1": 259.0,
+   "x2": 643.0,
+   "y2": 280.0,
+   "text": "3"
+  },
+  {
+   "x1": 718.0,
+   "y1": 259.0,
+   "x2": 737.0,
+   "y2": 280.0,
+   "text": "7"
+  },
+  {
+   "x1": 103.0,
+   "y1": 287.0,
+   "x2": 129.0,
+   "y2": 312.0,
+   "text": "5°"
+  },
+  {
+   "x1": 175.0,
+   "y1": 281.0,
+   "x2": 211.0,
+   "y2": 312.0,
+   "text": "+3"
+  },
+  {
+   "x1": 247.0,
+   "y1": 283.0,
+   "x2": 565.0,
+   "y2": 309.0,
+   "text": "Ispirazione Bardica (d8), Fonte di Ispirazione"
+  },
+  {
+   "x1": 622.0,
+   "y1": 283.0,
+   "x2": 645.0,
+   "y2": 311.0,
+   "text": "3"
+  },
+  {
+   "x1": 717.0,
+   "y1": 283.0,
+   "x2": 739.0,
+   "y2": 311.0,
+   "text": "8"
+  },
+  {
+   "x1": 790.0,
+   "y1": 285.0,
+   "x2": 814.0,
+   "y2": 309.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 287.0,
+   "x2": 851.0,
+   "y2": 307.0,
+   "text": "3"
+  },
+  {
+   "x1": 874.0,
+   "y1": 287.0,
+   "x2": 892.0,
+   "y2": 307.0,
+   "text": "2"
+  },
+  {
+   "x1": 103.0,
+   "y1": 314.0,
+   "x2": 129.0,
+   "y2": 340.0,
+   "text": "6°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 312.0,
+   "x2": 207.0,
+   "y2": 338.0,
+   "text": "+3"
+  },
+  {
+   "x1": 249.0,
+   "y1": 311.0,
+   "x2": 567.0,
+   "y2": 334.0,
+   "text": "Controfascino, Privilegio del Collegio Bardico"
+  },
+  {
+   "x1": 624.0,
+   "y1": 314.0,
+   "x2": 641.0,
+   "y2": 334.0,
+   "text": "3"
+  },
+  {
+   "x1": 718.0,
+   "y1": 314.0,
+   "x2": 737.0,
+   "y2": 334.0,
+   "text": "9"
+  },
+  {
+   "x1": 794.0,
+   "y1": 314.0,
+   "x2": 811.0,
+   "y2": 333.0,
+   "text": "4"
+  },
+  {
+   "x1": 828.0,
+   "y1": 309.0,
+   "x2": 851.0,
+   "y2": 336.0,
+   "text": "3"
+  },
+  {
+   "x1": 874.0,
+   "y1": 314.0,
+   "x2": 890.0,
+   "y2": 334.0,
+   "text": "3"
+  },
+  {
+   "x1": 103.0,
+   "y1": 342.0,
+   "x2": 129.0,
+   "y2": 367.0,
+   "text": "7°"
+  },
+  {
+   "x1": 177.0,
+   "y1": 336.0,
+   "x2": 211.0,
+   "y2": 367.0,
+   "text": "+3"
+  },
+  {
+   "x1": 624.0,
+   "y1": 340.0,
+   "x2": 643.0,
+   "y2": 360.0,
+   "text": "3"
+  },
+  {
+   "x1": 715.0,
+   "y1": 338.0,
+   "x2": 742.0,
+   "y2": 365.0,
+   "text": "10"
+  },
+  {
+   "x1": 792.0,
+   "y1": 342.0,
+   "x2": 811.0,
+   "y2": 360.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 340.0,
+   "x2": 849.0,
+   "y2": 360.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 340.0,
+   "x2": 890.0,
+   "y2": 360.0,
+   "text": "3"
+  },
+  {
+   "x1": 103.0,
+   "y1": 369.0,
+   "x2": 129.0,
+   "y2": 395.0,
+   "text": "8°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 367.0,
+   "x2": 209.0,
+   "y2": 393.0,
+   "text": "+3"
+  },
+  {
+   "x1": 249.0,
+   "y1": 367.0,
+   "x2": 526.0,
+   "y2": 391.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 626.0,
+   "y1": 369.0,
+   "x2": 643.0,
+   "y2": 389.0,
+   "text": "3"
+  },
+  {
+   "x1": 715.0,
+   "y1": 365.0,
+   "x2": 741.0,
+   "y2": 391.0,
+   "text": "11"
+  },
+  {
+   "x1": 787.0,
+   "y1": 364.0,
+   "x2": 814.0,
+   "y2": 391.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 367.0,
+   "x2": 851.0,
+   "y2": 387.0,
+   "text": "3"
+  },
+  {
+   "x1": 874.0,
+   "y1": 367.0,
+   "x2": 892.0,
+   "y2": 387.0,
+   "text": "3"
+  },
+  {
+   "x1": 916.0,
+   "y1": 367.0,
+   "x2": 933.0,
+   "y2": 387.0,
+   "text": "2"
+  },
+  {
+   "x1": 102.0,
+   "y1": 395.0,
+   "x2": 129.0,
+   "y2": 422.0,
+   "text": "9"
+  },
+  {
+   "x1": 175.0,
+   "y1": 391.0,
+   "x2": 211.0,
+   "y2": 422.0,
+   "text": "+4"
+  },
+  {
+   "x1": 245.0,
+   "y1": 389.0,
+   "x2": 399.0,
+   "y2": 420.0,
+   "text": "Canto di Riposo (d8)"
+  },
+  {
+   "x1": 622.0,
+   "y1": 393.0,
+   "x2": 645.0,
+   "y2": 418.0,
+   "text": "3"
+  },
+  {
+   "x1": 711.0,
+   "y1": 391.0,
+   "x2": 744.0,
+   "y2": 422.0,
+   "text": "12"
+  },
+  {
+   "x1": 790.0,
+   "y1": 393.0,
+   "x2": 813.0,
+   "y2": 418.0,
+   "text": "4"
+  },
+  {
+   "x1": 831.0,
+   "y1": 391.0,
+   "x2": 853.0,
+   "y2": 418.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 391.0,
+   "x2": 892.0,
+   "y2": 418.0,
+   "text": "3"
+  },
+  {
+   "x1": 914.0,
+   "y1": 395.0,
+   "x2": 931.0,
+   "y2": 417.0,
+   "text": "3"
+  },
+  {
+   "x1": 960.0,
+   "y1": 398.0,
+   "x2": 970.0,
+   "y2": 409.0,
+   "text": "1"
+  },
+  {
+   "x1": 98.0,
+   "y1": 420.0,
+   "x2": 135.0,
+   "y2": 449.0,
+   "text": "10°"
+  },
+  {
+   "x1": 175.0,
+   "y1": 418.0,
+   "x2": 212.0,
+   "y2": 448.0,
+   "text": "+4"
+  },
+  {
+   "x1": 247.0,
+   "y1": 422.0,
+   "x2": 502.0,
+   "y2": 446.0,
+   "text": "Ispirazione Bardica (d10), Maestria,"
+  },
+  {
+   "x1": 626.0,
+   "y1": 422.0,
+   "x2": 645.0,
+   "y2": 442.0,
+   "text": "4"
+  },
+  {
+   "x1": 715.0,
+   "y1": 420.0,
+   "x2": 742.0,
+   "y2": 446.0,
+   "text": "14"
+  },
+  {
+   "x1": 792.0,
+   "y1": 422.0,
+   "x2": 811.0,
+   "y2": 442.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 422.0,
+   "x2": 851.0,
+   "y2": 442.0,
+   "text": "3"
+  },
+  {
+   "x1": 874.0,
+   "y1": 422.0,
+   "x2": 890.0,
+   "y2": 442.0,
+   "text": "3"
+  },
+  {
+   "x1": 916.0,
+   "y1": 422.0,
+   "x2": 933.0,
+   "y2": 442.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 424.0,
+   "x2": 971.0,
+   "y2": 442.0,
+   "text": "2"
+  },
+  {
+   "x1": 247.0,
+   "y1": 444.0,
+   "x2": 356.0,
+   "y2": 470.0,
+   "text": "Segreti Magici"
+  },
+  {
+   "x1": 96.0,
+   "y1": 475.0,
+   "x2": 135.0,
+   "y2": 504.0,
+   "text": "11°"
+  },
+  {
+   "x1": 177.0,
+   "y1": 475.0,
+   "x2": 209.0,
+   "y2": 501.0,
+   "text": "+4"
+  },
+  {
+   "x1": 626.0,
+   "y1": 479.0,
+   "x2": 643.0,
+   "y2": 497.0,
+   "text": "4"
+  },
+  {
+   "x1": 715.0,
+   "y1": 475.0,
+   "x2": 742.0,
+   "y2": 501.0,
+   "text": "15"
+  },
+  {
+   "x1": 790.0,
+   "y1": 475.0,
+   "x2": 814.0,
+   "y2": 499.0,
+   "text": "4"
+  },
+  {
+   "x1": 826.0,
+   "y1": 472.0,
+   "x2": 855.0,
+   "y2": 502.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 475.0,
+   "x2": 894.0,
+   "y2": 499.0,
+   "text": "3"
+  },
+  {
+   "x1": 914.0,
+   "y1": 477.0,
+   "x2": 933.0,
+   "y2": 497.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 477.0,
+   "x2": 973.0,
+   "y2": 497.0,
+   "text": "2"
+  },
+  {
+   "x1": 999.0,
+   "y1": 481.0,
+   "x2": 1012.0,
+   "y2": 493.0,
+   "text": "1"
+  },
+  {
+   "x1": 98.0,
+   "y1": 502.0,
+   "x2": 135.0,
+   "y2": 532.0,
+   "text": "12°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 502.0,
+   "x2": 209.0,
+   "y2": 528.0,
+   "text": "+4"
+  },
+  {
+   "x1": 249.0,
+   "y1": 502.0,
+   "x2": 526.0,
+   "y2": 528.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 624.0,
+   "y1": 506.0,
+   "x2": 641.0,
+   "y2": 524.0,
+   "text": "4"
+  },
+  {
+   "x1": 713.0,
+   "y1": 502.0,
+   "x2": 742.0,
+   "y2": 528.0,
+   "text": "15"
+  },
+  {
+   "x1": 790.0,
+   "y1": 504.0,
+   "x2": 814.0,
+   "y2": 528.0,
+   "text": "4"
+  },
+  {
+   "x1": 827.0,
+   "y1": 502.0,
+   "x2": 853.0,
+   "y2": 528.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 504.0,
+   "x2": 890.0,
+   "y2": 524.0,
+   "text": "3"
+  },
+  {
+   "x1": 914.0,
+   "y1": 504.0,
+   "x2": 933.0,
+   "y2": 524.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 504.0,
+   "x2": 973.0,
+   "y2": 524.0,
+   "text": "2"
+  },
+  {
+   "x1": 997.0,
+   "y1": 504.0,
+   "x2": 1012.0,
+   "y2": 523.0,
+   "text": "1"
+  },
+  {
+   "x1": 98.0,
+   "y1": 528.0,
+   "x2": 135.0,
+   "y2": 559.0,
+   "text": "13°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 530.0,
+   "x2": 209.0,
+   "y2": 555.0,
+   "text": "+5"
+  },
+  {
+   "x1": 249.0,
+   "y1": 530.0,
+   "x2": 408.0,
+   "y2": 555.0,
+   "text": "Canto di Riposo (d10)"
+  },
+  {
+   "x1": 624.0,
+   "y1": 532.0,
+   "x2": 643.0,
+   "y2": 552.0,
+   "text": "4"
+  },
+  {
+   "x1": 715.0,
+   "y1": 528.0,
+   "x2": 742.0,
+   "y2": 554.0,
+   "text": "16"
+  },
+  {
+   "x1": 790.0,
+   "y1": 530.0,
+   "x2": 814.0,
+   "y2": 554.0,
+   "text": "4"
+  },
+  {
+   "x1": 831.0,
+   "y1": 528.0,
+   "x2": 853.0,
+   "y2": 554.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 528.0,
+   "x2": 892.0,
+   "y2": 554.0,
+   "text": "3"
+  },
+  {
+   "x1": 912.0,
+   "y1": 528.0,
+   "x2": 934.0,
+   "y2": 554.0,
+   "text": "3"
+  },
+  {
+   "x1": 953.0,
+   "y1": 530.0,
+   "x2": 975.0,
+   "y2": 555.0,
+   "text": "2"
+  },
+  {
+   "x1": 997.0,
+   "y1": 532.0,
+   "x2": 1012.0,
+   "y2": 550.0,
+   "text": "1"
+  },
+  {
+   "x1": 98.0,
+   "y1": 555.0,
+   "x2": 135.0,
+   "y2": 585.0,
+   "text": "14"
+  },
+  {
+   "x1": 179.0,
+   "y1": 557.0,
+   "x2": 209.0,
+   "y2": 583.0,
+   "text": "+5"
+  },
+  {
+   "x1": 247.0,
+   "y1": 555.0,
+   "x2": 569.0,
+   "y2": 581.0,
+   "text": "Segreti Magici, Privilego del Collegio Bardico"
+  },
+  {
+   "x1": 624.0,
+   "y1": 559.0,
+   "x2": 641.0,
+   "y2": 577.0,
+   "text": "4"
+  },
+  {
+   "x1": 715.0,
+   "y1": 557.0,
+   "x2": 742.0,
+   "y2": 581.0,
+   "text": "18"
+  },
+  {
+   "x1": 792.0,
+   "y1": 559.0,
+   "x2": 811.0,
+   "y2": 579.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 559.0,
+   "x2": 849.0,
+   "y2": 579.0,
+   "text": "3"
+  },
+  {
+   "x1": 874.0,
+   "y1": 559.0,
+   "x2": 892.0,
+   "y2": 579.0,
+   "text": "3"
+  },
+  {
+   "x1": 916.0,
+   "y1": 559.0,
+   "x2": 933.0,
+   "y2": 579.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 559.0,
+   "x2": 973.0,
+   "y2": 579.0,
+   "text": "2"
+  },
+  {
+   "x1": 995.0,
+   "y1": 559.0,
+   "x2": 1010.0,
+   "y2": 577.0,
+   "text": "1"
+  },
+  {
+   "x1": 1038.0,
+   "y1": 559.0,
+   "x2": 1053.0,
+   "y2": 576.0,
+   "text": "1"
+  },
+  {
+   "x1": 96.0,
+   "y1": 583.0,
+   "x2": 135.0,
+   "y2": 612.0,
+   "text": "15°"
+  },
+  {
+   "x1": 177.0,
+   "y1": 581.0,
+   "x2": 211.0,
+   "y2": 612.0,
+   "text": "+5"
+  },
+  {
+   "x1": 249.0,
+   "y1": 585.0,
+   "x2": 428.0,
+   "y2": 608.0,
+   "text": "Ispirazione Bardica (d12)"
+  },
+  {
+   "x1": 713.0,
+   "y1": 583.0,
+   "x2": 742.0,
+   "y2": 608.0,
+   "text": "19"
+  },
+  {
+   "x1": 790.0,
+   "y1": 585.0,
+   "x2": 813.0,
+   "y2": 610.0,
+   "text": "4"
+  },
+  {
+   "x1": 823.0,
+   "y1": 577.0,
+   "x2": 859.0,
+   "y2": 613.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 583.0,
+   "x2": 892.0,
+   "y2": 608.0,
+   "text": "3"
+  },
+  {
+   "x1": 912.0,
+   "y1": 583.0,
+   "x2": 934.0,
+   "y2": 608.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 585.0,
+   "x2": 973.0,
+   "y2": 607.0,
+   "text": "2"
+  },
+  {
+   "x1": 995.0,
+   "y1": 585.0,
+   "x2": 1012.0,
+   "y2": 603.0,
+   "text": "1"
+  },
+  {
+   "x1": 1040.0,
+   "y1": 586.0,
+   "x2": 1051.0,
+   "y2": 603.0,
+   "text": "1"
+  },
+  {
+   "x1": 618.0,
+   "y1": 581.0,
+   "x2": 648.0,
+   "y2": 611.0,
+   "text": "A"
+  },
+  {
+   "x1": 100.0,
+   "y1": 612.0,
+   "x2": 131.0,
+   "y2": 638.0,
+   "text": "16*"
+  },
+  {
+   "x1": 179.0,
+   "y1": 612.0,
+   "x2": 209.0,
+   "y2": 638.0,
+   "text": "+5"
+  },
+  {
+   "x1": 245.0,
+   "y1": 608.0,
+   "x2": 526.0,
+   "y2": 638.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 626.0,
+   "y1": 616.0,
+   "x2": 641.0,
+   "y2": 634.0,
+   "text": "4"
+  },
+  {
+   "x1": 710.0,
+   "y1": 607.0,
+   "x2": 745.0,
+   "y2": 639.0,
+   "text": "19"
+  },
+  {
+   "x1": 794.0,
+   "y1": 614.0,
+   "x2": 813.0,
+   "y2": 632.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 612.0,
+   "x2": 849.0,
+   "y2": 634.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 610.0,
+   "x2": 894.0,
+   "y2": 636.0,
+   "text": "3"
+  },
+  {
+   "x1": 916.0,
+   "y1": 612.0,
+   "x2": 933.0,
+   "y2": 634.0,
+   "text": "3"
+  },
+  {
+   "x1": 957.0,
+   "y1": 612.0,
+   "x2": 973.0,
+   "y2": 634.0,
+   "text": "2"
+  },
+  {
+   "x1": 997.0,
+   "y1": 612.0,
+   "x2": 1010.0,
+   "y2": 632.0,
+   "text": "1"
+  },
+  {
+   "x1": 1038.0,
+   "y1": 612.0,
+   "x2": 1053.0,
+   "y2": 630.0,
+   "text": "1"
+  },
+  {
+   "x1": 98.0,
+   "y1": 636.0,
+   "x2": 135.0,
+   "y2": 667.0,
+   "text": "17°"
+  },
+  {
+   "x1": 175.0,
+   "y1": 636.0,
+   "x2": 212.0,
+   "y2": 665.0,
+   "text": "+6"
+  },
+  {
+   "x1": 245.0,
+   "y1": 636.0,
+   "x2": 407.0,
+   "y2": 667.0,
+   "text": "Canto di Riposo (d12)"
+  },
+  {
+   "x1": 624.0,
+   "y1": 641.0,
+   "x2": 641.0,
+   "y2": 660.0,
+   "text": "4"
+  },
+  {
+   "x1": 713.0,
+   "y1": 638.0,
+   "x2": 742.0,
+   "y2": 663.0,
+   "text": "20"
+  },
+  {
+   "x1": 792.0,
+   "y1": 641.0,
+   "x2": 813.0,
+   "y2": 660.0,
+   "text": "4"
+  },
+  {
+   "x1": 827.0,
+   "y1": 635.0,
+   "x2": 855.0,
+   "y2": 663.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 638.0,
+   "x2": 894.0,
+   "y2": 661.0,
+   "text": "3"
+  },
+  {
+   "x1": 914.0,
+   "y1": 639.0,
+   "x2": 933.0,
+   "y2": 660.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 639.0,
+   "x2": 973.0,
+   "y2": 660.0,
+   "text": "2"
+  },
+  {
+   "x1": 997.0,
+   "y1": 639.0,
+   "x2": 1014.0,
+   "y2": 660.0,
+   "text": "1"
+  },
+  {
+   "x1": 1036.0,
+   "y1": 639.0,
+   "x2": 1053.0,
+   "y2": 660.0,
+   "text": "1"
+  },
+  {
+   "x1": 1080.0,
+   "y1": 639.0,
+   "x2": 1095.0,
+   "y2": 660.0,
+   "text": "1"
+  },
+  {
+   "x1": 98.0,
+   "y1": 663.0,
+   "x2": 135.0,
+   "y2": 692.0,
+   "text": "18°"
+  },
+  {
+   "x1": 177.0,
+   "y1": 667.0,
+   "x2": 211.0,
+   "y2": 691.0,
+   "text": "+6"
+  },
+  {
+   "x1": 245.0,
+   "y1": 663.0,
+   "x2": 359.0,
+   "y2": 695.0,
+   "text": "Segreti Magici"
+  },
+  {
+   "x1": 626.0,
+   "y1": 669.0,
+   "x2": 641.0,
+   "y2": 687.0,
+   "text": "4"
+  },
+  {
+   "x1": 715.0,
+   "y1": 665.0,
+   "x2": 742.0,
+   "y2": 691.0,
+   "text": "22"
+  },
+  {
+   "x1": 792.0,
+   "y1": 669.0,
+   "x2": 813.0,
+   "y2": 687.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 669.0,
+   "x2": 851.0,
+   "y2": 689.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 667.0,
+   "x2": 894.0,
+   "y2": 691.0,
+   "text": "3"
+  },
+  {
+   "x1": 914.0,
+   "y1": 669.0,
+   "x2": 933.0,
+   "y2": 687.0,
+   "text": "3"
+  },
+  {
+   "x1": 955.0,
+   "y1": 669.0,
+   "x2": 973.0,
+   "y2": 687.0,
+   "text": "3"
+  },
+  {
+   "x1": 995.0,
+   "y1": 669.0,
+   "x2": 1012.0,
+   "y2": 687.0,
+   "text": "1"
+  },
+  {
+   "x1": 1038.0,
+   "y1": 669.0,
+   "x2": 1053.0,
+   "y2": 687.0,
+   "text": "1"
+  },
+  {
+   "x1": 1078.0,
+   "y1": 669.0,
+   "x2": 1093.0,
+   "y2": 685.0,
+   "text": "1"
+  },
+  {
+   "x1": 1119.0,
+   "y1": 669.0,
+   "x2": 1136.0,
+   "y2": 685.0,
+   "text": "1"
+  },
+  {
+   "x1": 96.0,
+   "y1": 691.0,
+   "x2": 135.0,
+   "y2": 720.0,
+   "text": "19°"
+  },
+  {
+   "x1": 175.0,
+   "y1": 691.0,
+   "x2": 212.0,
+   "y2": 722.0,
+   "text": "+6"
+  },
+  {
+   "x1": 247.0,
+   "y1": 692.0,
+   "x2": 524.0,
+   "y2": 718.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 624.0,
+   "y1": 696.0,
+   "x2": 643.0,
+   "y2": 716.0,
+   "text": "4"
+  },
+  {
+   "x1": 711.0,
+   "y1": 691.0,
+   "x2": 744.0,
+   "y2": 722.0,
+   "text": "22"
+  },
+  {
+   "x1": 790.0,
+   "y1": 694.0,
+   "x2": 814.0,
+   "y2": 718.0,
+   "text": "4"
+  },
+  {
+   "x1": 833.0,
+   "y1": 694.0,
+   "x2": 849.0,
+   "y2": 716.0,
+   "text": "3"
+  },
+  {
+   "x1": 870.0,
+   "y1": 692.0,
+   "x2": 894.0,
+   "y2": 718.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 687.0,
+   "x2": 938.0,
+   "y2": 720.0,
+   "text": "3"
+  },
+  {
+   "x1": 950.0,
+   "y1": 689.0,
+   "x2": 976.0,
+   "y2": 718.0,
+   "text": "3"
+  },
+  {
+   "x1": 994.0,
+   "y1": 692.0,
+   "x2": 1016.0,
+   "y2": 718.0,
+   "text": "2"
+  },
+  {
+   "x1": 1036.0,
+   "y1": 694.0,
+   "x2": 1053.0,
+   "y2": 714.0,
+   "text": "1"
+  },
+  {
+   "x1": 1078.0,
+   "y1": 694.0,
+   "x2": 1095.0,
+   "y2": 714.0,
+   "text": "1"
+  },
+  {
+   "x1": 1121.0,
+   "y1": 694.0,
+   "x2": 1136.0,
+   "y2": 714.0,
+   "text": "1"
+  },
+  {
+   "x1": 96.0,
+   "y1": 718.0,
+   "x2": 135.0,
+   "y2": 747.0,
+   "text": "20°"
+  },
+  {
+   "x1": 179.0,
+   "y1": 720.0,
+   "x2": 209.0,
+   "y2": 745.0,
+   "text": "+6"
+  },
+  {
+   "x1": 249.0,
+   "y1": 722.0,
+   "x2": 406.0,
+   "y2": 745.0,
+   "text": "Ispirazione Superiore"
+  },
+  {
+   "x1": 626.0,
+   "y1": 724.0,
+   "x2": 643.0,
+   "y2": 744.0,
+   "text": "4"
+  },
+  {
+   "x1": 713.0,
+   "y1": 720.0,
+   "x2": 742.0,
+   "y2": 745.0,
+   "text": "22"
+  },
+  {
+   "x1": 787.0,
+   "y1": 718.0,
+   "x2": 814.0,
+   "y2": 743.0,
+   "text": "A"
+  },
+  {
+   "x1": 833.0,
+   "y1": 722.0,
+   "x2": 849.0,
+   "y2": 742.0,
+   "text": "3"
+  },
+  {
+   "x1": 872.0,
+   "y1": 724.0,
+   "x2": 890.0,
+   "y2": 744.0,
+   "text": "3"
+  },
+  {
+   "x1": 914.0,
+   "y1": 722.0,
+   "x2": 933.0,
+   "y2": 742.0,
+   "text": "3"
+  },
+  {
+   "x1": 953.0,
+   "y1": 720.0,
+   "x2": 975.0,
+   "y2": 745.0,
+   "text": "3"
+  },
+  {
+   "x1": 995.0,
+   "y1": 722.0,
+   "x2": 1014.0,
+   "y2": 742.0,
+   "text": "2"
+  },
+  {
+   "x1": 1034.0,
+   "y1": 720.0,
+   "x2": 1056.0,
+   "y2": 745.0,
+   "text": "2"
+  },
+  {
+   "x1": 1078.0,
+   "y1": 722.0,
+   "x2": 1093.0,
+   "y2": 740.0,
+   "text": "1"
+  },
+  {
+   "x1": 1117.0,
+   "y1": 720.0,
+   "x2": 1136.0,
+   "y2": 738.0,
+   "text": ","
+  },
+  {
+   "x1": 85.0,
+   "y1": 813.0,
+   "x2": 305.0,
+   "y2": 841.0,
+   "text": "Slot Incantesimo"
+  },
+  {
+   "x1": 643.0,
+   "y1": 811.0,
+   "x2": 1084.0,
+   "y2": 837.0,
+   "text": "di Carisma per definire la CD del tiro salvezza di un"
+  },
+  {
+   "x1": 87.0,
+   "y1": 840.0,
+   "x2": 578.0,
+   "y2": 866.0,
+   "text": "La tabelia \"Bardo\" indica quanti slot incantesimo possiede"
+  },
+  {
+   "x1": 643.0,
+   "y1": 837.0,
+   "x2": 1132.0,
+   "y2": 861.0,
+   "text": "incantesimo da bardo da lui lanciato e quando effettua un"
+  },
+  {
+   "x1": 87.0,
+   "y1": 864.0,
+   "x2": 548.0,
+   "y2": 888.0,
+   "text": "un bardo per lanciare i suoi incantesimi di 1° livello e di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 859.0,
+   "x2": 949.0,
+   "y2": 882.0,
+   "text": "tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 85.0,
+   "y1": 884.0,
+   "x2": 569.0,
+   "y2": 912.0,
+   "text": "livello superiore. Per lanciare uno di questi incantesimi, il"
+  },
+  {
+   "x1": 643.0,
+   "y1": 893.0,
+   "x2": 1147.0,
+   "y2": 921.0,
+   "text": "CD del tiro salvezza dell'incantesimo - 8 + il bonus di competenza"
+  },
+  {
+   "x1": 89.0,
+   "y1": 912.0,
+   "x2": 569.0,
+   "y2": 935.0,
+   "text": "bardo deve spendere uno slot incantesimo di livello pari o"
+  },
+  {
+   "x1": 713.0,
+   "y1": 921.0,
+   "x2": 1079.0,
+   "y2": 948.0,
+   "text": "del bardo + il modificatore di Carisma del bardo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 934.0,
+   "x2": 580.0,
+   "y2": 957.0,
+   "text": "superiore al livello dell'incantesimo. Il bardo recupera tutti"
+  },
+  {
+   "x1": 87.0,
+   "y1": 957.0,
+   "x2": 585.0,
+   "y2": 981.0,
+   "text": "gli slot incantesimo spesi quando completa un riposo lungo."
+  },
+  {
+   "x1": 643.0,
+   "y1": 956.0,
+   "x2": 1149.0,
+   "y2": 988.0,
+   "text": "Modificatore di attacco dell'incantesimo = il bonus di competenza"
+  },
+  {
+   "x1": 105.0,
+   "y1": 977.0,
+   "x2": 552.0,
+   "y2": 1001.0,
+   "text": "Per esempio, se un bardo conosce l'incantesimo di 1"
+  },
+  {
+   "x1": 713.0,
+   "y1": 987.0,
+   "x2": 1078.0,
+   "y2": 1010.0,
+   "text": "del bardo + il modificatore di Carisma del bardo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 998.0,
+   "x2": 549.0,
+   "y2": 1025.0,
+   "text": "livello cura ferite e possiede uno slot incantesimo di 1"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1021.0,
+   "x2": 593.0,
+   "y2": 1049.0,
+   "text": "livello e uno slot incantesimo di 2° livello, può lanciare cura"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1032.0,
+   "x2": 874.0,
+   "y2": 1058.0,
+   "text": "Celebrare Rituali"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1047.0,
+   "x2": 425.0,
+   "y2": 1071.0,
+   "text": "ferite usando uno qualsiasi dei due slot."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1056.0,
+   "x2": 1143.0,
+   "y2": 1085.0,
+   "text": "Un bardo può lanciare qualsiasi incantesimo da bardo a lui"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1089.0,
+   "x2": 536.0,
+   "y2": 1115.0,
+   "text": "Incantesimi Conosciuti di l° Livello"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1082.0,
+   "x2": 1121.0,
+   "y2": 1105.0,
+   "text": "conosciuto come rituale se quell'incantesimo possiede il"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1105.0,
+   "x2": 805.0,
+   "y2": 1129.0,
+   "text": "descrittore rituale."
+  },
+  {
+   "x1": 87.0,
+   "y1": 1115.0,
+   "x2": 362.0,
+   "y2": 1140.0,
+   "text": "E DI LIveLLO SUPeRioRe"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1138.0,
+   "x2": 560.0,
+   "y2": 1166.0,
+   "text": "Un bardo conosce quattro incantesimi di 1° livello a sua"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1146.0,
+   "x2": 911.0,
+   "y2": 1173.0,
+   "text": "FoCus da Incantatore"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1162.0,
+   "x2": 460.0,
+   "y2": 1186.0,
+   "text": "scelta dalla lista degli incantesimi da bardo."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1173.0,
+   "x2": 1082.0,
+   "y2": 1199.0,
+   "text": "Un bardo può usare uno strumento musicale (vedi il"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1184.0,
+   "x2": 530.0,
+   "y2": 1211.0,
+   "text": "La colonna \"Incantesimi Conosciuti\" nella tabella"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1197.0,
+   "x2": 1136.0,
+   "y2": 1222.0,
+   "text": "capitolo 5, \"Equipaggiamento\") come focus da incantatore"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1208.0,
+   "x2": 574.0,
+   "y2": 1235.0,
+   "text": "Bardo\" indica quando un bardo impara altri incantesimi"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1219.0,
+   "x2": 912.0,
+   "y2": 1246.0,
+   "text": "per i suoi incantesimi da bardo."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1231.0,
+   "x2": 573.0,
+   "y2": 1257.0,
+   "text": "da bardo a sua scelta. Ognuno di questi incantesimi deve"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1255.0,
+   "x2": 574.0,
+   "y2": 1281.0,
+   "text": "appartenere a un livello di cui il bardo possiede degli slot"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1261.0,
+   "x2": 946.0,
+   "y2": 1296.0,
+   "text": "ISpiRAZIoNE BARDiCa"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1277.0,
+   "x2": 550.0,
+   "y2": 1305.0,
+   "text": "incantesimo, come indicato nella tabella.Per esempio,"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1301.0,
+   "x2": 595.0,
+   "y2": 1326.0,
+   "text": "quando un bardo arriva al 3º livello, può imparare un nuovo"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1301.0,
+   "x2": 1125.0,
+   "y2": 1326.0,
+   "text": "Un bardo può ispirare gli altri tramite il lirismo delle sue"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1325.0,
+   "x2": 358.0,
+   "y2": 1348.0,
+   "text": "incantesimo di 1' o di 2° livello."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1326.0,
+   "x2": 1149.0,
+   "y2": 1350.0,
+   "text": "parole o della sua musica. Per farlo usa un'azione bonus nel"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1348.0,
+   "x2": 537.0,
+   "y2": 1372.0,
+   "text": "Inoltre, quando un bardo acquisisce un livello, può"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1350.0,
+   "x2": 1130.0,
+   "y2": 1374.0,
+   "text": "suo turno per scegliere una creatura diversa da se stesso,"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1372.0,
+   "x2": 596.0,
+   "y2": 1396.0,
+   "text": "scegliere un incantesimo da bardo che conosce e sostituirlo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1372.0,
+   "x2": 1125.0,
+   "y2": 1396.0,
+   "text": "situata entro 18 metri da lui e in grado di sentirlo. Quella"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1394.0,
+   "x2": 563.0,
+   "y2": 1418.0,
+   "text": "con un altro incantesimo della lista degli incantesimi da"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1394.0,
+   "x2": 1106.0,
+   "y2": 1420.0,
+   "text": "creatura ottiene un dado di Ispirazione Bardica, un d6."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1414.0,
+   "x2": 587.0,
+   "y2": 1443.0,
+   "text": "bardo; anche il nuovo incantesimo deve essere di un livello"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1416.0,
+   "x2": 1149.0,
+   "y2": 1443.0,
+   "text": "Per una volta entro i 10 minuti successivi, quella creatura"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1442.0,
+   "x2": 484.0,
+   "y2": 1465.0,
+   "text": "di cui il bardo possiede degli slot incantesimo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1442.0,
+   "x2": 1125.0,
+   "y2": 1465.0,
+   "text": "può tirare il dado e aggiungere il risultato ottenuto a una"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1465.0,
+   "x2": 1145.0,
+   "y2": 1489.0,
+   "text": "prova di caratteristica, un tiro per colpire o un tiro salvezza"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1478.0,
+   "x2": 473.0,
+   "y2": 1513.0,
+   "text": "Caratteristica da Incantatore"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1487.0,
+   "x2": 1145.0,
+   "y2": 1511.0,
+   "text": "da essa effettuato. La creatura può aspettare di avere tirato"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1509.0,
+   "x2": 501.0,
+   "y2": 1537.0,
+   "text": "Carisma è la caratteristica da incantatore per gli"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1511.0,
+   "x2": 1139.0,
+   "y2": 1535.0,
+   "text": "il d20 prima di decidere se utilizzare il dado di Ispirazione"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1535.0,
+   "x2": 552.0,
+   "y2": 1559.0,
+   "text": "incantesimi da bardo. La magia di un bardo fluisce dal"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1531.0,
+   "x2": 1104.0,
+   "y2": 1559.0,
+   "text": "Bardica, ma deve decidere se utilizzarlo o meno prima"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1557.0,
+   "x2": 580.0,
+   "y2": 1582.0,
+   "text": "cuore e dall'anima che egli riversa in ogni esibizione della"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1555.0,
+   "x2": 1123.0,
+   "y2": 1582.0,
+   "text": "che il DM dichiari se il tiro abbia avuto successo o meno."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1580.0,
+   "x2": 552.0,
+   "y2": 1606.0,
+   "text": "sua musica o della sua oratoria. Un bardo usa Carisma"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1577.0,
+   "x2": 1121.0,
+   "y2": 1604.0,
+   "text": "Una volta tirato il dado di Ispirazione Bardica, quel dado"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1606.0,
+   "x2": 534.0,
+   "y2": 1630.0,
+   "text": "ogni volta che un incantesimo fa riferimento alla sua"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1604.0,
+   "x2": 1110.0,
+   "y2": 1628.0,
+   "text": "è perduto. Una creatura può possedere un solo dado di"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1628.0,
+   "x2": 596.0,
+   "y2": 1652.0,
+   "text": "caratteristica da incantatore. Usa inoltre il suo modificatore"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1628.0,
+   "x2": 898.0,
+   "y2": 1652.0,
+   "text": "Ispirazione Bardica alla volta."
+  },
+  {
+   "x1": 966.0,
+   "y1": 1683.0,
+   "x2": 1151.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 1211.0,
+   "y1": 1699.0,
+   "x2": 1237.0,
+   "y2": 1721.0,
+   "text": "53"
+  }
+ ],
+ "reading_text": "BARDO\nBonus di\nLivello Competenza\nPrivilegi\n+2\nIncantesimi, Ispirazione Bardica (d6)\n1°\nFactotum, Canto di Riposo (d6)\n+2\n2*\n+2\nCollegio Bardico, Maestria\n3\n+2\nAumento dei Punteggi d. Caratteristica\n4°\n+3\nIspirazione Bardica (d8), Fonte di Ispirazione\n5°\nControfascino, Privilegio del Collegio Bardico\n+3\n6°\n+3\n7°\n+3\nAumento dei Punteggi di Caratteristica\n8°\nCanto di Riposo (d8)\n+4\n9\n+4\n10°\nIspirazione Bardica (d10), Maestria,\nSegreti Magici\n11°\n+4\n12°\n+4\nAumento dei Punteggi di Caratteristica\n13°\n+5\nCanto di Riposo (d10)\n14\nSegreti Magici, Privilego del Collegio Bardico\n+5\n+5\n15°\nIspirazione Bardica (d12)\nAumento dei Punteggi di Caratteristica\n16*\n+5\n17°\n+6\nCanto di Riposo (d12)\n18°\nSegreti Magici\n+6\n19°\n+6\nAumento dei Punteggi di Caratteristica\n20°\n+6\nIspirazione Superiore\nSlot Incantesimo\nLa tabelia \"Bardo\" indica quanti slot incantesimo possiede\nun bardo per lanciare i suoi incantesimi di 1° livello e di\nlivello superiore. Per lanciare uno di questi incantesimi, il\nbardo deve spendere uno slot incantesimo di livello pari o\nsuperiore al livello dell'incantesimo. Il bardo recupera tutti\ngli slot incantesimo spesi quando completa un riposo lungo.\nPer esempio, se un bardo conosce l'incantesimo di 1\nlivello cura ferite e possiede uno slot incantesimo di 1\nlivello e uno slot incantesimo di 2° livello, può lanciare cura\nferite usando uno qualsiasi dei due slot.\nIncantesimi Conosciuti di l° Livello\nE DI LIveLLO SUPeRioRe\nUn bardo conosce quattro incantesimi di 1° livello a sua\nscelta dalla lista degli incantesimi da bardo.\nLa colonna \"Incantesimi Conosciuti\" nella tabella\nBardo\" indica quando un bardo impara altri incantesimi\nda bardo a sua scelta. Ognuno di questi incantesimi deve\nappartenere a un livello di cui il bardo possiede degli slot\nincantesimo, come indicato nella tabella.Per esempio,\nquando un bardo arriva al 3º livello, può imparare un nuovo\nincantesimo di 1' o di 2° livello.\nInoltre, quando un bardo acquisisce un livello, può\nscegliere un incantesimo da bardo che conosce e sostituirlo\ncon un altro incantesimo della lista degli incantesimi da\nbardo; anche il nuovo incantesimo deve essere di un livello\ndi cui il bardo possiede degli slot incantesimo.\nCaratteristica da Incantatore\nCarisma è la caratteristica da incantatore per gli\nincantesimi da bardo. La magia di un bardo fluisce dal\ncuore e dall'anima che egli riversa in ogni esibizione della\nsua musica o della sua oratoria. Un bardo usa Carisma\nogni volta che un incantesimo fa riferimento alla sua\ncaratteristica da incantatore. Usa inoltre il suo modificatore\n—Slot Incantesimo per Livello di Incantesimo\nTruochetti\nIncantesimi\nConosciuti\nConosoiuti\n1°\n2°\n8*\n3°\n4*\n5°\n6\n7°\n9*\n4\n2\n2\n5\n2\n3\n2\n6\n2\n4\n3\n7\n3\n8\n4\n3\n2\n3\n3\n9\n4\n3\n10\n3\n3\n3\n4\n4\n11\n3\n3\n2\n3\n12\n3\n3\n3\n4\n3\n1\n14\n4\n4\n3\n3\n3\n2\n3\n15\n4\n3\n3\n2\n4\n1\n15\n3\n4\n3\n3\n2\n1\n4\n16\n3\n3\n3\n4\n2\n4\n1\n18\n4\n4\n3\n3\n3\n2\n1\n1\n3\nA\n19\n3\n3\n4\n2\n1\n1\n19\n3\n3\n3\n2\n1\n1\n4\n4\n3\n20\n3\n3\n2\n1\n1\n1\n4\n4\n22\n3\n4\n4\n3\n3\n3\n1\n1\n1\n1\n3\n3\n22\n3\n2\n4\n3\n1\n1\n1\n4\nA\n22\n3\n2\n,\n3\n3\n2\n1\n4\n3\ndi Carisma per definire la CD del tiro salvezza di un\nincantesimo da bardo da lui lanciato e quando effettua un\ntiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incantesimo - 8 + il bonus di competenza\ndel bardo + il modificatore di Carisma del bardo\nModificatore di attacco dell'incantesimo = il bonus di competenza\ndel bardo + il modificatore di Carisma del bardo\nCelebrare Rituali\nUn bardo può lanciare qualsiasi incantesimo da bardo a lui\nconosciuto come rituale se quell'incantesimo possiede il\ndescrittore rituale.\nFoCus da Incantatore\nUn bardo può usare uno strumento musicale (vedi il\ncapitolo 5, \"Equipaggiamento\") come focus da incantatore\nper i suoi incantesimi da bardo.\nISpiRAZIoNE BARDiCa\nUn bardo può ispirare gli altri tramite il lirismo delle sue\nparole o della sua musica. Per farlo usa un'azione bonus nel\nsuo turno per scegliere una creatura diversa da se stesso,\nsituata entro 18 metri da lui e in grado di sentirlo. Quella\ncreatura ottiene un dado di Ispirazione Bardica, un d6.\nPer una volta entro i 10 minuti successivi, quella creatura\npuò tirare il dado e aggiungere il risultato ottenuto a una\nprova di caratteristica, un tiro per colpire o un tiro salvezza\nda essa effettuato. La creatura può aspettare di avere tirato\nil d20 prima di decidere se utilizzare il dado di Ispirazione\nBardica, ma deve decidere se utilizzarlo o meno prima\nche il DM dichiari se il tiro abbia avuto successo o meno.\nUna volta tirato il dado di Ispirazione Bardica, quel dado\nè perduto. Una creatura può possedere un solo dado di\nIspirazione Bardica alla volta.\nCAPITOLO 3 CLASSI\n53"
+}

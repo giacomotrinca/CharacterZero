@@ -1,0 +1,920 @@
+{
+ "pdf_page_index": 109,
+ "page_label": 110,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 130,
+ "lines": [
+  {
+   "x1": 103.0,
+   "y1": 64.0,
+   "x2": 604.0,
+   "y2": 88.0,
+   "text": "delle seguenti opzioni di Metamagia a sua scelta. Ne ottiene"
+  },
+  {
+   "x1": 650.0,
+   "y1": 66.0,
+   "x2": 986.0,
+   "y2": 91.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 103.0,
+   "y1": 88.0,
+   "x2": 467.0,
+   "y2": 111.0,
+   "text": "un'altra al 10° liveilo e un'altra al 17ª livello."
+  },
+  {
+   "x1": 648.0,
+   "y1": 97.0,
+   "x2": 920.0,
+   "y2": 128.0,
+   "text": "di CARATTERISTICA"
+  },
+  {
+   "x1": 122.0,
+   "y1": 110.0,
+   "x2": 598.0,
+   "y2": 135.0,
+   "text": "Lo stregone può usare soltanto un'opzione di Metamagia"
+  },
+  {
+   "x1": 102.0,
+   "y1": 132.0,
+   "x2": 569.0,
+   "y2": 155.0,
+   "text": "su un incantesimo quando lo lancia, a meno che non sia"
+  },
+  {
+   "x1": 650.0,
+   "y1": 135.0,
+   "x2": 1123.0,
+   "y2": 161.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e"
+  },
+  {
+   "x1": 102.0,
+   "y1": 157.0,
+   "x2": 321.0,
+   "y2": 181.0,
+   "text": "specificato diversamente."
+  },
+  {
+   "x1": 648.0,
+   "y1": 157.0,
+   "x2": 1130.0,
+   "y2": 185.0,
+   "text": "19 livello, uno stregone può aumentare di 2 un punteggio"
+  },
+  {
+   "x1": 648.0,
+   "y1": 181.0,
+   "x2": 1119.0,
+   "y2": 208.0,
+   "text": "di caratteristica a sua scelta, oppure può aumentare di 1"
+  },
+  {
+   "x1": 101.0,
+   "y1": 197.0,
+   "x2": 347.0,
+   "y2": 225.0,
+   "text": "Incantesimo Celato"
+  },
+  {
+   "x1": 648.0,
+   "y1": 206.0,
+   "x2": 1078.0,
+   "y2": 230.0,
+   "text": "due punteggi di caratteristica a sua scelta. Come di"
+  },
+  {
+   "x1": 105.0,
+   "y1": 225.0,
+   "x2": 580.0,
+   "y2": 250.0,
+   "text": "Quando lo stregone lancia un incantesimo, può spendere"
+  },
+  {
+   "x1": 648.0,
+   "y1": 228.0,
+   "x2": 1101.0,
+   "y2": 252.0,
+   "text": "consueto, non è consentito aumentare un punteggio di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 248.0,
+   "x2": 537.0,
+   "y2": 272.0,
+   "text": "1 punto stregoneria per lanciarlo senza componenti"
+  },
+  {
+   "x1": 650.0,
+   "y1": 252.0,
+   "x2": 1099.0,
+   "y2": 276.0,
+   "text": "caratteristica a più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 103.0,
+   "y1": 270.0,
+   "x2": 275.0,
+   "y2": 294.0,
+   "text": "somatiche o verbali."
+  },
+  {
+   "x1": 654.0,
+   "y1": 296.0,
+   "x2": 1006.0,
+   "y2": 322.0,
+   "text": "RIpristinO StReGoNeSco"
+  },
+  {
+   "x1": 101.0,
+   "y1": 312.0,
+   "x2": 369.0,
+   "y2": 340.0,
+   "text": "Incantesimo Distante"
+  },
+  {
+   "x1": 105.0,
+   "y1": 340.0,
+   "x2": 554.0,
+   "y2": 365.0,
+   "text": "Quando lo stregone lancia un incantesimo che ha una"
+  },
+  {
+   "x1": 648.0,
+   "y1": 331.0,
+   "x2": 1119.0,
+   "y2": 358.0,
+   "text": "Al 20° livello, uno stregone recupera 4 punti stregoneria"
+  },
+  {
+   "x1": 103.0,
+   "y1": 364.0,
+   "x2": 584.0,
+   "y2": 387.0,
+   "text": "gittata pari o superiore a 1,5 metri, può spendere 1 punto"
+  },
+  {
+   "x1": 648.0,
+   "y1": 358.0,
+   "x2": 1036.0,
+   "y2": 382.0,
+   "text": "spesi ogni volta che completa un riposo breve."
+  },
+  {
+   "x1": 103.0,
+   "y1": 387.0,
+   "x2": 563.0,
+   "y2": 411.0,
+   "text": "stregoneria per raddoppiare la gittata dell'incantesimo."
+  },
+  {
+   "x1": 122.0,
+   "y1": 409.0,
+   "x2": 550.0,
+   "y2": 433.0,
+   "text": "Quando lancia un incantesimo che ha una gittata a"
+  },
+  {
+   "x1": 652.0,
+   "y1": 400.0,
+   "x2": 1080.0,
+   "y2": 435.0,
+   "text": "OrigiNI StrEgoNEsChE"
+  },
+  {
+   "x1": 103.0,
+   "y1": 433.0,
+   "x2": 582.0,
+   "y2": 457.0,
+   "text": "contatto, può spendere 1 punto stregoneria per cambiare"
+  },
+  {
+   "x1": 650.0,
+   "y1": 442.0,
+   "x2": 1114.0,
+   "y2": 466.0,
+   "text": "Ogni stregone può vantare un'origine diversa per la sua"
+  },
+  {
+   "x1": 103.0,
+   "y1": 455.0,
+   "x2": 310.0,
+   "y2": 479.0,
+   "text": "quella gittata in 9 metri."
+  },
+  {
+   "x1": 650.0,
+   "y1": 466.0,
+   "x2": 1139.0,
+   "y2": 490.0,
+   "text": "magia innata. Anche se esistono molte varianti, la maggior"
+  },
+  {
+   "x1": 105.0,
+   "y1": 499.0,
+   "x2": 342.0,
+   "y2": 523.0,
+   "text": "Incantesimo Esteso"
+  },
+  {
+   "x1": 652.0,
+   "y1": 490.0,
+   "x2": 1143.0,
+   "y2": 513.0,
+   "text": "parte di queste origini ricade in due categorie: discendenza"
+  },
+  {
+   "x1": 650.0,
+   "y1": 512.0,
+   "x2": 894.0,
+   "y2": 535.0,
+   "text": "draconica e magia selvaggia."
+  },
+  {
+   "x1": 105.0,
+   "y1": 524.0,
+   "x2": 595.0,
+   "y2": 548.0,
+   "text": "Quando lo stregone lancia un incantesimo di durata pari o"
+  },
+  {
+   "x1": 103.0,
+   "y1": 548.0,
+   "x2": 600.0,
+   "y2": 572.0,
+   "text": "superiore a 1 minuto, può spendere1 punto stregoneria per"
+  },
+  {
+   "x1": 648.0,
+   "y1": 552.0,
+   "x2": 1010.0,
+   "y2": 587.0,
+   "text": "Discendenza Draconica"
+  },
+  {
+   "x1": 103.0,
+   "y1": 570.0,
+   "x2": 552.0,
+   "y2": 594.0,
+   "text": "raddoppiare la sua durata, fino a una durata massima"
+  },
+  {
+   "x1": 103.0,
+   "y1": 592.0,
+   "x2": 194.0,
+   "y2": 618.0,
+   "text": "di 24 ore."
+  },
+  {
+   "x1": 650.0,
+   "y1": 594.0,
+   "x2": 1119.0,
+   "y2": 618.0,
+   "text": "La magia innata dello stregone scaturisce da una magia"
+  },
+  {
+   "x1": 650.0,
+   "y1": 618.0,
+   "x2": 1095.0,
+   "y2": 641.0,
+   "text": "draconica che si mescolò al sangue dei suoi antenati."
+  },
+  {
+   "x1": 105.0,
+   "y1": 636.0,
+   "x2": 425.0,
+   "y2": 660.0,
+   "text": "Incantesimo Intensificato"
+  },
+  {
+   "x1": 650.0,
+   "y1": 636.0,
+   "x2": 1149.0,
+   "y2": 663.0,
+   "text": "Spesso gli stregoni con questa origine annoverano tra i loro"
+  },
+  {
+   "x1": 107.0,
+   "y1": 663.0,
+   "x2": 595.0,
+   "y2": 687.0,
+   "text": "Quando lo stregone lancia un incantesimo che obbliga una"
+  },
+  {
+   "x1": 650.0,
+   "y1": 661.0,
+   "x2": 1130.0,
+   "y2": 685.0,
+   "text": "antenati un potente stregone dei tempi antichi che stipulò"
+  },
+  {
+   "x1": 107.0,
+   "y1": 687.0,
+   "x2": 580.0,
+   "y2": 705.0,
+   "text": "creatura a effettuare un tiro salvezza per resistere ai suoi"
+  },
+  {
+   "x1": 648.0,
+   "y1": 683.0,
+   "x2": 1125.0,
+   "y2": 707.0,
+   "text": "un patto con un drago o che addirittura vantava un drago"
+  },
+  {
+   "x1": 103.0,
+   "y1": 705.0,
+   "x2": 560.0,
+   "y2": 733.0,
+   "text": "effetti, può spendere 3 punti stregoneria per infiggere"
+  },
+  {
+   "x1": 652.0,
+   "y1": 711.0,
+   "x2": 1147.0,
+   "y2": 729.0,
+   "text": "come genitore. Alcune di queste discendenze sono ben note"
+  },
+  {
+   "x1": 103.0,
+   "y1": 731.0,
+   "x2": 602.0,
+   "y2": 755.0,
+   "text": "svantaggio a un bersaglio dell'incantesimo in occasione del"
+  },
+  {
+   "x1": 650.0,
+   "y1": 731.0,
+   "x2": 1132.0,
+   "y2": 755.0,
+   "text": "in tutto il mondo, ma nella maggior parte dei casi si tratta"
+  },
+  {
+   "x1": 103.0,
+   "y1": 753.0,
+   "x2": 565.0,
+   "y2": 780.0,
+   "text": "primo tiro salvezza che effettuerà contro l'incantesimo."
+  },
+  {
+   "x1": 650.0,
+   "y1": 755.0,
+   "x2": 1108.0,
+   "y2": 778.0,
+   "text": "di un retaggio misterioso. Qualsiasi stregone potrebbe"
+  },
+  {
+   "x1": 650.0,
+   "y1": 777.0,
+   "x2": 1151.0,
+   "y2": 800.0,
+   "text": "essere ilprimo di una futura discendenza, come risultato di"
+  },
+  {
+   "x1": 107.0,
+   "y1": 798.0,
+   "x2": 397.0,
+   "y2": 822.0,
+   "text": "Incantesimo Potenziato"
+  },
+  {
+   "x1": 650.0,
+   "y1": 800.0,
+   "x2": 1093.0,
+   "y2": 824.0,
+   "text": "un patto o di qualche altra circostanza straordinaria."
+  },
+  {
+   "x1": 107.0,
+   "y1": 824.0,
+   "x2": 548.0,
+   "y2": 848.0,
+   "text": "Quando lo stregone tira per i danni di un incantesimo,"
+  },
+  {
+   "x1": 103.0,
+   "y1": 844.0,
+   "x2": 578.0,
+   "y2": 872.0,
+   "text": "può spendere 1 punto stregoneria per ripetere il tiro di un"
+  },
+  {
+   "x1": 648.0,
+   "y1": 840.0,
+   "x2": 907.0,
+   "y2": 868.0,
+   "text": "Antenato Draconico"
+  },
+  {
+   "x1": 103.0,
+   "y1": 870.0,
+   "x2": 604.0,
+   "y2": 893.0,
+   "text": "numero massimo di dadi pari al suo modificatore di Carisma"
+  },
+  {
+   "x1": 650.0,
+   "y1": 868.0,
+   "x2": 1099.0,
+   "y2": 893.0,
+   "text": "Al 1º livello, lo stregone sceglie un tipo di drago come"
+  },
+  {
+   "x1": 109.0,
+   "y1": 895.0,
+   "x2": 541.0,
+   "y2": 914.0,
+   "text": "(fino a un minimo di uno).Deve usare i nuovi risultati."
+  },
+  {
+   "x1": 648.0,
+   "y1": 892.0,
+   "x2": 1127.0,
+   "y2": 915.0,
+   "text": "suo antenato. Il tipo di danno associato a ogni drago sarà"
+  },
+  {
+   "x1": 124.0,
+   "y1": 915.0,
+   "x2": 593.0,
+   "y2": 939.0,
+   "text": "Lo stregone può utilizzare Incantesimo Potenziato anche"
+  },
+  {
+   "x1": 648.0,
+   "y1": 915.0,
+   "x2": 1115.0,
+   "y2": 939.0,
+   "text": "utilizzato dai privilegi che lo stregone otterrà in seguito."
+  },
+  {
+   "x1": 103.0,
+   "y1": 937.0,
+   "x2": 600.0,
+   "y2": 961.0,
+   "text": "se ha già utilizzato un'opzione diversa di Metamagia durante"
+  },
+  {
+   "x1": 103.0,
+   "y1": 959.0,
+   "x2": 318.0,
+   "y2": 987.0,
+   "text": "il lancio dell'incantesimo."
+  },
+  {
+   "x1": 650.0,
+   "y1": 956.0,
+   "x2": 881.0,
+   "y2": 981.0,
+   "text": "Antenati Draconici"
+  },
+  {
+   "x1": 653.0,
+   "y1": 986.0,
+   "x2": 714.0,
+   "y2": 1020.0,
+   "text": "Drago"
+  },
+  {
+   "x1": 822.0,
+   "y1": 988.0,
+   "x2": 934.0,
+   "y2": 1014.0,
+   "text": "Tipo di Danno"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1003.0,
+   "x2": 351.0,
+   "y2": 1027.0,
+   "text": "Incantesimo Preciso"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1018.0,
+   "x2": 726.0,
+   "y2": 1045.0,
+   "text": "Argento"
+  },
+  {
+   "x1": 818.0,
+   "y1": 1012.0,
+   "x2": 886.0,
+   "y2": 1045.0,
+   "text": "Freddo"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1029.0,
+   "x2": 556.0,
+   "y2": 1052.0,
+   "text": "Quando lo stregone lancia un incantesimo che obbliga"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1052.0,
+   "x2": 591.0,
+   "y2": 1076.0,
+   "text": "altre creature a effettuare un tiro salvezza, può proteggere"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1043.0,
+   "x2": 720.0,
+   "y2": 1071.0,
+   "text": "Bianco"
+  },
+  {
+   "x1": 820.0,
+   "y1": 1043.0,
+   "x2": 885.0,
+   "y2": 1071.0,
+   "text": "Freddo"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1069.0,
+   "x2": 694.0,
+   "y2": 1098.0,
+   "text": "Blu"
+  },
+  {
+   "x1": 819.0,
+   "y1": 1065.0,
+   "x2": 891.0,
+   "y2": 1099.0,
+   "text": "Fulmine"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1076.0,
+   "x2": 600.0,
+   "y2": 1100.0,
+   "text": "alcune di quelle creature dalla piena forza dell'incantesimo."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1096.0,
+   "x2": 585.0,
+   "y2": 1126.0,
+   "text": "Per farlo spende 1 punto stregoneria e sceglie un numero"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1096.0,
+   "x2": 721.0,
+   "y2": 1128.0,
+   "text": "Bronzo"
+  },
+  {
+   "x1": 818.0,
+   "y1": 1094.0,
+   "x2": 893.0,
+   "y2": 1126.0,
+   "text": "Fufmine"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1124.0,
+   "x2": 580.0,
+   "y2": 1147.0,
+   "text": "massimo di creature pari al suo modificatore di Carisma"
+  },
+  {
+   "x1": 653.0,
+   "y1": 1121.0,
+   "x2": 706.0,
+   "y2": 1154.0,
+   "text": "Nero"
+  },
+  {
+   "x1": 820.0,
+   "y1": 1124.0,
+   "x2": 875.0,
+   "y2": 1151.0,
+   "text": "Acido"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1144.0,
+   "x2": 572.0,
+   "y2": 1168.0,
+   "text": "(fino a un minimo di una creatura). Ogni creatura scelta"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1149.0,
+   "x2": 702.0,
+   "y2": 1178.0,
+   "text": "Oro"
+  },
+  {
+   "x1": 817.0,
+   "y1": 1147.0,
+   "x2": 878.0,
+   "y2": 1181.0,
+   "text": "Fuoco"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1168.0,
+   "x2": 530.0,
+   "y2": 1191.0,
+   "text": "supera automaticamente il suo tiro salvezza contro"
+  },
+  {
+   "x1": 653.0,
+   "y1": 1174.0,
+   "x2": 721.0,
+   "y2": 1206.0,
+   "text": "Ottone"
+  },
+  {
+   "x1": 817.0,
+   "y1": 1174.0,
+   "x2": 878.0,
+   "y2": 1208.0,
+   "text": "Fuoco"
+  },
+  {
+   "x1": 101.0,
+   "y1": 1189.0,
+   "x2": 227.0,
+   "y2": 1219.0,
+   "text": "l'incantesimo."
+  },
+  {
+   "x1": 655.0,
+   "y1": 1202.0,
+   "x2": 712.0,
+   "y2": 1234.0,
+   "text": "Rame"
+  },
+  {
+   "x1": 820.0,
+   "y1": 1204.0,
+   "x2": 875.0,
+   "y2": 1231.0,
+   "text": "Acido"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1227.0,
+   "x2": 714.0,
+   "y2": 1261.0,
+   "text": "Rosso"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1237.0,
+   "x2": 414.0,
+   "y2": 1261.0,
+   "text": "Incantesimo Raddoppiato"
+  },
+  {
+   "x1": 820.0,
+   "y1": 1230.0,
+   "x2": 881.0,
+   "y2": 1261.0,
+   "text": "Fuoco"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1261.0,
+   "x2": 574.0,
+   "y2": 1284.0,
+   "text": "Quando lo stregone lancia un incantesimo che bersaglia"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1259.0,
+   "x2": 711.0,
+   "y2": 1286.0,
+   "text": "Verde"
+  },
+  {
+   "x1": 817.0,
+   "y1": 1255.0,
+   "x2": 883.0,
+   "y2": 1287.0,
+   "text": "Veieno"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1284.0,
+   "x2": 596.0,
+   "y2": 1308.0,
+   "text": "una sola creatura e non ha una gittata di \"incantatore\", può"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1306.0,
+   "x2": 561.0,
+   "y2": 1330.0,
+   "text": "spendere un numero di punti stregoneria pari al livello"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1305.0,
+   "x2": 1104.0,
+   "y2": 1328.0,
+   "text": "Lo stregone è in grado di parlare, leggere e scrivere in"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1332.0,
+   "x2": 596.0,
+   "y2": 1356.0,
+   "text": "dell'incantesimo per bersagliare con lo stesso incantesimo"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1325.0,
+   "x2": 1088.0,
+   "y2": 1352.0,
+   "text": "Draconico. Inoltre, ogni volta che effettua una prova"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1356.0,
+   "x2": 593.0,
+   "y2": 1379.0,
+   "text": "una seconda creatura entro gittata (1 punto stregoneria se"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1352.0,
+   "x2": 1099.0,
+   "y2": 1376.0,
+   "text": "di Carisma per interagire con i draghi, il suo bonus di"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1378.0,
+   "x2": 362.0,
+   "y2": 1401.0,
+   "text": "l'incantesimo è un trucchetto)."
+  },
+  {
+   "x1": 650.0,
+   "y1": 1376.0,
+   "x2": 1067.0,
+   "y2": 1400.0,
+   "text": "competenza raddoppia se è applicabile alla prova."
+  },
+  {
+   "x1": 122.0,
+   "y1": 1401.0,
+   "x2": 556.0,
+   "y2": 1425.0,
+   "text": "Affinché sia selezionabile, un incantesimo non deve"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1425.0,
+   "x2": 576.0,
+   "y2": 1449.0,
+   "text": "essere in grado di bersagliare più di una creatura al suo"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1418.0,
+   "x2": 912.0,
+   "y2": 1442.0,
+   "text": "Resilienza Draconica"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1447.0,
+   "x2": 602.0,
+   "y2": 1471.0,
+   "text": "livello di incantesimo attuale.Per esempio, dardo incantato"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1445.0,
+   "x2": 1138.0,
+   "y2": 1469.0,
+   "text": "La magia, scorrendo nel corpo dello stregone, fa emergere"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1471.0,
+   "x2": 576.0,
+   "y2": 1495.0,
+   "text": "e raggio rovente non sono selezionabili, mentre raggio di"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1465.0,
+   "x2": 1103.0,
+   "y2": 1493.0,
+   "text": "alcuni tratti fisici dei draghi suoi antenati. Al 1° livello,"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1495.0,
+   "x2": 366.0,
+   "y2": 1518.0,
+   "text": "gelo e globo cromatico lo sono."
+  },
+  {
+   "x1": 650.0,
+   "y1": 1491.0,
+   "x2": 1104.0,
+   "y2": 1515.0,
+   "text": "il massimo dei punti ferita dello stregone aumenta di 1"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1515.0,
+   "x2": 1095.0,
+   "y2": 1538.0,
+   "text": "e aumenta di nuovo di 1 ogni volta che il personaggio"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1535.0,
+   "x2": 347.0,
+   "y2": 1562.0,
+   "text": "Incantesimo Rapido"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1538.0,
+   "x2": 962.0,
+   "y2": 1562.0,
+   "text": "acquisisce un livello in questa classe."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1564.0,
+   "x2": 602.0,
+   "y2": 1588.0,
+   "text": "Quando lo stregone lancia un incantesimo che ha un tempo di"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1560.0,
+   "x2": 1115.0,
+   "y2": 1584.0,
+   "text": "Inoltre, alcune parti della sua pelle si ricoprono di un"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1586.0,
+   "x2": 584.0,
+   "y2": 1613.0,
+   "text": "lancio pari a 1 azione, può spendere 2 punti stregoneria per"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1584.0,
+   "x2": 1139.0,
+   "y2": 1608.0,
+   "text": "sottile strato di scaglie simili a quelle di un drago.Quando"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1611.0,
+   "x2": 587.0,
+   "y2": 1635.0,
+   "text": "cambiare il tempo di lancio a 1 azione bonus per quel lancio."
+  },
+  {
+   "x1": 652.0,
+   "y1": 1608.0,
+   "x2": 1145.0,
+   "y2": 1632.0,
+   "text": "lo stregone non indossa armature, la sua CA è pari a 13 + il"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1632.0,
+   "x2": 910.0,
+   "y2": 1655.0,
+   "text": "suo modificatore di Destrezza."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1683.0,
+   "x2": 286.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 17.0,
+   "y1": 1697.0,
+   "x2": 50.0,
+   "y2": 1719.0,
+   "text": "110"
+  }
+ ],
+ "reading_text": "delle seguenti opzioni di Metamagia a sua scelta. Ne ottiene\nun'altra al 10° liveilo e un'altra al 17ª livello.\nLo stregone può usare soltanto un'opzione di Metamagia\nsu un incantesimo quando lo lancia, a meno che non sia\nspecificato diversamente.\nIncantesimo Celato\nQuando lo stregone lancia un incantesimo, può spendere\n1 punto stregoneria per lanciarlo senza componenti\nsomatiche o verbali.\nIncantesimo Distante\nQuando lo stregone lancia un incantesimo che ha una\ngittata pari o superiore a 1,5 metri, può spendere 1 punto\nstregoneria per raddoppiare la gittata dell'incantesimo.\nQuando lancia un incantesimo che ha una gittata a\ncontatto, può spendere 1 punto stregoneria per cambiare\nquella gittata in 9 metri.\nIncantesimo Esteso\nQuando lo stregone lancia un incantesimo di durata pari o\nsuperiore a 1 minuto, può spendere1 punto stregoneria per\nraddoppiare la sua durata, fino a una durata massima\ndi 24 ore.\nIncantesimo Intensificato\nQuando lo stregone lancia un incantesimo che obbliga una\ncreatura a effettuare un tiro salvezza per resistere ai suoi\neffetti, può spendere 3 punti stregoneria per infiggere\nsvantaggio a un bersaglio dell'incantesimo in occasione del\nprimo tiro salvezza che effettuerà contro l'incantesimo.\nIncantesimo Potenziato\nQuando lo stregone tira per i danni di un incantesimo,\npuò spendere 1 punto stregoneria per ripetere il tiro di un\nnumero massimo di dadi pari al suo modificatore di Carisma\n(fino a un minimo di uno).Deve usare i nuovi risultati.\nLo stregone può utilizzare Incantesimo Potenziato anche\nse ha già utilizzato un'opzione diversa di Metamagia durante\nil lancio dell'incantesimo.\nIncantesimo Preciso\nQuando lo stregone lancia un incantesimo che obbliga\naltre creature a effettuare un tiro salvezza, può proteggere\nalcune di quelle creature dalla piena forza dell'incantesimo.\nPer farlo spende 1 punto stregoneria e sceglie un numero\nmassimo di creature pari al suo modificatore di Carisma\n(fino a un minimo di una creatura). Ogni creatura scelta\nsupera automaticamente il suo tiro salvezza contro\nl'incantesimo.\nIncantesimo Raddoppiato\nQuando lo stregone lancia un incantesimo che bersaglia\nuna sola creatura e non ha una gittata di \"incantatore\", può\nspendere un numero di punti stregoneria pari al livello\ndell'incantesimo per bersagliare con lo stesso incantesimo\nuna seconda creatura entro gittata (1 punto stregoneria se\nl'incantesimo è un trucchetto).\nAffinché sia selezionabile, un incantesimo non deve\nessere in grado di bersagliare più di una creatura al suo\nlivello di incantesimo attuale.Per esempio, dardo incantato\ne raggio rovente non sono selezionabili, mentre raggio di\ngelo e globo cromatico lo sono.\nIncantesimo Rapido\nQuando lo stregone lancia un incantesimo che ha un tempo di\nlancio pari a 1 azione, può spendere 2 punti stregoneria per\ncambiare il tempo di lancio a 1 azione bonus per quel lancio.\nCAPITOLO 3 CLASSI\n110\nAumento dei Punteggi\ndi CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e\n19 livello, uno stregone può aumentare di 2 un punteggio\ndi caratteristica a sua scelta, oppure può aumentare di 1\ndue punteggi di caratteristica a sua scelta. Come di\nconsueto, non è consentito aumentare un punteggio di\ncaratteristica a più di 20 utilizzando questo privilegio.\nRIpristinO StReGoNeSco\nAl 20° livello, uno stregone recupera 4 punti stregoneria\nspesi ogni volta che completa un riposo breve.\nOrigiNI StrEgoNEsChE\nOgni stregone può vantare un'origine diversa per la sua\nmagia innata. Anche se esistono molte varianti, la maggior\nparte di queste origini ricade in due categorie: discendenza\ndraconica e magia selvaggia.\nDiscendenza Draconica\nLa magia innata dello stregone scaturisce da una magia\ndraconica che si mescolò al sangue dei suoi antenati.\nSpesso gli stregoni con questa origine annoverano tra i loro\nantenati un potente stregone dei tempi antichi che stipulò\nun patto con un drago o che addirittura vantava un drago\ncome genitore. Alcune di queste discendenze sono ben note\nin tutto il mondo, ma nella maggior parte dei casi si tratta\ndi un retaggio misterioso. Qualsiasi stregone potrebbe\nessere ilprimo di una futura discendenza, come risultato di\nun patto o di qualche altra circostanza straordinaria.\nAntenato Draconico\nAl 1º livello, lo stregone sceglie un tipo di drago come\nsuo antenato. Il tipo di danno associato a ogni drago sarà\nutilizzato dai privilegi che lo stregone otterrà in seguito.\nAntenati Draconici\nDrago\nTipo di Danno\nFreddo\nArgento\nBianco\nFreddo\nFulmine\nBlu\nFufmine\nBronzo\nNero\nAcido\nFuoco\nOro\nOttone\nFuoco\nRame\nAcido\nRosso\nFuoco\nVeieno\nVerde\nLo stregone è in grado di parlare, leggere e scrivere in\nDraconico. Inoltre, ogni volta che effettua una prova\ndi Carisma per interagire con i draghi, il suo bonus di\ncompetenza raddoppia se è applicabile alla prova.\nResilienza Draconica\nLa magia, scorrendo nel corpo dello stregone, fa emergere\nalcuni tratti fisici dei draghi suoi antenati. Al 1° livello,\nil massimo dei punti ferita dello stregone aumenta di 1\ne aumenta di nuovo di 1 ogni volta che il personaggio\nacquisisce un livello in questa classe.\nInoltre, alcune parti della sua pelle si ricoprono di un\nsottile strato di scaglie simili a quelle di un drago.Quando\nlo stregone non indossa armature, la sua CA è pari a 13 + il\nsuo modificatore di Destrezza."
+}

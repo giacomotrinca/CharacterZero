@@ -1,0 +1,451 @@
+{
+ "pdf_page_index": 47,
+ "page_label": 48,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 63,
+ "lines": [
+  {
+   "x1": 87.0,
+   "y1": 802.0,
+   "x2": 301.0,
+   "y2": 828.0,
+   "text": "EQUipaGGiaMENto"
+  },
+  {
+   "x1": 645.0,
+   "y1": 800.0,
+   "x2": 1005.0,
+   "y2": 831.0,
+   "text": "Difesa Senza Armatura"
+  },
+  {
+   "x1": 83.0,
+   "y1": 826.0,
+   "x2": 541.0,
+   "y2": 853.0,
+   "text": "Un barbaro inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 645.0,
+   "y1": 839.0,
+   "x2": 1119.0,
+   "y2": 864.0,
+   "text": "Finché un barbaro non indossa alcuna armatura, la sua"
+  },
+  {
+   "x1": 83.0,
+   "y1": 850.0,
+   "x2": 597.0,
+   "y2": 879.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 646.0,
+   "y1": 861.0,
+   "x2": 1086.0,
+   "y2": 886.0,
+   "text": "Classe Armatura è pari a 10 + il suo modificatore di"
+  },
+  {
+   "x1": 87.0,
+   "y1": 884.0,
+   "x2": 595.0,
+   "y2": 910.0,
+   "text": "(a) un'ascia bipenne o (b) una qualsiasi arma da guerra da"
+  },
+  {
+   "x1": 643.0,
+   "y1": 881.0,
+   "x2": 1154.0,
+   "y2": 910.0,
+   "text": "Destrezza + il suo modificatore di Costituzione. Un barbaro"
+  },
+  {
+   "x1": 102.0,
+   "y1": 910.0,
+   "x2": 177.0,
+   "y2": 930.0,
+   "text": "mischia"
+  },
+  {
+   "x1": 643.0,
+   "y1": 908.0,
+   "x2": 1152.0,
+   "y2": 932.0,
+   "text": "può usare uno scudo e ottenere comunque questo beneficio."
+  },
+  {
+   "x1": 100.0,
+   "y1": 930.0,
+   "x2": 497.0,
+   "y2": 956.0,
+   "text": "(a) due asce o (b) una qualsiasi arma semplice"
+  },
+  {
+   "x1": 102.0,
+   "y1": 954.0,
+   "x2": 526.0,
+   "y2": 977.0,
+   "text": "Una dotazione da esploratore e quattro giavellotti"
+  },
+  {
+   "x1": 648.0,
+   "y1": 952.0,
+   "x2": 922.0,
+   "y2": 977.0,
+   "text": "Attacco IRruento"
+  },
+  {
+   "x1": 83.0,
+   "y1": 994.0,
+   "x2": 142.0,
+   "y2": 1029.0,
+   "text": "IRA"
+  },
+  {
+   "x1": 643.0,
+   "y1": 988.0,
+   "x2": 1093.0,
+   "y2": 1012.0,
+   "text": "A partire dal 2° livello, un barbaro può ignorare ogni"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1012.0,
+   "x2": 1151.0,
+   "y2": 1036.0,
+   "text": "preoccupazione perla sua difesa e attaccare in preda a una"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1034.0,
+   "x2": 574.0,
+   "y2": 1058.0,
+   "text": "In battaglia, un barbaro combatte animato da una ferocia"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1034.0,
+   "x2": 1136.0,
+   "y2": 1058.0,
+   "text": "feroce disperazione. Quando effettua il suo primoattacco"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1056.0,
+   "x2": 521.0,
+   "y2": 1082.0,
+   "text": "primordiale. Nel suo turno può entrare in ira come"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1058.0,
+   "x2": 1143.0,
+   "y2": 1082.0,
+   "text": "nel suo turno, può decidere di sferrare un attacco irruento."
+  },
+  {
+   "x1": 87.0,
+   "y1": 1080.0,
+   "x2": 207.0,
+   "y2": 1100.0,
+   "text": "azione bonus."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1078.0,
+   "x2": 1106.0,
+   "y2": 1102.0,
+   "text": "Così facendo dispone di vantaggio ai tiri per colpire in"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1100.0,
+   "x2": 587.0,
+   "y2": 1127.0,
+   "text": "Finché è in ira, ottiene i benefici seguenti se non indossa"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1100.0,
+   "x2": 1119.0,
+   "y2": 1127.0,
+   "text": "mischia che usano Forza durante questo turno,ma i tiri"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1125.0,
+   "x2": 271.0,
+   "y2": 1149.0,
+   "text": "un'armatura pesante:"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1125.0,
+   "x2": 1151.0,
+   "y2": 1149.0,
+   "text": "per colpire contro di lui dispongono di vantaggio fino al suo"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1158.0,
+   "x2": 591.0,
+   "y2": 1182.0,
+   "text": ".Dispone di vantaggio alle prove di Forza e ai tiri salvezza"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1149.0,
+   "x2": 798.0,
+   "y2": 1173.0,
+   "text": "turno successivo."
+  },
+  {
+   "x1": 102.0,
+   "y1": 1184.0,
+   "x2": 187.0,
+   "y2": 1204.0,
+   "text": "su Forza."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1193.0,
+   "x2": 1016.0,
+   "y2": 1219.0,
+   "text": "PERCEZIONE DEL PERICOLO"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1204.0,
+   "x2": 593.0,
+   "y2": 1228.0,
+   "text": "Quando effettua un attacco con un'arma da mischia usando"
+  },
+  {
+   "x1": 101.0,
+   "y1": 1224.0,
+   "x2": 595.0,
+   "y2": 1252.0,
+   "text": "Forza, ottiene un bonus al tiro per i danni che aumenta man"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1228.0,
+   "x2": 1143.0,
+   "y2": 1253.0,
+   "text": "Al 2° livello, un barbaro ottiene una percezione prodigiosa"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1250.0,
+   "x2": 595.0,
+   "y2": 1273.0,
+   "text": "mano che egli ottiene nuovi livelli da barbaro, come indicato"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1252.0,
+   "x2": 1123.0,
+   "y2": 1275.0,
+   "text": "di tutto ciò che nei paraggi non è come dovrebbe essere,"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1270.0,
+   "x2": 541.0,
+   "y2": 1297.0,
+   "text": "nella colonna \"Danni dell'Ira\" nella tabella \"Barbaro\"."
+  },
+  {
+   "x1": 645.0,
+   "y1": 1275.0,
+   "x2": 1086.0,
+   "y2": 1299.0,
+   "text": "cosa che lo agevola quando deve schivare i pericoli."
+  },
+  {
+   "x1": 102.0,
+   "y1": 1294.0,
+   "x2": 574.0,
+   "y2": 1317.0,
+   "text": "Un barbaro dispone di resistenza ai danni contundenti,"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1299.0,
+   "x2": 1097.0,
+   "y2": 1323.0,
+   "text": "Un barbaro dispone di vantaggio ai tiri salvezza su"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1319.0,
+   "x2": 286.0,
+   "y2": 1343.0,
+   "text": "perforanti e taglienti."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1319.0,
+   "x2": 1084.0,
+   "y2": 1347.0,
+   "text": "Destrezza contro gli effetti che può vedere, come le"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1352.0,
+   "x2": 580.0,
+   "y2": 1376.0,
+   "text": "Se un barbaro è in grado di lanciare incantesimi, non può"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1345.0,
+   "x2": 1139.0,
+   "y2": 1368.0,
+   "text": "trappole e gli incantesimi. Per ottenere questo beneficio il"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1367.0,
+   "x2": 1154.0,
+   "y2": 1390.0,
+   "text": "barbaro non deve essere accecato, assordato o incapacitato."
+  },
+  {
+   "x1": 89.0,
+   "y1": 1378.0,
+   "x2": 504.0,
+   "y2": 1396.0,
+   "text": "lanciarli o concentrarsi su di essi quando è in ira."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1398.0,
+   "x2": 596.0,
+   "y2": 1421.0,
+   "text": "L'ira del barbaro dura 1 minuto.Termina anticipatamente"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1421.0,
+   "x2": 589.0,
+   "y2": 1445.0,
+   "text": "se il barbaro cade privo di sensi o se il suo turno termina e"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1412.0,
+   "x2": 982.0,
+   "y2": 1438.0,
+   "text": "Cammino PrimoRdIaLE"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1443.0,
+   "x2": 589.0,
+   "y2": 1467.0,
+   "text": "non ha attaccato una creatura ostile dal suo ultimo turno o"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1445.0,
+   "x2": 1141.0,
+   "y2": 1473.0,
+   "text": "Al 3° livello, un barbaro sceglie un cammino che definisce"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1467.0,
+   "x2": 589.0,
+   "y2": 1491.0,
+   "text": "non ha subito danni da allora. Un barbaro può anche porre"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1471.0,
+   "x2": 1112.0,
+   "y2": 1496.0,
+   "text": "la natura della sua furia. Può scegliere il Cammino del"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1489.0,
+   "x2": 548.0,
+   "y2": 1513.0,
+   "text": "fine alla sua ira nel proprio turno, come azione bonus."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1495.0,
+   "x2": 1084.0,
+   "y2": 1518.0,
+   "text": "Berserker o il Cammino del CombattenteTotemico,"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1513.0,
+   "x2": 563.0,
+   "y2": 1537.0,
+   "text": "Una volta entrato in ira per il numero di vofte indicato"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1518.0,
+   "x2": 1132.0,
+   "y2": 1542.0,
+   "text": "entrambi illustrati alla fine della sezione di questa classe."
+  },
+  {
+   "x1": 89.0,
+   "y1": 1535.0,
+   "x2": 567.0,
+   "y2": 1559.0,
+   "text": "dal suo livello di barbaro nella colonna \"Ira\" nella tabella"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1540.0,
+   "x2": 1128.0,
+   "y2": 1564.0,
+   "text": "Questa scelta gli conferisce alcuni privilegi al 3°livello e"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1555.0,
+   "x2": 563.0,
+   "y2": 1582.0,
+   "text": "\"Barbaro\", un barbaro deve completare un riposo lungo"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1564.0,
+   "x2": 934.0,
+   "y2": 1588.0,
+   "text": "poi di nuovo al 6°, 10° e14° livello."
+  },
+  {
+   "x1": 89.0,
+   "y1": 1582.0,
+   "x2": 406.0,
+   "y2": 1606.0,
+   "text": "prima di poter entrare di nuovo in ira."
+  },
+  {
+   "x1": 87.0,
+   "y1": 1679.0,
+   "x2": 268.0,
+   "y2": 1707.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 13.0,
+   "y1": 1699.0,
+   "x2": 33.0,
+   "y2": 1716.0,
+   "text": "48"
+  }
+ ],
+ "reading_text": "EQUipaGGiaMENto\nUn barbaro inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\n(a) un'ascia bipenne o (b) una qualsiasi arma da guerra da\nmischia\n(a) due asce o (b) una qualsiasi arma semplice\nUna dotazione da esploratore e quattro giavellotti\nIRA\nIn battaglia, un barbaro combatte animato da una ferocia\nprimordiale. Nel suo turno può entrare in ira come\nazione bonus.\nFinché è in ira, ottiene i benefici seguenti se non indossa\nun'armatura pesante:\n.Dispone di vantaggio alle prove di Forza e ai tiri salvezza\nsu Forza.\nQuando effettua un attacco con un'arma da mischia usando\nForza, ottiene un bonus al tiro per i danni che aumenta man\nmano che egli ottiene nuovi livelli da barbaro, come indicato\nnella colonna \"Danni dell'Ira\" nella tabella \"Barbaro\".\nUn barbaro dispone di resistenza ai danni contundenti,\nperforanti e taglienti.\nSe un barbaro è in grado di lanciare incantesimi, non può\nlanciarli o concentrarsi su di essi quando è in ira.\nL'ira del barbaro dura 1 minuto.Termina anticipatamente\nse il barbaro cade privo di sensi o se il suo turno termina e\nnon ha attaccato una creatura ostile dal suo ultimo turno o\nnon ha subito danni da allora. Un barbaro può anche porre\nfine alla sua ira nel proprio turno, come azione bonus.\nUna volta entrato in ira per il numero di vofte indicato\ndal suo livello di barbaro nella colonna \"Ira\" nella tabella\n\"Barbaro\", un barbaro deve completare un riposo lungo\nprima di poter entrare di nuovo in ira.\nCAPITOLO 3 |CLASSI\n48\nDifesa Senza Armatura\nFinché un barbaro non indossa alcuna armatura, la sua\nClasse Armatura è pari a 10 + il suo modificatore di\nDestrezza + il suo modificatore di Costituzione. Un barbaro\npuò usare uno scudo e ottenere comunque questo beneficio.\nAttacco IRruento\nA partire dal 2° livello, un barbaro può ignorare ogni\npreoccupazione perla sua difesa e attaccare in preda a una\nferoce disperazione. Quando effettua il suo primoattacco\nnel suo turno, può decidere di sferrare un attacco irruento.\nCosì facendo dispone di vantaggio ai tiri per colpire in\nmischia che usano Forza durante questo turno,ma i tiri\nper colpire contro di lui dispongono di vantaggio fino al suo\nturno successivo.\nPERCEZIONE DEL PERICOLO\nAl 2° livello, un barbaro ottiene una percezione prodigiosa\ndi tutto ciò che nei paraggi non è come dovrebbe essere,\ncosa che lo agevola quando deve schivare i pericoli.\nUn barbaro dispone di vantaggio ai tiri salvezza su\nDestrezza contro gli effetti che può vedere, come le\ntrappole e gli incantesimi. Per ottenere questo beneficio il\nbarbaro non deve essere accecato, assordato o incapacitato.\nCammino PrimoRdIaLE\nAl 3° livello, un barbaro sceglie un cammino che definisce\nla natura della sua furia. Può scegliere il Cammino del\nBerserker o il Cammino del CombattenteTotemico,\nentrambi illustrati alla fine della sezione di questa classe.\nQuesta scelta gli conferisce alcuni privilegi al 3°livello e\npoi di nuovo al 6°, 10° e14° livello."
+}

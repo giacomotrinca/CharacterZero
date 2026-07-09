@@ -1,0 +1,906 @@
+{
+ "pdf_page_index": 58,
+ "page_label": 59,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 128,
+ "lines": [
+  {
+   "x1": 92.0,
+   "y1": 66.0,
+   "x2": 410.0,
+   "y2": 104.0,
+   "text": "Incanalare Divinità"
+  },
+  {
+   "x1": 665.0,
+   "y1": 68.0,
+   "x2": 1130.0,
+   "y2": 91.0,
+   "text": "Per implorare l'aiuto della sua divinità, il chierico deve"
+  },
+  {
+   "x1": 648.0,
+   "y1": 91.0,
+   "x2": 1143.0,
+   "y2": 115.0,
+   "text": "usare un'azione. Deve descrivere l'assistenza che desidera"
+  },
+  {
+   "x1": 88.0,
+   "y1": 99.0,
+   "x2": 575.0,
+   "y2": 141.0,
+   "text": "co"
+  },
+  {
+   "x1": 646.0,
+   "y1": 115.0,
+   "x2": 1114.0,
+   "y2": 139.0,
+   "text": "ottenere e tirare un dado percentuale. Se ottiene con il"
+  },
+  {
+   "x1": 92.0,
+   "y1": 132.0,
+   "x2": 532.0,
+   "y2": 155.0,
+   "text": "energia divina direttamente dalla sua divinità e usa"
+  },
+  {
+   "x1": 644.0,
+   "y1": 135.0,
+   "x2": 1121.0,
+   "y2": 163.0,
+   "text": "tiro un numero pari o inferiore al suo livello da chierico,"
+  },
+  {
+   "x1": 92.0,
+   "y1": 153.0,
+   "x2": 585.0,
+   "y2": 179.0,
+   "text": "quell'energia per alimentare gli effetti magici. Un chierico"
+  },
+  {
+   "x1": 644.0,
+   "y1": 157.0,
+   "x2": 1075.0,
+   "y2": 185.0,
+   "text": "la divinità interviene. È il DM a scegliere la natura"
+  },
+  {
+   "x1": 92.0,
+   "y1": 177.0,
+   "x2": 521.0,
+   "y2": 201.0,
+   "text": "parte con due effetti di questo tipo: Scacciare Non"
+  },
+  {
+   "x1": 646.0,
+   "y1": 179.0,
+   "x2": 1152.0,
+   "y2": 206.0,
+   "text": "dell'intervento; l'effetto di qualsiasi incantesimo da chierico"
+  },
+  {
+   "x1": 94.0,
+   "y1": 203.0,
+   "x2": 554.0,
+   "y2": 221.0,
+   "text": "Morti e un effetto determinato dal suo dominio. Alcuni"
+  },
+  {
+   "x1": 646.0,
+   "y1": 206.0,
+   "x2": 1069.0,
+   "y2": 230.0,
+   "text": "o incantesimo da dominio clericale è appropriato."
+  },
+  {
+   "x1": 92.0,
+   "y1": 223.0,
+   "x2": 554.0,
+   "y2": 248.0,
+   "text": "domini conferiscono al chierico degli effetti aggiuntivi"
+  },
+  {
+   "x1": 665.0,
+   "y1": 228.0,
+   "x2": 1152.0,
+   "y2": 252.0,
+   "text": "Se la divinità interviene, il chierico non può più utilizzare"
+  },
+  {
+   "x1": 89.0,
+   "y1": 239.0,
+   "x2": 569.0,
+   "y2": 276.0,
+   "text": "man mano che avanza di livello, nel modo indicato nella"
+  },
+  {
+   "x1": 646.0,
+   "y1": 252.0,
+   "x2": 1139.0,
+   "y2": 276.0,
+   "text": "questo privilegio per 7giorni. Altrimenti può utilizzarlo di"
+  },
+  {
+   "x1": 92.0,
+   "y1": 269.0,
+   "x2": 305.0,
+   "y2": 292.0,
+   "text": "descrizione del dominio."
+  },
+  {
+   "x1": 646.0,
+   "y1": 274.0,
+   "x2": 1049.0,
+   "y2": 300.0,
+   "text": "nuovo dopo che ha completato un riposo lungo."
+  },
+  {
+   "x1": 111.0,
+   "y1": 291.0,
+   "x2": 550.0,
+   "y2": 314.0,
+   "text": "Quando un chierico utilizza Incanalare Divinità, può"
+  },
+  {
+   "x1": 661.0,
+   "y1": 294.0,
+   "x2": 1097.0,
+   "y2": 318.0,
+   "text": "Al 20° livello, la richiesta di intervento del chierico ha"
+  },
+  {
+   "x1": 89.0,
+   "y1": 309.0,
+   "x2": 602.0,
+   "y2": 344.0,
+   "text": "scegliere quale effetto creare. Deve poi completare un riposo"
+  },
+  {
+   "x1": 646.0,
+   "y1": 320.0,
+   "x2": 1147.0,
+   "y2": 343.0,
+   "text": "successo automaticamente, senza che sia richiesto alcun tiro."
+  },
+  {
+   "x1": 92.0,
+   "y1": 338.0,
+   "x2": 569.0,
+   "y2": 362.0,
+   "text": "breve o lungo per utilizzare di nuovo Incanalare Divinità."
+  },
+  {
+   "x1": 111.0,
+   "y1": 362.0,
+   "x2": 548.0,
+   "y2": 380.0,
+   "text": "Alcuni effetti di Incanalare Divinità richiedono dei tiri"
+  },
+  {
+   "x1": 648.0,
+   "y1": 363.0,
+   "x2": 929.0,
+   "y2": 400.0,
+   "text": "Domini Divini"
+  },
+  {
+   "x1": 90.0,
+   "y1": 378.0,
+   "x2": 582.0,
+   "y2": 406.0,
+   "text": "salvezza. Quando unchiericoutilizza un tale effetto, la CD"
+  },
+  {
+   "x1": 89.0,
+   "y1": 402.0,
+   "x2": 593.0,
+   "y2": 431.0,
+   "text": "pari alla CD del tiro salvezza dei suoi incantesimi da chierico."
+  },
+  {
+   "x1": 648.0,
+   "y1": 406.0,
+   "x2": 1151.0,
+   "y2": 429.0,
+   "text": "In un pantheon, ogni divinità esercita la sua influenza su alcuni"
+  },
+  {
+   "x1": 109.0,
+   "y1": 426.0,
+   "x2": 597.0,
+   "y2": 453.0,
+   "text": "A partire dal 6° livello, un chierico può utilizzare Incanalare"
+  },
+  {
+   "x1": 646.0,
+   "y1": 429.0,
+   "x2": 1128.0,
+   "y2": 453.0,
+   "text": "aspetti diversidella vita e delle civiltà dei mortali; tali aspetti"
+  },
+  {
+   "x1": 92.0,
+   "y1": 451.0,
+   "x2": 572.0,
+   "y2": 475.0,
+   "text": "Divinità due volte tra un riposo e l'altro, e a partire dal 18"
+  },
+  {
+   "x1": 646.0,
+   "y1": 453.0,
+   "x2": 1134.0,
+   "y2": 477.0,
+   "text": "sono chiamati i domini della divinità. L'insieme dei domini su"
+  },
+  {
+   "x1": 94.0,
+   "y1": 473.0,
+   "x2": 584.0,
+   "y2": 497.0,
+   "text": "livello, può utilizzarlo tre volte tra un riposo e l'altro. Quando"
+  },
+  {
+   "x1": 648.0,
+   "y1": 477.0,
+   "x2": 1125.0,
+   "y2": 495.0,
+   "text": "cuiuna divinità esercita la sua influenza è chiamato l'area di"
+  },
+  {
+   "x1": 92.0,
+   "y1": 495.0,
+   "x2": 578.0,
+   "y2": 519.0,
+   "text": "completa un riposo breve o lungo, recupera gli utilizzi spesi."
+  },
+  {
+   "x1": 645.0,
+   "y1": 495.0,
+   "x2": 1127.0,
+   "y2": 519.0,
+   "text": "influenza della divinità. Per esempio, l'area di influenza della"
+  },
+  {
+   "x1": 646.0,
+   "y1": 521.0,
+   "x2": 1138.0,
+   "y2": 544.0,
+   "text": "divinità greca Apollo include i domini della Conoscenza, della"
+  },
+  {
+   "x1": 89.0,
+   "y1": 533.0,
+   "x2": 602.0,
+   "y2": 566.0,
+   "text": "Incanalare Divinità: Scacciare Non Morti"
+  },
+  {
+   "x1": 648.0,
+   "y1": 543.0,
+   "x2": 1130.0,
+   "y2": 566.0,
+   "text": "Luce e della Vita. Un chierico può scegliere di enfatizzare un"
+  },
+  {
+   "x1": 90.0,
+   "y1": 563.0,
+   "x2": 573.0,
+   "y2": 590.0,
+   "text": "Con un'azione, il chierico brandisce il suo simbolo sacro"
+  },
+  {
+   "x1": 648.0,
+   "y1": 566.0,
+   "x2": 1134.0,
+   "y2": 590.0,
+   "text": "particolare aspetto dell'area di influenza della sua divinità: gli"
+  },
+  {
+   "x1": 90.0,
+   "y1": 586.0,
+   "x2": 574.0,
+   "y2": 614.0,
+   "text": "e pronuncia una preghiera di condanna nei confronti dei"
+  },
+  {
+   "x1": 646.0,
+   "y1": 588.0,
+   "x2": 1088.0,
+   "y2": 612.0,
+   "text": "saranno conferiti alcuni poteri correlati a quel dominio."
+  },
+  {
+   "x1": 90.0,
+   "y1": 610.0,
+   "x2": 585.0,
+   "y2": 634.0,
+   "text": "non morti. Ogni non morto che è in grado vedere o sentire"
+  },
+  {
+   "x1": 665.0,
+   "y1": 612.0,
+   "x2": 1110.0,
+   "y2": 636.0,
+   "text": "La scelta del chierico potrebbe anche corrispondere"
+  },
+  {
+   "x1": 90.0,
+   "y1": 632.0,
+   "x2": 558.0,
+   "y2": 656.0,
+   "text": "il chierico e si trova entro 9 metri da lui deve effettuare"
+  },
+  {
+   "x1": 646.0,
+   "y1": 634.0,
+   "x2": 1097.0,
+   "y2": 658.0,
+   "text": "a una particolare setta dedicata alla sua divinità. Per"
+  },
+  {
+   "x1": 92.0,
+   "y1": 656.0,
+   "x2": 574.0,
+   "y2": 680.0,
+   "text": "un tiro salvezza su Saggezza. Se lo fallisce, la creatura è"
+  },
+  {
+   "x1": 646.0,
+   "y1": 658.0,
+   "x2": 1132.0,
+   "y2": 682.0,
+   "text": "esempio, Apollo potrebbe essere venerato in una regione"
+  },
+  {
+   "x1": 92.0,
+   "y1": 680.0,
+   "x2": 523.0,
+   "y2": 703.0,
+   "text": "scacciata per 1 minuto o finché non subisce danni."
+  },
+  {
+   "x1": 644.0,
+   "y1": 678.0,
+   "x2": 1093.0,
+   "y2": 705.0,
+   "text": "come Apollo Febo (\"radioso\"), per enfatizzare la sua"
+  },
+  {
+   "x1": 107.0,
+   "y1": 702.0,
+   "x2": 589.0,
+   "y2": 725.0,
+   "text": "Una creatura scacciata deve spendere i suoi turni tentando"
+  },
+  {
+   "x1": 646.0,
+   "y1": 703.0,
+   "x2": 1112.0,
+   "y2": 727.0,
+   "text": "infuenza sul dominio della Luce, e in un luogo diverso"
+  },
+  {
+   "x1": 92.0,
+   "y1": 725.0,
+   "x2": 517.0,
+   "y2": 749.0,
+   "text": "di allontanarsi il più possibile dal chierico e non può"
+  },
+  {
+   "x1": 645.0,
+   "y1": 725.0,
+   "x2": 1130.0,
+   "y2": 749.0,
+   "text": "come Apollo Akesios (\"guaritore\"). per enfatizzare la sua"
+  },
+  {
+   "x1": 90.0,
+   "y1": 745.0,
+   "x2": 558.0,
+   "y2": 773.0,
+   "text": "volontariamente muoversi in uno spazio entro 9 metri dal"
+  },
+  {
+   "x1": 646.0,
+   "y1": 749.0,
+   "x2": 1139.0,
+   "y2": 773.0,
+   "text": "associazione al dominio della Vita. In alternativa, la scelta"
+  },
+  {
+   "x1": 92.0,
+   "y1": 771.0,
+   "x2": 600.0,
+   "y2": 795.0,
+   "text": "chierico. Inoltre, non può effettuare reazioni. Come sua azione"
+  },
+  {
+   "x1": 644.0,
+   "y1": 769.0,
+   "x2": 1138.0,
+   "y2": 797.0,
+   "text": "del dominio di un chierico può essere semplicemente una"
+  },
+  {
+   "x1": 90.0,
+   "y1": 795.0,
+   "x2": 563.0,
+   "y2": 819.0,
+   "text": "può usare solo l'azione di Scatto o tentare di fuggire da un"
+  },
+  {
+   "x1": 645.0,
+   "y1": 795.0,
+   "x2": 1125.0,
+   "y2": 819.0,
+   "text": "questione di preferenze personali e ricadere sull'aspetto"
+  },
+  {
+   "x1": 90.0,
+   "y1": 817.0,
+   "x2": 593.0,
+   "y2": 840.0,
+   "text": "effetto che gli impedisce di muoversi. Se non può muoversi in"
+  },
+  {
+   "x1": 646.0,
+   "y1": 817.0,
+   "x2": 1012.0,
+   "y2": 840.0,
+   "text": "della divinità che per lui è più interessante."
+  },
+  {
+   "x1": 90.0,
+   "y1": 840.0,
+   "x2": 534.0,
+   "y2": 864.0,
+   "text": "alcun luogo, la creatura può usare l'azione di Schivata."
+  },
+  {
+   "x1": 659.0,
+   "y1": 837.0,
+   "x2": 1143.0,
+   "y2": 864.0,
+   "text": "La descrizione di ogni dominio include alcuni esempi di"
+  },
+  {
+   "x1": 646.0,
+   "y1": 864.0,
+   "x2": 1127.0,
+   "y2": 888.0,
+   "text": "divinità che esercitano la loro influenza su quel dominio."
+  },
+  {
+   "x1": 94.0,
+   "y1": 884.0,
+   "x2": 434.0,
+   "y2": 910.0,
+   "text": "Aumento dEI PuntEggI"
+  },
+  {
+   "x1": 646.0,
+   "y1": 886.0,
+   "x2": 1119.0,
+   "y2": 910.0,
+   "text": "Le divinità sono tratte delle ambientazionidi Forgotten"
+  },
+  {
+   "x1": 89.0,
+   "y1": 913.0,
+   "x2": 369.0,
+   "y2": 947.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 646.0,
+   "y1": 908.0,
+   "x2": 1151.0,
+   "y2": 934.0,
+   "text": "Realms, Greyhawk, Dragonlance ed Eberron, nonché dagli"
+  },
+  {
+   "x1": 643.0,
+   "y1": 932.0,
+   "x2": 1045.0,
+   "y2": 956.0,
+   "text": "antichi pantheon celtici, greci, norreni ed egizi."
+  },
+  {
+   "x1": 92.0,
+   "y1": 954.0,
+   "x2": 574.0,
+   "y2": 979.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8, 12°, 16º e"
+  },
+  {
+   "x1": 94.0,
+   "y1": 977.0,
+   "x2": 587.0,
+   "y2": 1001.0,
+   "text": "19°livello, un chierico può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 646.0,
+   "y1": 972.0,
+   "x2": 1064.0,
+   "y2": 1007.0,
+   "text": "Dominio della Conoscenza"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1001.0,
+   "x2": 587.0,
+   "y2": 1025.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di I due"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1010.0,
+   "x2": 1125.0,
+   "y2": 1038.0,
+   "text": "Gli dèi della conoscenza, che includono Oghma, Boccob,"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1025.0,
+   "x2": 578.0,
+   "y2": 1049.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1034.0,
+   "x2": 1130.0,
+   "y2": 1062.0,
+   "text": "Gilean, Aureon e Toth, danno valore all'apprendimento e"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1049.0,
+   "x2": 600.0,
+   "y2": 1072.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1060.0,
+   "x2": 1145.0,
+   "y2": 1083.0,
+   "text": "alla comprensione più di ogni altra cosa. Alcuni insegnano"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1071.0,
+   "x2": 417.0,
+   "y2": 1094.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 644.0,
+   "y1": 1080.0,
+   "x2": 1145.0,
+   "y2": 1107.0,
+   "text": "che le conoscenze vanno recuperate e condivise all'interno"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1105.0,
+   "x2": 1147.0,
+   "y2": 1129.0,
+   "text": "di biblioteche e università, altri promuovono le conoscenze"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1115.0,
+   "x2": 452.0,
+   "y2": 1140.0,
+   "text": "Distruggere Non Morti"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1129.0,
+   "x2": 1125.0,
+   "y2": 1153.0,
+   "text": "pratiche dell'artigianato e delle invenzioni. Altre divinità"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1149.0,
+   "x2": 584.0,
+   "y2": 1175.0,
+   "text": "A partire dal 5° livello, quando un non morto fallisce il suo"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1153.0,
+   "x2": 1101.0,
+   "y2": 1177.0,
+   "text": "preferiscono però accumulare le conoscenze per loro"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1175.0,
+   "x2": 572.0,
+   "y2": 1199.0,
+   "text": "tiro salvezza contro il privilegio Scacciare Non Morti del"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1177.0,
+   "x2": 1097.0,
+   "y2": 1195.0,
+   "text": "e custodirle in segreto. C'è anche chi promette ai suoi"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1199.0,
+   "x2": 565.0,
+   "y2": 1222.0,
+   "text": "chierico, quella creatura è distrutta istantaneamente se"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1197.0,
+   "x2": 1139.0,
+   "y2": 1220.0,
+   "text": "seguaci un potere sconfinato in cambio del loro aiuto nello"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1220.0,
+   "x2": 565.0,
+   "y2": 1246.0,
+   "text": "il suo grado di sfida è pari o inferiore a una certa soglia,"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1224.0,
+   "x2": 1139.0,
+   "y2": 1242.0,
+   "text": "svelare i segreti del multiverso. I seguaci di queste divinità"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1246.0,
+   "x2": 537.0,
+   "y2": 1270.0,
+   "text": "come indicato dalla tabella \"Distruggere Non Morti\"."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1242.0,
+   "x2": 1101.0,
+   "y2": 1266.0,
+   "text": "studiano le arti esoteriche, recuperano vecchi tomi, si"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1268.0,
+   "x2": 1139.0,
+   "y2": 1292.0,
+   "text": "addentrano nei luoghi più segreti della terra e apprendono"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1292.0,
+   "x2": 377.0,
+   "y2": 1319.0,
+   "text": "Distruggere Non Morti"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1292.0,
+   "x2": 1115.0,
+   "y2": 1316.0,
+   "text": "tutto ciò che possono. Alcune divinità della conoscenza"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1323.0,
+   "x2": 482.0,
+   "y2": 1356.0,
+   "text": "Livello da Chierico Distrugge I Non Morti di GS.."
+  },
+  {
+   "x1": 645.0,
+   "y1": 1314.0,
+   "x2": 1101.0,
+   "y2": 1337.0,
+   "text": "promuovono le conoscenze pratiche dell'artigianato e"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1336.0,
+   "x2": 1151.0,
+   "y2": 1359.0,
+   "text": "dell'invenzione e includono divinità della forgia come Gond,"
+  },
+  {
+   "x1": 159.0,
+   "y1": 1354.0,
+   "x2": 185.0,
+   "y2": 1383.0,
+   "text": "5°"
+  },
+  {
+   "x1": 253.0,
+   "y1": 1352.0,
+   "x2": 368.0,
+   "y2": 1383.0,
+   "text": "1/2 o inferiore"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1359.0,
+   "x2": 1018.0,
+   "y2": 1383.0,
+   "text": "Reorx, Onatar, Moradin, Efesto e Goibhniu."
+  },
+  {
+   "x1": 157.0,
+   "y1": 1383.0,
+   "x2": 187.0,
+   "y2": 1409.0,
+   "text": "8°"
+  },
+  {
+   "x1": 253.0,
+   "y1": 1383.0,
+   "x2": 353.0,
+   "y2": 1409.0,
+   "text": "1 o inferiore"
+  },
+  {
+   "x1": 153.0,
+   "y1": 1405.0,
+   "x2": 190.0,
+   "y2": 1436.0,
+   "text": "11°"
+  },
+  {
+   "x1": 249.0,
+   "y1": 1405.0,
+   "x2": 355.0,
+   "y2": 1440.0,
+   "text": "2 o inferiore"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1407.0,
+   "x2": 1147.0,
+   "y2": 1434.0,
+   "text": "IncaNTeSIMI Del DOminio deLLa CONoSCeNZA"
+  },
+  {
+   "x1": 153.0,
+   "y1": 1432.0,
+   "x2": 190.0,
+   "y2": 1463.0,
+   "text": "14°"
+  },
+  {
+   "x1": 249.0,
+   "y1": 1432.0,
+   "x2": 353.0,
+   "y2": 1464.0,
+   "text": "3 o inferiore"
+  },
+  {
+   "x1": 155.0,
+   "y1": 1462.0,
+   "x2": 190.0,
+   "y2": 1493.0,
+   "text": "17°"
+  },
+  {
+   "x1": 249.0,
+   "y1": 1459.0,
+   "x2": 353.0,
+   "y2": 1491.0,
+   "text": "4 o inferiore"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1467.0,
+   "x2": 901.0,
+   "y2": 1491.0,
+   "text": "Livello da Chierico Incantesimi"
+  },
+  {
+   "x1": 717.0,
+   "y1": 1493.0,
+   "x2": 739.0,
+   "y2": 1518.0,
+   "text": "1°"
+  },
+  {
+   "x1": 809.0,
+   "y1": 1496.0,
+   "x2": 971.0,
+   "y2": 1520.0,
+   "text": "comando, identificare"
+  },
+  {
+   "x1": 711.0,
+   "y1": 1518.0,
+   "x2": 742.0,
+   "y2": 1632.0,
+   "text": "i in"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1531.0,
+   "x2": 381.0,
+   "y2": 1564.0,
+   "text": "Intervento Divino"
+  },
+  {
+   "x1": 807.0,
+   "y1": 1522.0,
+   "x2": 968.0,
+   "y2": 1549.0,
+   "text": "presagio, suggestione"
+  },
+  {
+   "x1": 809.0,
+   "y1": 1549.0,
+   "x2": 1097.0,
+   "y2": 1573.0,
+   "text": "anti-individuazione, parlare con i morti"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1569.0,
+   "x2": 552.0,
+   "y2": 1597.0,
+   "text": "A partire dal 10° livello, un chierico può appellarsi alla"
+  },
+  {
+   "x1": 809.0,
+   "y1": 1577.0,
+   "x2": 1001.0,
+   "y2": 1601.0,
+   "text": "confusione, occhio arcano"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1595.0,
+   "x2": 550.0,
+   "y2": 1621.0,
+   "text": "propria divinità affinché intervenga a suo beneficio nel"
+  },
+  {
+   "x1": 807.0,
+   "y1": 1604.0,
+   "x2": 1069.0,
+   "y2": 1628.0,
+   "text": "conoscenza delle leggende, scrutare"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1619.0,
+   "x2": 281.0,
+   "y2": 1643.0,
+   "text": "momento del bisogno."
+  },
+  {
+   "x1": 971.0,
+   "y1": 1685.0,
+   "x2": 1149.0,
+   "y2": 1703.0,
+   "text": "CAPITOLO 3|CLASSI"
+  },
+  {
+   "x1": 1217.0,
+   "y1": 1701.0,
+   "x2": 1235.0,
+   "y2": 1719.0,
+   "text": "59"
+  }
+ ],
+ "reading_text": "Incanalare Divinità\nco\nenergia divina direttamente dalla sua divinità e usa\nquell'energia per alimentare gli effetti magici. Un chierico\nparte con due effetti di questo tipo: Scacciare Non\nMorti e un effetto determinato dal suo dominio. Alcuni\ndomini conferiscono al chierico degli effetti aggiuntivi\nman mano che avanza di livello, nel modo indicato nella\ndescrizione del dominio.\nQuando un chierico utilizza Incanalare Divinità, può\nscegliere quale effetto creare. Deve poi completare un riposo\nbreve o lungo per utilizzare di nuovo Incanalare Divinità.\nAlcuni effetti di Incanalare Divinità richiedono dei tiri\nsalvezza. Quando unchiericoutilizza un tale effetto, la CD\npari alla CD del tiro salvezza dei suoi incantesimi da chierico.\nA partire dal 6° livello, un chierico può utilizzare Incanalare\nDivinità due volte tra un riposo e l'altro, e a partire dal 18\nlivello, può utilizzarlo tre volte tra un riposo e l'altro. Quando\ncompleta un riposo breve o lungo, recupera gli utilizzi spesi.\nIncanalare Divinità: Scacciare Non Morti\nCon un'azione, il chierico brandisce il suo simbolo sacro\ne pronuncia una preghiera di condanna nei confronti dei\nnon morti. Ogni non morto che è in grado vedere o sentire\nil chierico e si trova entro 9 metri da lui deve effettuare\nun tiro salvezza su Saggezza. Se lo fallisce, la creatura è\nscacciata per 1 minuto o finché non subisce danni.\nUna creatura scacciata deve spendere i suoi turni tentando\ndi allontanarsi il più possibile dal chierico e non può\nvolontariamente muoversi in uno spazio entro 9 metri dal\nchierico. Inoltre, non può effettuare reazioni. Come sua azione\npuò usare solo l'azione di Scatto o tentare di fuggire da un\neffetto che gli impedisce di muoversi. Se non può muoversi in\nalcun luogo, la creatura può usare l'azione di Schivata.\nAumento dEI PuntEggI\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8, 12°, 16º e\n19°livello, un chierico può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di I due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nDistruggere Non Morti\nA partire dal 5° livello, quando un non morto fallisce il suo\ntiro salvezza contro il privilegio Scacciare Non Morti del\nchierico, quella creatura è distrutta istantaneamente se\nil suo grado di sfida è pari o inferiore a una certa soglia,\ncome indicato dalla tabella \"Distruggere Non Morti\".\nDistruggere Non Morti\nLivello da Chierico Distrugge I Non Morti di GS..\n1/2 o inferiore\n5°\n8°\n1 o inferiore\n11°\n2 o inferiore\n14°\n3 o inferiore\n4 o inferiore\n17°\nIntervento Divino\nA partire dal 10° livello, un chierico può appellarsi alla\npropria divinità affinché intervenga a suo beneficio nel\nmomento del bisogno.\nPer implorare l'aiuto della sua divinità, il chierico deve\nusare un'azione. Deve descrivere l'assistenza che desidera\nottenere e tirare un dado percentuale. Se ottiene con il\ntiro un numero pari o inferiore al suo livello da chierico,\nla divinità interviene. È il DM a scegliere la natura\ndell'intervento; l'effetto di qualsiasi incantesimo da chierico\no incantesimo da dominio clericale è appropriato.\nSe la divinità interviene, il chierico non può più utilizzare\nquesto privilegio per 7giorni. Altrimenti può utilizzarlo di\nnuovo dopo che ha completato un riposo lungo.\nAl 20° livello, la richiesta di intervento del chierico ha\nsuccesso automaticamente, senza che sia richiesto alcun tiro.\nDomini Divini\nIn un pantheon, ogni divinità esercita la sua influenza su alcuni\naspetti diversidella vita e delle civiltà dei mortali; tali aspetti\nsono chiamati i domini della divinità. L'insieme dei domini su\ncuiuna divinità esercita la sua influenza è chiamato l'area di\ninfluenza della divinità. Per esempio, l'area di influenza della\ndivinità greca Apollo include i domini della Conoscenza, della\nLuce e della Vita. Un chierico può scegliere di enfatizzare un\nparticolare aspetto dell'area di influenza della sua divinità: gli\nsaranno conferiti alcuni poteri correlati a quel dominio.\nLa scelta del chierico potrebbe anche corrispondere\na una particolare setta dedicata alla sua divinità. Per\nesempio, Apollo potrebbe essere venerato in una regione\ncome Apollo Febo (\"radioso\"), per enfatizzare la sua\ninfuenza sul dominio della Luce, e in un luogo diverso\ncome Apollo Akesios (\"guaritore\"). per enfatizzare la sua\nassociazione al dominio della Vita. In alternativa, la scelta\ndel dominio di un chierico può essere semplicemente una\nquestione di preferenze personali e ricadere sull'aspetto\ndella divinità che per lui è più interessante.\nLa descrizione di ogni dominio include alcuni esempi di\ndivinità che esercitano la loro influenza su quel dominio.\nLe divinità sono tratte delle ambientazionidi Forgotten\nRealms, Greyhawk, Dragonlance ed Eberron, nonché dagli\nantichi pantheon celtici, greci, norreni ed egizi.\nDominio della Conoscenza\nGli dèi della conoscenza, che includono Oghma, Boccob,\nGilean, Aureon e Toth, danno valore all'apprendimento e\nalla comprensione più di ogni altra cosa. Alcuni insegnano\nche le conoscenze vanno recuperate e condivise all'interno\ndi biblioteche e università, altri promuovono le conoscenze\npratiche dell'artigianato e delle invenzioni. Altre divinità\npreferiscono però accumulare le conoscenze per loro\ne custodirle in segreto. C'è anche chi promette ai suoi\nseguaci un potere sconfinato in cambio del loro aiuto nello\nsvelare i segreti del multiverso. I seguaci di queste divinità\nstudiano le arti esoteriche, recuperano vecchi tomi, si\naddentrano nei luoghi più segreti della terra e apprendono\ntutto ciò che possono. Alcune divinità della conoscenza\npromuovono le conoscenze pratiche dell'artigianato e\ndell'invenzione e includono divinità della forgia come Gond,\nReorx, Onatar, Moradin, Efesto e Goibhniu.\nIncaNTeSIMI Del DOminio deLLa CONoSCeNZA\nLivello da Chierico Incantesimi\n1°\ncomando, identificare\ni in\npresagio, suggestione\nanti-individuazione, parlare con i morti\nconfusione, occhio arcano\nconoscenza delle leggende, scrutare\nCAPITOLO 3|CLASSI\n59"
+}

@@ -1,0 +1,675 @@
+{
+ "pdf_page_index": 104,
+ "page_label": 105,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 95,
+ "lines": [
+  {
+   "x1": 96.0,
+   "y1": 60.0,
+   "x2": 475.0,
+   "y2": 88.0,
+   "text": "CARatTErisTiCa da IncaNtatoRE"
+  },
+  {
+   "x1": 665.0,
+   "y1": 58.0,
+   "x2": 1128.0,
+   "y2": 82.0,
+   "text": "Una volta mimetizzatosi in questo modo, può tentare di"
+  },
+  {
+   "x1": 94.0,
+   "y1": 86.0,
+   "x2": 513.0,
+   "y2": 113.0,
+   "text": "Saggezza è la caratteristica da incantatore per gli"
+  },
+  {
+   "x1": 643.0,
+   "y1": 84.0,
+   "x2": 1110.0,
+   "y2": 108.0,
+   "text": "nascondersi appiattendosi contro una superficie solida,"
+  },
+  {
+   "x1": 90.0,
+   "y1": 106.0,
+   "x2": 549.0,
+   "y2": 139.0,
+   "text": "incantesimi da ranger, dal momento che la sua magia"
+  },
+  {
+   "x1": 646.0,
+   "y1": 110.0,
+   "x2": 1117.0,
+   "y2": 128.0,
+   "text": "come un albero o una parete, che sia alta e larga almeno"
+  },
+  {
+   "x1": 96.0,
+   "y1": 133.0,
+   "x2": 596.0,
+   "y2": 159.0,
+   "text": "deriva dalla sintonia con la natura. Un ranger usa Saggezza"
+  },
+  {
+   "x1": 645.0,
+   "y1": 128.0,
+   "x2": 1119.0,
+   "y2": 152.0,
+   "text": "quanto lui. Il ranger ottiene unbonus di +10 alle prove di"
+  },
+  {
+   "x1": 645.0,
+   "y1": 152.0,
+   "x2": 1104.0,
+   "y2": 175.0,
+   "text": "Destrezza (Furtività) fintanto che rimane dove si trova"
+  },
+  {
+   "x1": 94.0,
+   "y1": 177.0,
+   "x2": 600.0,
+   "y2": 205.0,
+   "text": "caratteristica da incantatore.Usa inoltre il suo modificatore"
+  },
+  {
+   "x1": 643.0,
+   "y1": 175.0,
+   "x2": 1114.0,
+   "y2": 199.0,
+   "text": "senza muoversi e senza effettuare azioni. Se si muove o"
+  },
+  {
+   "x1": 94.0,
+   "y1": 201.0,
+   "x2": 543.0,
+   "y2": 228.0,
+   "text": "di Saggezza per definire la CD del tiro salvezza di un"
+  },
+  {
+   "x1": 645.0,
+   "y1": 199.0,
+   "x2": 1115.0,
+   "y2": 223.0,
+   "text": "effettua un'azione o una reazione, dovrà mimetizzarsi di"
+  },
+  {
+   "x1": 94.0,
+   "y1": 225.0,
+   "x2": 587.0,
+   "y2": 248.0,
+   "text": "incantesimo da ranger da lui lanciato e quando effettua un"
+  },
+  {
+   "x1": 643.0,
+   "y1": 223.0,
+   "x2": 951.0,
+   "y2": 247.0,
+   "text": "nuovo per ottenere questo beneficio."
+  },
+  {
+   "x1": 94.0,
+   "y1": 248.0,
+   "x2": 399.0,
+   "y2": 272.0,
+   "text": "tiro per colpire con un incantesimo."
+  },
+  {
+   "x1": 646.0,
+   "y1": 261.0,
+   "x2": 768.0,
+   "y2": 294.0,
+   "text": "SVANIRE"
+  },
+  {
+   "x1": 98.0,
+   "y1": 285.0,
+   "x2": 596.0,
+   "y2": 311.0,
+   "text": "CD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza"
+  },
+  {
+   "x1": 645.0,
+   "y1": 300.0,
+   "x2": 1086.0,
+   "y2": 325.0,
+   "text": "A partire dal 14° livello, un ranger può usare l'azione di"
+  },
+  {
+   "x1": 155.0,
+   "y1": 311.0,
+   "x2": 539.0,
+   "y2": 340.0,
+   "text": "del ranger + il modificatore di Saggezza del ranger"
+  },
+  {
+   "x1": 561.0,
+   "y1": 320.0,
+   "x2": 571.0,
+   "y2": 329.0,
+   "text": "•"
+  },
+  {
+   "x1": 645.0,
+   "y1": 327.0,
+   "x2": 1143.0,
+   "y2": 351.0,
+   "text": "Nascondersi come azione bonus nel suo turno, Oltre a questo,"
+  },
+  {
+   "x1": 100.0,
+   "y1": 351.0,
+   "x2": 596.0,
+   "y2": 376.0,
+   "text": "Modificatore di attacco dell'incantesimo - il bonus di competenza"
+  },
+  {
+   "x1": 643.0,
+   "y1": 351.0,
+   "x2": 1086.0,
+   "y2": 375.0,
+   "text": "non è possibile seguire le sue tracce tramite mezzi non"
+  },
+  {
+   "x1": 153.0,
+   "y1": 376.0,
+   "x2": 539.0,
+   "y2": 406.0,
+   "text": "del ranger + il modificatore di Saggezza del ranger."
+  },
+  {
+   "x1": 645.0,
+   "y1": 373.0,
+   "x2": 1134.0,
+   "y2": 396.0,
+   "text": "magici, a meno che il ranger non decida di lasciare una pista."
+  },
+  {
+   "x1": 648.0,
+   "y1": 417.0,
+   "x2": 829.0,
+   "y2": 442.0,
+   "text": "SENSI FErinI"
+  },
+  {
+   "x1": 98.0,
+   "y1": 435.0,
+   "x2": 371.0,
+   "y2": 460.0,
+   "text": "Archetipo Ranger"
+  },
+  {
+   "x1": 646.0,
+   "y1": 455.0,
+   "x2": 1123.0,
+   "y2": 481.0,
+   "text": "Al 18° livello, un ranger sviluppa un senso soprannaturale"
+  },
+  {
+   "x1": 94.0,
+   "y1": 470.0,
+   "x2": 585.0,
+   "y2": 495.0,
+   "text": "Al 3° livello, un ranger sceglie un archetipo che si sforzerà"
+  },
+  {
+   "x1": 645.0,
+   "y1": 479.0,
+   "x2": 1115.0,
+   "y2": 502.0,
+   "text": "che gli permette di combattere anche con le creature che"
+  },
+  {
+   "x1": 94.0,
+   "y1": 493.0,
+   "x2": 567.0,
+   "y2": 517.0,
+   "text": "di emulare. Può scegliere tra Cacciatore e Signore delle"
+  },
+  {
+   "x1": 643.0,
+   "y1": 501.0,
+   "x2": 1104.0,
+   "y2": 524.0,
+   "text": "non è in grado di vedere. Quando un ranger attacca una"
+  },
+  {
+   "x1": 96.0,
+   "y1": 519.0,
+   "x2": 578.0,
+   "y2": 543.0,
+   "text": "Bestie, entrambi descritti alla fine della sezione diquesta"
+  },
+  {
+   "x1": 645.0,
+   "y1": 523.0,
+   "x2": 1125.0,
+   "y2": 546.0,
+   "text": "creatura che non è in grado di vedere, la sua incapacità nel"
+  },
+  {
+   "x1": 94.0,
+   "y1": 541.0,
+   "x2": 537.0,
+   "y2": 565.0,
+   "text": "classe. L'archetipo scelto conferisce al ranger alcuni"
+  },
+  {
+   "x1": 643.0,
+   "y1": 544.0,
+   "x2": 1119.0,
+   "y2": 572.0,
+   "text": "localizzarla non impone svantaggio ai suoi tiri per colpire"
+  },
+  {
+   "x1": 94.0,
+   "y1": 565.0,
+   "x2": 561.0,
+   "y2": 588.0,
+   "text": "privilegi al 3° livello e poi di nuovo al 7°, 11° e 15° livello."
+  },
+  {
+   "x1": 646.0,
+   "y1": 574.0,
+   "x2": 774.0,
+   "y2": 592.0,
+   "text": "contro di essa."
+  },
+  {
+   "x1": 661.0,
+   "y1": 592.0,
+   "x2": 1073.0,
+   "y2": 616.0,
+   "text": "Ilranger è inoltre consapevole dell'ubicazione di"
+  },
+  {
+   "x1": 100.0,
+   "y1": 608.0,
+   "x2": 534.0,
+   "y2": 634.0,
+   "text": "CONSAPEVOLEZZA PRIMORDIALE"
+  },
+  {
+   "x1": 645.0,
+   "y1": 616.0,
+   "x2": 1114.0,
+   "y2": 641.0,
+   "text": "qualsiasi creatura invisibile entro 9 metri da lui, purché"
+  },
+  {
+   "x1": 94.0,
+   "y1": 645.0,
+   "x2": 589.0,
+   "y2": 671.0,
+   "text": "A partire dal 3° livello, un ranger può usare la sua azione e"
+  },
+  {
+   "x1": 643.0,
+   "y1": 639.0,
+   "x2": 1114.0,
+   "y2": 665.0,
+   "text": "quella creatura non sia nascosta a lui e il ranger non sia"
+  },
+  {
+   "x1": 92.0,
+   "y1": 671.0,
+   "x2": 596.0,
+   "y2": 694.0,
+   "text": "spendere uno slot incantesimo da ranger per concentrare la"
+  },
+  {
+   "x1": 643.0,
+   "y1": 663.0,
+   "x2": 829.0,
+   "y2": 687.0,
+   "text": "accecato o assordato."
+  },
+  {
+   "x1": 90.0,
+   "y1": 691.0,
+   "x2": 598.0,
+   "y2": 718.0,
+   "text": "sua percezione sull'area attorno a lui. Per 1 minuto per ogni"
+  },
+  {
+   "x1": 644.0,
+   "y1": 703.0,
+   "x2": 1001.0,
+   "y2": 736.0,
+   "text": "Sterminatore di Nemici"
+  },
+  {
+   "x1": 92.0,
+   "y1": 716.0,
+   "x2": 591.0,
+   "y2": 740.0,
+   "text": "livello dello slot incantesimo speso, il ranger può percepire"
+  },
+  {
+   "x1": 94.0,
+   "y1": 742.0,
+   "x2": 543.0,
+   "y2": 760.0,
+   "text": "se le seguenti creature sono presenti entro 1,5 km da"
+  },
+  {
+   "x1": 643.0,
+   "y1": 740.0,
+   "x2": 1130.0,
+   "y2": 769.0,
+   "text": "A1 20° livello, un ranger diventa un cacciatore implacabile"
+  },
+  {
+   "x1": 92.0,
+   "y1": 762.0,
+   "x2": 547.0,
+   "y2": 786.0,
+   "text": "lui (o entro 9 km se si trova nel suo terreno prescelto):"
+  },
+  {
+   "x1": 645.0,
+   "y1": 767.0,
+   "x2": 1064.0,
+   "y2": 793.0,
+   "text": "dei suoi nemici. Una volta per ogni suo turno, può"
+  },
+  {
+   "x1": 92.0,
+   "y1": 786.0,
+   "x2": 591.0,
+   "y2": 809.0,
+   "text": "aberrazioni, celestiali, draghi, elementali, folletti, immondi"
+  },
+  {
+   "x1": 643.0,
+   "y1": 791.0,
+   "x2": 1093.0,
+   "y2": 817.0,
+   "text": "aggiungere il suo modificatore di Saggezza al tiro per"
+  },
+  {
+   "x1": 92.0,
+   "y1": 808.0,
+   "x2": 595.0,
+   "y2": 831.0,
+   "text": "e non morti. Questo privilegio non rivela l'ubicazione esatta"
+  },
+  {
+   "x1": 643.0,
+   "y1": 815.0,
+   "x2": 1117.0,
+   "y2": 839.0,
+   "text": "colpire o al tiro per i danni di un attacco da lui effettuato"
+  },
+  {
+   "x1": 92.0,
+   "y1": 831.0,
+   "x2": 319.0,
+   "y2": 855.0,
+   "text": "o il numero delle creature."
+  },
+  {
+   "x1": 643.0,
+   "y1": 839.0,
+   "x2": 1091.0,
+   "y2": 862.0,
+   "text": "contro uno dei suoi nemici prescelti. Può scegliere di"
+  },
+  {
+   "x1": 643.0,
+   "y1": 861.0,
+   "x2": 1127.0,
+   "y2": 884.0,
+   "text": "utilizzare questo privilegio prima o dopo il tiro, ma prima"
+  },
+  {
+   "x1": 92.0,
+   "y1": 873.0,
+   "x2": 438.0,
+   "y2": 904.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 643.0,
+   "y1": 884.0,
+   "x2": 992.0,
+   "y2": 908.0,
+   "text": "che qualsiasi effetto del tiro sia applicato."
+  },
+  {
+   "x1": 94.0,
+   "y1": 912.0,
+   "x2": 364.0,
+   "y2": 935.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 646.0,
+   "y1": 926.0,
+   "x2": 994.0,
+   "y2": 967.0,
+   "text": "Archetipi Ranger"
+  },
+  {
+   "x1": 94.0,
+   "y1": 946.0,
+   "x2": 569.0,
+   "y2": 970.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e"
+  },
+  {
+   "x1": 92.0,
+   "y1": 968.0,
+   "x2": 573.0,
+   "y2": 996.0,
+   "text": "19° livello, un ranger può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 639.0,
+   "y1": 965.0,
+   "x2": 1134.0,
+   "y2": 999.0,
+   "text": "L'ideale del ranger si incarna in due espressioni classiche:"
+  },
+  {
+   "x1": 92.0,
+   "y1": 996.0,
+   "x2": 584.0,
+   "y2": 1020.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di 1due"
+  },
+  {
+   "x1": 641.0,
+   "y1": 990.0,
+   "x2": 960.0,
+   "y2": 1020.0,
+   "text": "il Cacciatore e il Signore delle Bestie."
+  },
+  {
+   "x1": 92.0,
+   "y1": 1020.0,
+   "x2": 574.0,
+   "y2": 1043.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1043.0,
+   "x2": 596.0,
+   "y2": 1067.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 642.0,
+   "y1": 1034.0,
+   "x2": 824.0,
+   "y2": 1071.0,
+   "text": "CACCIATORE"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1063.0,
+   "x2": 414.0,
+   "y2": 1091.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1076.0,
+   "x2": 1110.0,
+   "y2": 1100.0,
+   "text": "Emulando l'archetipo del Cacciatore, il ranger accetta il"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1105.0,
+   "x2": 321.0,
+   "y2": 1136.0,
+   "text": "Attacco Extra"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1100.0,
+   "x2": 1102.0,
+   "y2": 1124.0,
+   "text": "suo ruolo di baluardo tra il mondo civilizzato e i terrori"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1142.0,
+   "x2": 571.0,
+   "y2": 1175.0,
+   "text": "A partire dal 5 livello, un ranger può attaccare due volte"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1171.0,
+   "x2": 574.0,
+   "y2": 1197.0,
+   "text": "anziché una, ogni volta che effettua l'azione di Attacco nel"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1195.0,
+   "x2": 218.0,
+   "y2": 1220.0,
+   "text": "proprio turno."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1239.0,
+   "x2": 471.0,
+   "y2": 1264.0,
+   "text": "ANDAtURA SUL TERRITORiO"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1277.0,
+   "x2": 593.0,
+   "y2": 1301.0,
+   "text": "A partire dall'8 livello, muoversi attraverso il terreno difficile"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1299.0,
+   "x2": 587.0,
+   "y2": 1326.0,
+   "text": "non magico non richiede più un costo in movimento extra al"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1323.0,
+   "x2": 589.0,
+   "y2": 1347.0,
+   "text": "ranger.Inoltre il ranger può passare attraversoi vegetali non"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1348.0,
+   "x2": 584.0,
+   "y2": 1372.0,
+   "text": "magici senza esserne rallentato e senza subire danni se tali"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1372.0,
+   "x2": 536.0,
+   "y2": 1396.0,
+   "text": "vegetali presentano spine, aculei o altri pericoli simili."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1396.0,
+   "x2": 591.0,
+   "y2": 1420.0,
+   "text": "Inoltre, il ranger dispone di vantaggio ai tiri salvezza contro"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1414.0,
+   "x2": 569.0,
+   "y2": 1442.0,
+   "text": "i vegetali creati magicamente o manipolati per ostacolare il"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1440.0,
+   "x2": 563.0,
+   "y2": 1467.0,
+   "text": "movimento, come quelli creati dall'incantesimo intralciare."
+  },
+  {
+   "x1": 90.0,
+   "y1": 1480.0,
+   "x2": 499.0,
+   "y2": 1515.0,
+   "text": "Nascondersi in Piena Vista"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1526.0,
+   "x2": 582.0,
+   "y2": 1549.0,
+   "text": "A partire dal 10\" livello, un ranger può impiegare 1 minuto"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1546.0,
+   "x2": 549.0,
+   "y2": 1573.0,
+   "text": "per mimetizzarsi con l'ambiente. Deve essere in grado"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1566.0,
+   "x2": 567.0,
+   "y2": 1601.0,
+   "text": "di accedere a fango fresco, terriccio, vegetali, fuliggine e"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1595.0,
+   "x2": 536.0,
+   "y2": 1619.0,
+   "text": "altro materiale naturale adatto con cui mimetizzarsi."
+  },
+  {
+   "x1": 958.0,
+   "y1": 1692.0,
+   "x2": 1141.0,
+   "y2": 1716.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1199.0,
+   "y1": 1706.0,
+   "x2": 1235.0,
+   "y2": 1728.0,
+   "text": "105"
+  }
+ ],
+ "reading_text": "CARatTErisTiCa da IncaNtatoRE\nSaggezza è la caratteristica da incantatore per gli\nincantesimi da ranger, dal momento che la sua magia\nderiva dalla sintonia con la natura. Un ranger usa Saggezza\ncaratteristica da incantatore.Usa inoltre il suo modificatore\ndi Saggezza per definire la CD del tiro salvezza di un\nincantesimo da ranger da lui lanciato e quando effettua un\ntiro per colpire con un incantesimo.\nCD del tiro salvezza dell'incantesimo = 8 + il bonus di competenza\ndel ranger + il modificatore di Saggezza del ranger\n•\nModificatore di attacco dell'incantesimo - il bonus di competenza\ndel ranger + il modificatore di Saggezza del ranger.\nArchetipo Ranger\nAl 3° livello, un ranger sceglie un archetipo che si sforzerà\ndi emulare. Può scegliere tra Cacciatore e Signore delle\nBestie, entrambi descritti alla fine della sezione diquesta\nclasse. L'archetipo scelto conferisce al ranger alcuni\nprivilegi al 3° livello e poi di nuovo al 7°, 11° e 15° livello.\nCONSAPEVOLEZZA PRIMORDIALE\nA partire dal 3° livello, un ranger può usare la sua azione e\nspendere uno slot incantesimo da ranger per concentrare la\nsua percezione sull'area attorno a lui. Per 1 minuto per ogni\nlivello dello slot incantesimo speso, il ranger può percepire\nse le seguenti creature sono presenti entro 1,5 km da\nlui (o entro 9 km se si trova nel suo terreno prescelto):\naberrazioni, celestiali, draghi, elementali, folletti, immondi\ne non morti. Questo privilegio non rivela l'ubicazione esatta\no il numero delle creature.\nAumento dei Punteggi\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e\n19° livello, un ranger può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di 1due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nAttacco Extra\nA partire dal 5 livello, un ranger può attaccare due volte\nanziché una, ogni volta che effettua l'azione di Attacco nel\nproprio turno.\nANDAtURA SUL TERRITORiO\nA partire dall'8 livello, muoversi attraverso il terreno difficile\nnon magico non richiede più un costo in movimento extra al\nranger.Inoltre il ranger può passare attraversoi vegetali non\nmagici senza esserne rallentato e senza subire danni se tali\nvegetali presentano spine, aculei o altri pericoli simili.\nInoltre, il ranger dispone di vantaggio ai tiri salvezza contro\ni vegetali creati magicamente o manipolati per ostacolare il\nmovimento, come quelli creati dall'incantesimo intralciare.\nNascondersi in Piena Vista\nA partire dal 10\" livello, un ranger può impiegare 1 minuto\nper mimetizzarsi con l'ambiente. Deve essere in grado\ndi accedere a fango fresco, terriccio, vegetali, fuliggine e\naltro materiale naturale adatto con cui mimetizzarsi.\nUna volta mimetizzatosi in questo modo, può tentare di\nnascondersi appiattendosi contro una superficie solida,\ncome un albero o una parete, che sia alta e larga almeno\nquanto lui. Il ranger ottiene unbonus di +10 alle prove di\nDestrezza (Furtività) fintanto che rimane dove si trova\nsenza muoversi e senza effettuare azioni. Se si muove o\neffettua un'azione o una reazione, dovrà mimetizzarsi di\nnuovo per ottenere questo beneficio.\nSVANIRE\nA partire dal 14° livello, un ranger può usare l'azione di\nNascondersi come azione bonus nel suo turno, Oltre a questo,\nnon è possibile seguire le sue tracce tramite mezzi non\nmagici, a meno che il ranger non decida di lasciare una pista.\nSENSI FErinI\nAl 18° livello, un ranger sviluppa un senso soprannaturale\nche gli permette di combattere anche con le creature che\nnon è in grado di vedere. Quando un ranger attacca una\ncreatura che non è in grado di vedere, la sua incapacità nel\nlocalizzarla non impone svantaggio ai suoi tiri per colpire\ncontro di essa.\nIlranger è inoltre consapevole dell'ubicazione di\nqualsiasi creatura invisibile entro 9 metri da lui, purché\nquella creatura non sia nascosta a lui e il ranger non sia\naccecato o assordato.\nSterminatore di Nemici\nA1 20° livello, un ranger diventa un cacciatore implacabile\ndei suoi nemici. Una volta per ogni suo turno, può\naggiungere il suo modificatore di Saggezza al tiro per\ncolpire o al tiro per i danni di un attacco da lui effettuato\ncontro uno dei suoi nemici prescelti. Può scegliere di\nutilizzare questo privilegio prima o dopo il tiro, ma prima\nche qualsiasi effetto del tiro sia applicato.\nArchetipi Ranger\nL'ideale del ranger si incarna in due espressioni classiche:\nil Cacciatore e il Signore delle Bestie.\nCACCIATORE\nEmulando l'archetipo del Cacciatore, il ranger accetta il\nsuo ruolo di baluardo tra il mondo civilizzato e i terrori\nCAPITOLO 3 |CLASSI\n105"
+}

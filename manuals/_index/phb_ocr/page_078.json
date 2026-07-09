@@ -1,0 +1,808 @@
+{
+ "pdf_page_index": 78,
+ "page_label": 79,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 114,
+ "lines": [
+  {
+   "x1": 94.0,
+   "y1": 69.0,
+   "x2": 362.0,
+   "y2": 110.0,
+   "text": "Colpo di Fortuna"
+  },
+  {
+   "x1": 643.0,
+   "y1": 73.0,
+   "x2": 792.0,
+   "y2": 104.0,
+   "text": "ASSASSinO"
+  },
+  {
+   "x1": 90.0,
+   "y1": 106.0,
+   "x2": 567.0,
+   "y2": 144.0,
+   "text": "Al 20° ivello, il ladro sviluppa la prodigiosa tendenza ad"
+  },
+  {
+   "x1": 641.0,
+   "y1": 110.0,
+   "x2": 1106.0,
+   "y2": 133.0,
+   "text": "Un assassino si specializza nella tetra arte di impartire"
+  },
+  {
+   "x1": 641.0,
+   "y1": 133.0,
+   "x2": 1104.0,
+   "y2": 157.0,
+   "text": "la morte. Molte figure diverse possono aderire a questo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 159.0,
+   "x2": 1091.0,
+   "y2": 183.0,
+   "text": "archetipo: sicari prezzolati, spie, cacciatori di taglie e"
+  },
+  {
+   "x1": 643.0,
+   "y1": 183.0,
+   "x2": 1145.0,
+   "y2": 206.0,
+   "text": "perfino alcuni sacerdoti speciali, consacrati per sopprimere"
+  },
+  {
+   "x1": 641.0,
+   "y1": 205.0,
+   "x2": 1121.0,
+   "y2": 228.0,
+   "text": "i nemici delle loro divinità. Grazie alla furtività, al veleno"
+  },
+  {
+   "x1": 641.0,
+   "y1": 228.0,
+   "x2": 1082.0,
+   "y2": 252.0,
+   "text": "e ai travestimenti, un assassino può eliminare i suoi"
+  },
+  {
+   "x1": 107.0,
+   "y1": 247.0,
+   "x2": 593.0,
+   "y2": 280.0,
+   "text": "Una volta utilizzato questo privilegio, il ladro non può più"
+  },
+  {
+   "x1": 641.0,
+   "y1": 250.0,
+   "x2": 890.0,
+   "y2": 274.0,
+   "text": "avversari con letale efficacia."
+  },
+  {
+   "x1": 92.0,
+   "y1": 272.0,
+   "x2": 561.0,
+   "y2": 303.0,
+   "text": "utilizzarlo finché non completa un riposo breve o lungo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 290.0,
+   "x2": 872.0,
+   "y2": 318.0,
+   "text": "Competenze Bonus"
+  },
+  {
+   "x1": 92.0,
+   "y1": 316.0,
+   "x2": 499.0,
+   "y2": 358.0,
+   "text": "ArchetipI Ladreschi"
+  },
+  {
+   "x1": 643.0,
+   "y1": 320.0,
+   "x2": 1095.0,
+   "y2": 343.0,
+   "text": "Quando un ladro sceglie questo archetipo al 3' livello,"
+  },
+  {
+   "x1": 641.0,
+   "y1": 342.0,
+   "x2": 1138.0,
+   "y2": 365.0,
+   "text": "ottiene competenza nei trucchi per il camuffamento e nelle"
+  },
+  {
+   "x1": 89.0,
+   "y1": 354.0,
+   "x2": 576.0,
+   "y2": 389.0,
+   "text": "I ladri hanno molti tratti in comune, tra cui la tendenza a"
+  },
+  {
+   "x1": 639.0,
+   "y1": 365.0,
+   "x2": 861.0,
+   "y2": 389.0,
+   "text": "sostanze da avvelenatore."
+  },
+  {
+   "x1": 92.0,
+   "y1": 382.0,
+   "x2": 593.0,
+   "y2": 409.0,
+   "text": "perfezionare le loro abilità, il loro approccio preciso e letale"
+  },
+  {
+   "x1": 92.0,
+   "y1": 406.0,
+   "x2": 567.0,
+   "y2": 429.0,
+   "text": "al combattimento e i loro riflessi sempre più rapidi. Ma i"
+  },
+  {
+   "x1": 639.0,
+   "y1": 405.0,
+   "x2": 789.0,
+   "y2": 433.0,
+   "text": "ASSASSINARE"
+  },
+  {
+   "x1": 92.0,
+   "y1": 429.0,
+   "x2": 593.0,
+   "y2": 453.0,
+   "text": "vari tipi di ladri orientano le loro doti verso obiettivi diversi,"
+  },
+  {
+   "x1": 643.0,
+   "y1": 433.0,
+   "x2": 1145.0,
+   "y2": 459.0,
+   "text": "A partire dal 3° livello, il ladro risulta particolarmente letale"
+  },
+  {
+   "x1": 92.0,
+   "y1": 451.0,
+   "x2": 595.0,
+   "y2": 475.0,
+   "text": "incarnati dagli archetipi ladreschi. La scelta di un archetipo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 455.0,
+   "x2": 1125.0,
+   "y2": 482.0,
+   "text": "quando coglie i propri nemici alla sprovvista e dispone di"
+  },
+  {
+   "x1": 92.0,
+   "y1": 473.0,
+   "x2": 591.0,
+   "y2": 497.0,
+   "text": "è indicativa delle priorità del ladro: non tanto relativamente"
+  },
+  {
+   "x1": 639.0,
+   "y1": 479.0,
+   "x2": 1121.0,
+   "y2": 502.0,
+   "text": "vantaggio ai tiri per colpire contro qualsiasi creatura che"
+  },
+  {
+   "x1": 92.0,
+   "y1": 497.0,
+   "x2": 554.0,
+   "y2": 521.0,
+   "text": "alla professione scelta, bensì alla descrizione delle sue"
+  },
+  {
+   "x1": 641.0,
+   "y1": 501.0,
+   "x2": 1106.0,
+   "y2": 524.0,
+   "text": "non abbia ancora effettuato un turno in combattimento."
+  },
+  {
+   "x1": 92.0,
+   "y1": 521.0,
+   "x2": 249.0,
+   "y2": 546.0,
+   "text": "tecniche preferite."
+  },
+  {
+   "x1": 643.0,
+   "y1": 526.0,
+   "x2": 1073.0,
+   "y2": 550.0,
+   "text": "Inoltre, ogni colpo da lui messo a segno contro una"
+  },
+  {
+   "x1": 643.0,
+   "y1": 552.0,
+   "x2": 1051.0,
+   "y2": 570.0,
+   "text": "creatura sorpresa è considerato un colpo critico."
+  },
+  {
+   "x1": 94.0,
+   "y1": 566.0,
+   "x2": 236.0,
+   "y2": 592.0,
+   "text": "FURFANTE"
+  },
+  {
+   "x1": 94.0,
+   "y1": 601.0,
+   "x2": 584.0,
+   "y2": 625.0,
+   "text": "Questo ladro ha affinato le abilità più utili all'arte del furto."
+  },
+  {
+   "x1": 643.0,
+   "y1": 592.0,
+   "x2": 883.0,
+   "y2": 616.0,
+   "text": "Maestro Infiltrato"
+  },
+  {
+   "x1": 94.0,
+   "y1": 625.0,
+   "x2": 582.0,
+   "y2": 649.0,
+   "text": "Gli scassinatori, i banditi, i tagliaborse e gli altri criminali"
+  },
+  {
+   "x1": 641.0,
+   "y1": 616.0,
+   "x2": 1119.0,
+   "y2": 641.0,
+   "text": "A partire dal 9* livello, il ladro può creare infallibilmente"
+  },
+  {
+   "x1": 92.0,
+   "y1": 647.0,
+   "x2": 593.0,
+   "y2": 671.0,
+   "text": "aderiscono spesso a questo archetipo, ma lo stesso vale per"
+  },
+  {
+   "x1": 641.0,
+   "y1": 641.0,
+   "x2": 1106.0,
+   "y2": 665.0,
+   "text": "delle identità fittizie per se stesso. Deve utilizzare sette"
+  },
+  {
+   "x1": 92.0,
+   "y1": 671.0,
+   "x2": 569.0,
+   "y2": 694.0,
+   "text": "quei ladri che preferiscono considerarsi dei cacciatori di"
+  },
+  {
+   "x1": 643.0,
+   "y1": 665.0,
+   "x2": 1102.0,
+   "y2": 683.0,
+   "text": "giorni e 25 mo per stabilire la storia, la professione e le"
+  },
+  {
+   "x1": 94.0,
+   "y1": 696.0,
+   "x2": 572.0,
+   "y2": 714.0,
+   "text": "tesori, esploratori, cercatori e investigatori professionisti."
+  },
+  {
+   "x1": 641.0,
+   "y1": 687.0,
+   "x2": 1101.0,
+   "y2": 711.0,
+   "text": "affiliazioni dell'identità in questione. Non può stabilire"
+  },
+  {
+   "x1": 92.0,
+   "y1": 716.0,
+   "x2": 582.0,
+   "y2": 740.0,
+   "text": "Oltre a migliorare la propria agilità e furtività, un furfante"
+  },
+  {
+   "x1": 641.0,
+   "y1": 713.0,
+   "x2": 1110.0,
+   "y2": 731.0,
+   "text": "un'identità che appartiene a qualcun altro. Potrebbe per"
+  },
+  {
+   "x1": 92.0,
+   "y1": 742.0,
+   "x2": 585.0,
+   "y2": 760.0,
+   "text": "sviluppa le abilità più utili a esplorare gli antichi complessi"
+  },
+  {
+   "x1": 639.0,
+   "y1": 733.0,
+   "x2": 1095.0,
+   "y2": 756.0,
+   "text": "esempio procurarsi degli abiti adeguati, una lettera di"
+  },
+  {
+   "x1": 90.0,
+   "y1": 762.0,
+   "x2": 585.0,
+   "y2": 787.0,
+   "text": "di rovine, leggere i linguaggi sconosciuti e usare gli oggetti"
+  },
+  {
+   "x1": 641.0,
+   "y1": 756.0,
+   "x2": 1115.0,
+   "y2": 780.0,
+   "text": "presentazione e un certificato apparentemente legittimo"
+  },
+  {
+   "x1": 90.0,
+   "y1": 786.0,
+   "x2": 545.0,
+   "y2": 809.0,
+   "text": "magici di cui normalmente non potrebbe fare utilizzo."
+  },
+  {
+   "x1": 639.0,
+   "y1": 776.0,
+   "x2": 1119.0,
+   "y2": 804.0,
+   "text": "per spacciarsi per un membro di un casato mercantile di"
+  },
+  {
+   "x1": 643.0,
+   "y1": 802.0,
+   "x2": 1147.0,
+   "y2": 826.0,
+   "text": "una remota città, in modo da potersi insinuare nella cerchia"
+  },
+  {
+   "x1": 92.0,
+   "y1": 829.0,
+   "x2": 246.0,
+   "y2": 853.0,
+   "text": "Mani Veloci"
+  },
+  {
+   "x1": 641.0,
+   "y1": 824.0,
+   "x2": 1008.0,
+   "y2": 848.0,
+   "text": "delle frequentazioni di altri ricchi mercanti."
+  },
+  {
+   "x1": 92.0,
+   "y1": 853.0,
+   "x2": 569.0,
+   "y2": 879.0,
+   "text": "A partire dal 3° livello, un ladro può usare l'azione bonus"
+  },
+  {
+   "x1": 657.0,
+   "y1": 846.0,
+   "x2": 1128.0,
+   "y2": 872.0,
+   "text": "Da allora in poi, quando il ladro adotta la nuova identità"
+  },
+  {
+   "x1": 90.0,
+   "y1": 875.0,
+   "x2": 554.0,
+   "y2": 903.0,
+   "text": "conferitagli da Azione Scaltra per effettuare una prova"
+  },
+  {
+   "x1": 641.0,
+   "y1": 872.0,
+   "x2": 1125.0,
+   "y2": 895.0,
+   "text": "come travestimento, le altre creature lo riterranno quella"
+  },
+  {
+   "x1": 92.0,
+   "y1": 901.0,
+   "x2": 545.0,
+   "y2": 925.0,
+   "text": "di Destrezza (Rapidità di Mano), usare i propri arnesi"
+  },
+  {
+   "x1": 641.0,
+   "y1": 893.0,
+   "x2": 1136.0,
+   "y2": 917.0,
+   "text": "persona finché il ladro non offrirà loro dei motivi validi per"
+  },
+  {
+   "x1": 90.0,
+   "y1": 921.0,
+   "x2": 560.0,
+   "y2": 948.0,
+   "text": "da scasso per disattivare una trappola o scassinare una"
+  },
+  {
+   "x1": 643.0,
+   "y1": 917.0,
+   "x2": 770.0,
+   "y2": 937.0,
+   "text": "dubitare di lui."
+  },
+  {
+   "x1": 90.0,
+   "y1": 946.0,
+   "x2": 541.0,
+   "y2": 970.0,
+   "text": "serratura, o effettuare un'azione di Usare un Oggetto."
+  },
+  {
+   "x1": 643.0,
+   "y1": 961.0,
+   "x2": 768.0,
+   "y2": 981.0,
+   "text": "IMPoSToRE"
+  },
+  {
+   "x1": 90.0,
+   "y1": 987.0,
+   "x2": 397.0,
+   "y2": 1014.0,
+   "text": "LavoRo AL SECoNdo PIanO"
+  },
+  {
+   "x1": 643.0,
+   "y1": 985.0,
+   "x2": 1073.0,
+   "y2": 1009.0,
+   "text": "Al 13°livello, un ladro ottiene la capacità di imitare"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1014.0,
+   "x2": 543.0,
+   "y2": 1040.0,
+   "text": "Quando un ladro sceglie questo archetipo al 3° livello,"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1009.0,
+   "x2": 1127.0,
+   "y2": 1032.0,
+   "text": "infallibilmente la parlata, la calligrafia e il modo di fare di"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1040.0,
+   "x2": 545.0,
+   "y2": 1063.0,
+   "text": "diventa in grado di scalare più velocemente rispetto al"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1032.0,
+   "x2": 1123.0,
+   "y2": 1056.0,
+   "text": "un'altra persona. Il ladro deve trascorrere almeno tre ore"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1063.0,
+   "x2": 578.0,
+   "y2": 1087.0,
+   "text": "normale; scalare non gli richiede più un movimento extra."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1056.0,
+   "x2": 1102.0,
+   "y2": 1080.0,
+   "text": "a studiare queste tre componenti comportamentali del"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1087.0,
+   "x2": 554.0,
+   "y2": 1111.0,
+   "text": "Inoltre, quando il ladro effettua un salto in lungo con"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1080.0,
+   "x2": 1134.0,
+   "y2": 1104.0,
+   "text": "soggetto, ascoltandolo parlare, studiando la sua calligrafia"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1107.0,
+   "x2": 580.0,
+   "y2": 1131.0,
+   "text": "rincorsa, la distanza che copre aumenta di 30 cm per ogni"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1102.0,
+   "x2": 898.0,
+   "y2": 1125.0,
+   "text": "e osservandone i modi di fare."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1122.0,
+   "x2": 1119.0,
+   "y2": 1146.0,
+   "text": "L'inganno del ladro è impossibile da discernere per un"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1133.0,
+   "x2": 432.0,
+   "y2": 1157.0,
+   "text": "punto del suo modificatore di Destrezza."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1147.0,
+   "x2": 1143.0,
+   "y2": 1171.0,
+   "text": "osservatore casuale. Se una creatura sospettosa ha ragione"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1171.0,
+   "x2": 316.0,
+   "y2": 1201.0,
+   "text": "FURTiViTÀ SUPRemA"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1171.0,
+   "x2": 1125.0,
+   "y2": 1195.0,
+   "text": "di credere che ci sia qualcosa che non va, il ladro dispone"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1199.0,
+   "x2": 584.0,
+   "y2": 1226.0,
+   "text": "A partire dal 9° livello, un ladro dispone di vantaggio a una"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1193.0,
+   "x2": 1127.0,
+   "y2": 1217.0,
+   "text": "di vantaggio a qualsiasi prova di Carisma (Inganno) da lui"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1222.0,
+   "x2": 580.0,
+   "y2": 1250.0,
+   "text": "prova di Destrezza (Furtività) se si muove di non più della"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1215.0,
+   "x2": 981.0,
+   "y2": 1239.0,
+   "text": "effettuata per evitare di essere scoperto."
+  },
+  {
+   "x1": 90.0,
+   "y1": 1248.0,
+   "x2": 473.0,
+   "y2": 1272.0,
+   "text": "metà della sua velocità in quello stesso turno."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1257.0,
+   "x2": 829.0,
+   "y2": 1285.0,
+   "text": "Colpo Mortale"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1288.0,
+   "x2": 371.0,
+   "y2": 1312.0,
+   "text": "Usare Oggetto Magico"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1284.0,
+   "x2": 1071.0,
+   "y2": 1312.0,
+   "text": "A partire dal 17° livello, il ladro diventa un maestro"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1317.0,
+   "x2": 571.0,
+   "y2": 1341.0,
+   "text": "Giunto al 13º livello, un ladro ha imparato come funziona"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1314.0,
+   "x2": 1054.0,
+   "y2": 1332.0,
+   "text": "nell'impartire la morte istantaneamente.Quando"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1341.0,
+   "x2": 534.0,
+   "y2": 1365.0,
+   "text": "la magia quanto basta da improvvisare un utilizzo di"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1334.0,
+   "x2": 1117.0,
+   "y2": 1358.0,
+   "text": "attacca e colpisce una creatura sorpresa, quella creatura"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1363.0,
+   "x2": 569.0,
+   "y2": 1387.0,
+   "text": "quegli oggetti che non sono destinati a lui. Il ladro ignora"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1358.0,
+   "x2": 1078.0,
+   "y2": 1381.0,
+   "text": "deve effettuare un tiro salvezza su Costituzione (CD"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1383.0,
+   "x2": 543.0,
+   "y2": 1412.0,
+   "text": "tutti I requisiti di classe, razza e livello quando usa gli"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1379.0,
+   "x2": 1091.0,
+   "y2": 1403.0,
+   "text": "8 + il modificatore di Destrezza del ladro + il bonus di"
+  },
+  {
+   "x1": 88.0,
+   "y1": 1407.0,
+   "x2": 218.0,
+   "y2": 1436.0,
+   "text": "oggetti magici."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1403.0,
+   "x2": 1114.0,
+   "y2": 1427.0,
+   "text": "competenza del ladro). Se lo fallisce, il ladro raddoppia i"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1427.0,
+   "x2": 949.0,
+   "y2": 1451.0,
+   "text": "danni del suo attacco contro di essa."
+  },
+  {
+   "x1": 88.0,
+   "y1": 1445.0,
+   "x2": 344.0,
+   "y2": 1482.0,
+   "text": "Riflessi Da FUrfante"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1471.0,
+   "x2": 484.0,
+   "y2": 1511.0,
+   "text": "Uavoa gnto a livello, nlado diva"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1469.0,
+   "x2": 973.0,
+   "y2": 1498.0,
+   "text": "MistificAtorE ARCAnO"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1496.0,
+   "x2": 525.0,
+   "y2": 1533.0,
+   "text": "Particolarmente abile nel tendere imboscate e nello"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1507.0,
+   "x2": 1102.0,
+   "y2": 1531.0,
+   "text": "Alcuni ladri potenziano le loro sopraffine abilità furtive"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1542.0,
+   "x2": 563.0,
+   "y2": 1579.0,
+   "text": "due turni durante il primo round di ogni combattimento."
+  },
+  {
+   "x1": 637.0,
+   "y1": 1533.0,
+   "x2": 1084.0,
+   "y2": 1557.0,
+   "text": "e di agilità con la magia, imparando alcuni trucchi di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1559.0,
+   "x2": 1077.0,
+   "y2": 1577.0,
+   "text": "ammaliamento e di illusione. Questi ladri includono"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1577.0,
+   "x2": 1086.0,
+   "y2": 1604.0,
+   "text": "borseggiatori, scassinatori, burloni e combinaguai di"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1611.0,
+   "x2": 438.0,
+   "y2": 1652.0,
+   "text": "utilizzare questo privilegio se è sorpreso."
+  },
+  {
+   "x1": 637.0,
+   "y1": 1600.0,
+   "x2": 1115.0,
+   "y2": 1628.0,
+   "text": "ogni genere, e naturalmente un considerevole numero di"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1628.0,
+   "x2": 750.0,
+   "y2": 1648.0,
+   "text": "avventurieri."
+  },
+  {
+   "x1": 962.0,
+   "y1": 1692.0,
+   "x2": 1143.0,
+   "y2": 1716.0,
+   "text": "CAPITOLO 3 | CLASSI"
+  },
+  {
+   "x1": 1206.0,
+   "y1": 1706.0,
+   "x2": 1232.0,
+   "y2": 1728.0,
+   "text": "79"
+  }
+ ],
+ "reading_text": "Colpo di Fortuna\nAl 20° ivello, il ladro sviluppa la prodigiosa tendenza ad\nUna volta utilizzato questo privilegio, il ladro non può più\nutilizzarlo finché non completa un riposo breve o lungo.\nArchetipI Ladreschi\nI ladri hanno molti tratti in comune, tra cui la tendenza a\nperfezionare le loro abilità, il loro approccio preciso e letale\nal combattimento e i loro riflessi sempre più rapidi. Ma i\nvari tipi di ladri orientano le loro doti verso obiettivi diversi,\nincarnati dagli archetipi ladreschi. La scelta di un archetipo\nè indicativa delle priorità del ladro: non tanto relativamente\nalla professione scelta, bensì alla descrizione delle sue\ntecniche preferite.\nFURFANTE\nQuesto ladro ha affinato le abilità più utili all'arte del furto.\nGli scassinatori, i banditi, i tagliaborse e gli altri criminali\naderiscono spesso a questo archetipo, ma lo stesso vale per\nquei ladri che preferiscono considerarsi dei cacciatori di\ntesori, esploratori, cercatori e investigatori professionisti.\nOltre a migliorare la propria agilità e furtività, un furfante\nsviluppa le abilità più utili a esplorare gli antichi complessi\ndi rovine, leggere i linguaggi sconosciuti e usare gli oggetti\nmagici di cui normalmente non potrebbe fare utilizzo.\nMani Veloci\nA partire dal 3° livello, un ladro può usare l'azione bonus\nconferitagli da Azione Scaltra per effettuare una prova\ndi Destrezza (Rapidità di Mano), usare i propri arnesi\nda scasso per disattivare una trappola o scassinare una\nserratura, o effettuare un'azione di Usare un Oggetto.\nLavoRo AL SECoNdo PIanO\nQuando un ladro sceglie questo archetipo al 3° livello,\ndiventa in grado di scalare più velocemente rispetto al\nnormale; scalare non gli richiede più un movimento extra.\nInoltre, quando il ladro effettua un salto in lungo con\nrincorsa, la distanza che copre aumenta di 30 cm per ogni\npunto del suo modificatore di Destrezza.\nFURTiViTÀ SUPRemA\nA partire dal 9° livello, un ladro dispone di vantaggio a una\nprova di Destrezza (Furtività) se si muove di non più della\nmetà della sua velocità in quello stesso turno.\nUsare Oggetto Magico\nGiunto al 13º livello, un ladro ha imparato come funziona\nla magia quanto basta da improvvisare un utilizzo di\nquegli oggetti che non sono destinati a lui. Il ladro ignora\ntutti I requisiti di classe, razza e livello quando usa gli\noggetti magici.\nRiflessi Da FUrfante\nUavoa gnto a livello, nlado diva\nParticolarmente abile nel tendere imboscate e nello\ndue turni durante il primo round di ogni combattimento.\nutilizzare questo privilegio se è sorpreso.\nASSASSinO\nUn assassino si specializza nella tetra arte di impartire\nla morte. Molte figure diverse possono aderire a questo\narchetipo: sicari prezzolati, spie, cacciatori di taglie e\nperfino alcuni sacerdoti speciali, consacrati per sopprimere\ni nemici delle loro divinità. Grazie alla furtività, al veleno\ne ai travestimenti, un assassino può eliminare i suoi\navversari con letale efficacia.\nCompetenze Bonus\nQuando un ladro sceglie questo archetipo al 3' livello,\nottiene competenza nei trucchi per il camuffamento e nelle\nsostanze da avvelenatore.\nASSASSINARE\nA partire dal 3° livello, il ladro risulta particolarmente letale\nquando coglie i propri nemici alla sprovvista e dispone di\nvantaggio ai tiri per colpire contro qualsiasi creatura che\nnon abbia ancora effettuato un turno in combattimento.\nInoltre, ogni colpo da lui messo a segno contro una\ncreatura sorpresa è considerato un colpo critico.\nMaestro Infiltrato\nA partire dal 9* livello, il ladro può creare infallibilmente\ndelle identità fittizie per se stesso. Deve utilizzare sette\ngiorni e 25 mo per stabilire la storia, la professione e le\naffiliazioni dell'identità in questione. Non può stabilire\nun'identità che appartiene a qualcun altro. Potrebbe per\nesempio procurarsi degli abiti adeguati, una lettera di\npresentazione e un certificato apparentemente legittimo\nper spacciarsi per un membro di un casato mercantile di\nuna remota città, in modo da potersi insinuare nella cerchia\ndelle frequentazioni di altri ricchi mercanti.\nDa allora in poi, quando il ladro adotta la nuova identità\ncome travestimento, le altre creature lo riterranno quella\npersona finché il ladro non offrirà loro dei motivi validi per\ndubitare di lui.\nIMPoSToRE\nAl 13°livello, un ladro ottiene la capacità di imitare\ninfallibilmente la parlata, la calligrafia e il modo di fare di\nun'altra persona. Il ladro deve trascorrere almeno tre ore\na studiare queste tre componenti comportamentali del\nsoggetto, ascoltandolo parlare, studiando la sua calligrafia\ne osservandone i modi di fare.\nL'inganno del ladro è impossibile da discernere per un\nosservatore casuale. Se una creatura sospettosa ha ragione\ndi credere che ci sia qualcosa che non va, il ladro dispone\ndi vantaggio a qualsiasi prova di Carisma (Inganno) da lui\neffettuata per evitare di essere scoperto.\nColpo Mortale\nA partire dal 17° livello, il ladro diventa un maestro\nnell'impartire la morte istantaneamente.Quando\nattacca e colpisce una creatura sorpresa, quella creatura\ndeve effettuare un tiro salvezza su Costituzione (CD\n8 + il modificatore di Destrezza del ladro + il bonus di\ncompetenza del ladro). Se lo fallisce, il ladro raddoppia i\ndanni del suo attacco contro di essa.\nMistificAtorE ARCAnO\nAlcuni ladri potenziano le loro sopraffine abilità furtive\ne di agilità con la magia, imparando alcuni trucchi di\nammaliamento e di illusione. Questi ladri includono\nborseggiatori, scassinatori, burloni e combinaguai di\nogni genere, e naturalmente un considerevole numero di\navventurieri.\nCAPITOLO 3 | CLASSI\n79"
+}

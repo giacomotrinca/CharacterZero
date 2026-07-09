@@ -1,0 +1,878 @@
+{
+ "pdf_page_index": 85,
+ "page_label": 86,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 124,
+ "lines": [
+  {
+   "x1": 113.0,
+   "y1": 82.0,
+   "x2": 362.0,
+   "y2": 106.0,
+   "text": "Divinatore Sapiente"
+  },
+  {
+   "x1": 667.0,
+   "y1": 82.0,
+   "x2": 903.0,
+   "y2": 106.0,
+   "text": "Evocazione Minore"
+  },
+  {
+   "x1": 109.0,
+   "y1": 106.0,
+   "x2": 571.0,
+   "y2": 133.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2"
+  },
+  {
+   "x1": 661.0,
+   "y1": 102.0,
+   "x2": 1167.0,
+   "y2": 137.0,
+   "text": "A partire da quando sceglie questa scuola al 2* livello, il mago"
+  },
+  {
+   "x1": 111.0,
+   "y1": 130.0,
+   "x2": 565.0,
+   "y2": 153.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 663.0,
+   "y1": 130.0,
+   "x2": 1165.0,
+   "y2": 157.0,
+   "text": "può usare la sua azione per evocare un oggetto inanimato che"
+  },
+  {
+   "x1": 111.0,
+   "y1": 153.0,
+   "x2": 589.0,
+   "y2": 177.0,
+   "text": "copiare un incantesimo di divinazione nel suo libro degli"
+  },
+  {
+   "x1": 665.0,
+   "y1": 153.0,
+   "x2": 1162.0,
+   "y2": 177.0,
+   "text": "compare nelle sue mani o a terra, in uno spazio libero situato"
+  },
+  {
+   "x1": 111.0,
+   "y1": 175.0,
+   "x2": 349.0,
+   "y2": 199.0,
+   "text": "incantesimi sono dimezzati."
+  },
+  {
+   "x1": 665.0,
+   "y1": 177.0,
+   "x2": 1147.0,
+   "y2": 201.0,
+   "text": "entro 3 metri da lui e che egli sia in grado di vedere. Questo"
+  },
+  {
+   "x1": 663.0,
+   "y1": 197.0,
+   "x2": 1158.0,
+   "y2": 225.0,
+   "text": "oggetto non deve essere più lungo di 90 cm, non deve pesare"
+  },
+  {
+   "x1": 108.0,
+   "y1": 215.0,
+   "x2": 231.0,
+   "y2": 247.0,
+   "text": "PorTENto"
+  },
+  {
+   "x1": 663.0,
+   "y1": 219.0,
+   "x2": 1169.0,
+   "y2": 247.0,
+   "text": "più di 5 kg e deve avere la forma di un oggetto non magico che"
+  },
+  {
+   "x1": 111.0,
+   "y1": 243.0,
+   "x2": 582.0,
+   "y2": 267.0,
+   "text": "A partire da quando sceglie questa scuola al 2° livello, il"
+  },
+  {
+   "x1": 663.0,
+   "y1": 241.0,
+   "x2": 1139.0,
+   "y2": 269.0,
+   "text": "il mago abbia già visto. L'oggetto è palesemente magico ed"
+  },
+  {
+   "x1": 109.0,
+   "y1": 269.0,
+   "x2": 584.0,
+   "y2": 292.0,
+   "text": "mago inizia a intravedere bagliori di futuro che si fanno"
+  },
+  {
+   "x1": 665.0,
+   "y1": 267.0,
+   "x2": 1027.0,
+   "y2": 291.0,
+   "text": "emana luce fioca entro1,5 metri di distanza."
+  },
+  {
+   "x1": 109.0,
+   "y1": 291.0,
+   "x2": 602.0,
+   "y2": 314.0,
+   "text": "strada a tratti nella sua coscienza.Dopo avere completato"
+  },
+  {
+   "x1": 681.0,
+   "y1": 289.0,
+   "x2": 1151.0,
+   "y2": 312.0,
+   "text": "L'oggetto scompare dopo I ora, quando il mago utilizza"
+  },
+  {
+   "x1": 111.0,
+   "y1": 312.0,
+   "x2": 587.0,
+   "y2": 336.0,
+   "text": "un riposo lungo, il mago tira due d20 e annota i risultati"
+  },
+  {
+   "x1": 665.0,
+   "y1": 312.0,
+   "x2": 1127.0,
+   "y2": 336.0,
+   "text": "di nuovo questo privilegio o se l'oggetto stesso subisce"
+  },
+  {
+   "x1": 111.0,
+   "y1": 338.0,
+   "x2": 596.0,
+   "y2": 356.0,
+   "text": "ottenuti, Potrà sostituire un qualsiasi tiro per colpire, tiro"
+  },
+  {
+   "x1": 663.0,
+   "y1": 336.0,
+   "x2": 811.0,
+   "y2": 360.0,
+   "text": "qualsiasi danno."
+  },
+  {
+   "x1": 109.0,
+   "y1": 358.0,
+   "x2": 596.0,
+   "y2": 382.0,
+   "text": "salvezza o prova di caratteristica da lui effettuata con uno"
+  },
+  {
+   "x1": 111.0,
+   "y1": 382.0,
+   "x2": 576.0,
+   "y2": 406.0,
+   "text": "diquei risultati di preveggenza. Deve scegliere di farlo"
+  },
+  {
+   "x1": 663.0,
+   "y1": 373.0,
+   "x2": 955.0,
+   "y2": 402.0,
+   "text": "TRASpOSIZionE BENEVOLA"
+  },
+  {
+   "x1": 111.0,
+   "y1": 404.0,
+   "x2": 602.0,
+   "y2": 428.0,
+   "text": "prima di effettuare il tiro e può sostituire un tiroin questo"
+  },
+  {
+   "x1": 665.0,
+   "y1": 404.0,
+   "x2": 1125.0,
+   "y2": 428.0,
+   "text": "A partire dal 6°livello, il mago può usare la sua azione"
+  },
+  {
+   "x1": 111.0,
+   "y1": 426.0,
+   "x2": 406.0,
+   "y2": 449.0,
+   "text": "modo soltanto una volta per turno."
+  },
+  {
+   "x1": 661.0,
+   "y1": 424.0,
+   "x2": 1106.0,
+   "y2": 451.0,
+   "text": "per teletrasportarsi fino a 9 metri di distanza in uno"
+  },
+  {
+   "x1": 127.0,
+   "y1": 448.0,
+   "x2": 572.0,
+   "y2": 473.0,
+   "text": "Ogni tiro di preveggenza può essere usato una volta"
+  },
+  {
+   "x1": 663.0,
+   "y1": 448.0,
+   "x2": 1154.0,
+   "y2": 471.0,
+   "text": "spazio libero che egli sia in grado di vedere. In alternativa"
+  },
+  {
+   "x1": 109.0,
+   "y1": 471.0,
+   "x2": 611.0,
+   "y2": 497.0,
+   "text": "sola. Quando il mago completa un riposo lungo, perde ogni"
+  },
+  {
+   "x1": 665.0,
+   "y1": 471.0,
+   "x2": 1128.0,
+   "y2": 495.0,
+   "text": "può scegliere uno spazio entro gittata che sia occupato"
+  },
+  {
+   "x1": 109.0,
+   "y1": 493.0,
+   "x2": 465.0,
+   "y2": 517.0,
+   "text": "eventuale tiro di preveggenza inutilizzato."
+  },
+  {
+   "x1": 665.0,
+   "y1": 493.0,
+   "x2": 1123.0,
+   "y2": 517.0,
+   "text": "da una creatura Piccola o Media. Se quella creatura è"
+  },
+  {
+   "x1": 663.0,
+   "y1": 515.0,
+   "x2": 1165.0,
+   "y2": 539.0,
+   "text": "consenziente, sia il mago che la creatura si teletrasportano,"
+  },
+  {
+   "x1": 109.0,
+   "y1": 533.0,
+   "x2": 358.0,
+   "y2": 561.0,
+   "text": "Divinazione Esperta"
+  },
+  {
+   "x1": 663.0,
+   "y1": 539.0,
+   "x2": 866.0,
+   "y2": 563.0,
+   "text": "scambiandosi di posto."
+  },
+  {
+   "x1": 109.0,
+   "y1": 559.0,
+   "x2": 602.0,
+   "y2": 587.0,
+   "text": "A partire dal 6° livello, lanciare incantesimi di divinazione"
+  },
+  {
+   "x1": 683.0,
+   "y1": 561.0,
+   "x2": 1139.0,
+   "y2": 585.0,
+   "text": "Una volta utilizzato questo privilegio,il mago non può"
+  },
+  {
+   "x1": 111.0,
+   "y1": 585.0,
+   "x2": 560.0,
+   "y2": 608.0,
+   "text": "diventa talmente naturale per il mago da richiedergli"
+  },
+  {
+   "x1": 663.0,
+   "y1": 583.0,
+   "x2": 1165.0,
+   "y2": 607.0,
+   "text": "più utilizzarlo finché non completa un riposo lungo o finché"
+  },
+  {
+   "x1": 109.0,
+   "y1": 607.0,
+   "x2": 587.0,
+   "y2": 630.0,
+   "text": "soltanto uno sforzo minimale. Quando il mago lancia un"
+  },
+  {
+   "x1": 665.0,
+   "y1": 607.0,
+   "x2": 1141.0,
+   "y2": 630.0,
+   "text": "non lancia un incantesimo di evocazione di livello pari o"
+  },
+  {
+   "x1": 109.0,
+   "y1": 627.0,
+   "x2": 600.0,
+   "y2": 654.0,
+   "text": "incantesimo di divinazione di livello pari o superiore al 2,"
+  },
+  {
+   "x1": 665.0,
+   "y1": 630.0,
+   "x2": 796.0,
+   "y2": 650.0,
+   "text": "superiore al 1°."
+  },
+  {
+   "x1": 109.0,
+   "y1": 652.0,
+   "x2": 619.0,
+   "y2": 676.0,
+   "text": "recupera uno slot incantesimo già speso. Lo slot recuperato"
+  },
+  {
+   "x1": 109.0,
+   "y1": 672.0,
+   "x2": 584.0,
+   "y2": 700.0,
+   "text": "deve essere di livello inferiore a quello dell'incantesimo"
+  },
+  {
+   "x1": 665.0,
+   "y1": 672.0,
+   "x2": 958.0,
+   "y2": 696.0,
+   "text": "Evocazione Focalizzata"
+  },
+  {
+   "x1": 109.0,
+   "y1": 698.0,
+   "x2": 532.0,
+   "y2": 722.0,
+   "text": "lanciato e non può essere di livello superiore al 5°."
+  },
+  {
+   "x1": 665.0,
+   "y1": 698.0,
+   "x2": 1160.0,
+   "y2": 722.0,
+   "text": "A partire dal 10° livello, quando il mago si concentra su un"
+  },
+  {
+   "x1": 663.0,
+   "y1": 718.0,
+   "x2": 1156.0,
+   "y2": 745.0,
+   "text": "incantesimo di evocazione, la sua concentrazione non può"
+  },
+  {
+   "x1": 111.0,
+   "y1": 740.0,
+   "x2": 283.0,
+   "y2": 764.0,
+   "text": "Terzo Occhio"
+  },
+  {
+   "x1": 665.0,
+   "y1": 744.0,
+   "x2": 1030.0,
+   "y2": 767.0,
+   "text": "più essere interrotta dai danni che subisce."
+  },
+  {
+   "x1": 109.0,
+   "y1": 764.0,
+   "x2": 613.0,
+   "y2": 791.0,
+   "text": "A partire dal 10° livello, il mago può usare la sua azione per"
+  },
+  {
+   "x1": 109.0,
+   "y1": 789.0,
+   "x2": 596.0,
+   "y2": 813.0,
+   "text": "amplificare i suoi poteri dipercezione.Quando lo fa, deve"
+  },
+  {
+   "x1": 665.0,
+   "y1": 786.0,
+   "x2": 947.0,
+   "y2": 809.0,
+   "text": "Evocazioni Perduranti"
+  },
+  {
+   "x1": 109.0,
+   "y1": 811.0,
+   "x2": 595.0,
+   "y2": 835.0,
+   "text": "scegliere uno dei benefici seguenti, che permane finché il"
+  },
+  {
+   "x1": 663.0,
+   "y1": 811.0,
+   "x2": 1128.0,
+   "y2": 835.0,
+   "text": "A partire dal 14° livello, le creature evocate o create dal"
+  },
+  {
+   "x1": 111.0,
+   "y1": 835.0,
+   "x2": 587.0,
+   "y2": 859.0,
+   "text": "mago non diventa incapacitato o finché non completa un"
+  },
+  {
+   "x1": 661.0,
+   "y1": 831.0,
+   "x2": 1130.0,
+   "y2": 859.0,
+   "text": "mago con un incantesimo di evocazione possiedono 30"
+  },
+  {
+   "x1": 111.0,
+   "y1": 857.0,
+   "x2": 609.0,
+   "y2": 881.0,
+   "text": "riposo breve o lungo. Il mago non può più utilizzare questo"
+  },
+  {
+   "x1": 663.0,
+   "y1": 857.0,
+   "x2": 855.0,
+   "y2": 881.0,
+   "text": "punti vita temporanei."
+  },
+  {
+   "x1": 111.0,
+   "y1": 879.0,
+   "x2": 460.0,
+   "y2": 903.0,
+   "text": "privilegio finché non completa un riposo."
+  },
+  {
+   "x1": 127.0,
+   "y1": 903.0,
+   "x2": 608.0,
+   "y2": 926.0,
+   "text": "Comprensione Superiore. Il mago è in grado di leggere"
+  },
+  {
+   "x1": 661.0,
+   "y1": 895.0,
+   "x2": 964.0,
+   "y2": 930.0,
+   "text": "Scuola di Illusione"
+  },
+  {
+   "x1": 109.0,
+   "y1": 926.0,
+   "x2": 290.0,
+   "y2": 950.0,
+   "text": "qualsiasi linguaggio."
+  },
+  {
+   "x1": 663.0,
+   "y1": 934.0,
+   "x2": 1093.0,
+   "y2": 961.0,
+   "text": "Un illusionista concentra i suoi studi sulla magia che"
+  },
+  {
+   "x1": 126.0,
+   "y1": 945.0,
+   "x2": 572.0,
+   "y2": 968.0,
+   "text": "Scurovisione, Ilmago ottiene scurovisione entro 18"
+  },
+  {
+   "x1": 663.0,
+   "y1": 957.0,
+   "x2": 1112.0,
+   "y2": 985.0,
+   "text": "frastorna i sensi, confonde la mente e inganna perfino i"
+  },
+  {
+   "x1": 109.0,
+   "y1": 970.0,
+   "x2": 554.0,
+   "y2": 994.0,
+   "text": "metri, come descritto nel capitolo 8, \"All'Avventura\"."
+  },
+  {
+   "x1": 125.0,
+   "y1": 990.0,
+   "x2": 560.0,
+   "y2": 1018.0,
+   "text": "Vedere Invisibilità. Il mago è in grado di vedere le"
+  },
+  {
+   "x1": 661.0,
+   "y1": 981.0,
+   "x2": 1115.0,
+   "y2": 1009.0,
+   "text": "soggetti più saggi. La sua magia è sottile, ma le illusioni"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1016.0,
+   "x2": 604.0,
+   "y2": 1040.0,
+   "text": "creature e gli oggetti invisibili entro 3 metri da lui e situati"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1007.0,
+   "x2": 1134.0,
+   "y2": 1030.0,
+   "text": "generate dalla sua mente acuta possono far apparire reale"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1029.0,
+   "x2": 1136.0,
+   "y2": 1052.0,
+   "text": "anche l'impossibile. Alcuni illusionisti (tra cui molti gnomi"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1040.0,
+   "x2": 277.0,
+   "y2": 1063.0,
+   "text": "entro linea di vista."
+  },
+  {
+   "x1": 127.0,
+   "y1": 1058.0,
+   "x2": 558.0,
+   "y2": 1085.0,
+   "text": "Vista Eterea. Il mago può vedere sul Piano Etereo"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1054.0,
+   "x2": 1167.0,
+   "y2": 1072.0,
+   "text": "maghi) sono ingannatori benevoli che usano i loro incantesimi"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1083.0,
+   "x2": 238.0,
+   "y2": 1104.0,
+   "text": "entro 18 metri."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1074.0,
+   "x2": 1125.0,
+   "y2": 1098.0,
+   "text": "per intrattenere. Altri sono maestri di inganni dall'indole"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1098.0,
+   "x2": 1141.0,
+   "y2": 1122.0,
+   "text": "più sinistra, pronti a usare leloro illusioni per spaventare e"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1124.0,
+   "x2": 353.0,
+   "y2": 1147.0,
+   "text": "PoRTENto SUpeRioRe"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1118.0,
+   "x2": 1117.0,
+   "y2": 1142.0,
+   "text": "raggirare gli altri in nome del loro tornaconto personale."
+  },
+  {
+   "x1": 109.0,
+   "y1": 1151.0,
+   "x2": 591.0,
+   "y2": 1175.0,
+   "text": "A partire dal 14° livello, le visioni che affollano i sogni del"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1162.0,
+   "x2": 923.0,
+   "y2": 1186.0,
+   "text": "ILLUsioNiSta SApiEnte"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1177.0,
+   "x2": 589.0,
+   "y2": 1200.0,
+   "text": "mago si intensificano, e compongono nella sua mente un"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1186.0,
+   "x2": 1125.0,
+   "y2": 1213.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1200.0,
+   "x2": 571.0,
+   "y2": 1224.0,
+   "text": "quadro più preciso di ciò che accadrà. Quando il mago"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1220.0,
+   "x2": 569.0,
+   "y2": 1244.0,
+   "text": "utilizza il privilegio Portento, tira tre d20 anziché due."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1211.0,
+   "x2": 1119.0,
+   "y2": 1235.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1235.0,
+   "x2": 1117.0,
+   "y2": 1259.0,
+   "text": "copiare un incantesimo di illusione nel suo libro degli"
+  },
+  {
+   "x1": 111.0,
+   "y1": 1264.0,
+   "x2": 436.0,
+   "y2": 1290.0,
+   "text": "Scuola di Evocazione"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1257.0,
+   "x2": 903.0,
+   "y2": 1281.0,
+   "text": "incantesimi sono dimezzati."
+  },
+  {
+   "x1": 111.0,
+   "y1": 1303.0,
+   "x2": 613.0,
+   "y2": 1326.0,
+   "text": "Un evocatore predilige gli incantesimi che fanno comparire"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1301.0,
+   "x2": 1016.0,
+   "y2": 1325.0,
+   "text": "Illusione MinoreMigliorata"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1326.0,
+   "x2": 572.0,
+   "y2": 1350.0,
+   "text": "oggetti e creature dal nulla: può evocare sbuffanti nubi"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1323.0,
+   "x2": 1108.0,
+   "y2": 1350.0,
+   "text": "A partire da quando sceglie questa scuola al2* livello,"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1346.0,
+   "x2": 567.0,
+   "y2": 1374.0,
+   "text": "di nebbia letale, o richiamare da un luogo lontano una"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1347.0,
+   "x2": 1114.0,
+   "y2": 1374.0,
+   "text": "il mago apprende il trucchetto illusione minore. Se già"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1370.0,
+   "x2": 547.0,
+   "y2": 1394.0,
+   "text": "creatura che combatta per lui. Quando sviluppa una"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1372.0,
+   "x2": 1169.0,
+   "y2": 1396.0,
+   "text": "conosceva questo trucchetto, apprende un diverso trucchetto"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1396.0,
+   "x2": 550.0,
+   "y2": 1420.0,
+   "text": "maggiore padronanza, un evocatore impara anche a"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1398.0,
+   "x2": 1108.0,
+   "y2": 1416.0,
+   "text": "da mago a sua scelta. Il trucchetto non conta al fine di"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1418.0,
+   "x2": 589.0,
+   "y2": 1442.0,
+   "text": "usare alcuni incantesimi di viaggio e di teletrasporto che"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1418.0,
+   "x2": 1132.0,
+   "y2": 1442.0,
+   "text": "determinare il numero di trucchetti conosciuti dal mago."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1438.0,
+   "x2": 582.0,
+   "y2": 1465.0,
+   "text": "gli permettono di coprire vaste distanze o addirittura di"
+  },
+  {
+   "x1": 681.0,
+   "y1": 1442.0,
+   "x2": 1141.0,
+   "y2": 1465.0,
+   "text": "Quando il mago lancia illusione minore, può creare sia un"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1463.0,
+   "x2": 589.0,
+   "y2": 1487.0,
+   "text": "raggiungere altri piani di esistenza nel giro di un istante."
+  },
+  {
+   "x1": 661.0,
+   "y1": 1463.0,
+   "x2": 1163.0,
+   "y2": 1487.0,
+   "text": "suonoche un'immagine con un singolo lancio dell'incantesimo."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1504.0,
+   "x2": 351.0,
+   "y2": 1531.0,
+   "text": "Evocatore Sapiente"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1507.0,
+   "x2": 874.0,
+   "y2": 1531.0,
+   "text": "Illusioni Duttili"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1533.0,
+   "x2": 571.0,
+   "y2": 1557.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2°"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1533.0,
+   "x2": 1147.0,
+   "y2": 1557.0,
+   "text": "A partire dal 6°livello, quando lancia un incantesimo con"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1557.0,
+   "x2": 565.0,
+   "y2": 1580.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1557.0,
+   "x2": 1152.0,
+   "y2": 1580.0,
+   "text": "una durata pari o superiore a 1 minuto, il mago può usare"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1582.0,
+   "x2": 584.0,
+   "y2": 1601.0,
+   "text": "copiare un incantesimo di evocazione nel suo libro degli"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1580.0,
+   "x2": 1117.0,
+   "y2": 1604.0,
+   "text": "la propria azione per cambiare la natura dell'illusione"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1599.0,
+   "x2": 345.0,
+   "y2": 1624.0,
+   "text": "incantesimi sono dimezzati."
+  },
+  {
+   "x1": 661.0,
+   "y1": 1602.0,
+   "x2": 1078.0,
+   "y2": 1626.0,
+   "text": "creata (rispettando i limiti dei normali parametri"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1626.0,
+   "x2": 1149.0,
+   "y2": 1650.0,
+   "text": "dell'incantesimo), purché sia in grado di vedere l'illusione."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1679.0,
+   "x2": 288.0,
+   "y2": 1703.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 20.0,
+   "y1": 1690.0,
+   "x2": 48.0,
+   "y2": 1712.0,
+   "text": "86"
+  }
+ ],
+ "reading_text": "Divinatore Sapiente\nA partire da quando il mago sceglie questa scuola al 2\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di divinazione nel suo libro degli\nincantesimi sono dimezzati.\nPorTENto\nA partire da quando sceglie questa scuola al 2° livello, il\nmago inizia a intravedere bagliori di futuro che si fanno\nstrada a tratti nella sua coscienza.Dopo avere completato\nun riposo lungo, il mago tira due d20 e annota i risultati\nottenuti, Potrà sostituire un qualsiasi tiro per colpire, tiro\nsalvezza o prova di caratteristica da lui effettuata con uno\ndiquei risultati di preveggenza. Deve scegliere di farlo\nprima di effettuare il tiro e può sostituire un tiroin questo\nmodo soltanto una volta per turno.\nOgni tiro di preveggenza può essere usato una volta\nsola. Quando il mago completa un riposo lungo, perde ogni\neventuale tiro di preveggenza inutilizzato.\nDivinazione Esperta\nA partire dal 6° livello, lanciare incantesimi di divinazione\ndiventa talmente naturale per il mago da richiedergli\nsoltanto uno sforzo minimale. Quando il mago lancia un\nincantesimo di divinazione di livello pari o superiore al 2,\nrecupera uno slot incantesimo già speso. Lo slot recuperato\ndeve essere di livello inferiore a quello dell'incantesimo\nlanciato e non può essere di livello superiore al 5°.\nTerzo Occhio\nA partire dal 10° livello, il mago può usare la sua azione per\namplificare i suoi poteri dipercezione.Quando lo fa, deve\nscegliere uno dei benefici seguenti, che permane finché il\nmago non diventa incapacitato o finché non completa un\nriposo breve o lungo. Il mago non può più utilizzare questo\nprivilegio finché non completa un riposo.\nComprensione Superiore. Il mago è in grado di leggere\nqualsiasi linguaggio.\nScurovisione, Ilmago ottiene scurovisione entro 18\nmetri, come descritto nel capitolo 8, \"All'Avventura\".\nVedere Invisibilità. Il mago è in grado di vedere le\ncreature e gli oggetti invisibili entro 3 metri da lui e situati\nentro linea di vista.\nVista Eterea. Il mago può vedere sul Piano Etereo\nentro 18 metri.\nPoRTENto SUpeRioRe\nA partire dal 14° livello, le visioni che affollano i sogni del\nmago si intensificano, e compongono nella sua mente un\nquadro più preciso di ciò che accadrà. Quando il mago\nutilizza il privilegio Portento, tira tre d20 anziché due.\nScuola di Evocazione\nUn evocatore predilige gli incantesimi che fanno comparire\noggetti e creature dal nulla: può evocare sbuffanti nubi\ndi nebbia letale, o richiamare da un luogo lontano una\ncreatura che combatta per lui. Quando sviluppa una\nmaggiore padronanza, un evocatore impara anche a\nusare alcuni incantesimi di viaggio e di teletrasporto che\ngli permettono di coprire vaste distanze o addirittura di\nraggiungere altri piani di esistenza nel giro di un istante.\nEvocatore Sapiente\nA partire da quando il mago sceglie questa scuola al 2°\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di evocazione nel suo libro degli\nincantesimi sono dimezzati.\nCAPITOLO 3 CLASSI\n86\nEvocazione Minore\nA partire da quando sceglie questa scuola al 2* livello, il mago\npuò usare la sua azione per evocare un oggetto inanimato che\ncompare nelle sue mani o a terra, in uno spazio libero situato\nentro 3 metri da lui e che egli sia in grado di vedere. Questo\noggetto non deve essere più lungo di 90 cm, non deve pesare\npiù di 5 kg e deve avere la forma di un oggetto non magico che\nil mago abbia già visto. L'oggetto è palesemente magico ed\nemana luce fioca entro1,5 metri di distanza.\nL'oggetto scompare dopo I ora, quando il mago utilizza\ndi nuovo questo privilegio o se l'oggetto stesso subisce\nqualsiasi danno.\nTRASpOSIZionE BENEVOLA\nA partire dal 6°livello, il mago può usare la sua azione\nper teletrasportarsi fino a 9 metri di distanza in uno\nspazio libero che egli sia in grado di vedere. In alternativa\npuò scegliere uno spazio entro gittata che sia occupato\nda una creatura Piccola o Media. Se quella creatura è\nconsenziente, sia il mago che la creatura si teletrasportano,\nscambiandosi di posto.\nUna volta utilizzato questo privilegio,il mago non può\npiù utilizzarlo finché non completa un riposo lungo o finché\nnon lancia un incantesimo di evocazione di livello pari o\nsuperiore al 1°.\nEvocazione Focalizzata\nA partire dal 10° livello, quando il mago si concentra su un\nincantesimo di evocazione, la sua concentrazione non può\npiù essere interrotta dai danni che subisce.\nEvocazioni Perduranti\nA partire dal 14° livello, le creature evocate o create dal\nmago con un incantesimo di evocazione possiedono 30\npunti vita temporanei.\nScuola di Illusione\nUn illusionista concentra i suoi studi sulla magia che\nfrastorna i sensi, confonde la mente e inganna perfino i\nsoggetti più saggi. La sua magia è sottile, ma le illusioni\ngenerate dalla sua mente acuta possono far apparire reale\nanche l'impossibile. Alcuni illusionisti (tra cui molti gnomi\nmaghi) sono ingannatori benevoli che usano i loro incantesimi\nper intrattenere. Altri sono maestri di inganni dall'indole\npiù sinistra, pronti a usare leloro illusioni per spaventare e\nraggirare gli altri in nome del loro tornaconto personale.\nILLUsioNiSta SApiEnte\nA partire da quando il mago sceglie questa scuola al 2\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di illusione nel suo libro degli\nincantesimi sono dimezzati.\nIllusione MinoreMigliorata\nA partire da quando sceglie questa scuola al2* livello,\nil mago apprende il trucchetto illusione minore. Se già\nconosceva questo trucchetto, apprende un diverso trucchetto\nda mago a sua scelta. Il trucchetto non conta al fine di\ndeterminare il numero di trucchetti conosciuti dal mago.\nQuando il mago lancia illusione minore, può creare sia un\nsuonoche un'immagine con un singolo lancio dell'incantesimo.\nIllusioni Duttili\nA partire dal 6°livello, quando lancia un incantesimo con\nuna durata pari o superiore a 1 minuto, il mago può usare\nla propria azione per cambiare la natura dell'illusione\ncreata (rispettando i limiti dei normali parametri\ndell'incantesimo), purché sia in grado di vedere l'illusione."
+}

@@ -1,0 +1,787 @@
+{
+ "pdf_page_index": 118,
+ "page_label": 119,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 111,
+ "lines": [
+  {
+   "x1": 118.0,
+   "y1": 71.0,
+   "x2": 589.0,
+   "y2": 95.0,
+   "text": "Nel corso delle sue avventure, il warlock può aggiungere"
+  },
+  {
+   "x1": 641.0,
+   "y1": 71.0,
+   "x2": 789.0,
+   "y2": 99.0,
+   "text": "SUCCHIAVITa"
+  },
+  {
+   "x1": 96.0,
+   "y1": 89.0,
+   "x2": 586.0,
+   "y2": 124.0,
+   "text": "alri incantesimi rituali al suo Libro delle Ombre. Quando"
+  },
+  {
+   "x1": 643.0,
+   "y1": 99.0,
+   "x2": 1090.0,
+   "y2": 124.0,
+   "text": "Prerequisiti: 12° livello, privilegio Patto della Lama"
+  },
+  {
+   "x1": 100.0,
+   "y1": 119.0,
+   "x2": 598.0,
+   "y2": 143.0,
+   "text": "trova un incantesimo del genere, può aggiungerlo al libro se"
+  },
+  {
+   "x1": 100.0,
+   "y1": 141.0,
+   "x2": 596.0,
+   "y2": 164.0,
+   "text": "il livello dell'incantesimoè pari o inferiore alla metà del suo"
+  },
+  {
+   "x1": 643.0,
+   "y1": 132.0,
+   "x2": 1134.0,
+   "y2": 157.0,
+   "text": "Quando il warlock colpisce una creatura con la sua arma del"
+  },
+  {
+   "x1": 96.0,
+   "y1": 159.0,
+   "x2": 573.0,
+   "y2": 192.0,
+   "text": "livello da warlock (arrotondato per eccesso) e se dispone"
+  },
+  {
+   "x1": 641.0,
+   "y1": 155.0,
+   "x2": 1114.0,
+   "y2": 181.0,
+   "text": "patto, quella creatura subisce danni necrotici extra pari al"
+  },
+  {
+   "x1": 100.0,
+   "y1": 186.0,
+   "x2": 587.0,
+   "y2": 212.0,
+   "text": "di abbastanza tempo da trascrivere l'incantesimo. Per ogni"
+  },
+  {
+   "x1": 641.0,
+   "y1": 177.0,
+   "x2": 1130.0,
+   "y2": 201.0,
+   "text": "modificatore di Carisma del warlock (fino a un minimo di 1)."
+  },
+  {
+   "x1": 98.0,
+   "y1": 206.0,
+   "x2": 589.0,
+   "y2": 234.0,
+   "text": "livello dell'incantesimo, il processo di trascrizione richiede"
+  },
+  {
+   "x1": 641.0,
+   "y1": 217.0,
+   "x2": 901.0,
+   "y2": 247.0,
+   "text": "Sussurri DaLLa TOmBa"
+  },
+  {
+   "x1": 100.0,
+   "y1": 232.0,
+   "x2": 519.0,
+   "y2": 256.0,
+   "text": "2 ore e costa 50 mo per gli inchiostri rari richiesti."
+  },
+  {
+   "x1": 641.0,
+   "y1": 245.0,
+   "x2": 840.0,
+   "y2": 272.0,
+   "text": "Prerequisito: 9° livello"
+  },
+  {
+   "x1": 102.0,
+   "y1": 276.0,
+   "x2": 334.0,
+   "y2": 300.0,
+   "text": "LingUe DELLE BESTIe"
+  },
+  {
+   "x1": 639.0,
+   "y1": 278.0,
+   "x2": 1130.0,
+   "y2": 307.0,
+   "text": "Il warlock può lanciare parlare con i morti a volontà, senza"
+  },
+  {
+   "x1": 100.0,
+   "y1": 300.0,
+   "x2": 565.0,
+   "y2": 323.0,
+   "text": "Il warlock può lanciare parlare con gli animali a volontà,"
+  },
+  {
+   "x1": 641.0,
+   "y1": 303.0,
+   "x2": 903.0,
+   "y2": 327.0,
+   "text": "spendere uno slot incantesimo."
+  },
+  {
+   "x1": 94.0,
+   "y1": 318.0,
+   "x2": 414.0,
+   "y2": 353.0,
+   "text": "senza spendere uno slot incantesimo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 342.0,
+   "x2": 857.0,
+   "y2": 371.0,
+   "text": "SussuRRi StReGati"
+  },
+  {
+   "x1": 100.0,
+   "y1": 365.0,
+   "x2": 388.0,
+   "y2": 391.0,
+   "text": "MaesTro di Mille FOrme"
+  },
+  {
+   "x1": 552.0,
+   "y1": 380.0,
+   "x2": 561.0,
+   "y2": 393.0,
+   "text": "."
+  },
+  {
+   "x1": 643.0,
+   "y1": 373.0,
+   "x2": 840.0,
+   "y2": 398.0,
+   "text": "Prerequisito: 7° livello"
+  },
+  {
+   "x1": 100.0,
+   "y1": 393.0,
+   "x2": 307.0,
+   "y2": 418.0,
+   "text": "Prerequisito: 15° livello"
+  },
+  {
+   "x1": 639.0,
+   "y1": 402.0,
+   "x2": 1127.0,
+   "y2": 429.0,
+   "text": "Il warlock può lanciare compulsione una volta usando uno"
+  },
+  {
+   "x1": 98.0,
+   "y1": 422.0,
+   "x2": 578.0,
+   "y2": 449.0,
+   "text": "Il warlock può lanciare alterare se stesso a volontà, senza"
+  },
+  {
+   "x1": 639.0,
+   "y1": 428.0,
+   "x2": 1128.0,
+   "y2": 453.0,
+   "text": "slot incantesimo da warlock. Non può farlo di nuovo finché"
+  },
+  {
+   "x1": 96.0,
+   "y1": 446.0,
+   "x2": 362.0,
+   "y2": 473.0,
+   "text": "spendere uno slot incantesimo."
+  },
+  {
+   "x1": 639.0,
+   "y1": 449.0,
+   "x2": 898.0,
+   "y2": 477.0,
+   "text": "non completa un riposo lungo."
+  },
+  {
+   "x1": 100.0,
+   "y1": 488.0,
+   "x2": 406.0,
+   "y2": 513.0,
+   "text": "Maschera dei Molti Volti"
+  },
+  {
+   "x1": 641.0,
+   "y1": 490.0,
+   "x2": 923.0,
+   "y2": 519.0,
+   "text": "Tutt'Uno con le Ombre"
+  },
+  {
+   "x1": 100.0,
+   "y1": 517.0,
+   "x2": 541.0,
+   "y2": 541.0,
+   "text": "Il warlock può lanciare camuffare se stesso a volontà,"
+  },
+  {
+   "x1": 641.0,
+   "y1": 519.0,
+   "x2": 837.0,
+   "y2": 544.0,
+   "text": "Prerequisito: 5° livello"
+  },
+  {
+   "x1": 98.0,
+   "y1": 541.0,
+   "x2": 412.0,
+   "y2": 565.0,
+   "text": "senza spendere uno slot incantesimo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 550.0,
+   "x2": 1088.0,
+   "y2": 577.0,
+   "text": "Quando il warlock si trova in un'area di luce fioca o di"
+  },
+  {
+   "x1": 100.0,
+   "y1": 579.0,
+   "x2": 462.0,
+   "y2": 607.0,
+   "text": "Occhi del Custode delle Rune"
+  },
+  {
+   "x1": 641.0,
+   "y1": 574.0,
+   "x2": 1110.0,
+   "y2": 597.0,
+   "text": "oscurità, può usare la sua azione per diventare invisibile"
+  },
+  {
+   "x1": 94.0,
+   "y1": 603.0,
+   "x2": 554.0,
+   "y2": 636.0,
+   "text": "Il warlock è in grado di leggere ogni forma di scrittura."
+  },
+  {
+   "x1": 639.0,
+   "y1": 596.0,
+   "x2": 1095.0,
+   "y2": 623.0,
+   "text": "finché non si muove, effettua un'azione o una reazione."
+  },
+  {
+   "x1": 98.0,
+   "y1": 650.0,
+   "x2": 292.0,
+   "y2": 678.0,
+   "text": "Parola TemibilE"
+  },
+  {
+   "x1": 643.0,
+   "y1": 641.0,
+   "x2": 838.0,
+   "y2": 665.0,
+   "text": "Vigore Immondo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 665.0,
+   "x2": 1110.0,
+   "y2": 689.0,
+   "text": "11 warlock può lanciare vita falsata su se stesso a volontà"
+  },
+  {
+   "x1": 98.0,
+   "y1": 678.0,
+   "x2": 295.0,
+   "y2": 702.0,
+   "text": "Prerequisito: 7* livello"
+  },
+  {
+   "x1": 641.0,
+   "y1": 689.0,
+   "x2": 1101.0,
+   "y2": 714.0,
+   "text": "come incantesimo di 1°livello, senza spendere uno slot"
+  },
+  {
+   "x1": 96.0,
+   "y1": 711.0,
+   "x2": 571.0,
+   "y2": 734.0,
+   "text": "Il warlock può lanciare confusione una volta usando uno"
+  },
+  {
+   "x1": 641.0,
+   "y1": 714.0,
+   "x2": 949.0,
+   "y2": 738.0,
+   "text": "incantesimo o componenti materiali."
+  },
+  {
+   "x1": 94.0,
+   "y1": 731.0,
+   "x2": 585.0,
+   "y2": 758.0,
+   "text": "slot incantesimo da warlock. Non può farlo di nuovo finché"
+  },
+  {
+   "x1": 96.0,
+   "y1": 758.0,
+   "x2": 355.0,
+   "y2": 782.0,
+   "text": "non completa un riposo lungo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 751.0,
+   "x2": 957.0,
+   "y2": 784.0,
+   "text": "Visione dei Reami Lontani"
+  },
+  {
+   "x1": 643.0,
+   "y1": 782.0,
+   "x2": 849.0,
+   "y2": 808.0,
+   "text": "Prerequisito: 15 livello"
+  },
+  {
+   "x1": 96.0,
+   "y1": 796.0,
+   "x2": 312.0,
+   "y2": 826.0,
+   "text": "PAsso Ascendente"
+  },
+  {
+   "x1": 641.0,
+   "y1": 813.0,
+   "x2": 1093.0,
+   "y2": 840.0,
+   "text": "Il warlock può lanciare occhio arcano a volontà, senza"
+  },
+  {
+   "x1": 98.0,
+   "y1": 826.0,
+   "x2": 297.0,
+   "y2": 851.0,
+   "text": "Prerequisito: 9° livello"
+  },
+  {
+   "x1": 639.0,
+   "y1": 837.0,
+   "x2": 903.0,
+   "y2": 864.0,
+   "text": "spendere uno slot incantesimo."
+  },
+  {
+   "x1": 96.0,
+   "y1": 857.0,
+   "x2": 571.0,
+   "y2": 882.0,
+   "text": "Il warlock può lanciare levitazione su se stesso a volontà,"
+  },
+  {
+   "x1": 96.0,
+   "y1": 882.0,
+   "x2": 524.0,
+   "y2": 906.0,
+   "text": "senza spendere uno slot incantesimo o componenti"
+  },
+  {
+   "x1": 643.0,
+   "y1": 881.0,
+   "x2": 814.0,
+   "y2": 906.0,
+   "text": "VIsionI VELATE"
+  },
+  {
+   "x1": 98.0,
+   "y1": 906.0,
+   "x2": 181.0,
+   "y2": 926.0,
+   "text": "materiali."
+  },
+  {
+   "x1": 637.0,
+   "y1": 904.0,
+   "x2": 1091.0,
+   "y2": 932.0,
+   "text": "Il warlock può fanciare immagine silenziosa a volontà,"
+  },
+  {
+   "x1": 639.0,
+   "y1": 932.0,
+   "x2": 1067.0,
+   "y2": 956.0,
+   "text": "senza spendere uno slot incantesimo o componenti"
+  },
+  {
+   "x1": 98.0,
+   "y1": 946.0,
+   "x2": 353.0,
+   "y2": 970.0,
+   "text": "Presagio di Sventura"
+  },
+  {
+   "x1": 637.0,
+   "y1": 954.0,
+   "x2": 728.0,
+   "y2": 979.0,
+   "text": "materiali."
+  },
+  {
+   "x1": 98.0,
+   "y1": 976.0,
+   "x2": 295.0,
+   "y2": 1001.0,
+   "text": "Prerequisito: 5° livello"
+  },
+  {
+   "x1": 641.0,
+   "y1": 994.0,
+   "x2": 851.0,
+   "y2": 1021.0,
+   "text": "Vista del Diavolo"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1007.0,
+   "x2": 556.0,
+   "y2": 1030.0,
+   "text": "Il warlock può lanciare scagliare maledizione una volta"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1030.0,
+   "x2": 578.0,
+   "y2": 1054.0,
+   "text": "usando uno slot incantesimo da warlock. Non può farlo di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1023.0,
+   "x2": 1119.0,
+   "y2": 1047.0,
+   "text": "Il warlock è in grado di vedere normalmente nell'oscurità,"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1052.0,
+   "x2": 460.0,
+   "y2": 1080.0,
+   "text": "nuovo finché non completa un riposo lungo."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1047.0,
+   "x2": 1102.0,
+   "y2": 1071.0,
+   "text": "sia magica che comune, fino a una distanza di 36 metri."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1094.0,
+   "x2": 364.0,
+   "y2": 1122.0,
+   "text": "Scultore della Carne"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1089.0,
+   "x2": 870.0,
+   "y2": 1113.0,
+   "text": "VIsta DEll'OCculto"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1111.0,
+   "x2": 1134.0,
+   "y2": 1140.0,
+   "text": "Il warlock può lanciare individuazione del magico a volontà,"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1124.0,
+   "x2": 297.0,
+   "y2": 1149.0,
+   "text": "Prerequisito: 7° livello"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1138.0,
+   "x2": 955.0,
+   "y2": 1162.0,
+   "text": "senza spendere uno slot incantesimo."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1153.0,
+   "x2": 584.0,
+   "y2": 1182.0,
+   "text": "Il warlock può lanciare metamorfosi una volta usando uno"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1180.0,
+   "x2": 584.0,
+   "y2": 1204.0,
+   "text": "slot incantesimo da warlock. Non può farlo di nuovo finché"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1174.0,
+   "x2": 820.0,
+   "y2": 1212.0,
+   "text": "Vista StreGata"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1202.0,
+   "x2": 349.0,
+   "y2": 1226.0,
+   "text": "non completa un riposo lungo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1210.0,
+   "x2": 848.0,
+   "y2": 1235.0,
+   "text": "Prerequisito: 15' livello"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1240.0,
+   "x2": 325.0,
+   "y2": 1274.0,
+   "text": "Servitori del Caos"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1239.0,
+   "x2": 1104.0,
+   "y2": 1266.0,
+   "text": "Il warlock è in grado di vedere la vera forma di qualsiasi"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1262.0,
+   "x2": 1108.0,
+   "y2": 1290.0,
+   "text": "mutaforma o creatura celata da una magia di illusione o"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1273.0,
+   "x2": 295.0,
+   "y2": 1299.0,
+   "text": "Prerequisito: 9° livello"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1286.0,
+   "x2": 1127.0,
+   "y2": 1310.0,
+   "text": "trasmutazione, fintanto che quella creatura si trova entro9"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1303.0,
+   "x2": 584.0,
+   "y2": 1330.0,
+   "text": "Il warlock può lanciare evoca elementale una volta usando"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1312.0,
+   "x2": 925.0,
+   "y2": 1336.0,
+   "text": "metri da lui ed entro linea di vista."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1326.0,
+   "x2": 565.0,
+   "y2": 1354.0,
+   "text": "uno slot incantesimo da warlock.Non può farlo di nuovo"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1350.0,
+   "x2": 406.0,
+   "y2": 1378.0,
+   "text": "finché non completa un riposo lungo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1354.0,
+   "x2": 1006.0,
+   "y2": 1379.0,
+   "text": "Voce del Signore delle Catene"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1381.0,
+   "x2": 1006.0,
+   "y2": 1407.0,
+   "text": "Prerequisito: privilegio Patto della Catena"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1396.0,
+   "x2": 404.0,
+   "y2": 1420.0,
+   "text": "Sguardo delle Due Menti"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1420.0,
+   "x2": 584.0,
+   "y2": 1447.0,
+   "text": "Il warlock può usare la sua azione per toccare un umanoide"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1412.0,
+   "x2": 1084.0,
+   "y2": 1440.0,
+   "text": "Il warlock può comunicare telepaticamente con il suo"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1438.0,
+   "x2": 1053.0,
+   "y2": 1462.0,
+   "text": "famiglio e percepire il mondo attraverso i sensi di"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1449.0,
+   "x2": 554.0,
+   "y2": 1467.0,
+   "text": "consenziente e percepire il mondo attraverso i suoi sensi"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1465.0,
+   "x2": 565.0,
+   "y2": 1493.0,
+   "text": "fino alla fine del proprio turno successivo. Fintanto che la"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1462.0,
+   "x2": 1127.0,
+   "y2": 1485.0,
+   "text": "quest'ultimo, purché entrambi si trovino sullo stesso piano"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1482.0,
+   "x2": 1127.0,
+   "y2": 1509.0,
+   "text": "di esistenza. Inoltre, finché percepisce il mondo attraverso"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1493.0,
+   "x2": 584.0,
+   "y2": 1516.0,
+   "text": "creatura si trova sullo stesso piano di esistenza del warlock,"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1515.0,
+   "x2": 587.0,
+   "y2": 1540.0,
+   "text": "quest'ultimo può usare la sua azione nei turni successivi per"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1507.0,
+   "x2": 1075.0,
+   "y2": 1531.0,
+   "text": "i sensi del suo famiglio, il warlock può anche parlare"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1538.0,
+   "x2": 558.0,
+   "y2": 1562.0,
+   "text": "mantenere questo legame, estendendo la durata fino alla"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1531.0,
+   "x2": 1106.0,
+   "y2": 1555.0,
+   "text": "attraverso il famiglio con la propria voce, anche se il suo"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1558.0,
+   "x2": 563.0,
+   "y2": 1586.0,
+   "text": "fine del suo turno successivo. Finché percepisce il mondo"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1555.0,
+   "x2": 1040.0,
+   "y2": 1579.0,
+   "text": "famiglio normalmente non è in grado di parlare."
+  },
+  {
+   "x1": 96.0,
+   "y1": 1588.0,
+   "x2": 552.0,
+   "y2": 1606.0,
+   "text": "attraverso i sensi dell'altra creatura, il warlock beneficia"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1608.0,
+   "x2": 589.0,
+   "y2": 1632.0,
+   "text": "degli eventuali sensi speciali posseduti da essa, ma è cieco e"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1632.0,
+   "x2": 460.0,
+   "y2": 1655.0,
+   "text": "sordo riguardo a ciò che accade attorno a lui."
+  },
+  {
+   "x1": 957.0,
+   "y1": 1683.0,
+   "x2": 1134.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1197.0,
+   "y1": 1701.0,
+   "x2": 1221.0,
+   "y2": 1717.0,
+   "text": "I19"
+  }
+ ],
+ "reading_text": "Nel corso delle sue avventure, il warlock può aggiungere\nalri incantesimi rituali al suo Libro delle Ombre. Quando\ntrova un incantesimo del genere, può aggiungerlo al libro se\nil livello dell'incantesimoè pari o inferiore alla metà del suo\nlivello da warlock (arrotondato per eccesso) e se dispone\ndi abbastanza tempo da trascrivere l'incantesimo. Per ogni\nlivello dell'incantesimo, il processo di trascrizione richiede\n2 ore e costa 50 mo per gli inchiostri rari richiesti.\nLingUe DELLE BESTIe\nIl warlock può lanciare parlare con gli animali a volontà,\nsenza spendere uno slot incantesimo.\nMaesTro di Mille FOrme\n.\nPrerequisito: 15° livello\nIl warlock può lanciare alterare se stesso a volontà, senza\nspendere uno slot incantesimo.\nMaschera dei Molti Volti\nIl warlock può lanciare camuffare se stesso a volontà,\nsenza spendere uno slot incantesimo.\nOcchi del Custode delle Rune\nIl warlock è in grado di leggere ogni forma di scrittura.\nParola TemibilE\nPrerequisito: 7* livello\nIl warlock può lanciare confusione una volta usando uno\nslot incantesimo da warlock. Non può farlo di nuovo finché\nnon completa un riposo lungo.\nPAsso Ascendente\nPrerequisito: 9° livello\nIl warlock può lanciare levitazione su se stesso a volontà,\nsenza spendere uno slot incantesimo o componenti\nmateriali.\nPresagio di Sventura\nPrerequisito: 5° livello\nIl warlock può lanciare scagliare maledizione una volta\nusando uno slot incantesimo da warlock. Non può farlo di\nnuovo finché non completa un riposo lungo.\nScultore della Carne\nPrerequisito: 7° livello\nIl warlock può lanciare metamorfosi una volta usando uno\nslot incantesimo da warlock. Non può farlo di nuovo finché\nnon completa un riposo lungo.\nServitori del Caos\nPrerequisito: 9° livello\nIl warlock può lanciare evoca elementale una volta usando\nuno slot incantesimo da warlock.Non può farlo di nuovo\nfinché non completa un riposo lungo.\nSguardo delle Due Menti\nIl warlock può usare la sua azione per toccare un umanoide\nconsenziente e percepire il mondo attraverso i suoi sensi\nfino alla fine del proprio turno successivo. Fintanto che la\ncreatura si trova sullo stesso piano di esistenza del warlock,\nquest'ultimo può usare la sua azione nei turni successivi per\nmantenere questo legame, estendendo la durata fino alla\nfine del suo turno successivo. Finché percepisce il mondo\nattraverso i sensi dell'altra creatura, il warlock beneficia\ndegli eventuali sensi speciali posseduti da essa, ma è cieco e\nsordo riguardo a ciò che accade attorno a lui.\nSUCCHIAVITa\nPrerequisiti: 12° livello, privilegio Patto della Lama\nQuando il warlock colpisce una creatura con la sua arma del\npatto, quella creatura subisce danni necrotici extra pari al\nmodificatore di Carisma del warlock (fino a un minimo di 1).\nSussurri DaLLa TOmBa\nPrerequisito: 9° livello\nIl warlock può lanciare parlare con i morti a volontà, senza\nspendere uno slot incantesimo.\nSussuRRi StReGati\nPrerequisito: 7° livello\nIl warlock può lanciare compulsione una volta usando uno\nslot incantesimo da warlock. Non può farlo di nuovo finché\nnon completa un riposo lungo.\nTutt'Uno con le Ombre\nPrerequisito: 5° livello\nQuando il warlock si trova in un'area di luce fioca o di\noscurità, può usare la sua azione per diventare invisibile\nfinché non si muove, effettua un'azione o una reazione.\nVigore Immondo\n11 warlock può lanciare vita falsata su se stesso a volontà\ncome incantesimo di 1°livello, senza spendere uno slot\nincantesimo o componenti materiali.\nVisione dei Reami Lontani\nPrerequisito: 15 livello\nIl warlock può lanciare occhio arcano a volontà, senza\nspendere uno slot incantesimo.\nVIsionI VELATE\nIl warlock può fanciare immagine silenziosa a volontà,\nsenza spendere uno slot incantesimo o componenti\nmateriali.\nVista del Diavolo\nIl warlock è in grado di vedere normalmente nell'oscurità,\nsia magica che comune, fino a una distanza di 36 metri.\nVIsta DEll'OCculto\nIl warlock può lanciare individuazione del magico a volontà,\nsenza spendere uno slot incantesimo.\nVista StreGata\nPrerequisito: 15' livello\nIl warlock è in grado di vedere la vera forma di qualsiasi\nmutaforma o creatura celata da una magia di illusione o\ntrasmutazione, fintanto che quella creatura si trova entro9\nmetri da lui ed entro linea di vista.\nVoce del Signore delle Catene\nPrerequisito: privilegio Patto della Catena\nIl warlock può comunicare telepaticamente con il suo\nfamiglio e percepire il mondo attraverso i sensi di\nquest'ultimo, purché entrambi si trovino sullo stesso piano\ndi esistenza. Inoltre, finché percepisce il mondo attraverso\ni sensi del suo famiglio, il warlock può anche parlare\nattraverso il famiglio con la propria voce, anche se il suo\nfamiglio normalmente non è in grado di parlare.\nCAPITOLO 3 |CLASSI\nI19"
+}

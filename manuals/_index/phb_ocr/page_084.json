@@ -1,0 +1,682 @@
+{
+ "pdf_page_index": 84,
+ "page_label": 85,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 96,
+ "lines": [
+  {
+   "x1": 643.0,
+   "y1": 79.0,
+   "x2": 1115.0,
+   "y2": 102.0,
+   "text": "1,5 metri e che egli sia in grado di vedere. Se il bersaglio"
+  },
+  {
+   "x1": 643.0,
+   "y1": 102.0,
+   "x2": 1104.0,
+   "y2": 126.0,
+   "text": "è in grado di vedere e sentire il mago, deve superare un"
+  },
+  {
+   "x1": 643.0,
+   "y1": 124.0,
+   "x2": 1115.0,
+   "y2": 148.0,
+   "text": "tiro salvezza su Saggezza contro la CD degli incantesimi"
+  },
+  {
+   "x1": 646.0,
+   "y1": 150.0,
+   "x2": 1102.0,
+   "y2": 168.0,
+   "text": "del mago, altrimenti sarà affascinata dal mago fino alla"
+  },
+  {
+   "x1": 645.0,
+   "y1": 170.0,
+   "x2": 1121.0,
+   "y2": 194.0,
+   "text": "fine del turno successivo di quest'ultimo. La velocità della"
+  },
+  {
+   "x1": 643.0,
+   "y1": 194.0,
+   "x2": 1132.0,
+   "y2": 217.0,
+   "text": "creatura affascinata scende a 0 e la creatura è incapacitata"
+  },
+  {
+   "x1": 643.0,
+   "y1": 216.0,
+   "x2": 868.0,
+   "y2": 239.0,
+   "text": "e visibilmente frastornata."
+  },
+  {
+   "x1": 657.0,
+   "y1": 239.0,
+   "x2": 1125.0,
+   "y2": 263.0,
+   "text": "Nei turni successivi il mago può usare la sua azione per"
+  },
+  {
+   "x1": 643.0,
+   "y1": 261.0,
+   "x2": 1125.0,
+   "y2": 285.0,
+   "text": "mantenere questo effetto, estendendone la durata fino alla"
+  },
+  {
+   "x1": 643.0,
+   "y1": 283.0,
+   "x2": 1123.0,
+   "y2": 307.0,
+   "text": "fine del suo turno successivo.Tuttavia, l'effetto termina se"
+  },
+  {
+   "x1": 641.0,
+   "y1": 305.0,
+   "x2": 1119.0,
+   "y2": 329.0,
+   "text": "il mago si allontana a più di 1,5 metri dalla creatura, se la"
+  },
+  {
+   "x1": 643.0,
+   "y1": 331.0,
+   "x2": 1117.0,
+   "y2": 354.0,
+   "text": "creatura non è più in grado di vederlo o di sentirio o se la"
+  },
+  {
+   "x1": 645.0,
+   "y1": 354.0,
+   "x2": 844.0,
+   "y2": 373.0,
+   "text": "creatura subisce danni."
+  },
+  {
+   "x1": 657.0,
+   "y1": 375.0,
+   "x2": 1132.0,
+   "y2": 398.0,
+   "text": "Una volta terminato l'effetto, o se la creatura ha superato"
+  },
+  {
+   "x1": 641.0,
+   "y1": 395.0,
+   "x2": 1110.0,
+   "y2": 424.0,
+   "text": "il suo tiro salvezza iniziale contro questo effetto, il mago"
+  },
+  {
+   "x1": 641.0,
+   "y1": 422.0,
+   "x2": 1104.0,
+   "y2": 446.0,
+   "text": "non può più utilizzare questo privilegio su quella stessa"
+  },
+  {
+   "x1": 643.0,
+   "y1": 444.0,
+   "x2": 1025.0,
+   "y2": 468.0,
+   "text": "creatura finché non completa un riposo lungo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 482.0,
+   "x2": 852.0,
+   "y2": 512.0,
+   "text": "Fascino Istintivo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 512.0,
+   "x2": 1104.0,
+   "y2": 535.0,
+   "text": "A partire dal 6° livello, quando una creatura situata entro"
+  },
+  {
+   "x1": 639.0,
+   "y1": 532.0,
+   "x2": 1106.0,
+   "y2": 559.0,
+   "text": "9 metri dal mago e che egli sia in grado di vedere effettua"
+  },
+  {
+   "x1": 643.0,
+   "y1": 561.0,
+   "x2": 1099.0,
+   "y2": 579.0,
+   "text": "un tiro per colpire contro di lui, il mago può usare la sua"
+  },
+  {
+   "x1": 641.0,
+   "y1": 581.0,
+   "x2": 1104.0,
+   "y2": 605.0,
+   "text": "reazione per deviare l'attacco, purché un'altra creatura si"
+  },
+  {
+   "x1": 643.0,
+   "y1": 605.0,
+   "x2": 1132.0,
+   "y2": 629.0,
+   "text": "trovi entro la gittata dell'attacco. L'attaccante deve effettuare"
+  },
+  {
+   "x1": 641.0,
+   "y1": 627.0,
+   "x2": 1128.0,
+   "y2": 650.0,
+   "text": "un tiro salvezza su Saggezza contro la CD degli incantesimi"
+  },
+  {
+   "x1": 641.0,
+   "y1": 649.0,
+   "x2": 1090.0,
+   "y2": 672.0,
+   "text": "del mago. Se lo fallisce, l'attaccante deve bersagliare la"
+  },
+  {
+   "x1": 641.0,
+   "y1": 672.0,
+   "x2": 1115.0,
+   "y2": 696.0,
+   "text": "creatura a esso più vicina (escludendo il mago e se stesso)"
+  },
+  {
+   "x1": 643.0,
+   "y1": 694.0,
+   "x2": 1080.0,
+   "y2": 718.0,
+   "text": "Se più creature sono egualmente distanti, l'attaccante"
+  },
+  {
+   "x1": 639.0,
+   "y1": 718.0,
+   "x2": 1078.0,
+   "y2": 742.0,
+   "text": "sceglie quale bersagliare. Se la creatura supera il tiro"
+  },
+  {
+   "x1": 639.0,
+   "y1": 742.0,
+   "x2": 1101.0,
+   "y2": 766.0,
+   "text": "salvezza, il mago non può più utilizzare questo privilegio"
+  },
+  {
+   "x1": 639.0,
+   "y1": 762.0,
+   "x2": 1097.0,
+   "y2": 789.0,
+   "text": "contro l'attaccante finché non completa un riposo lungo."
+  },
+  {
+   "x1": 657.0,
+   "y1": 787.0,
+   "x2": 1095.0,
+   "y2": 811.0,
+   "text": "Il mago deve scegliere se utilizzare questo privilegio"
+  },
+  {
+   "x1": 639.0,
+   "y1": 809.0,
+   "x2": 1066.0,
+   "y2": 833.0,
+   "text": "prima di sapere se l'attacco colpirà o mancherà. Le"
+  },
+  {
+   "x1": 643.0,
+   "y1": 835.0,
+   "x2": 1123.0,
+   "y2": 853.0,
+   "text": "creature che non possono essere affascinate sono immuni"
+  },
+  {
+   "x1": 98.0,
+   "y1": 851.0,
+   "x2": 386.0,
+   "y2": 877.0,
+   "text": "AbiurAZione MIgLioRatA"
+  },
+  {
+   "x1": 643.0,
+   "y1": 857.0,
+   "x2": 777.0,
+   "y2": 877.0,
+   "text": "a questo effetto."
+  },
+  {
+   "x1": 96.0,
+   "y1": 877.0,
+   "x2": 560.0,
+   "y2": 903.0,
+   "text": "A partire dal 10° livello, quando lancia un incantesimo di"
+  },
+  {
+   "x1": 96.0,
+   "y1": 901.0,
+   "x2": 561.0,
+   "y2": 925.0,
+   "text": "abiurazione che richiede una prova di caratteristica come"
+  },
+  {
+   "x1": 641.0,
+   "y1": 897.0,
+   "x2": 951.0,
+   "y2": 923.0,
+   "text": "AmmaliamentO COndivisO"
+  },
+  {
+   "x1": 96.0,
+   "y1": 921.0,
+   "x2": 561.0,
+   "y2": 948.0,
+   "text": "parte del lancio dell'incantesimo stesso (come nel caso di"
+  },
+  {
+   "x1": 639.0,
+   "y1": 925.0,
+   "x2": 1049.0,
+   "y2": 948.0,
+   "text": "A partire dal 10° livello, quando il mago lancia un"
+  },
+  {
+   "x1": 96.0,
+   "y1": 948.0,
+   "x2": 589.0,
+   "y2": 972.0,
+   "text": "controincantesimo o dissolvi magie), il mago può aggiungere"
+  },
+  {
+   "x1": 637.0,
+   "y1": 945.0,
+   "x2": 1108.0,
+   "y2": 968.0,
+   "text": "incantesimo di ammaliamento di livello pari o superiore"
+  },
+  {
+   "x1": 96.0,
+   "y1": 970.0,
+   "x2": 574.0,
+   "y2": 994.0,
+   "text": "il suo bonus di competenza a quella prova di caratteristica."
+  },
+  {
+   "x1": 637.0,
+   "y1": 968.0,
+   "x2": 1114.0,
+   "y2": 992.0,
+   "text": "al 1° che bersagli una sola creatura, può fare in modo che"
+  },
+  {
+   "x1": 639.0,
+   "y1": 994.0,
+   "x2": 955.0,
+   "y2": 1018.0,
+   "text": "bersagli anche una seconda creatura."
+  },
+  {
+   "x1": 96.0,
+   "y1": 1010.0,
+   "x2": 429.0,
+   "y2": 1038.0,
+   "text": "ResisTenza agli Incantesimi"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1038.0,
+   "x2": 584.0,
+   "y2": 1063.0,
+   "text": "A partire dal 14° livello, il mago dispone di vantaggio ai tiri"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1036.0,
+   "x2": 851.0,
+   "y2": 1060.0,
+   "text": "Alterare Ricordi"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1062.0,
+   "x2": 336.0,
+   "y2": 1085.0,
+   "text": "salvezza contro incantesimi."
+  },
+  {
+   "x1": 637.0,
+   "y1": 1060.0,
+   "x2": 1123.0,
+   "y2": 1087.0,
+   "text": "Al 14° livello, il mago ottiene la capacità di far dimenticare"
+  },
+  {
+   "x1": 113.0,
+   "y1": 1082.0,
+   "x2": 580.0,
+   "y2": 1109.0,
+   "text": "Dispone inoltre di resistenza ai danni degli incantesimi."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1089.0,
+   "x2": 1090.0,
+   "y2": 1107.0,
+   "text": "a una creatura di avere subito la sua influenza magica."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1107.0,
+   "x2": 1110.0,
+   "y2": 1131.0,
+   "text": "Quando il mago lancia un incantesimo di ammaliamento"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1125.0,
+   "x2": 475.0,
+   "y2": 1158.0,
+   "text": "Scuola dI AmmaLIamento"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1131.0,
+   "x2": 1053.0,
+   "y2": 1157.0,
+   "text": "per affascinare una o più creature, può alterare la"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1164.0,
+   "x2": 560.0,
+   "y2": 1191.0,
+   "text": "Un mago che aderisce alla Scuola di Ammaliamento ha"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1155.0,
+   "x2": 1132.0,
+   "y2": 1178.0,
+   "text": "percezione di una creatura in modo che resti inconsapevole"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1178.0,
+   "x2": 866.0,
+   "y2": 1202.0,
+   "text": "di essere stata affascinata."
+  },
+  {
+   "x1": 96.0,
+   "y1": 1189.0,
+   "x2": 571.0,
+   "y2": 1213.0,
+   "text": "affinato la capacità di circuire e ammaliare magicamente"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1200.0,
+   "x2": 1097.0,
+   "y2": 1224.0,
+   "text": "Inoltre, prima che l'incantesimo termini, il mago può"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1213.0,
+   "x2": 556.0,
+   "y2": 1231.0,
+   "text": "le altre creature e i mostri, Alcuni ammaliatori sono dei"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1224.0,
+   "x2": 1128.0,
+   "y2": 1248.0,
+   "text": "usare una volta la sua azione per tentare di far dimenticare"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1237.0,
+   "x2": 589.0,
+   "y2": 1261.0,
+   "text": "pacificatori, che stregano i violenti per indurli ad abbassare"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1248.0,
+   "x2": 1115.0,
+   "y2": 1272.0,
+   "text": "alla creatura parte del tempo in cui è rimasta affascinata."
+  },
+  {
+   "x1": 96.0,
+   "y1": 1259.0,
+   "x2": 572.0,
+   "y2": 1283.0,
+   "text": "le armi e affascinano i crudeli per convincerli a mostrare"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1270.0,
+   "x2": 1121.0,
+   "y2": 1294.0,
+   "text": "La creatura deve superare un tiro salvezza su Intelligenza"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1283.0,
+   "x2": 585.0,
+   "y2": 1306.0,
+   "text": "pietà. Altri sono dei tiranni che sottomettono magicamente"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1292.0,
+   "x2": 1132.0,
+   "y2": 1316.0,
+   "text": "contro la CD degli incantesimi del mago, altrimenti perderà"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1305.0,
+   "x2": 541.0,
+   "y2": 1328.0,
+   "text": "chi non accetterebbe mai di servirli. La maggior parte"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1314.0,
+   "x2": 1104.0,
+   "y2": 1337.0,
+   "text": "un ammontare di ore di ricordi pari a 1 + il modificatore"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1326.0,
+   "x2": 532.0,
+   "y2": 1350.0,
+   "text": "degli ammaliatori, tuttavia, si trova a metà strada tra"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1337.0,
+   "x2": 1110.0,
+   "y2": 1365.0,
+   "text": "di Carisma del mago (fino a un minimo di 1). Il mago può"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1352.0,
+   "x2": 259.0,
+   "y2": 1376.0,
+   "text": "questi due estremi."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1363.0,
+   "x2": 1084.0,
+   "y2": 1387.0,
+   "text": "far dimenticare alla creatura un ammontare di tempo"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1394.0,
+   "x2": 366.0,
+   "y2": 1420.0,
+   "text": "AmmAlIatoRE SApIEntE"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1387.0,
+   "x2": 1115.0,
+   "y2": 1411.0,
+   "text": "inferiore, e l'ammontare in questione non può superare la"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1409.0,
+   "x2": 990.0,
+   "y2": 1432.0,
+   "text": "durata dell'incantesimo di ammaliamento."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1420.0,
+   "x2": 547.0,
+   "y2": 1445.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1442.0,
+   "x2": 541.0,
+   "y2": 1469.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1451.0,
+   "x2": 970.0,
+   "y2": 1480.0,
+   "text": "Scuola di Divinazione"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1465.0,
+   "x2": 550.0,
+   "y2": 1493.0,
+   "text": "copiare un incantesimo di ammaliamento nel suo libro"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1489.0,
+   "x2": 375.0,
+   "y2": 1517.0,
+   "text": "degli incantesimi sono dimezzati."
+  },
+  {
+   "x1": 637.0,
+   "y1": 1491.0,
+   "x2": 1088.0,
+   "y2": 1515.0,
+   "text": "Il consiglio di un divinatore è ambito sia dai re che dai"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1515.0,
+   "x2": 1101.0,
+   "y2": 1538.0,
+   "text": "semplici popolani, poiché tutti desiderano comprendere"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1527.0,
+   "x2": 309.0,
+   "y2": 1564.0,
+   "text": "Sguardo Ipnotico"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1537.0,
+   "x2": 1084.0,
+   "y2": 1562.0,
+   "text": "meglio il passato, il presente e il futuro. Un divinatore"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1560.0,
+   "x2": 545.0,
+   "y2": 1586.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1560.0,
+   "x2": 1075.0,
+   "y2": 1584.0,
+   "text": "si sforza di squarciare i veli dello spazio, del tempo e"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1582.0,
+   "x2": 543.0,
+   "y2": 1610.0,
+   "text": "livello, le sue parole suadenti e il suo sguardo ipnotico"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1584.0,
+   "x2": 1110.0,
+   "y2": 1608.0,
+   "text": "della coscienza per vedere nitidamente, specializzandosi"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1608.0,
+   "x2": 571.0,
+   "y2": 1632.0,
+   "text": "sono in grado di estasiare magicamente un'altra creatura."
+  },
+  {
+   "x1": 633.0,
+   "y1": 1606.0,
+   "x2": 1090.0,
+   "y2": 1633.0,
+   "text": "negli incantesimi di discernimento, visione a distanza,"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1628.0,
+   "x2": 567.0,
+   "y2": 1655.0,
+   "text": "Con un'azione, il mago sceglie una creatura situata entro"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1632.0,
+   "x2": 994.0,
+   "y2": 1655.0,
+   "text": "conoscenze soprannaturali e preveggenza."
+  },
+  {
+   "x1": 955.0,
+   "y1": 1692.0,
+   "x2": 1130.0,
+   "y2": 1716.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1199.0,
+   "y1": 1708.0,
+   "x2": 1215.0,
+   "y2": 1725.0,
+   "text": "8="
+  }
+ ],
+ "reading_text": "AbiurAZione MIgLioRatA\nA partire dal 10° livello, quando lancia un incantesimo di\nabiurazione che richiede una prova di caratteristica come\nparte del lancio dell'incantesimo stesso (come nel caso di\ncontroincantesimo o dissolvi magie), il mago può aggiungere\nil suo bonus di competenza a quella prova di caratteristica.\nResisTenza agli Incantesimi\nA partire dal 14° livello, il mago dispone di vantaggio ai tiri\nsalvezza contro incantesimi.\nDispone inoltre di resistenza ai danni degli incantesimi.\nScuola dI AmmaLIamento\nUn mago che aderisce alla Scuola di Ammaliamento ha\naffinato la capacità di circuire e ammaliare magicamente\nle altre creature e i mostri, Alcuni ammaliatori sono dei\npacificatori, che stregano i violenti per indurli ad abbassare\nle armi e affascinano i crudeli per convincerli a mostrare\npietà. Altri sono dei tiranni che sottomettono magicamente\nchi non accetterebbe mai di servirli. La maggior parte\ndegli ammaliatori, tuttavia, si trova a metà strada tra\nquesti due estremi.\nAmmAlIatoRE SApIEntE\nA partire da quando il mago sceglie questa scuola al 2\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di ammaliamento nel suo libro\ndegli incantesimi sono dimezzati.\nSguardo Ipnotico\nA partire da quando il mago sceglie questa scuola al 2\nlivello, le sue parole suadenti e il suo sguardo ipnotico\nsono in grado di estasiare magicamente un'altra creatura.\nCon un'azione, il mago sceglie una creatura situata entro\n1,5 metri e che egli sia in grado di vedere. Se il bersaglio\nè in grado di vedere e sentire il mago, deve superare un\ntiro salvezza su Saggezza contro la CD degli incantesimi\ndel mago, altrimenti sarà affascinata dal mago fino alla\nfine del turno successivo di quest'ultimo. La velocità della\ncreatura affascinata scende a 0 e la creatura è incapacitata\ne visibilmente frastornata.\nNei turni successivi il mago può usare la sua azione per\nmantenere questo effetto, estendendone la durata fino alla\nfine del suo turno successivo.Tuttavia, l'effetto termina se\nil mago si allontana a più di 1,5 metri dalla creatura, se la\ncreatura non è più in grado di vederlo o di sentirio o se la\ncreatura subisce danni.\nUna volta terminato l'effetto, o se la creatura ha superato\nil suo tiro salvezza iniziale contro questo effetto, il mago\nnon può più utilizzare questo privilegio su quella stessa\ncreatura finché non completa un riposo lungo.\nFascino Istintivo\nA partire dal 6° livello, quando una creatura situata entro\n9 metri dal mago e che egli sia in grado di vedere effettua\nun tiro per colpire contro di lui, il mago può usare la sua\nreazione per deviare l'attacco, purché un'altra creatura si\ntrovi entro la gittata dell'attacco. L'attaccante deve effettuare\nun tiro salvezza su Saggezza contro la CD degli incantesimi\ndel mago. Se lo fallisce, l'attaccante deve bersagliare la\ncreatura a esso più vicina (escludendo il mago e se stesso)\nSe più creature sono egualmente distanti, l'attaccante\nsceglie quale bersagliare. Se la creatura supera il tiro\nsalvezza, il mago non può più utilizzare questo privilegio\ncontro l'attaccante finché non completa un riposo lungo.\nIl mago deve scegliere se utilizzare questo privilegio\nprima di sapere se l'attacco colpirà o mancherà. Le\ncreature che non possono essere affascinate sono immuni\na questo effetto.\nAmmaliamentO COndivisO\nA partire dal 10° livello, quando il mago lancia un\nincantesimo di ammaliamento di livello pari o superiore\nal 1° che bersagli una sola creatura, può fare in modo che\nbersagli anche una seconda creatura.\nAlterare Ricordi\nAl 14° livello, il mago ottiene la capacità di far dimenticare\na una creatura di avere subito la sua influenza magica.\nQuando il mago lancia un incantesimo di ammaliamento\nper affascinare una o più creature, può alterare la\npercezione di una creatura in modo che resti inconsapevole\ndi essere stata affascinata.\nInoltre, prima che l'incantesimo termini, il mago può\nusare una volta la sua azione per tentare di far dimenticare\nalla creatura parte del tempo in cui è rimasta affascinata.\nLa creatura deve superare un tiro salvezza su Intelligenza\ncontro la CD degli incantesimi del mago, altrimenti perderà\nun ammontare di ore di ricordi pari a 1 + il modificatore\ndi Carisma del mago (fino a un minimo di 1). Il mago può\nfar dimenticare alla creatura un ammontare di tempo\ninferiore, e l'ammontare in questione non può superare la\ndurata dell'incantesimo di ammaliamento.\nScuola di Divinazione\nIl consiglio di un divinatore è ambito sia dai re che dai\nsemplici popolani, poiché tutti desiderano comprendere\nmeglio il passato, il presente e il futuro. Un divinatore\nsi sforza di squarciare i veli dello spazio, del tempo e\ndella coscienza per vedere nitidamente, specializzandosi\nnegli incantesimi di discernimento, visione a distanza,\nconoscenze soprannaturali e preveggenza.\nCAPITOLO 3 |CLASSI\n8="
+}

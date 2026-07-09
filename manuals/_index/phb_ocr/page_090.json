@@ -1,0 +1,829 @@
+{
+ "pdf_page_index": 90,
+ "page_label": 91,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 117,
+ "lines": [
+  {
+   "x1": 644.0,
+   "y1": 84.0,
+   "x2": 842.0,
+   "y2": 112.0,
+   "text": "Difesa Paziente"
+  },
+  {
+   "x1": 646.0,
+   "y1": 113.0,
+   "x2": 1149.0,
+   "y2": 139.0,
+   "text": "Un monaco può spendere 1 punto ki per effettuare l'azione"
+  },
+  {
+   "x1": 101.0,
+   "y1": 129.0,
+   "x2": 209.0,
+   "y2": 163.0,
+   "text": "esploratore"
+  },
+  {
+   "x1": 644.0,
+   "y1": 133.0,
+   "x2": 1034.0,
+   "y2": 161.0,
+   "text": "di Schivata come azione bonus nel suo turno."
+  },
+  {
+   "x1": 99.0,
+   "y1": 153.0,
+   "x2": 187.0,
+   "y2": 183.0,
+   "text": "10 dardi"
+  },
+  {
+   "x1": 92.0,
+   "y1": 168.0,
+   "x2": 105.0,
+   "y2": 181.0,
+   "text": "."
+  },
+  {
+   "x1": 644.0,
+   "y1": 175.0,
+   "x2": 844.0,
+   "y2": 203.0,
+   "text": "PASSo del VEnto"
+  },
+  {
+   "x1": 83.0,
+   "y1": 190.0,
+   "x2": 451.0,
+   "y2": 232.0,
+   "text": "Difesa Senza Armatura"
+  },
+  {
+   "x1": 646.0,
+   "y1": 203.0,
+   "x2": 1147.0,
+   "y2": 228.0,
+   "text": "Un monaco può spendere 1 punto ki per effettuare l'azione"
+  },
+  {
+   "x1": 645.0,
+   "y1": 227.0,
+   "x2": 1139.0,
+   "y2": 252.0,
+   "text": "di Disimpegno o Scatto come azione bonus nel suo turno;"
+  },
+  {
+   "x1": 643.0,
+   "y1": 247.0,
+   "x2": 1132.0,
+   "y2": 274.0,
+   "text": "inoltre, la sua distanza di salto raddoppia per quel turno."
+  },
+  {
+   "x1": 646.0,
+   "y1": 291.0,
+   "x2": 849.0,
+   "y2": 316.0,
+   "text": "Raffica di Colpi"
+  },
+  {
+   "x1": 81.0,
+   "y1": 296.0,
+   "x2": 316.0,
+   "y2": 335.0,
+   "text": "modificatore di Saggezza."
+  },
+  {
+   "x1": 645.0,
+   "y1": 314.0,
+   "x2": 1112.0,
+   "y2": 338.0,
+   "text": "Subito dopo avere effettuato l'azione di Attacco nel suo"
+  },
+  {
+   "x1": 86.0,
+   "y1": 340.0,
+   "x2": 307.0,
+   "y2": 377.0,
+   "text": "Arti Marziali"
+  },
+  {
+   "x1": 646.0,
+   "y1": 340.0,
+   "x2": 1141.0,
+   "y2": 365.0,
+   "text": "turno, il monaco può spendere 1 punto ki per sferrare due"
+  },
+  {
+   "x1": 646.0,
+   "y1": 365.0,
+   "x2": 951.0,
+   "y2": 384.0,
+   "text": "colpi senz'armi come azione bonus."
+  },
+  {
+   "x1": 87.0,
+   "y1": 406.0,
+   "x2": 593.0,
+   "y2": 429.0,
+   "text": "monaco padroneggia uno stile di combattimento che fa uso"
+  },
+  {
+   "x1": 646.0,
+   "y1": 402.0,
+   "x2": 1082.0,
+   "y2": 433.0,
+   "text": "Movimento Senza Armatura"
+  },
+  {
+   "x1": 85.0,
+   "y1": 424.0,
+   "x2": 598.0,
+   "y2": 451.0,
+   "text": "di colpi senz'armi e armi da monaco, vale a dire spade corte"
+  },
+  {
+   "x1": 85.0,
+   "y1": 448.0,
+   "x2": 584.0,
+   "y2": 475.0,
+   "text": "e qualsiasi arma da mischia semplice che non possieda la"
+  },
+  {
+   "x1": 646.0,
+   "y1": 442.0,
+   "x2": 1130.0,
+   "y2": 466.0,
+   "text": "A partire dal 2° livello, la velocità di un monaco aumenta"
+  },
+  {
+   "x1": 643.0,
+   "y1": 462.0,
+   "x2": 1149.0,
+   "y2": 490.0,
+   "text": "di 3 metri finché il monaco non indossa alcuna armatura e"
+  },
+  {
+   "x1": 87.0,
+   "y1": 473.0,
+   "x2": 462.0,
+   "y2": 497.0,
+   "text": "proprietà a due mani o la proprietà pesante."
+  },
+  {
+   "x1": 103.0,
+   "y1": 493.0,
+   "x2": 585.0,
+   "y2": 517.0,
+   "text": "Un monaco ottiene i benefici seguenti finché è senz'armi"
+  },
+  {
+   "x1": 645.0,
+   "y1": 488.0,
+   "x2": 1156.0,
+   "y2": 512.0,
+   "text": "non impugna uno scudo. Questo bonus aumenta man mano"
+  },
+  {
+   "x1": 85.0,
+   "y1": 515.0,
+   "x2": 578.0,
+   "y2": 543.0,
+   "text": "o impugna soltanto armi da monaco e finché non indossa"
+  },
+  {
+   "x1": 646.0,
+   "y1": 510.0,
+   "x2": 1145.0,
+   "y2": 534.0,
+   "text": "che il personaggio acquisisce altri livelli da monaco, come"
+  },
+  {
+   "x1": 87.0,
+   "y1": 541.0,
+   "x2": 462.0,
+   "y2": 565.0,
+   "text": "alcuna armatura e non impugna uno scudo;"
+  },
+  {
+   "x1": 646.0,
+   "y1": 535.0,
+   "x2": 920.0,
+   "y2": 554.0,
+   "text": "indicato nella tabella \"Monaco\"."
+  },
+  {
+   "x1": 659.0,
+   "y1": 554.0,
+   "x2": 1132.0,
+   "y2": 577.0,
+   "text": "Al 9* livello, un monaco ottiene la capacità di muoversi"
+  },
+  {
+   "x1": 86.0,
+   "y1": 573.0,
+   "x2": 110.0,
+   "y2": 593.0,
+   "text": "."
+  },
+  {
+   "x1": 102.0,
+   "y1": 572.0,
+   "x2": 585.0,
+   "y2": 596.0,
+   "text": "Un monaco può usare Destrezza anziché Forza per i tiri"
+  },
+  {
+   "x1": 645.0,
+   "y1": 577.0,
+   "x2": 1143.0,
+   "y2": 601.0,
+   "text": "lungo le superfici verticali e sulle superfici liquide durante"
+  },
+  {
+   "x1": 105.0,
+   "y1": 594.0,
+   "x2": 572.0,
+   "y2": 618.0,
+   "text": "per colpire e i tiri per i danni dei suoi colpi senz'armi e"
+  },
+  {
+   "x1": 645.0,
+   "y1": 601.0,
+   "x2": 1054.0,
+   "y2": 625.0,
+   "text": "il suo turno senza cadere durante il movimento."
+  },
+  {
+   "x1": 101.0,
+   "y1": 616.0,
+   "x2": 334.0,
+   "y2": 641.0,
+   "text": "delle sue armi da monaco."
+  },
+  {
+   "x1": 103.0,
+   "y1": 639.0,
+   "x2": 576.0,
+   "y2": 663.0,
+   "text": "Un monaco può tirare un d4 al posto dei normali danni"
+  },
+  {
+   "x1": 646.0,
+   "y1": 639.0,
+   "x2": 990.0,
+   "y2": 672.0,
+   "text": "TRadiZionE MoNAStica"
+  },
+  {
+   "x1": 103.0,
+   "y1": 663.0,
+   "x2": 556.0,
+   "y2": 687.0,
+   "text": "del suo colpo senz'armi o della sua arma da monaco."
+  },
+  {
+   "x1": 105.0,
+   "y1": 687.0,
+   "x2": 541.0,
+   "y2": 711.0,
+   "text": "Questo dado cambia man mano che il personaggio"
+  },
+  {
+   "x1": 644.0,
+   "y1": 678.0,
+   "x2": 1073.0,
+   "y2": 705.0,
+   "text": "Quando arriva al 3° livello, il monaco si vota a una"
+  },
+  {
+   "x1": 105.0,
+   "y1": 711.0,
+   "x2": 561.0,
+   "y2": 729.0,
+   "text": "acquisisce altri livelli da monaco, come indicato nella"
+  },
+  {
+   "x1": 643.0,
+   "y1": 703.0,
+   "x2": 1106.0,
+   "y2": 727.0,
+   "text": "tradizione monastica: la Via della Mano Aperta, la Via"
+  },
+  {
+   "x1": 102.0,
+   "y1": 729.0,
+   "x2": 504.0,
+   "y2": 755.0,
+   "text": "colonna \"Arti Marziali\" nella tabella \"Monaco\"."
+  },
+  {
+   "x1": 645.0,
+   "y1": 725.0,
+   "x2": 1125.0,
+   "y2": 749.0,
+   "text": "dell'Ombra o la Via dei Quattro Elementi, tutte descritte"
+  },
+  {
+   "x1": 103.0,
+   "y1": 753.0,
+   "x2": 584.0,
+   "y2": 777.0,
+   "text": "Quando un monaco usa l'azione di Attacco con un colpo"
+  },
+  {
+   "x1": 645.0,
+   "y1": 749.0,
+   "x2": 1151.0,
+   "y2": 773.0,
+   "text": "alla fine della sezione di questa classe. La tradizione scelta"
+  },
+  {
+   "x1": 102.0,
+   "y1": 777.0,
+   "x2": 541.0,
+   "y2": 800.0,
+   "text": "senz'armi o un'arma da monaco nel suo turno, può"
+  },
+  {
+   "x1": 645.0,
+   "y1": 771.0,
+   "x2": 1130.0,
+   "y2": 795.0,
+   "text": "conferisce al monaco alcuni privilegi al 3°livello e poi di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 798.0,
+   "x2": 565.0,
+   "y2": 822.0,
+   "text": "effettuare un colpo senz'armi come azione bonus. Per"
+  },
+  {
+   "x1": 643.0,
+   "y1": 793.0,
+   "x2": 883.0,
+   "y2": 819.0,
+   "text": "nuovo al 6°, 11° e 17° livello."
+  },
+  {
+   "x1": 103.0,
+   "y1": 820.0,
+   "x2": 585.0,
+   "y2": 844.0,
+   "text": "esempio, se il monaco effettua l'azione di Attacco con un"
+  },
+  {
+   "x1": 103.0,
+   "y1": 842.0,
+   "x2": 585.0,
+   "y2": 866.0,
+   "text": "bastone ferrato, può anche effettuare un colpo senz'armi"
+  },
+  {
+   "x1": 648.0,
+   "y1": 837.0,
+   "x2": 934.0,
+   "y2": 862.0,
+   "text": "DEviArE ProiETTIlI"
+  },
+  {
+   "x1": 103.0,
+   "y1": 866.0,
+   "x2": 541.0,
+   "y2": 890.0,
+   "text": "come azione bonus, presumendo che non abbia già"
+  },
+  {
+   "x1": 641.0,
+   "y1": 871.0,
+   "x2": 1080.0,
+   "y2": 899.0,
+   "text": "A partire dal 3° livello, un monaco può usare la sua"
+  },
+  {
+   "x1": 100.0,
+   "y1": 886.0,
+   "x2": 447.0,
+   "y2": 912.0,
+   "text": "effettuato un'azione bonus in quel turno."
+  },
+  {
+   "x1": 643.0,
+   "y1": 897.0,
+   "x2": 1145.0,
+   "y2": 921.0,
+   "text": "reazione per deviare o afferrare un proiettile quando viene"
+  },
+  {
+   "x1": 103.0,
+   "y1": 921.0,
+   "x2": 591.0,
+   "y2": 945.0,
+   "text": "Alcuni monasteri utilizzano armi da monaco dalla forma"
+  },
+  {
+   "x1": 641.0,
+   "y1": 917.0,
+   "x2": 1134.0,
+   "y2": 945.0,
+   "text": "colpito dall'attacco con un'arma a distanza. Quando lo fa,"
+  },
+  {
+   "x1": 87.0,
+   "y1": 945.0,
+   "x2": 541.0,
+   "y2": 968.0,
+   "text": "particolare. Per esempio, un monaco potrebbe usare"
+  },
+  {
+   "x1": 643.0,
+   "y1": 941.0,
+   "x2": 1134.0,
+   "y2": 965.0,
+   "text": "il danno che subisce dall'attacco è ridotto di 1d10 + il suo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 965.0,
+   "x2": 547.0,
+   "y2": 988.0,
+   "text": "un randello composto da due sbarre di legno collegate"
+  },
+  {
+   "x1": 643.0,
+   "y1": 965.0,
+   "x2": 1093.0,
+   "y2": 988.0,
+   "text": "modificatore di Destrezza + il suo livello da monaco."
+  },
+  {
+   "x1": 87.0,
+   "y1": 987.0,
+   "x2": 552.0,
+   "y2": 1010.0,
+   "text": "da una breve catena (chiamato nunchaku) o un falcetto"
+  },
+  {
+   "x1": 659.0,
+   "y1": 985.0,
+   "x2": 1154.0,
+   "y2": 1012.0,
+   "text": "Se il monaco riduce i danni a O, può afferrare il proiettile,"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1010.0,
+   "x2": 565.0,
+   "y2": 1034.0,
+   "text": "con una lama più corta e meno ricurva (chiamato kama)"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1010.0,
+   "x2": 1125.0,
+   "y2": 1034.0,
+   "text": "se quest'ultimo è abbastanza piccolo da essere tenuto in"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1038.0,
+   "x2": 567.0,
+   "y2": 1056.0,
+   "text": "A prescindere dal nome usato per un'arma da monaco, il"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1030.0,
+   "x2": 1110.0,
+   "y2": 1054.0,
+   "text": "mano e se il monaco ha almeno una mano libera. Se il"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1062.0,
+   "x2": 574.0,
+   "y2": 1080.0,
+   "text": "monaco può usare le statistiche di gioco fornite dall'arma"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1056.0,
+   "x2": 1147.0,
+   "y2": 1080.0,
+   "text": "monaco afferra un proiettile in questo modo, può spendere"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1080.0,
+   "x2": 380.0,
+   "y2": 1104.0,
+   "text": "nel capitolo 5, \"Equipaggiamento\"."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1078.0,
+   "x2": 1134.0,
+   "y2": 1102.0,
+   "text": "1 punto ki per effettuare un attacco a distanza con l'arma"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1102.0,
+   "x2": 1119.0,
+   "y2": 1125.0,
+   "text": "o con la munizione che ha appena afferrato, come parte"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1116.0,
+   "x2": 133.0,
+   "y2": 1153.0,
+   "text": "Ki"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1124.0,
+   "x2": 1117.0,
+   "y2": 1147.0,
+   "text": "della stessa reazione. Il monaco effettua questo attacco"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1147.0,
+   "x2": 1147.0,
+   "y2": 1171.0,
+   "text": "con competenza, a prescindere dalle sue competenze nelle"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1158.0,
+   "x2": 567.0,
+   "y2": 1186.0,
+   "text": "A partire dal 2° livello, il monaco è in grado di imbrigliare"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1169.0,
+   "x2": 1151.0,
+   "y2": 1193.0,
+   "text": "armi, e il proiettile è considerato un'arma da monaco ai fini"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1180.0,
+   "x2": 573.0,
+   "y2": 1210.0,
+   "text": "l'energia mistica del ki grazie al suo addestramento. Il suo"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1193.0,
+   "x2": 1145.0,
+   "y2": 1217.0,
+   "text": "di questo attacco, con una gittata normale di 6 metri e una"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1208.0,
+   "x2": 534.0,
+   "y2": 1231.0,
+   "text": "accesso a questa energia è rappresentato da un certo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1213.0,
+   "x2": 859.0,
+   "y2": 1241.0,
+   "text": "gittata lunga di 18 metri."
+  },
+  {
+   "x1": 83.0,
+   "y1": 1228.0,
+   "x2": 591.0,
+   "y2": 1255.0,
+   "text": "numero di punti ki, determinato dal livello da monaco, come"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1252.0,
+   "x2": 558.0,
+   "y2": 1275.0,
+   "text": "indicato nella colonna \"Punti Ki\" nella tabella \"Monaco\"."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1261.0,
+   "x2": 990.0,
+   "y2": 1286.0,
+   "text": "AUMento dEI PuntEGgi"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1275.0,
+   "x2": 574.0,
+   "y2": 1301.0,
+   "text": "Un monaco può spendere questi punti per alimentare i"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1299.0,
+   "x2": 578.0,
+   "y2": 1323.0,
+   "text": "vari privilegi del ki. Inizialmente il monaco conosce tre di"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1290.0,
+   "x2": 920.0,
+   "y2": 1323.0,
+   "text": "DI CARATTERISTICA"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1323.0,
+   "x2": 582.0,
+   "y2": 1347.0,
+   "text": "questi privilegi: Difesa Paziente, Passo del Vento e Raffica"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1339.0,
+   "x2": 563.0,
+   "y2": 1369.0,
+   "text": "di Colpi. Apprenderà altri privilegi del ki man mano che"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1330.0,
+   "x2": 1132.0,
+   "y2": 1354.0,
+   "text": "Quando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1350.0,
+   "x2": 1141.0,
+   "y2": 1378.0,
+   "text": "19° livello, un monaco può aumentare di 2 un punteggio di"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1363.0,
+   "x2": 403.0,
+   "y2": 1391.0,
+   "text": "acquisirà altri livelli in questa classe."
+  },
+  {
+   "x1": 643.0,
+   "y1": 1378.0,
+   "x2": 1141.0,
+   "y2": 1401.0,
+   "text": "caratteristica a sua scelta, oppure può aumentare di 1 due"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1390.0,
+   "x2": 567.0,
+   "y2": 1414.0,
+   "text": "Quando il monaco spende un punto ki, quel punto non"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1398.0,
+   "x2": 1134.0,
+   "y2": 1425.0,
+   "text": "punteggi di caratteristica a sua scelta. Come di consueto,"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1412.0,
+   "x2": 580.0,
+   "y2": 1436.0,
+   "text": "è più disponibile finché il monaco non completa un riposo"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1429.0,
+   "x2": 560.0,
+   "y2": 1464.0,
+   "text": "breve o lungo, alla fine del quale il monaco riassorbe in"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1423.0,
+   "x2": 1154.0,
+   "y2": 1447.0,
+   "text": "non è consentito aumentare un punteggio di caratteristica a"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1451.0,
+   "x2": 571.0,
+   "y2": 1487.0,
+   "text": "sé tutto il ki che aveva speso. Il monaco deve trascorrere"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1445.0,
+   "x2": 970.0,
+   "y2": 1471.0,
+   "text": "più di 20 utilizzando questo privilegio."
+  },
+  {
+   "x1": 81.0,
+   "y1": 1472.0,
+   "x2": 551.0,
+   "y2": 1511.0,
+   "text": "almeno 30 minuti in meditazione durante il riposo per"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1483.0,
+   "x2": 863.0,
+   "y2": 1520.0,
+   "text": "Caduta Lenta"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1496.0,
+   "x2": 307.0,
+   "y2": 1533.0,
+   "text": "recuperare i suoi punti ki."
+  },
+  {
+   "x1": 98.0,
+   "y1": 1524.0,
+   "x2": 587.0,
+   "y2": 1551.0,
+   "text": "Alcuni privilegi del ki di un monaco richiedono al bersaglio"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1526.0,
+   "x2": 1078.0,
+   "y2": 1551.0,
+   "text": "A partire dal 4º livello, un monaco può usare la sua"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1551.0,
+   "x2": 1091.0,
+   "y2": 1575.0,
+   "text": "reazione quando cade per ridurre gli eventuali danni"
+  },
+  {
+   "x1": 79.0,
+   "y1": 1564.0,
+   "x2": 495.0,
+   "y2": 1603.0,
+   "text": "del tiro salvezza viene defnita nel modo seguente:"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1571.0,
+   "x2": 1093.0,
+   "y2": 1599.0,
+   "text": "da caduta di un ammontare pari a cinque volte il suo"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1597.0,
+   "x2": 801.0,
+   "y2": 1621.0,
+   "text": "livello da monaco."
+  },
+  {
+   "x1": 113.0,
+   "y1": 1608.0,
+   "x2": 561.0,
+   "y2": 1635.0,
+   "text": "CD del tiro salvezza del Ki - 8 + il bonus di competenza"
+  },
+  {
+   "x1": 144.0,
+   "y1": 1635.0,
+   "x2": 528.0,
+   "y2": 1663.0,
+   "text": "del monaco + il bonus di Saggezza del monaco"
+  },
+  {
+   "x1": 971.0,
+   "y1": 1685.0,
+   "x2": 1152.0,
+   "y2": 1703.0,
+   "text": "CAPITOLO 3 CLASSI"
+  },
+  {
+   "x1": 1224.0,
+   "y1": 1701.0,
+   "x2": 1234.0,
+   "y2": 1712.0,
+   "text": "0"
+  }
+ ],
+ "reading_text": "esploratore\n10 dardi\n.\nDifesa Senza Armatura\nmodificatore di Saggezza.\nArti Marziali\nmonaco padroneggia uno stile di combattimento che fa uso\ndi colpi senz'armi e armi da monaco, vale a dire spade corte\ne qualsiasi arma da mischia semplice che non possieda la\nproprietà a due mani o la proprietà pesante.\nUn monaco ottiene i benefici seguenti finché è senz'armi\no impugna soltanto armi da monaco e finché non indossa\nalcuna armatura e non impugna uno scudo;\nUn monaco può usare Destrezza anziché Forza per i tiri\n.\nper colpire e i tiri per i danni dei suoi colpi senz'armi e\ndelle sue armi da monaco.\nUn monaco può tirare un d4 al posto dei normali danni\ndel suo colpo senz'armi o della sua arma da monaco.\nQuesto dado cambia man mano che il personaggio\nacquisisce altri livelli da monaco, come indicato nella\ncolonna \"Arti Marziali\" nella tabella \"Monaco\".\nQuando un monaco usa l'azione di Attacco con un colpo\nsenz'armi o un'arma da monaco nel suo turno, può\neffettuare un colpo senz'armi come azione bonus. Per\nesempio, se il monaco effettua l'azione di Attacco con un\nbastone ferrato, può anche effettuare un colpo senz'armi\ncome azione bonus, presumendo che non abbia già\neffettuato un'azione bonus in quel turno.\nAlcuni monasteri utilizzano armi da monaco dalla forma\nparticolare. Per esempio, un monaco potrebbe usare\nun randello composto da due sbarre di legno collegate\nda una breve catena (chiamato nunchaku) o un falcetto\ncon una lama più corta e meno ricurva (chiamato kama)\nA prescindere dal nome usato per un'arma da monaco, il\nmonaco può usare le statistiche di gioco fornite dall'arma\nnel capitolo 5, \"Equipaggiamento\".\nKi\nA partire dal 2° livello, il monaco è in grado di imbrigliare\nl'energia mistica del ki grazie al suo addestramento. Il suo\naccesso a questa energia è rappresentato da un certo\nnumero di punti ki, determinato dal livello da monaco, come\nindicato nella colonna \"Punti Ki\" nella tabella \"Monaco\".\nUn monaco può spendere questi punti per alimentare i\nvari privilegi del ki. Inizialmente il monaco conosce tre di\nquesti privilegi: Difesa Paziente, Passo del Vento e Raffica\ndi Colpi. Apprenderà altri privilegi del ki man mano che\nacquisirà altri livelli in questa classe.\nQuando il monaco spende un punto ki, quel punto non\nè più disponibile finché il monaco non completa un riposo\nbreve o lungo, alla fine del quale il monaco riassorbe in\nsé tutto il ki che aveva speso. Il monaco deve trascorrere\nalmeno 30 minuti in meditazione durante il riposo per\nrecuperare i suoi punti ki.\nAlcuni privilegi del ki di un monaco richiedono al bersaglio\ndel tiro salvezza viene defnita nel modo seguente:\nCD del tiro salvezza del Ki - 8 + il bonus di competenza\ndel monaco + il bonus di Saggezza del monaco\nDifesa Paziente\nUn monaco può spendere 1 punto ki per effettuare l'azione\ndi Schivata come azione bonus nel suo turno.\nPASSo del VEnto\nUn monaco può spendere 1 punto ki per effettuare l'azione\ndi Disimpegno o Scatto come azione bonus nel suo turno;\ninoltre, la sua distanza di salto raddoppia per quel turno.\nRaffica di Colpi\nSubito dopo avere effettuato l'azione di Attacco nel suo\nturno, il monaco può spendere 1 punto ki per sferrare due\ncolpi senz'armi come azione bonus.\nMovimento Senza Armatura\nA partire dal 2° livello, la velocità di un monaco aumenta\ndi 3 metri finché il monaco non indossa alcuna armatura e\nnon impugna uno scudo. Questo bonus aumenta man mano\nche il personaggio acquisisce altri livelli da monaco, come\nindicato nella tabella \"Monaco\".\nAl 9* livello, un monaco ottiene la capacità di muoversi\nlungo le superfici verticali e sulle superfici liquide durante\nil suo turno senza cadere durante il movimento.\nTRadiZionE MoNAStica\nQuando arriva al 3° livello, il monaco si vota a una\ntradizione monastica: la Via della Mano Aperta, la Via\ndell'Ombra o la Via dei Quattro Elementi, tutte descritte\nalla fine della sezione di questa classe. La tradizione scelta\nconferisce al monaco alcuni privilegi al 3°livello e poi di\nnuovo al 6°, 11° e 17° livello.\nDEviArE ProiETTIlI\nA partire dal 3° livello, un monaco può usare la sua\nreazione per deviare o afferrare un proiettile quando viene\ncolpito dall'attacco con un'arma a distanza. Quando lo fa,\nil danno che subisce dall'attacco è ridotto di 1d10 + il suo\nmodificatore di Destrezza + il suo livello da monaco.\nSe il monaco riduce i danni a O, può afferrare il proiettile,\nse quest'ultimo è abbastanza piccolo da essere tenuto in\nmano e se il monaco ha almeno una mano libera. Se il\nmonaco afferra un proiettile in questo modo, può spendere\n1 punto ki per effettuare un attacco a distanza con l'arma\no con la munizione che ha appena afferrato, come parte\ndella stessa reazione. Il monaco effettua questo attacco\ncon competenza, a prescindere dalle sue competenze nelle\narmi, e il proiettile è considerato un'arma da monaco ai fini\ndi questo attacco, con una gittata normale di 6 metri e una\ngittata lunga di 18 metri.\nAUMento dEI PuntEGgi\nDI CARATTERISTICA\nQuando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e\n19° livello, un monaco può aumentare di 2 un punteggio di\ncaratteristica a sua scelta, oppure può aumentare di 1 due\npunteggi di caratteristica a sua scelta. Come di consueto,\nnon è consentito aumentare un punteggio di caratteristica a\npiù di 20 utilizzando questo privilegio.\nCaduta Lenta\nA partire dal 4º livello, un monaco può usare la sua\nreazione quando cade per ridurre gli eventuali danni\nda caduta di un ammontare pari a cinque volte il suo\nlivello da monaco.\nCAPITOLO 3 CLASSI\n0"
+}

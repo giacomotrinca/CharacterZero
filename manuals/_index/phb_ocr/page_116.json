@@ -1,0 +1,857 @@
+{
+ "pdf_page_index": 116,
+ "page_label": 117,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 121,
+ "lines": [
+  {
+   "x1": 641.0,
+   "y1": 79.0,
+   "x2": 1062.0,
+   "y2": 106.0,
+   "text": "INCANTESIMI AMPLIaTI DELL'IMMoNDO"
+  },
+  {
+   "x1": 74.0,
+   "y1": 95.0,
+   "x2": 569.0,
+   "y2": 137.0,
+   "text": "spaventate dal warlock (a sceta di quest'ultimo) fino alla"
+  },
+  {
+   "x1": 683.0,
+   "y1": 113.0,
+   "x2": 742.0,
+   "y2": 139.0,
+   "text": "Livello"
+  },
+  {
+   "x1": 75.0,
+   "y1": 118.0,
+   "x2": 338.0,
+   "y2": 159.0,
+   "text": "fne del suo turno successivo."
+  },
+  {
+   "x1": 646.0,
+   "y1": 139.0,
+   "x2": 881.0,
+   "y2": 164.0,
+   "text": "dell'Incantesimo Incantesimi"
+  },
+  {
+   "x1": 96.0,
+   "y1": 148.0,
+   "x2": 582.0,
+   "y2": 175.0,
+   "text": "Una volta utilizzato questo privilegio, il warlock non può"
+  },
+  {
+   "x1": 76.0,
+   "y1": 170.0,
+   "x2": 589.0,
+   "y2": 205.0,
+   "text": "più utilizzarlo finché non completa un riposo breve o lungo."
+  },
+  {
+   "x1": 700.0,
+   "y1": 166.0,
+   "x2": 724.0,
+   "y2": 192.0,
+   "text": "1"
+  },
+  {
+   "x1": 785.0,
+   "y1": 168.0,
+   "x2": 977.0,
+   "y2": 194.0,
+   "text": "comando, mani brucianti"
+  },
+  {
+   "x1": 700.0,
+   "y1": 194.0,
+   "x2": 724.0,
+   "y2": 221.0,
+   "text": "2°"
+  },
+  {
+   "x1": 785.0,
+   "y1": 195.0,
+   "x2": 1005.0,
+   "y2": 221.0,
+   "text": "cecità/sordità, raggio rovente"
+  },
+  {
+   "x1": 77.0,
+   "y1": 213.0,
+   "x2": 233.0,
+   "y2": 247.0,
+   "text": "FuGa Velata"
+  },
+  {
+   "x1": 700.0,
+   "y1": 221.0,
+   "x2": 724.0,
+   "y2": 248.0,
+   "text": "3°"
+  },
+  {
+   "x1": 785.0,
+   "y1": 223.0,
+   "x2": 1040.0,
+   "y2": 248.0,
+   "text": "nube maleodorante, palla di fuoco"
+  },
+  {
+   "x1": 76.0,
+   "y1": 241.0,
+   "x2": 530.0,
+   "y2": 274.0,
+   "text": "A partire dal 6° livello, il warlock può svanire in uno"
+  },
+  {
+   "x1": 700.0,
+   "y1": 250.0,
+   "x2": 724.0,
+   "y2": 276.0,
+   "text": "4°"
+  },
+  {
+   "x1": 785.0,
+   "y1": 248.0,
+   "x2": 1005.0,
+   "y2": 272.0,
+   "text": "muro di fuoco, scudo di fuoco"
+  },
+  {
+   "x1": 76.0,
+   "y1": 269.0,
+   "x2": 573.0,
+   "y2": 296.0,
+   "text": "sbuffo di nebbia in risposta a un effetto dannoso. Quando"
+  },
+  {
+   "x1": 700.0,
+   "y1": 274.0,
+   "x2": 724.0,
+   "y2": 301.0,
+   "text": "5°"
+  },
+  {
+   "x1": 783.0,
+   "y1": 278.0,
+   "x2": 988.0,
+   "y2": 303.0,
+   "text": "colpo infuocato, santificare"
+  },
+  {
+   "x1": 78.0,
+   "y1": 291.0,
+   "x2": 550.0,
+   "y2": 316.0,
+   "text": "il warlock subisce danni, può usare la sua reazione per"
+  },
+  {
+   "x1": 79.0,
+   "y1": 314.0,
+   "x2": 548.0,
+   "y2": 338.0,
+   "text": "diventare invisibile e teletrasportarsi di un massimo di"
+  },
+  {
+   "x1": 79.0,
+   "y1": 338.0,
+   "x2": 536.0,
+   "y2": 365.0,
+   "text": "18 metri fino a uno spazio libero che egli sia in grado"
+  },
+  {
+   "x1": 643.0,
+   "y1": 331.0,
+   "x2": 951.0,
+   "y2": 354.0,
+   "text": "BENEDIZIONE DELL'OSCURO"
+  },
+  {
+   "x1": 78.0,
+   "y1": 362.0,
+   "x2": 556.0,
+   "y2": 389.0,
+   "text": "di vedere. Rimane invisibile fino all'inizio del suo turno"
+  },
+  {
+   "x1": 641.0,
+   "y1": 356.0,
+   "x2": 1147.0,
+   "y2": 380.0,
+   "text": "A partire dal 1° livello, quando il warlock porta una creatura"
+  },
+  {
+   "x1": 76.0,
+   "y1": 385.0,
+   "x2": 563.0,
+   "y2": 413.0,
+   "text": "successivo o finché non attacca o lancia un incantesimo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 380.0,
+   "x2": 1134.0,
+   "y2": 404.0,
+   "text": "ostile a 0 punti ferita, ottiene un ammontare di punti ferita"
+  },
+  {
+   "x1": 96.0,
+   "y1": 411.0,
+   "x2": 572.0,
+   "y2": 435.0,
+   "text": "Una volta utilizzato questo privilegio, il warlock non può"
+  },
+  {
+   "x1": 643.0,
+   "y1": 404.0,
+   "x2": 1108.0,
+   "y2": 428.0,
+   "text": "temporanei pari al proprio modificatore di Carisma + il"
+  },
+  {
+   "x1": 79.0,
+   "y1": 435.0,
+   "x2": 580.0,
+   "y2": 460.0,
+   "text": "più utilizzarlo finché non completa un riposo breve o lungo."
+  },
+  {
+   "x1": 641.0,
+   "y1": 426.0,
+   "x2": 1056.0,
+   "y2": 453.0,
+   "text": "proprio livello da warlock (fino a un minimo di 1)."
+  },
+  {
+   "x1": 641.0,
+   "y1": 468.0,
+   "x2": 905.0,
+   "y2": 495.0,
+   "text": "Fortuna DeLL'OScuro"
+  },
+  {
+   "x1": 81.0,
+   "y1": 479.0,
+   "x2": 292.0,
+   "y2": 502.0,
+   "text": "Difese Seducenti"
+  },
+  {
+   "x1": 641.0,
+   "y1": 495.0,
+   "x2": 1108.0,
+   "y2": 521.0,
+   "text": "A partire dal 6° livello, il warlock può appellarsi al suo"
+  },
+  {
+   "x1": 79.0,
+   "y1": 506.0,
+   "x2": 589.0,
+   "y2": 530.0,
+   "text": "A partire dal 10\" livello, il patrono insegna al warlock come"
+  },
+  {
+   "x1": 79.0,
+   "y1": 530.0,
+   "x2": 548.0,
+   "y2": 554.0,
+   "text": "ritorcere le magie di influenza mentale dei suoi nemici"
+  },
+  {
+   "x1": 643.0,
+   "y1": 523.0,
+   "x2": 1134.0,
+   "y2": 546.0,
+   "text": "patrono per alterare il fato in suo favore. Quando effettua"
+  },
+  {
+   "x1": 78.0,
+   "y1": 554.0,
+   "x2": 574.0,
+   "y2": 577.0,
+   "text": "contro loro stessi. Il warlock non può essere affascinato e"
+  },
+  {
+   "x1": 643.0,
+   "y1": 546.0,
+   "x2": 1154.0,
+   "y2": 570.0,
+   "text": "una prova di caratteristica o un tiro salvezza, può utilizzare"
+  },
+  {
+   "x1": 79.0,
+   "y1": 577.0,
+   "x2": 565.0,
+   "y2": 601.0,
+   "text": "quando un'altra creatura tenta di affascinarlo, il warlock"
+  },
+  {
+   "x1": 643.0,
+   "y1": 570.0,
+   "x2": 1123.0,
+   "y2": 594.0,
+   "text": "questo privilegio per aggiungere un d10 al suo tiro. Può"
+  },
+  {
+   "x1": 76.0,
+   "y1": 597.0,
+   "x2": 543.0,
+   "y2": 625.0,
+   "text": "può usare la sua reazione per ritorcere l'effetto contro"
+  },
+  {
+   "x1": 643.0,
+   "y1": 594.0,
+   "x2": 1158.0,
+   "y2": 618.0,
+   "text": "farlo dopo avere visto il tiro iniziale, ma prima che qualsiasi"
+  },
+  {
+   "x1": 78.0,
+   "y1": 625.0,
+   "x2": 587.0,
+   "y2": 649.0,
+   "text": "quella creatura. La creatura deve superare un tiro salvezza"
+  },
+  {
+   "x1": 643.0,
+   "y1": 618.0,
+   "x2": 885.0,
+   "y2": 641.0,
+   "text": "effetto del tiro sia applicato."
+  },
+  {
+   "x1": 76.0,
+   "y1": 647.0,
+   "x2": 561.0,
+   "y2": 671.0,
+   "text": "su Saggezza contro la CD degli incantesimi del warlock,"
+  },
+  {
+   "x1": 659.0,
+   "y1": 639.0,
+   "x2": 1147.0,
+   "y2": 663.0,
+   "text": "Una volta utilizzato questo privilegio, il warlock non può"
+  },
+  {
+   "x1": 641.0,
+   "y1": 661.0,
+   "x2": 1151.0,
+   "y2": 689.0,
+   "text": "più utilizzarlo finché non completa un riposo breve o lungo."
+  },
+  {
+   "x1": 76.0,
+   "y1": 669.0,
+   "x2": 545.0,
+   "y2": 696.0,
+   "text": "altrimenti sarà affascinata dal warlock per 1 minuto o"
+  },
+  {
+   "x1": 78.0,
+   "y1": 696.0,
+   "x2": 301.0,
+   "y2": 720.0,
+   "text": "finché non subisce danni."
+  },
+  {
+   "x1": 643.0,
+   "y1": 709.0,
+   "x2": 890.0,
+   "y2": 733.0,
+   "text": "Resilienza Immonda"
+  },
+  {
+   "x1": 79.0,
+   "y1": 738.0,
+   "x2": 275.0,
+   "y2": 764.0,
+   "text": "Delirio Oscuro"
+  },
+  {
+   "x1": 641.0,
+   "y1": 733.0,
+   "x2": 1143.0,
+   "y2": 760.0,
+   "text": "A partire dal 10livello, il warlock può scegliere un tipo di"
+  },
+  {
+   "x1": 79.0,
+   "y1": 766.0,
+   "x2": 539.0,
+   "y2": 789.0,
+   "text": "A partire dal 14ª livello, il warlock può trascinare una"
+  },
+  {
+   "x1": 643.0,
+   "y1": 760.0,
+   "x2": 1134.0,
+   "y2": 784.0,
+   "text": "danno quando completa un riposo breve o lungo. Ottiene"
+  },
+  {
+   "x1": 76.0,
+   "y1": 787.0,
+   "x2": 565.0,
+   "y2": 815.0,
+   "text": "creatura in un reame illusorio. Con un'azione, il warlock"
+  },
+  {
+   "x1": 643.0,
+   "y1": 784.0,
+   "x2": 1095.0,
+   "y2": 808.0,
+   "text": "resistenza a quel tipo di danno finché non ne sceglie"
+  },
+  {
+   "x1": 79.0,
+   "y1": 817.0,
+   "x2": 584.0,
+   "y2": 835.0,
+   "text": "sceglie una creatura situata entro 18 metri da lui e che egli"
+  },
+  {
+   "x1": 641.0,
+   "y1": 808.0,
+   "x2": 1125.0,
+   "y2": 831.0,
+   "text": "uno diverso tramite questo privilegio. I danni delle armi"
+  },
+  {
+   "x1": 641.0,
+   "y1": 829.0,
+   "x2": 1152.0,
+   "y2": 853.0,
+   "text": "magiche o delle armi argentate ignorano questa resistenza."
+  },
+  {
+   "x1": 78.0,
+   "y1": 839.0,
+   "x2": 569.0,
+   "y2": 862.0,
+   "text": "sia in grado di vedere. Quella creatura deve effettuare un"
+  },
+  {
+   "x1": 79.0,
+   "y1": 864.0,
+   "x2": 567.0,
+   "y2": 882.0,
+   "text": "tiro salvezza su Saggezza contro la CD degli incantesimi"
+  },
+  {
+   "x1": 641.0,
+   "y1": 871.0,
+   "x2": 916.0,
+   "y2": 899.0,
+   "text": "SCAGLIARE ALL'INFERNO"
+  },
+  {
+   "x1": 78.0,
+   "y1": 884.0,
+   "x2": 582.0,
+   "y2": 908.0,
+   "text": "del warlock. Se lo fallisce, diventa affascinata o spaventata"
+  },
+  {
+   "x1": 78.0,
+   "y1": 908.0,
+   "x2": 582.0,
+   "y2": 932.0,
+   "text": "dal warlock (a scelta di quest'ultimo) per 1 minuto o finché"
+  },
+  {
+   "x1": 639.0,
+   "y1": 899.0,
+   "x2": 1154.0,
+   "y2": 926.0,
+   "text": "A partire dal 14° livello, quando il warlock colpisce una creatura"
+  },
+  {
+   "x1": 78.0,
+   "y1": 932.0,
+   "x2": 576.0,
+   "y2": 956.0,
+   "text": "la concentrazione del warlock non si interrompe (come se"
+  },
+  {
+   "x1": 641.0,
+   "y1": 926.0,
+   "x2": 1138.0,
+   "y2": 950.0,
+   "text": "con un attacco, può utilizzare questo privilegio per trascinare"
+  },
+  {
+   "x1": 78.0,
+   "y1": 956.0,
+   "x2": 574.0,
+   "y2": 979.0,
+   "text": "si stesse concentrando su un incantesimo). Questo effetto"
+  },
+  {
+   "x1": 639.0,
+   "y1": 948.0,
+   "x2": 1117.0,
+   "y2": 972.0,
+   "text": "istantaneamente il bersaglio sui piani inferiori. La creatura"
+  },
+  {
+   "x1": 78.0,
+   "y1": 979.0,
+   "x2": 543.0,
+   "y2": 1003.0,
+   "text": "termina anticipatamente se la creatura subisce danni."
+  },
+  {
+   "x1": 641.0,
+   "y1": 974.0,
+   "x2": 1082.0,
+   "y2": 998.0,
+   "text": "scompare e sfreccia attraverso un territorio da incubo."
+  },
+  {
+   "x1": 96.0,
+   "y1": 1001.0,
+   "x2": 563.0,
+   "y2": 1025.0,
+   "text": "Finché quesfa illusione non termina, la creatura crede"
+  },
+  {
+   "x1": 654.0,
+   "y1": 994.0,
+   "x2": 1127.0,
+   "y2": 1021.0,
+   "text": "Alla fine del turno successivo del warlock, il bersaglio"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1025.0,
+   "x2": 554.0,
+   "y2": 1049.0,
+   "text": "di essersi smarrita in un reame nebbioso, il cui aspetto"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1020.0,
+   "x2": 1110.0,
+   "y2": 1043.0,
+   "text": "torna nello spazio che occupava in precedenza, o nello"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1049.0,
+   "x2": 556.0,
+   "y2": 1076.0,
+   "text": "è deciso dal warlock. La creatura è in grado di vedere e"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1045.0,
+   "x2": 1143.0,
+   "y2": 1069.0,
+   "text": "spazio libero più vicino. Se il bersaglio non è un immondo,"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1076.0,
+   "x2": 497.0,
+   "y2": 1100.0,
+   "text": "sentire soltanto se stessa, il warlock e l'illusione."
+  },
+  {
+   "x1": 639.0,
+   "y1": 1069.0,
+   "x2": 1145.0,
+   "y2": 1093.0,
+   "text": "subisce 10d10 psichici in quanto resta sconvolto da questa"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1096.0,
+   "x2": 582.0,
+   "y2": 1124.0,
+   "text": "Prima di utilizzare di nuovo questo privilegio, il warlock"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1093.0,
+   "x2": 851.0,
+   "y2": 1116.0,
+   "text": "esperienza terrificante."
+  },
+  {
+   "x1": 76.0,
+   "y1": 1122.0,
+   "x2": 432.0,
+   "y2": 1149.0,
+   "text": "deve completare un riposo breve o lungo."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1116.0,
+   "x2": 1145.0,
+   "y2": 1140.0,
+   "text": "Una volta utilizzato questo privilegio, il warlock non può"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1140.0,
+   "x2": 1084.0,
+   "y2": 1166.0,
+   "text": "più utilizzarlo finché non completa un riposo lungo."
+  },
+  {
+   "x1": 77.0,
+   "y1": 1163.0,
+   "x2": 248.0,
+   "y2": 1201.0,
+   "text": "L'ImmoNDO"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1182.0,
+   "x2": 916.0,
+   "y2": 1215.0,
+   "text": "Il Grande Antico"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1206.0,
+   "x2": 578.0,
+   "y2": 1231.0,
+   "text": "Il warlock ha stipulato un patto con un immondo dei piani"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1231.0,
+   "x2": 548.0,
+   "y2": 1255.0,
+   "text": "inferiori di esistenza, un essere le cui mire rimangono"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1222.0,
+   "x2": 1136.0,
+   "y2": 1250.0,
+   "text": "Il patrono del warlock è un'entità misteriosa la cui natura"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1257.0,
+   "x2": 589.0,
+   "y2": 1281.0,
+   "text": "malvagie, anche se il warlock si oppone a esse. Le creature"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1250.0,
+   "x2": 1108.0,
+   "y2": 1273.0,
+   "text": "è totalmente estranea al tessuto della realtà. Potrebbe"
+  },
+  {
+   "x1": 74.0,
+   "y1": 1279.0,
+   "x2": 567.0,
+   "y2": 1305.0,
+   "text": "come l'Immondo bramano la corruzione o la distruzione"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1273.0,
+   "x2": 1090.0,
+   "y2": 1297.0,
+   "text": "provenire dal Reame Remoto, lo spazio situato oltre"
+  },
+  {
+   "x1": 74.0,
+   "y1": 1301.0,
+   "x2": 549.0,
+   "y2": 1328.0,
+   "text": "di tutte le cose, e questo prima o poi includerà anche il"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1297.0,
+   "x2": 1099.0,
+   "y2": 1321.0,
+   "text": "la realtà, o potrebbe essere una delle divinità antiche"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1326.0,
+   "x2": 584.0,
+   "y2": 1350.0,
+   "text": "warlock. Gli immondi sufficientemente potenti da stipulare"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1323.0,
+   "x2": 1117.0,
+   "y2": 1347.0,
+   "text": "menzionate soltanto nelle leggende. Le sue motivazioni"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1352.0,
+   "x2": 589.0,
+   "y2": 1376.0,
+   "text": "un patto includono i signori dei demoni come Demogorgon,"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1343.0,
+   "x2": 1112.0,
+   "y2": 1370.0,
+   "text": "sono incomprensibili per i mortali e le sue conoscenze"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1376.0,
+   "x2": 537.0,
+   "y2": 1400.0,
+   "text": "Orcus, Fraz'Urb-luu e Baphomet, gli arcidiavoli come"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1367.0,
+   "x2": 1112.0,
+   "y2": 1394.0,
+   "text": "sono talmente vaste e antiche che perfino le più grandi"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1400.0,
+   "x2": 548.0,
+   "y2": 1423.0,
+   "text": "Asmodeus, Dispater, Mefistofele e Belial, i diavoli delle"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1394.0,
+   "x2": 1080.0,
+   "y2": 1418.0,
+   "text": "biblioteche di questo mondo sono ben poca cosa in"
+  },
+  {
+   "x1": 78.0,
+   "y1": 1423.0,
+   "x2": 585.0,
+   "y2": 1447.0,
+   "text": "fosse e i balor di particolare potenza, gli ultroloth e gli altri"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1420.0,
+   "x2": 1106.0,
+   "y2": 1438.0,
+   "text": "confronto ai grandi segreti che esso detiene. l1 Grande"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1447.0,
+   "x2": 275.0,
+   "y2": 1471.0,
+   "text": "signori degli yugoloth."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1442.0,
+   "x2": 1093.0,
+   "y2": 1465.0,
+   "text": "Antico potrebbe essere inconsapevole dell'esistenza"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1465.0,
+   "x2": 1115.0,
+   "y2": 1489.0,
+   "text": "del warlock o mostrarsi completamente indifferente nei"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1489.0,
+   "x2": 486.0,
+   "y2": 1518.0,
+   "text": "Lista Ampliata degli Incantesimi"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1491.0,
+   "x2": 1123.0,
+   "y2": 1515.0,
+   "text": "suoi confronti, ma i segreti che il warlock ha appreso gli"
+  },
+  {
+   "x1": 74.0,
+   "y1": 1516.0,
+   "x2": 541.0,
+   "y2": 1546.0,
+   "text": "L'Immondo consente al warlock di accedere a una lista"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1513.0,
+   "x2": 1099.0,
+   "y2": 1538.0,
+   "text": "consentono comunque di trarre da esso le sue magie."
+  },
+  {
+   "x1": 76.0,
+   "y1": 1546.0,
+   "x2": 519.0,
+   "y2": 1569.0,
+   "text": "ampliata di incantesimi quando deve apprendere un"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1538.0,
+   "x2": 1154.0,
+   "y2": 1562.0,
+   "text": "Le entità di questo tipo includono Ghaunadar, noto anche"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1566.0,
+   "x2": 585.0,
+   "y2": 1593.0,
+   "text": "incantesimo da warlock. Il warlock aggiunge gli incantesimi"
+  },
+  {
+   "x1": 637.0,
+   "y1": 1562.0,
+   "x2": 1115.0,
+   "y2": 1586.0,
+   "text": "come Colui Che Si Nasconde nell'Ombra; Tharizdun, il"
+  },
+  {
+   "x1": 76.0,
+   "y1": 1593.0,
+   "x2": 512.0,
+   "y2": 1617.0,
+   "text": "seguenti alla sua lista degli incantesimi da warlock."
+  },
+  {
+   "x1": 641.0,
+   "y1": 1586.0,
+   "x2": 1123.0,
+   "y2": 1610.0,
+   "text": "Dio Incatenato; Dendar, il Serpente Notturno; Zargon, il"
+  },
+  {
+   "x1": 639.0,
+   "y1": 1606.0,
+   "x2": 1119.0,
+   "y2": 1633.0,
+   "text": "Ritornante; il Grande Cthulhu e altri esseri insondabili."
+  }
+ ],
+ "reading_text": "spaventate dal warlock (a sceta di quest'ultimo) fino alla\nfne del suo turno successivo.\nUna volta utilizzato questo privilegio, il warlock non può\npiù utilizzarlo finché non completa un riposo breve o lungo.\nFuGa Velata\nA partire dal 6° livello, il warlock può svanire in uno\nsbuffo di nebbia in risposta a un effetto dannoso. Quando\nil warlock subisce danni, può usare la sua reazione per\ndiventare invisibile e teletrasportarsi di un massimo di\n18 metri fino a uno spazio libero che egli sia in grado\ndi vedere. Rimane invisibile fino all'inizio del suo turno\nsuccessivo o finché non attacca o lancia un incantesimo.\nUna volta utilizzato questo privilegio, il warlock non può\npiù utilizzarlo finché non completa un riposo breve o lungo.\nDifese Seducenti\nA partire dal 10\" livello, il patrono insegna al warlock come\nritorcere le magie di influenza mentale dei suoi nemici\ncontro loro stessi. Il warlock non può essere affascinato e\nquando un'altra creatura tenta di affascinarlo, il warlock\npuò usare la sua reazione per ritorcere l'effetto contro\nquella creatura. La creatura deve superare un tiro salvezza\nsu Saggezza contro la CD degli incantesimi del warlock,\naltrimenti sarà affascinata dal warlock per 1 minuto o\nfinché non subisce danni.\nDelirio Oscuro\nA partire dal 14ª livello, il warlock può trascinare una\ncreatura in un reame illusorio. Con un'azione, il warlock\nsceglie una creatura situata entro 18 metri da lui e che egli\nsia in grado di vedere. Quella creatura deve effettuare un\ntiro salvezza su Saggezza contro la CD degli incantesimi\ndel warlock. Se lo fallisce, diventa affascinata o spaventata\ndal warlock (a scelta di quest'ultimo) per 1 minuto o finché\nla concentrazione del warlock non si interrompe (come se\nsi stesse concentrando su un incantesimo). Questo effetto\ntermina anticipatamente se la creatura subisce danni.\nFinché quesfa illusione non termina, la creatura crede\ndi essersi smarrita in un reame nebbioso, il cui aspetto\nè deciso dal warlock. La creatura è in grado di vedere e\nsentire soltanto se stessa, il warlock e l'illusione.\nPrima di utilizzare di nuovo questo privilegio, il warlock\ndeve completare un riposo breve o lungo.\nL'ImmoNDO\nIl warlock ha stipulato un patto con un immondo dei piani\ninferiori di esistenza, un essere le cui mire rimangono\nmalvagie, anche se il warlock si oppone a esse. Le creature\ncome l'Immondo bramano la corruzione o la distruzione\ndi tutte le cose, e questo prima o poi includerà anche il\nwarlock. Gli immondi sufficientemente potenti da stipulare\nun patto includono i signori dei demoni come Demogorgon,\nOrcus, Fraz'Urb-luu e Baphomet, gli arcidiavoli come\nAsmodeus, Dispater, Mefistofele e Belial, i diavoli delle\nfosse e i balor di particolare potenza, gli ultroloth e gli altri\nsignori degli yugoloth.\nLista Ampliata degli Incantesimi\nL'Immondo consente al warlock di accedere a una lista\nampliata di incantesimi quando deve apprendere un\nincantesimo da warlock. Il warlock aggiunge gli incantesimi\nseguenti alla sua lista degli incantesimi da warlock.\nINCANTESIMI AMPLIaTI DELL'IMMoNDO\nLivello\ndell'Incantesimo Incantesimi\n1\ncomando, mani brucianti\n2°\ncecità/sordità, raggio rovente\n3°\nnube maleodorante, palla di fuoco\nmuro di fuoco, scudo di fuoco\n4°\n5°\ncolpo infuocato, santificare\nBENEDIZIONE DELL'OSCURO\nA partire dal 1° livello, quando il warlock porta una creatura\nostile a 0 punti ferita, ottiene un ammontare di punti ferita\ntemporanei pari al proprio modificatore di Carisma + il\nproprio livello da warlock (fino a un minimo di 1).\nFortuna DeLL'OScuro\nA partire dal 6° livello, il warlock può appellarsi al suo\npatrono per alterare il fato in suo favore. Quando effettua\nuna prova di caratteristica o un tiro salvezza, può utilizzare\nquesto privilegio per aggiungere un d10 al suo tiro. Può\nfarlo dopo avere visto il tiro iniziale, ma prima che qualsiasi\neffetto del tiro sia applicato.\nUna volta utilizzato questo privilegio, il warlock non può\npiù utilizzarlo finché non completa un riposo breve o lungo.\nResilienza Immonda\nA partire dal 10livello, il warlock può scegliere un tipo di\ndanno quando completa un riposo breve o lungo. Ottiene\nresistenza a quel tipo di danno finché non ne sceglie\nuno diverso tramite questo privilegio. I danni delle armi\nmagiche o delle armi argentate ignorano questa resistenza.\nSCAGLIARE ALL'INFERNO\nA partire dal 14° livello, quando il warlock colpisce una creatura\ncon un attacco, può utilizzare questo privilegio per trascinare\nistantaneamente il bersaglio sui piani inferiori. La creatura\nscompare e sfreccia attraverso un territorio da incubo.\nAlla fine del turno successivo del warlock, il bersaglio\ntorna nello spazio che occupava in precedenza, o nello\nspazio libero più vicino. Se il bersaglio non è un immondo,\nsubisce 10d10 psichici in quanto resta sconvolto da questa\nesperienza terrificante.\nUna volta utilizzato questo privilegio, il warlock non può\npiù utilizzarlo finché non completa un riposo lungo.\nIl Grande Antico\nIl patrono del warlock è un'entità misteriosa la cui natura\nè totalmente estranea al tessuto della realtà. Potrebbe\nprovenire dal Reame Remoto, lo spazio situato oltre\nla realtà, o potrebbe essere una delle divinità antiche\nmenzionate soltanto nelle leggende. Le sue motivazioni\nsono incomprensibili per i mortali e le sue conoscenze\nsono talmente vaste e antiche che perfino le più grandi\nbiblioteche di questo mondo sono ben poca cosa in\nconfronto ai grandi segreti che esso detiene. l1 Grande\nAntico potrebbe essere inconsapevole dell'esistenza\ndel warlock o mostrarsi completamente indifferente nei\nsuoi confronti, ma i segreti che il warlock ha appreso gli\nconsentono comunque di trarre da esso le sue magie.\nLe entità di questo tipo includono Ghaunadar, noto anche\ncome Colui Che Si Nasconde nell'Ombra; Tharizdun, il\nDio Incatenato; Dendar, il Serpente Notturno; Zargon, il\nRitornante; il Grande Cthulhu e altri esseri insondabili."
+}

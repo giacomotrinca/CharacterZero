@@ -1,0 +1,1207 @@
+{
+ "pdf_page_index": 46,
+ "page_label": 47,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 171,
+ "lines": [
+  {
+   "x1": 90.0,
+   "y1": 93.0,
+   "x2": 198.0,
+   "y2": 125.0,
+   "text": "BARBARO"
+  },
+  {
+   "x1": 174.0,
+   "y1": 130.0,
+   "x2": 249.0,
+   "y2": 155.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 550.0,
+   "y1": 125.0,
+   "x2": 612.0,
+   "y2": 158.0,
+   "text": "Danni"
+  },
+  {
+   "x1": 94.0,
+   "y1": 150.0,
+   "x2": 268.0,
+   "y2": 185.0,
+   "text": "Livello Competenza"
+  },
+  {
+   "x1": 259.0,
+   "y1": 152.0,
+   "x2": 338.0,
+   "y2": 179.0,
+   "text": "Privilegi"
+  },
+  {
+   "x1": 488.0,
+   "y1": 153.0,
+   "x2": 519.0,
+   "y2": 177.0,
+   "text": "Ira"
+  },
+  {
+   "x1": 548.0,
+   "y1": 150.0,
+   "x2": 611.0,
+   "y2": 177.0,
+   "text": "dell'Ira"
+  },
+  {
+   "x1": 113.0,
+   "y1": 185.0,
+   "x2": 140.0,
+   "y2": 208.0,
+   "text": "1°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 181.0,
+   "x2": 227.0,
+   "y2": 206.0,
+   "text": "+2"
+  },
+  {
+   "x1": 268.0,
+   "y1": 179.0,
+   "x2": 397.0,
+   "y2": 205.0,
+   "text": "Ira, Difesa Senza"
+  },
+  {
+   "x1": 491.0,
+   "y1": 179.0,
+   "x2": 515.0,
+   "y2": 206.0,
+   "text": "2"
+  },
+  {
+   "x1": 563.0,
+   "y1": 177.0,
+   "x2": 596.0,
+   "y2": 208.0,
+   "text": "+2"
+  },
+  {
+   "x1": 270.0,
+   "y1": 203.0,
+   "x2": 349.0,
+   "y2": 228.0,
+   "text": "Armatura"
+  },
+  {
+   "x1": 113.0,
+   "y1": 232.0,
+   "x2": 140.0,
+   "y2": 259.0,
+   "text": "2°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 230.0,
+   "x2": 229.0,
+   "y2": 256.0,
+   "text": "+2"
+  },
+  {
+   "x1": 270.0,
+   "y1": 228.0,
+   "x2": 399.0,
+   "y2": 254.0,
+   "text": "Attacco Irruento,"
+  },
+  {
+   "x1": 495.0,
+   "y1": 232.0,
+   "x2": 513.0,
+   "y2": 252.0,
+   "text": "2"
+  },
+  {
+   "x1": 565.0,
+   "y1": 230.0,
+   "x2": 596.0,
+   "y2": 256.0,
+   "text": "+2"
+  },
+  {
+   "x1": 270.0,
+   "y1": 252.0,
+   "x2": 443.0,
+   "y2": 276.0,
+   "text": "Percezione del Pericolo"
+  },
+  {
+   "x1": 113.0,
+   "y1": 281.0,
+   "x2": 139.0,
+   "y2": 309.0,
+   "text": "3°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 280.0,
+   "x2": 227.0,
+   "y2": 305.0,
+   "text": "+2"
+  },
+  {
+   "x1": 270.0,
+   "y1": 278.0,
+   "x2": 438.0,
+   "y2": 303.0,
+   "text": "Cammino Primordiale"
+  },
+  {
+   "x1": 493.0,
+   "y1": 278.0,
+   "x2": 515.0,
+   "y2": 303.0,
+   "text": "3"
+  },
+  {
+   "x1": 561.0,
+   "y1": 276.0,
+   "x2": 598.0,
+   "y2": 305.0,
+   "text": "+2"
+  },
+  {
+   "x1": 198.0,
+   "y1": 305.0,
+   "x2": 227.0,
+   "y2": 331.0,
+   "text": "+2"
+  },
+  {
+   "x1": 267.0,
+   "y1": 298.0,
+   "x2": 440.0,
+   "y2": 335.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 113.0,
+   "y1": 309.0,
+   "x2": 140.0,
+   "y2": 334.0,
+   "text": "4°"
+  },
+  {
+   "x1": 491.0,
+   "y1": 305.0,
+   "x2": 513.0,
+   "y2": 331.0,
+   "text": "3"
+  },
+  {
+   "x1": 565.0,
+   "y1": 305.0,
+   "x2": 596.0,
+   "y2": 331.0,
+   "text": "+2"
+  },
+  {
+   "x1": 270.0,
+   "y1": 327.0,
+   "x2": 393.0,
+   "y2": 353.0,
+   "text": "di Caratteristica"
+  },
+  {
+   "x1": 113.0,
+   "y1": 356.0,
+   "x2": 140.0,
+   "y2": 384.0,
+   "text": "5°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 354.0,
+   "x2": 227.0,
+   "y2": 380.0,
+   "text": "+3"
+  },
+  {
+   "x1": 271.0,
+   "y1": 356.0,
+   "x2": 373.0,
+   "y2": 376.0,
+   "text": "Attacco Extra,"
+  },
+  {
+   "x1": 495.0,
+   "y1": 356.0,
+   "x2": 513.0,
+   "y2": 376.0,
+   "text": "3"
+  },
+  {
+   "x1": 565.0,
+   "y1": 354.0,
+   "x2": 596.0,
+   "y2": 380.0,
+   "text": "+2"
+  },
+  {
+   "x1": 270.0,
+   "y1": 376.0,
+   "x2": 416.0,
+   "y2": 402.0,
+   "text": "Movimento Veloce"
+  },
+  {
+   "x1": 532.0,
+   "y1": 386.0,
+   "x2": 545.0,
+   "y2": 398.0,
+   "text": "."
+  },
+  {
+   "x1": 114.0,
+   "y1": 406.0,
+   "x2": 140.0,
+   "y2": 431.0,
+   "text": "6°"
+  },
+  {
+   "x1": 196.0,
+   "y1": 406.0,
+   "x2": 227.0,
+   "y2": 429.0,
+   "text": "+3"
+  },
+  {
+   "x1": 270.0,
+   "y1": 404.0,
+   "x2": 447.0,
+   "y2": 428.0,
+   "text": "Privilegio del Cammino"
+  },
+  {
+   "x1": 491.0,
+   "y1": 404.0,
+   "x2": 547.0,
+   "y2": 429.0,
+   "text": "4"
+  },
+  {
+   "x1": 565.0,
+   "y1": 404.0,
+   "x2": 595.0,
+   "y2": 428.0,
+   "text": "+2"
+  },
+  {
+   "x1": 114.0,
+   "y1": 431.0,
+   "x2": 140.0,
+   "y2": 457.0,
+   "text": "7°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 429.0,
+   "x2": 227.0,
+   "y2": 455.0,
+   "text": "+3"
+  },
+  {
+   "x1": 271.0,
+   "y1": 433.0,
+   "x2": 373.0,
+   "y2": 453.0,
+   "text": "Istinto Ferino"
+  },
+  {
+   "x1": 495.0,
+   "y1": 431.0,
+   "x2": 513.0,
+   "y2": 451.0,
+   "text": "4"
+  },
+  {
+   "x1": 563.0,
+   "y1": 428.0,
+   "x2": 596.0,
+   "y2": 459.0,
+   "text": "+2"
+  },
+  {
+   "x1": 198.0,
+   "y1": 457.0,
+   "x2": 227.0,
+   "y2": 482.0,
+   "text": "+3"
+  },
+  {
+   "x1": 267.0,
+   "y1": 449.0,
+   "x2": 440.0,
+   "y2": 486.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 113.0,
+   "y1": 459.0,
+   "x2": 140.0,
+   "y2": 484.0,
+   "text": "8°"
+  },
+  {
+   "x1": 495.0,
+   "y1": 459.0,
+   "x2": 513.0,
+   "y2": 479.0,
+   "text": "4"
+  },
+  {
+   "x1": 563.0,
+   "y1": 457.0,
+   "x2": 595.0,
+   "y2": 482.0,
+   "text": "+2"
+  },
+  {
+   "x1": 267.0,
+   "y1": 477.0,
+   "x2": 392.0,
+   "y2": 506.0,
+   "text": "di Caratteristica"
+  },
+  {
+   "x1": 113.0,
+   "y1": 508.0,
+   "x2": 139.0,
+   "y2": 532.0,
+   "text": "9°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 508.0,
+   "x2": 225.0,
+   "y2": 532.0,
+   "text": "+4"
+  },
+  {
+   "x1": 271.0,
+   "y1": 504.0,
+   "x2": 382.0,
+   "y2": 530.0,
+   "text": "Critico Brutale"
+  },
+  {
+   "x1": 495.0,
+   "y1": 508.0,
+   "x2": 513.0,
+   "y2": 528.0,
+   "text": "4"
+  },
+  {
+   "x1": 563.0,
+   "y1": 502.0,
+   "x2": 596.0,
+   "y2": 534.0,
+   "text": "+3"
+  },
+  {
+   "x1": 271.0,
+   "y1": 528.0,
+   "x2": 342.0,
+   "y2": 555.0,
+   "text": "(1 Dado)"
+  },
+  {
+   "x1": 109.0,
+   "y1": 557.0,
+   "x2": 142.0,
+   "y2": 581.0,
+   "text": "10°"
+  },
+  {
+   "x1": 196.0,
+   "y1": 557.0,
+   "x2": 227.0,
+   "y2": 581.0,
+   "text": "+4"
+  },
+  {
+   "x1": 270.0,
+   "y1": 555.0,
+   "x2": 447.0,
+   "y2": 581.0,
+   "text": "Privilegio del Cammino"
+  },
+  {
+   "x1": 495.0,
+   "y1": 559.0,
+   "x2": 512.0,
+   "y2": 577.0,
+   "text": "4"
+  },
+  {
+   "x1": 561.0,
+   "y1": 554.0,
+   "x2": 598.0,
+   "y2": 583.0,
+   "text": "+3"
+  },
+  {
+   "x1": 107.0,
+   "y1": 581.0,
+   "x2": 144.0,
+   "y2": 610.0,
+   "text": "11°"
+  },
+  {
+   "x1": 194.0,
+   "y1": 579.0,
+   "x2": 229.0,
+   "y2": 610.0,
+   "text": "+4"
+  },
+  {
+   "x1": 268.0,
+   "y1": 581.0,
+   "x2": 386.0,
+   "y2": 607.0,
+   "text": "Ira Implacabile"
+  },
+  {
+   "x1": 491.0,
+   "y1": 581.0,
+   "x2": 515.0,
+   "y2": 607.0,
+   "text": "4"
+  },
+  {
+   "x1": 563.0,
+   "y1": 581.0,
+   "x2": 595.0,
+   "y2": 607.0,
+   "text": "+3"
+  },
+  {
+   "x1": 111.0,
+   "y1": 608.0,
+   "x2": 142.0,
+   "y2": 634.0,
+   "text": "12°"
+  },
+  {
+   "x1": 196.0,
+   "y1": 608.0,
+   "x2": 227.0,
+   "y2": 632.0,
+   "text": "+4"
+  },
+  {
+   "x1": 266.0,
+   "y1": 601.0,
+   "x2": 442.0,
+   "y2": 638.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 493.0,
+   "y1": 610.0,
+   "x2": 512.0,
+   "y2": 630.0,
+   "text": "5"
+  },
+  {
+   "x1": 563.0,
+   "y1": 607.0,
+   "x2": 595.0,
+   "y2": 632.0,
+   "text": "+3"
+  },
+  {
+   "x1": 270.0,
+   "y1": 630.0,
+   "x2": 392.0,
+   "y2": 656.0,
+   "text": "di Caratteristica"
+  },
+  {
+   "x1": 109.0,
+   "y1": 656.0,
+   "x2": 146.0,
+   "y2": 685.0,
+   "text": "13°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 658.0,
+   "x2": 227.0,
+   "y2": 682.0,
+   "text": "+5"
+  },
+  {
+   "x1": 270.0,
+   "y1": 656.0,
+   "x2": 382.0,
+   "y2": 682.0,
+   "text": "Critico Brutale"
+  },
+  {
+   "x1": 495.0,
+   "y1": 660.0,
+   "x2": 513.0,
+   "y2": 680.0,
+   "text": "5"
+  },
+  {
+   "x1": 563.0,
+   "y1": 658.0,
+   "x2": 595.0,
+   "y2": 683.0,
+   "text": "+3"
+  },
+  {
+   "x1": 271.0,
+   "y1": 680.0,
+   "x2": 338.0,
+   "y2": 707.0,
+   "text": "(2 Dadi)"
+  },
+  {
+   "x1": 106.0,
+   "y1": 701.0,
+   "x2": 147.0,
+   "y2": 736.0,
+   "text": "14°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 707.0,
+   "x2": 225.0,
+   "y2": 731.0,
+   "text": "+5"
+  },
+  {
+   "x1": 270.0,
+   "y1": 707.0,
+   "x2": 445.0,
+   "y2": 731.0,
+   "text": "Privilegio del Cammino"
+  },
+  {
+   "x1": 495.0,
+   "y1": 709.0,
+   "x2": 512.0,
+   "y2": 731.0,
+   "text": "5"
+  },
+  {
+   "x1": 565.0,
+   "y1": 707.0,
+   "x2": 593.0,
+   "y2": 731.0,
+   "text": "+3"
+  },
+  {
+   "x1": 107.0,
+   "y1": 731.0,
+   "x2": 144.0,
+   "y2": 760.0,
+   "text": "15°"
+  },
+  {
+   "x1": 194.0,
+   "y1": 731.0,
+   "x2": 229.0,
+   "y2": 762.0,
+   "text": "+5"
+  },
+  {
+   "x1": 270.0,
+   "y1": 733.0,
+   "x2": 382.0,
+   "y2": 758.0,
+   "text": "Ira Persistente"
+  },
+  {
+   "x1": 491.0,
+   "y1": 733.0,
+   "x2": 515.0,
+   "y2": 758.0,
+   "text": "5"
+  },
+  {
+   "x1": 563.0,
+   "y1": 733.0,
+   "x2": 595.0,
+   "y2": 758.0,
+   "text": "+3"
+  },
+  {
+   "x1": 107.0,
+   "y1": 758.0,
+   "x2": 144.0,
+   "y2": 787.0,
+   "text": "16°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 760.0,
+   "x2": 227.0,
+   "y2": 786.0,
+   "text": "+5"
+  },
+  {
+   "x1": 267.0,
+   "y1": 754.0,
+   "x2": 438.0,
+   "y2": 788.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 493.0,
+   "y1": 760.0,
+   "x2": 515.0,
+   "y2": 786.0,
+   "text": "5"
+  },
+  {
+   "x1": 563.0,
+   "y1": 762.0,
+   "x2": 595.0,
+   "y2": 786.0,
+   "text": "+4"
+  },
+  {
+   "x1": 270.0,
+   "y1": 782.0,
+   "x2": 393.0,
+   "y2": 808.0,
+   "text": "di Caratteristica"
+  },
+  {
+   "x1": 107.0,
+   "y1": 808.0,
+   "x2": 146.0,
+   "y2": 837.0,
+   "text": "17°"
+  },
+  {
+   "x1": 194.0,
+   "y1": 808.0,
+   "x2": 231.0,
+   "y2": 837.0,
+   "text": "+6"
+  },
+  {
+   "x1": 270.0,
+   "y1": 809.0,
+   "x2": 380.0,
+   "y2": 835.0,
+   "text": "Critico Brutale"
+  },
+  {
+   "x1": 491.0,
+   "y1": 809.0,
+   "x2": 517.0,
+   "y2": 835.0,
+   "text": "6"
+  },
+  {
+   "x1": 561.0,
+   "y1": 808.0,
+   "x2": 598.0,
+   "y2": 837.0,
+   "text": "+4"
+  },
+  {
+   "x1": 270.0,
+   "y1": 831.0,
+   "x2": 336.0,
+   "y2": 859.0,
+   "text": "(3 Dadi)"
+  },
+  {
+   "x1": 661.0,
+   "y1": 839.0,
+   "x2": 1136.0,
+   "y2": 862.0,
+   "text": "ai soldati di quelle terre per fronteggiare una minaccia"
+  },
+  {
+   "x1": 109.0,
+   "y1": 861.0,
+   "x2": 142.0,
+   "y2": 884.0,
+   "text": "18°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 861.0,
+   "x2": 229.0,
+   "y2": 884.0,
+   "text": "+6"
+  },
+  {
+   "x1": 270.0,
+   "y1": 859.0,
+   "x2": 425.0,
+   "y2": 884.0,
+   "text": "Potenza Indomabile"
+  },
+  {
+   "x1": 493.0,
+   "y1": 859.0,
+   "x2": 515.0,
+   "y2": 884.0,
+   "text": "6"
+  },
+  {
+   "x1": 561.0,
+   "y1": 857.0,
+   "x2": 602.0,
+   "y2": 886.0,
+   "text": "+4"
+  },
+  {
+   "x1": 659.0,
+   "y1": 859.0,
+   "x2": 1143.0,
+   "y2": 886.0,
+   "text": "comune? Un'orda di mostri o di invasori lo ha scacciato"
+  },
+  {
+   "x1": 107.0,
+   "y1": 882.0,
+   "x2": 144.0,
+   "y2": 912.0,
+   "text": "19°"
+  },
+  {
+   "x1": 196.0,
+   "y1": 886.0,
+   "x2": 227.0,
+   "y2": 912.0,
+   "text": "+6"
+  },
+  {
+   "x1": 266.0,
+   "y1": 878.0,
+   "x2": 440.0,
+   "y2": 916.0,
+   "text": "Aumento dei Punteggi"
+  },
+  {
+   "x1": 495.0,
+   "y1": 888.0,
+   "x2": 513.0,
+   "y2": 908.0,
+   "text": "6"
+  },
+  {
+   "x1": 561.0,
+   "y1": 884.0,
+   "x2": 598.0,
+   "y2": 914.0,
+   "text": "+4"
+  },
+  {
+   "x1": 659.0,
+   "y1": 881.0,
+   "x2": 1123.0,
+   "y2": 908.0,
+   "text": "dalla sua terra natia, facendo di lui un profugo senza"
+  },
+  {
+   "x1": 267.0,
+   "y1": 906.0,
+   "x2": 392.0,
+   "y2": 936.0,
+   "text": "di Caratteristica"
+  },
+  {
+   "x1": 659.0,
+   "y1": 906.0,
+   "x2": 1132.0,
+   "y2": 930.0,
+   "text": "radici? Forse era un prigioniero di guerra, condotto in"
+  },
+  {
+   "x1": 109.0,
+   "y1": 935.0,
+   "x2": 144.0,
+   "y2": 959.0,
+   "text": "20°"
+  },
+  {
+   "x1": 198.0,
+   "y1": 937.0,
+   "x2": 227.0,
+   "y2": 959.0,
+   "text": "+6"
+  },
+  {
+   "x1": 270.0,
+   "y1": 935.0,
+   "x2": 443.0,
+   "y2": 959.0,
+   "text": "Campione Primordiale"
+  },
+  {
+   "x1": 464.0,
+   "y1": 937.0,
+   "x2": 539.0,
+   "y2": 957.0,
+   "text": "Iimitata"
+  },
+  {
+   "x1": 560.0,
+   "y1": 937.0,
+   "x2": 595.0,
+   "y2": 959.0,
+   "text": "+4"
+  },
+  {
+   "x1": 661.0,
+   "y1": 930.0,
+   "x2": 1147.0,
+   "y2": 954.0,
+   "text": "catene nelle terre \"civilizzate\" e soltanto ora è riuscito a"
+  },
+  {
+   "x1": 661.0,
+   "y1": 952.0,
+   "x2": 1162.0,
+   "y2": 977.0,
+   "text": "conquistare la sua libertà? Oppure è stato esiliato dal suo"
+  },
+  {
+   "x1": 659.0,
+   "y1": 974.0,
+   "x2": 1130.0,
+   "y2": 1001.0,
+   "text": "popolo per un crimine che ha commesso, un tabù che"
+  },
+  {
+   "x1": 659.0,
+   "y1": 998.0,
+   "x2": 1132.0,
+   "y2": 1021.0,
+   "text": "ha violato o un colpo di stato che lo ha rimosso da una"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1019.0,
+   "x2": 851.0,
+   "y2": 1047.0,
+   "text": "posizione di autorità?"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1063.0,
+   "x2": 885.0,
+   "y2": 1089.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1085.0,
+   "x2": 1186.0,
+   "y2": 1118.0,
+   "text": "È possibile creare un barbaro rapidamente seguendo questi"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1113.0,
+   "x2": 1147.0,
+   "y2": 1140.0,
+   "text": "suggerimenti. Per prima cosa,Forza dovrebbe essere il"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1127.0,
+   "x2": 593.0,
+   "y2": 1155.0,
+   "text": "dei mostri. I barbari si tuffano a testa bassa verso il pericolo"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1138.0,
+   "x2": 1180.0,
+   "y2": 1162.0,
+   "text": "punteggio di caratteristica più alto, seguito da Costituzione."
+  },
+  {
+   "x1": 90.0,
+   "y1": 1153.0,
+   "x2": 480.0,
+   "y2": 1177.0,
+   "text": "affinché il loro popolo non sia costretto a farlo."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1156.0,
+   "x2": 1029.0,
+   "y2": 1186.0,
+   "text": "Poi si sceglie il background del forestiero."
+  },
+  {
+   "x1": 109.0,
+   "y1": 1177.0,
+   "x2": 574.0,
+   "y2": 1200.0,
+   "text": "Il coraggio che dimostrano di fronte al pericolo rende"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1197.0,
+   "x2": 558.0,
+   "y2": 1224.0,
+   "text": "i barbari perfettamente adatti al ruolo di avventurieri."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1204.0,
+   "x2": 1049.0,
+   "y2": 1242.0,
+   "text": "PrIVILEGI DI CLASSE"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1222.0,
+   "x2": 606.0,
+   "y2": 1248.0,
+   "text": "Girovagare è spesso uno stile di vita dato per scontato nelle"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1246.0,
+   "x2": 609.0,
+   "y2": 1270.0,
+   "text": "loro tribù di origine, e la vita senza radici di un avventuriero"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1244.0,
+   "x2": 1079.0,
+   "y2": 1272.0,
+   "text": "Un barbaro ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 90.0,
+   "y1": 1270.0,
+   "x2": 608.0,
+   "y2": 1294.0,
+   "text": "appare tutt'altro che scomoda agli occhi un barbaro. Alcuni"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1290.0,
+   "x2": 593.0,
+   "y2": 1317.0,
+   "text": "barbari sentono la mancanza degli stretti legami familiari"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1288.0,
+   "x2": 824.0,
+   "y2": 1318.0,
+   "text": "Punti Ferita"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1312.0,
+   "x2": 554.0,
+   "y2": 1339.0,
+   "text": "della tribù, ma presto li rimpiazzano con i legami che"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1317.0,
+   "x2": 1038.0,
+   "y2": 1341.0,
+   "text": "Dadi Vita: 1d12 per ogni livello da barbaro"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1337.0,
+   "x2": 567.0,
+   "y2": 1363.0,
+   "text": "stringono con i membri del loro gruppo di avventurieri."
+  },
+  {
+   "x1": 659.0,
+   "y1": 1339.0,
+   "x2": 1082.0,
+   "y2": 1365.0,
+   "text": "Punti Ferita al 1° Livello: 12 + il modificatore di"
+  },
+  {
+   "x1": 674.0,
+   "y1": 1361.0,
+   "x2": 898.0,
+   "y2": 1385.0,
+   "text": "Costituzione del barbaro"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1378.0,
+   "x2": 397.0,
+   "y2": 1411.0,
+   "text": "CrEAre Un BArBARO"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1385.0,
+   "x2": 1090.0,
+   "y2": 1411.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d12 (o 7) + il"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1418.0,
+   "x2": 593.0,
+   "y2": 1445.0,
+   "text": "Al momento di creare un personaggio barbaro, il giocatore"
+  },
+  {
+   "x1": 676.0,
+   "y1": 1411.0,
+   "x2": 1110.0,
+   "y2": 1434.0,
+   "text": "modificatore di Costituzione del barbaro per ogni"
+  },
+  {
+   "x1": 674.0,
+   "y1": 1429.0,
+   "x2": 918.0,
+   "y2": 1456.0,
+   "text": "livello da barbaro dopo il 1°"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1443.0,
+   "x2": 584.0,
+   "y2": 1467.0,
+   "text": "deve pensare al luogo di provenienza e al posto che il suo"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1467.0,
+   "x2": 609.0,
+   "y2": 1491.0,
+   "text": "personaggio occupa nel mondo. Deve definire assieme al DM"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1472.0,
+   "x2": 815.0,
+   "y2": 1502.0,
+   "text": "CompeTEnze"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1491.0,
+   "x2": 584.0,
+   "y2": 1515.0,
+   "text": "un'origine appropriata per il proprio barbaro. Proviene da"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1504.0,
+   "x2": 1127.0,
+   "y2": 1527.0,
+   "text": "Armature: Armature leggere, armature medie, scudi"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1515.0,
+   "x2": 587.0,
+   "y2": 1538.0,
+   "text": "una terra lontana, cosa che fa di lui uno straniero nell'area"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1533.0,
+   "x2": 593.0,
+   "y2": 1562.0,
+   "text": "della campagna? Oppure la campagna è ambientata in una"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1524.0,
+   "x2": 986.0,
+   "y2": 1551.0,
+   "text": "Armi: Armi semplici, armi da guerra"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1546.0,
+   "x2": 846.0,
+   "y2": 1575.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1559.0,
+   "x2": 574.0,
+   "y2": 1584.0,
+   "text": "turbolentaterra di frontiera dove i barbari sono comuni?"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1579.0,
+   "x2": 525.0,
+   "y2": 1608.0,
+   "text": "Che cosa ha spinto il barbaro a scegliere la vita"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1580.0,
+   "x2": 966.0,
+   "y2": 1608.0,
+   "text": "Tiri Salvezza: Forza, Costituzione"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1606.0,
+   "x2": 578.0,
+   "y2": 1630.0,
+   "text": "dell'avventuriero? È stato attirato nelle terre colonizzate"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1604.0,
+   "x2": 1130.0,
+   "y2": 1632.0,
+   "text": "Abilità: Due a scelta tra Addestrare Animali, Atletica,"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1630.0,
+   "x2": 582.0,
+   "y2": 1654.0,
+   "text": "da qualche promessa di ricchezza? Ha unito le sue forze"
+  },
+  {
+   "x1": 676.0,
+   "y1": 1630.0,
+   "x2": 1099.0,
+   "y2": 1654.0,
+   "text": "Intimidire,Natura,Percezione e Sopravvivenza."
+  },
+  {
+   "x1": 992.0,
+   "y1": 1686.0,
+   "x2": 1182.0,
+   "y2": 1710.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  }
+ ],
+ "reading_text": "BARBARO\nDanni\nBonus di\nLivello Competenza\ndell'Ira\nPrivilegi\nIra\n+2\nIra, Difesa Senza\n2\n+2\n1°\nArmatura\nAttacco Irruento,\n+2\n+2\n2°\n2\nPercezione del Pericolo\n+2\nCammino Primordiale\n3\n+2\n3°\nAumento dei Punteggi\n+2\n3\n+2\n4°\ndi Caratteristica\n+3\n+2\n5°\nAttacco Extra,\n3\nMovimento Veloce\n.\nPrivilegio del Cammino\n4\n+2\n6°\n+3\n+2\n+3\n7°\n4\nIstinto Ferino\nAumento dei Punteggi\n+3\n+2\n8°\n4\ndi Caratteristica\n+3\nCritico Brutale\n9°\n+4\n4\n(1 Dado)\n+3\nPrivilegio del Cammino\n10°\n+4\n4\n+4\n11°\nIra Implacabile\n4\n+3\nAumento dei Punteggi\n+3\n12°\n+4\n5\ndi Caratteristica\n13°\nCritico Brutale\n+5\n+3\n5\n(2 Dadi)\n14°\n+5\nPrivilegio del Cammino\n+3\n5\n15°\n+5\nIra Persistente\n5\n+3\nAumento dei Punteggi\n16°\n+5\n5\n+4\ndi Caratteristica\n17°\n+6\n+4\nCritico Brutale\n6\n(3 Dadi)\n+4\nPotenza Indomabile\n6\n18°\n+6\nAumento dei Punteggi\n19°\n+4\n+6\n6\ndi Caratteristica\n20°\nCampione Primordiale\n+6\nIimitata\n+4\ndei mostri. I barbari si tuffano a testa bassa verso il pericolo\naffinché il loro popolo non sia costretto a farlo.\nIl coraggio che dimostrano di fronte al pericolo rende\ni barbari perfettamente adatti al ruolo di avventurieri.\nGirovagare è spesso uno stile di vita dato per scontato nelle\nloro tribù di origine, e la vita senza radici di un avventuriero\nappare tutt'altro che scomoda agli occhi un barbaro. Alcuni\nbarbari sentono la mancanza degli stretti legami familiari\ndella tribù, ma presto li rimpiazzano con i legami che\nstringono con i membri del loro gruppo di avventurieri.\nCrEAre Un BArBARO\nAl momento di creare un personaggio barbaro, il giocatore\ndeve pensare al luogo di provenienza e al posto che il suo\npersonaggio occupa nel mondo. Deve definire assieme al DM\nun'origine appropriata per il proprio barbaro. Proviene da\nuna terra lontana, cosa che fa di lui uno straniero nell'area\ndella campagna? Oppure la campagna è ambientata in una\nturbolentaterra di frontiera dove i barbari sono comuni?\nChe cosa ha spinto il barbaro a scegliere la vita\ndell'avventuriero? È stato attirato nelle terre colonizzate\nda qualche promessa di ricchezza? Ha unito le sue forze\nai soldati di quelle terre per fronteggiare una minaccia\ncomune? Un'orda di mostri o di invasori lo ha scacciato\ndalla sua terra natia, facendo di lui un profugo senza\nradici? Forse era un prigioniero di guerra, condotto in\ncatene nelle terre \"civilizzate\" e soltanto ora è riuscito a\nconquistare la sua libertà? Oppure è stato esiliato dal suo\npopolo per un crimine che ha commesso, un tabù che\nha violato o un colpo di stato che lo ha rimosso da una\nposizione di autorità?\nCreazione Rapida\nÈ possibile creare un barbaro rapidamente seguendo questi\nsuggerimenti. Per prima cosa,Forza dovrebbe essere il\npunteggio di caratteristica più alto, seguito da Costituzione.\nPoi si sceglie il background del forestiero.\nPrIVILEGI DI CLASSE\nUn barbaro ottiene i seguenti privilegi di classe.\nPunti Ferita\nDadi Vita: 1d12 per ogni livello da barbaro\nPunti Ferita al 1° Livello: 12 + il modificatore di\nCostituzione del barbaro\nPunti Ferita ai Livelli Successivi: 1d12 (o 7) + il\nmodificatore di Costituzione del barbaro per ogni\nlivello da barbaro dopo il 1°\nCompeTEnze\nArmature: Armature leggere, armature medie, scudi\nArmi: Armi semplici, armi da guerra\nStrumenti: Nessuno\nTiri Salvezza: Forza, Costituzione\nAbilità: Due a scelta tra Addestrare Animali, Atletica,\nIntimidire,Natura,Percezione e Sopravvivenza.\nCAPITOLO 3 |CLASSI"
+}

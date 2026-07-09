@@ -1,0 +1,899 @@
+{
+ "pdf_page_index": 92,
+ "page_label": 93,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 127,
+ "lines": [
+  {
+   "x1": 89.0,
+   "y1": 80.0,
+   "x2": 253.0,
+   "y2": 106.0,
+   "text": "TRANQUILLITÀ"
+  },
+  {
+   "x1": 637.0,
+   "y1": 78.0,
+   "x2": 805.0,
+   "y2": 106.0,
+   "text": "OPPORTUNISTA"
+  },
+  {
+   "x1": 89.0,
+   "y1": 108.0,
+   "x2": 537.0,
+   "y2": 132.0,
+   "text": "A partire dall'11\" livello, il monaco può entrare in una"
+  },
+  {
+   "x1": 635.0,
+   "y1": 108.0,
+   "x2": 1084.0,
+   "y2": 132.0,
+   "text": "Al 17*livello, un monaco impara ad approfittare della"
+  },
+  {
+   "x1": 85.0,
+   "y1": 124.0,
+   "x2": 563.0,
+   "y2": 159.0,
+   "text": "speciale forma di meditazione, immergendosi in un'aura"
+  },
+  {
+   "x1": 637.0,
+   "y1": 130.0,
+   "x2": 1127.0,
+   "y2": 153.0,
+   "text": "momentanea distrazione che una creatura subisce quando"
+  },
+  {
+   "x1": 85.0,
+   "y1": 146.0,
+   "x2": 539.0,
+   "y2": 183.0,
+   "text": "di pace. Alla fine di un riposo lungo ottiene l'effetto di"
+  },
+  {
+   "x1": 633.0,
+   "y1": 150.0,
+   "x2": 1117.0,
+   "y2": 177.0,
+   "text": "è colpita da un attacco. Ogni volta che una creatura entro"
+  },
+  {
+   "x1": 85.0,
+   "y1": 170.0,
+   "x2": 560.0,
+   "y2": 205.0,
+   "text": "un incantesimo santuario che dura fino all'inizio del suo"
+  },
+  {
+   "x1": 637.0,
+   "y1": 175.0,
+   "x2": 1117.0,
+   "y2": 199.0,
+   "text": "1,5 metri dal monaco è colpita da un attacco effettuato da"
+  },
+  {
+   "x1": 85.0,
+   "y1": 195.0,
+   "x2": 539.0,
+   "y2": 225.0,
+   "text": "riposo lungo successivo (l'incantesimo può terminare"
+  },
+  {
+   "x1": 635.0,
+   "y1": 199.0,
+   "x2": 1117.0,
+   "y2": 223.0,
+   "text": "una creatura diversa dalmonaco, quest'ultimo può usare"
+  },
+  {
+   "x1": 87.0,
+   "y1": 219.0,
+   "x2": 585.0,
+   "y2": 247.0,
+   "text": "anticipatamente come di consueto). La CD del tiro salvezza"
+  },
+  {
+   "x1": 635.0,
+   "y1": 221.0,
+   "x2": 1125.0,
+   "y2": 245.0,
+   "text": "la sua reazione per effettuare un attacco in mischia contro"
+  },
+  {
+   "x1": 89.0,
+   "y1": 243.0,
+   "x2": 587.0,
+   "y2": 267.0,
+   "text": "dell'incantesimo è pari a 8 + il modificatore di Saggezza del"
+  },
+  {
+   "x1": 637.0,
+   "y1": 245.0,
+   "x2": 779.0,
+   "y2": 267.0,
+   "text": "quella creatura."
+  },
+  {
+   "x1": 87.0,
+   "y1": 267.0,
+   "x2": 475.0,
+   "y2": 291.0,
+   "text": "monaco + il bonus di competenza del monaco."
+  },
+  {
+   "x1": 637.0,
+   "y1": 283.0,
+   "x2": 1027.0,
+   "y2": 314.0,
+   "text": "Via dei Quattro Elementi"
+  },
+  {
+   "x1": 89.0,
+   "y1": 307.0,
+   "x2": 290.0,
+   "y2": 331.0,
+   "text": "Palmo Tremante"
+  },
+  {
+   "x1": 633.0,
+   "y1": 320.0,
+   "x2": 1134.0,
+   "y2": 347.0,
+   "text": "Il monaco aderisce a una tradizione monastica che insegna"
+  },
+  {
+   "x1": 87.0,
+   "y1": 331.0,
+   "x2": 550.0,
+   "y2": 358.0,
+   "text": "Al 17* livello, il monaco ottiene la capacità di scatenare"
+  },
+  {
+   "x1": 635.0,
+   "y1": 345.0,
+   "x2": 1071.0,
+   "y2": 369.0,
+   "text": "come imbrigliare il potere degli elementi. Quando il"
+  },
+  {
+   "x1": 89.0,
+   "y1": 356.0,
+   "x2": 558.0,
+   "y2": 380.0,
+   "text": "vibrazioni letali nel corpo di un altro. Quando il monaco"
+  },
+  {
+   "x1": 635.0,
+   "y1": 369.0,
+   "x2": 1110.0,
+   "y2": 393.0,
+   "text": "monaco concentra il suo ki, entra in sintonia con le forze"
+  },
+  {
+   "x1": 89.0,
+   "y1": 380.0,
+   "x2": 512.0,
+   "y2": 404.0,
+   "text": "colpisce una creatura con un colpo senz'armi, può"
+  },
+  {
+   "x1": 635.0,
+   "y1": 391.0,
+   "x2": 1119.0,
+   "y2": 415.0,
+   "text": "della creazione e piega i quattro elementi alla sua volontà,"
+  },
+  {
+   "x1": 89.0,
+   "y1": 402.0,
+   "x2": 534.0,
+   "y2": 426.0,
+   "text": "spendere 3 punti ki per dare il via a queste vibrazioni"
+  },
+  {
+   "x1": 89.0,
+   "y1": 424.0,
+   "x2": 574.0,
+   "y2": 448.0,
+   "text": "impercettibili, che durano un numero di giorni pari al suo"
+  },
+  {
+   "x1": 635.0,
+   "y1": 415.0,
+   "x2": 1130.0,
+   "y2": 438.0,
+   "text": "usandoli come un'estensione del suo corpo. Alcuni membri"
+  },
+  {
+   "x1": 89.0,
+   "y1": 446.0,
+   "x2": 578.0,
+   "y2": 470.0,
+   "text": "livello da monaco.Le vibrazioni sono innocue, a meno che"
+  },
+  {
+   "x1": 635.0,
+   "y1": 437.0,
+   "x2": 1127.0,
+   "y2": 460.0,
+   "text": "di questa tradizione si dedicano a un singolo elemento, ma"
+  },
+  {
+   "x1": 635.0,
+   "y1": 459.0,
+   "x2": 940.0,
+   "y2": 482.0,
+   "text": "altri fondono i vari elementi tra loro."
+  },
+  {
+   "x1": 89.0,
+   "y1": 470.0,
+   "x2": 541.0,
+   "y2": 488.0,
+   "text": "il monaco non usi la sua azione per interromperle. Per"
+  },
+  {
+   "x1": 650.0,
+   "y1": 479.0,
+   "x2": 1127.0,
+   "y2": 502.0,
+   "text": "Molti monaci di questa tradizione si tatuano il corpo con"
+  },
+  {
+   "x1": 89.0,
+   "y1": 491.0,
+   "x2": 572.0,
+   "y2": 515.0,
+   "text": "farlo, il monaco e il bersaglio devono trovarsi sullo stesso"
+  },
+  {
+   "x1": 89.0,
+   "y1": 513.0,
+   "x2": 582.0,
+   "y2": 537.0,
+   "text": "piano di esistenza. Quando il monaco usa questa azione, la"
+  },
+  {
+   "x1": 635.0,
+   "y1": 504.0,
+   "x2": 1106.0,
+   "y2": 528.0,
+   "text": "vari simboli dei loro poteri ki, in genere raffigurati come"
+  },
+  {
+   "x1": 89.0,
+   "y1": 535.0,
+   "x2": 565.0,
+   "y2": 559.0,
+   "text": "creatura deve effettuare un tiro salvezza su Costituzione."
+  },
+  {
+   "x1": 635.0,
+   "y1": 528.0,
+   "x2": 1110.0,
+   "y2": 552.0,
+   "text": "draghi serpeggianti, ma anche come fenici, pesci, alberi,"
+  },
+  {
+   "x1": 87.0,
+   "y1": 557.0,
+   "x2": 573.0,
+   "y2": 585.0,
+   "text": "Se lo fallisce, scende a O punti ferita, mentre se lo supera,"
+  },
+  {
+   "x1": 635.0,
+   "y1": 550.0,
+   "x2": 910.0,
+   "y2": 574.0,
+   "text": "montagne o grandi onde marine."
+  },
+  {
+   "x1": 89.0,
+   "y1": 585.0,
+   "x2": 345.0,
+   "y2": 603.0,
+   "text": "subisce 10d10 danni necrotici."
+  },
+  {
+   "x1": 637.0,
+   "y1": 592.0,
+   "x2": 946.0,
+   "y2": 616.0,
+   "text": "Discepolo deglI ELementi"
+  },
+  {
+   "x1": 103.0,
+   "y1": 603.0,
+   "x2": 548.0,
+   "y2": 627.0,
+   "text": "Il monaco può tenere soltanto una creatura alla volta"
+  },
+  {
+   "x1": 87.0,
+   "y1": 625.0,
+   "x2": 556.0,
+   "y2": 649.0,
+   "text": "sotto l'effetto di questo privilegio. Può scegliere di porre"
+  },
+  {
+   "x1": 635.0,
+   "y1": 618.0,
+   "x2": 1102.0,
+   "y2": 641.0,
+   "text": "Quando il monaco sceglie questa tradizione al 3° livello,"
+  },
+  {
+   "x1": 89.0,
+   "y1": 649.0,
+   "x2": 582.0,
+   "y2": 672.0,
+   "text": "fine alle vibrazioni in modo innocuo senza usare un'azione."
+  },
+  {
+   "x1": 637.0,
+   "y1": 641.0,
+   "x2": 1108.0,
+   "y2": 665.0,
+   "text": "inizia ad apprendere una serie di discipline magiche che"
+  },
+  {
+   "x1": 633.0,
+   "y1": 661.0,
+   "x2": 1115.0,
+   "y2": 685.0,
+   "text": "imbrigliano il potere dei quattro elementi. Ogni disciplina"
+  },
+  {
+   "x1": 90.0,
+   "y1": 694.0,
+   "x2": 318.0,
+   "y2": 720.0,
+   "text": "VIA DELL'OMBRA"
+  },
+  {
+   "x1": 635.0,
+   "y1": 687.0,
+   "x2": 1134.0,
+   "y2": 711.0,
+   "text": "richiede un costo in punti ki ogni volta che il monaco la usa."
+  },
+  {
+   "x1": 654.0,
+   "y1": 709.0,
+   "x2": 1112.0,
+   "y2": 733.0,
+   "text": "Il monaco conosce la disciplina Sintonia Elementale e"
+  },
+  {
+   "x1": 87.0,
+   "y1": 729.0,
+   "x2": 539.0,
+   "y2": 753.0,
+   "text": "I monaci della Via dell'Ombra seguono una tradizione"
+  },
+  {
+   "x1": 635.0,
+   "y1": 731.0,
+   "x2": 1114.0,
+   "y2": 755.0,
+   "text": "un'altra disciplina elementale a sua scelta, descritta nella"
+  },
+  {
+   "x1": 87.0,
+   "y1": 753.0,
+   "x2": 561.0,
+   "y2": 777.0,
+   "text": "incentrata sulla furtività e sul sotterfugio. Questi monaci"
+  },
+  {
+   "x1": 635.0,
+   "y1": 753.0,
+   "x2": 1114.0,
+   "y2": 777.0,
+   "text": "sezione seguente, \"Discipline Elementali\". Apprende una"
+  },
+  {
+   "x1": 85.0,
+   "y1": 775.0,
+   "x2": 561.0,
+   "y2": 800.0,
+   "text": "a volte sono noti come ninja o ombre danzanti e fungono"
+  },
+  {
+   "x1": 635.0,
+   "y1": 777.0,
+   "x2": 1080.0,
+   "y2": 800.0,
+   "text": "disciplina elementale aggiuntiva a sua scelta al6, 11"
+  },
+  {
+   "x1": 87.0,
+   "y1": 798.0,
+   "x2": 558.0,
+   "y2": 822.0,
+   "text": "da spie e da assassini. A volte i membri di un monastero"
+  },
+  {
+   "x1": 637.0,
+   "y1": 800.0,
+   "x2": 742.0,
+   "y2": 820.0,
+   "text": "e 17º livello."
+  },
+  {
+   "x1": 89.0,
+   "y1": 824.0,
+   "x2": 556.0,
+   "y2": 842.0,
+   "text": "ninja sono imparentati tra loro e formano un clan votato"
+  },
+  {
+   "x1": 652.0,
+   "y1": 820.0,
+   "x2": 1099.0,
+   "y2": 844.0,
+   "text": "Inoltre, ogni volta che il monaco apprende una nuova"
+  },
+  {
+   "x1": 87.0,
+   "y1": 844.0,
+   "x2": 556.0,
+   "y2": 868.0,
+   "text": "alla segretezza nelle sue arti e missioni. Altri monasteri"
+  },
+  {
+   "x1": 633.0,
+   "y1": 844.0,
+   "x2": 1125.0,
+   "y2": 868.0,
+   "text": "disciplina elementale, può sostituire una disciplina che già"
+  },
+  {
+   "x1": 89.0,
+   "y1": 870.0,
+   "x2": 561.0,
+   "y2": 888.0,
+   "text": "sono più simili alle gilde dei ladri e vendono i loro servizi"
+  },
+  {
+   "x1": 637.0,
+   "y1": 870.0,
+   "x2": 931.0,
+   "y2": 888.0,
+   "text": "conosce con una disciplina diversa."
+  },
+  {
+   "x1": 87.0,
+   "y1": 890.0,
+   "x2": 548.0,
+   "y2": 914.0,
+   "text": "ai nobili, ai ricchi mercanti e a chiunque sia in grado di"
+  },
+  {
+   "x1": 652.0,
+   "y1": 888.0,
+   "x2": 1102.0,
+   "y2": 912.0,
+   "text": "Lanciare Incantesimi Elementali. Alcune discipline"
+  },
+  {
+   "x1": 87.0,
+   "y1": 912.0,
+   "x2": 572.0,
+   "y2": 935.0,
+   "text": "pagare le loro tariffe. A prescindere dai loro metodi, i capi"
+  },
+  {
+   "x1": 633.0,
+   "y1": 910.0,
+   "x2": 1117.0,
+   "y2": 936.0,
+   "text": "elementali consentono al monaco di lanciare incantesimi."
+  },
+  {
+   "x1": 87.0,
+   "y1": 935.0,
+   "x2": 574.0,
+   "y2": 959.0,
+   "text": "di questi monasteri esigono un'obbedienza incondizionata"
+  },
+  {
+   "x1": 633.0,
+   "y1": 932.0,
+   "x2": 1128.0,
+   "y2": 959.0,
+   "text": "Vedi il capitolo 10 per le regole generali relative alla magia."
+  },
+  {
+   "x1": 87.0,
+   "y1": 957.0,
+   "x2": 314.0,
+   "y2": 981.0,
+   "text": "da parte dei loro discepoli."
+  },
+  {
+   "x1": 633.0,
+   "y1": 956.0,
+   "x2": 1097.0,
+   "y2": 979.0,
+   "text": "Per lanciare uno di questi incantesimi, il monaco usa il"
+  },
+  {
+   "x1": 633.0,
+   "y1": 979.0,
+   "x2": 1099.0,
+   "y2": 1003.0,
+   "text": "tempo di lancio e le altre regole relative all'incantesimo"
+  },
+  {
+   "x1": 87.0,
+   "y1": 997.0,
+   "x2": 288.0,
+   "y2": 1025.0,
+   "text": "Arti Dell'Ombra"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1003.0,
+   "x2": 1108.0,
+   "y2": 1027.0,
+   "text": "in questione, ma non è obbligato a fornire le componenti"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1025.0,
+   "x2": 567.0,
+   "y2": 1049.0,
+   "text": "A partire da quando sceglie questa tradizione al 3* livello,"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1029.0,
+   "x2": 872.0,
+   "y2": 1047.0,
+   "text": "materiali che esso richiede."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1047.0,
+   "x2": 556.0,
+   "y2": 1071.0,
+   "text": "un monaco può usare il suo ki per duplicare gli effetti di"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1047.0,
+   "x2": 1108.0,
+   "y2": 1071.0,
+   "text": "Una volta arrivato al 5 livello, il monaco può spendere"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1072.0,
+   "x2": 561.0,
+   "y2": 1096.0,
+   "text": "certi incantesimi. Con un'azione può spendere 2 punti ki"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1069.0,
+   "x2": 1112.0,
+   "y2": 1093.0,
+   "text": "ulteriori punti ki per aumentare il livello di una disciplina"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1094.0,
+   "x2": 578.0,
+   "y2": 1118.0,
+   "text": "per lanciare oscurità, passare senza tracce, scurovisione o"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1094.0,
+   "x2": 1114.0,
+   "y2": 1118.0,
+   "text": "elementale da lui lanciata, purché l'incantesimo possieda"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1116.0,
+   "x2": 582.0,
+   "y2": 1142.0,
+   "text": "silenzio senza fornire componenti materiali. Inoltre ottiene"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1118.0,
+   "x2": 1075.0,
+   "y2": 1142.0,
+   "text": "un effetto potenziato a un livello superiore, come per"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1138.0,
+   "x2": 541.0,
+   "y2": 1164.0,
+   "text": "il trucchetto illusione minore, se già non lo conosceva."
+  },
+  {
+   "x1": 635.0,
+   "y1": 1140.0,
+   "x2": 1130.0,
+   "y2": 1164.0,
+   "text": "esempio mani brucianti. Il livello del'incantesimo aumenta"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1164.0,
+   "x2": 1099.0,
+   "y2": 1182.0,
+   "text": "di 1 per ogni punto ki aggiuntivo speso dal monaco. Per"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1182.0,
+   "x2": 297.0,
+   "y2": 1206.0,
+   "text": "PASSo dELl'OmBrA"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1186.0,
+   "x2": 1093.0,
+   "y2": 1210.0,
+   "text": "esempio, se un monaco di 5° livello utilizzaColpo della"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1208.0,
+   "x2": 556.0,
+   "y2": 1231.0,
+   "text": "Al 6° livello, un monaco ottiene la capacità di passare da"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1206.0,
+   "x2": 1069.0,
+   "y2": 1230.0,
+   "text": "Cenere Turbinante per lanciare mani brucianti, può"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1233.0,
+   "x2": 552.0,
+   "y2": 1257.0,
+   "text": "un'ombra all'altra. Quando si trova in condizioni di luce"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1228.0,
+   "x2": 1106.0,
+   "y2": 1255.0,
+   "text": "spendere 3 punti ki per lanciarlo come incantesimo di 2"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1253.0,
+   "x2": 585.0,
+   "y2": 1277.0,
+   "text": "foca o di oscurità, con un'azione bonus può teletrasportarsi"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1253.0,
+   "x2": 1130.0,
+   "y2": 1277.0,
+   "text": "livello (il costo base della disciplina, pari a 2 punti ki, più 1)."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1275.0,
+   "x2": 578.0,
+   "y2": 1303.0,
+   "text": "di un massimo di 18 metri fino a uno spazio libero che egli"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1275.0,
+   "x2": 1062.0,
+   "y2": 1299.0,
+   "text": "Il numero massimo di punti ki che il monaco può"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1301.0,
+   "x2": 584.0,
+   "y2": 1325.0,
+   "text": "sia in grado di vedere e che si trovi a sua volta in condizioni"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1303.0,
+   "x2": 1084.0,
+   "y2": 1321.0,
+   "text": "spendere per lanciare un incantesimo in questo modo"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1321.0,
+   "x2": 532.0,
+   "y2": 1345.0,
+   "text": "di luce fioca o di oscurità. Dispone poi di vantaggio al"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1321.0,
+   "x2": 1102.0,
+   "y2": 1345.0,
+   "text": "(incluso il suo costo base in punti ki e gli eventuali punti"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1347.0,
+   "x2": 534.0,
+   "y2": 1370.0,
+   "text": "primo attacco in mischia che effettua prima della fine"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1347.0,
+   "x2": 1067.0,
+   "y2": 1370.0,
+   "text": "ki aggiuntivi che spende per aumentarne il livello) è"
+  },
+  {
+   "x1": 81.0,
+   "y1": 1364.0,
+   "x2": 174.0,
+   "y2": 1395.0,
+   "text": "del turno."
+  },
+  {
+   "x1": 632.0,
+   "y1": 1368.0,
+   "x2": 1091.0,
+   "y2": 1392.0,
+   "text": "determinato dal livello da monaco, come indicato nella"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1389.0,
+   "x2": 905.0,
+   "y2": 1412.0,
+   "text": "tabella \"Incantesimi e Punti Ki\"."
+  },
+  {
+   "x1": 87.0,
+   "y1": 1411.0,
+   "x2": 286.0,
+   "y2": 1434.0,
+   "text": "Manto di Ombre"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1434.0,
+   "x2": 549.0,
+   "y2": 1464.0,
+   "text": "All'11' livello, il monaco è in grado di diventare tutt'uno"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1440.0,
+   "x2": 892.0,
+   "y2": 1463.0,
+   "text": "InCanTesiMi EPUnTi Ki"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1458.0,
+   "x2": 565.0,
+   "y2": 1485.0,
+   "text": "con le ombre. Quando si trova in un'area di luce foca o di"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1469.0,
+   "x2": 789.0,
+   "y2": 1498.0,
+   "text": "Livelli da Monaco"
+  },
+  {
+   "x1": 844.0,
+   "y1": 1474.0,
+   "x2": 1097.0,
+   "y2": 1498.0,
+   "text": "Punti Ki Massimi per Incantesimo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1485.0,
+   "x2": 563.0,
+   "y2": 1509.0,
+   "text": "oscurità, può usarela sua azione per diventare invisibile."
+  },
+  {
+   "x1": 85.0,
+   "y1": 1504.0,
+   "x2": 582.0,
+   "y2": 1531.0,
+   "text": "Rimane invisibile finché non effettua un attacco, non lancia"
+  },
+  {
+   "x1": 696.0,
+   "y1": 1498.0,
+   "x2": 746.0,
+   "y2": 1526.0,
+   "text": "5°-8°"
+  },
+  {
+   "x1": 962.0,
+   "y1": 1504.0,
+   "x2": 977.0,
+   "y2": 1526.0,
+   "text": "3"
+  },
+  {
+   "x1": 83.0,
+   "y1": 1529.0,
+   "x2": 552.0,
+   "y2": 1555.0,
+   "text": "un incantesimo o non si trova in un'area di luce intensa."
+  },
+  {
+   "x1": 693.0,
+   "y1": 1526.0,
+   "x2": 748.0,
+   "y2": 1553.0,
+   "text": "9°-12"
+  },
+  {
+   "x1": 960.0,
+   "y1": 1527.0,
+   "x2": 981.0,
+   "y2": 1584.0,
+   "text": "45"
+  },
+  {
+   "x1": 689.0,
+   "y1": 1553.0,
+   "x2": 752.0,
+   "y2": 1580.0,
+   "text": "13*-16"
+  },
+  {
+   "x1": 689.0,
+   "y1": 1580.0,
+   "x2": 752.0,
+   "y2": 1608.0,
+   "text": "17°-20°"
+  },
+  {
+   "x1": 964.0,
+   "y1": 1582.0,
+   "x2": 977.0,
+   "y2": 1604.0,
+   "text": "6"
+  },
+  {
+   "x1": 953.0,
+   "y1": 1679.0,
+   "x2": 1134.0,
+   "y2": 1703.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1193.0,
+   "y1": 1692.0,
+   "x2": 1221.0,
+   "y2": 1716.0,
+   "text": "93"
+  }
+ ],
+ "reading_text": "TRANQUILLITÀ\nA partire dall'11\" livello, il monaco può entrare in una\nspeciale forma di meditazione, immergendosi in un'aura\ndi pace. Alla fine di un riposo lungo ottiene l'effetto di\nun incantesimo santuario che dura fino all'inizio del suo\nriposo lungo successivo (l'incantesimo può terminare\nanticipatamente come di consueto). La CD del tiro salvezza\ndell'incantesimo è pari a 8 + il modificatore di Saggezza del\nmonaco + il bonus di competenza del monaco.\nPalmo Tremante\nAl 17* livello, il monaco ottiene la capacità di scatenare\nvibrazioni letali nel corpo di un altro. Quando il monaco\ncolpisce una creatura con un colpo senz'armi, può\nspendere 3 punti ki per dare il via a queste vibrazioni\nimpercettibili, che durano un numero di giorni pari al suo\nlivello da monaco.Le vibrazioni sono innocue, a meno che\nil monaco non usi la sua azione per interromperle. Per\nfarlo, il monaco e il bersaglio devono trovarsi sullo stesso\npiano di esistenza. Quando il monaco usa questa azione, la\ncreatura deve effettuare un tiro salvezza su Costituzione.\nSe lo fallisce, scende a O punti ferita, mentre se lo supera,\nsubisce 10d10 danni necrotici.\nIl monaco può tenere soltanto una creatura alla volta\nsotto l'effetto di questo privilegio. Può scegliere di porre\nfine alle vibrazioni in modo innocuo senza usare un'azione.\nVIA DELL'OMBRA\nI monaci della Via dell'Ombra seguono una tradizione\nincentrata sulla furtività e sul sotterfugio. Questi monaci\na volte sono noti come ninja o ombre danzanti e fungono\nda spie e da assassini. A volte i membri di un monastero\nninja sono imparentati tra loro e formano un clan votato\nalla segretezza nelle sue arti e missioni. Altri monasteri\nsono più simili alle gilde dei ladri e vendono i loro servizi\nai nobili, ai ricchi mercanti e a chiunque sia in grado di\npagare le loro tariffe. A prescindere dai loro metodi, i capi\ndi questi monasteri esigono un'obbedienza incondizionata\nda parte dei loro discepoli.\nArti Dell'Ombra\nA partire da quando sceglie questa tradizione al 3* livello,\nun monaco può usare il suo ki per duplicare gli effetti di\ncerti incantesimi. Con un'azione può spendere 2 punti ki\nper lanciare oscurità, passare senza tracce, scurovisione o\nsilenzio senza fornire componenti materiali. Inoltre ottiene\nil trucchetto illusione minore, se già non lo conosceva.\nPASSo dELl'OmBrA\nAl 6° livello, un monaco ottiene la capacità di passare da\nun'ombra all'altra. Quando si trova in condizioni di luce\nfoca o di oscurità, con un'azione bonus può teletrasportarsi\ndi un massimo di 18 metri fino a uno spazio libero che egli\nsia in grado di vedere e che si trovi a sua volta in condizioni\ndi luce fioca o di oscurità. Dispone poi di vantaggio al\nprimo attacco in mischia che effettua prima della fine\ndel turno.\nManto di Ombre\nAll'11' livello, il monaco è in grado di diventare tutt'uno\ncon le ombre. Quando si trova in un'area di luce foca o di\noscurità, può usarela sua azione per diventare invisibile.\nRimane invisibile finché non effettua un attacco, non lancia\nun incantesimo o non si trova in un'area di luce intensa.\nOPPORTUNISTA\nAl 17*livello, un monaco impara ad approfittare della\nmomentanea distrazione che una creatura subisce quando\nè colpita da un attacco. Ogni volta che una creatura entro\n1,5 metri dal monaco è colpita da un attacco effettuato da\nuna creatura diversa dalmonaco, quest'ultimo può usare\nla sua reazione per effettuare un attacco in mischia contro\nquella creatura.\nVia dei Quattro Elementi\nIl monaco aderisce a una tradizione monastica che insegna\ncome imbrigliare il potere degli elementi. Quando il\nmonaco concentra il suo ki, entra in sintonia con le forze\ndella creazione e piega i quattro elementi alla sua volontà,\nusandoli come un'estensione del suo corpo. Alcuni membri\ndi questa tradizione si dedicano a un singolo elemento, ma\naltri fondono i vari elementi tra loro.\nMolti monaci di questa tradizione si tatuano il corpo con\nvari simboli dei loro poteri ki, in genere raffigurati come\ndraghi serpeggianti, ma anche come fenici, pesci, alberi,\nmontagne o grandi onde marine.\nDiscepolo deglI ELementi\nQuando il monaco sceglie questa tradizione al 3° livello,\ninizia ad apprendere una serie di discipline magiche che\nimbrigliano il potere dei quattro elementi. Ogni disciplina\nrichiede un costo in punti ki ogni volta che il monaco la usa.\nIl monaco conosce la disciplina Sintonia Elementale e\nun'altra disciplina elementale a sua scelta, descritta nella\nsezione seguente, \"Discipline Elementali\". Apprende una\ndisciplina elementale aggiuntiva a sua scelta al6, 11\ne 17º livello.\nInoltre, ogni volta che il monaco apprende una nuova\ndisciplina elementale, può sostituire una disciplina che già\nconosce con una disciplina diversa.\nLanciare Incantesimi Elementali. Alcune discipline\nelementali consentono al monaco di lanciare incantesimi.\nVedi il capitolo 10 per le regole generali relative alla magia.\nPer lanciare uno di questi incantesimi, il monaco usa il\ntempo di lancio e le altre regole relative all'incantesimo\nin questione, ma non è obbligato a fornire le componenti\nmateriali che esso richiede.\nUna volta arrivato al 5 livello, il monaco può spendere\nulteriori punti ki per aumentare il livello di una disciplina\nelementale da lui lanciata, purché l'incantesimo possieda\nun effetto potenziato a un livello superiore, come per\nesempio mani brucianti. Il livello del'incantesimo aumenta\ndi 1 per ogni punto ki aggiuntivo speso dal monaco. Per\nesempio, se un monaco di 5° livello utilizzaColpo della\nCenere Turbinante per lanciare mani brucianti, può\nspendere 3 punti ki per lanciarlo come incantesimo di 2\nlivello (il costo base della disciplina, pari a 2 punti ki, più 1).\nIl numero massimo di punti ki che il monaco può\nspendere per lanciare un incantesimo in questo modo\n(incluso il suo costo base in punti ki e gli eventuali punti\nki aggiuntivi che spende per aumentarne il livello) è\ndeterminato dal livello da monaco, come indicato nella\ntabella \"Incantesimi e Punti Ki\".\nInCanTesiMi EPUnTi Ki\nLivelli da Monaco\nPunti Ki Massimi per Incantesimo\n5°-8°\n3\n9°-12\n45\n13*-16\n17°-20°\n6\nCAPITOLO 3 |CLASSI\n93"
+}

@@ -1,0 +1,654 @@
+{
+ "pdf_page_index": 86,
+ "page_label": 87,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 92,
+ "lines": [
+  {
+   "x1": 81.0,
+   "y1": 56.0,
+   "x2": 274.0,
+   "y2": 99.0,
+   "text": "SOsia ILLUsOriO"
+  },
+  {
+   "x1": 639.0,
+   "y1": 64.0,
+   "x2": 907.0,
+   "y2": 88.0,
+   "text": "PLasmare Incantesimi"
+  },
+  {
+   "x1": 635.0,
+   "y1": 90.0,
+   "x2": 1136.0,
+   "y2": 115.0,
+   "text": "A partire dal 2° livello, il mago è in grado di creare delle sacche"
+  },
+  {
+   "x1": 635.0,
+   "y1": 113.0,
+   "x2": 1138.0,
+   "y2": 137.0,
+   "text": "di relativa sicurezza all'interno degli effetti dei suoi incantesimi"
+  },
+  {
+   "x1": 635.0,
+   "y1": 135.0,
+   "x2": 1086.0,
+   "y2": 159.0,
+   "text": "di invocazione. Quando il mago lancia un incantesimo di"
+  },
+  {
+   "x1": 635.0,
+   "y1": 157.0,
+   "x2": 1088.0,
+   "y2": 181.0,
+   "text": "invocazione che influenza le altre creature che è in grado"
+  },
+  {
+   "x1": 637.0,
+   "y1": 185.0,
+   "x2": 1097.0,
+   "y2": 208.0,
+   "text": "di vedere, può scegliere un numero di quelle creature pari"
+  },
+  {
+   "x1": 635.0,
+   "y1": 206.0,
+   "x2": 1108.0,
+   "y2": 230.0,
+   "text": "a 1 + il livello dell'incantesimo. Le creature scelte superano"
+  },
+  {
+   "x1": 96.0,
+   "y1": 225.0,
+   "x2": 589.0,
+   "y2": 260.0,
+   "text": "Una volta utilizzato questo privilegio, il mago non può più"
+  },
+  {
+   "x1": 635.0,
+   "y1": 230.0,
+   "x2": 1134.0,
+   "y2": 254.0,
+   "text": "automaticamente i loro tiri salvezza contro l'incantesimo e non"
+  },
+  {
+   "x1": 633.0,
+   "y1": 250.0,
+   "x2": 1119.0,
+   "y2": 278.0,
+   "text": "subiscono alcun danno se normalmente subirebbero la metà"
+  },
+  {
+   "x1": 633.0,
+   "y1": 274.0,
+   "x2": 975.0,
+   "y2": 302.0,
+   "text": "dei danni in caso di tiro salvezza superato."
+  },
+  {
+   "x1": 83.0,
+   "y1": 292.0,
+   "x2": 290.0,
+   "y2": 326.0,
+   "text": "Realta ILlusoria"
+  },
+  {
+   "x1": 635.0,
+   "y1": 316.0,
+   "x2": 890.0,
+   "y2": 344.0,
+   "text": "Trucchetto Potente"
+  },
+  {
+   "x1": 79.0,
+   "y1": 340.0,
+   "x2": 547.0,
+   "y2": 377.0,
+   "text": "del'ombra per impartire alle sue illusioni una parvenza"
+  },
+  {
+   "x1": 633.0,
+   "y1": 343.0,
+   "x2": 1130.0,
+   "y2": 371.0,
+   "text": "A partire dal 6° livello, i trucchetti del mago che infliggono"
+  },
+  {
+   "x1": 81.0,
+   "y1": 363.0,
+   "x2": 534.0,
+   "y2": 398.0,
+   "text": "di realtà. Quando lancia un incantesimo di illusione di"
+  },
+  {
+   "x1": 633.0,
+   "y1": 369.0,
+   "x2": 1064.0,
+   "y2": 393.0,
+   "text": "danni possono influenzare perfino le creature che"
+  },
+  {
+   "x1": 81.0,
+   "y1": 387.0,
+   "x2": 523.0,
+   "y2": 422.0,
+   "text": "livello pari o superiore al 1\", può scegliere un oggetto"
+  },
+  {
+   "x1": 635.0,
+   "y1": 391.0,
+   "x2": 1117.0,
+   "y2": 417.0,
+   "text": "altrimenti eviterebbero il grosso dell'effetto. Quando una"
+  },
+  {
+   "x1": 81.0,
+   "y1": 415.0,
+   "x2": 574.0,
+   "y2": 442.0,
+   "text": "inanimato non magico che siaparte dell'illusione e rendere"
+  },
+  {
+   "x1": 635.0,
+   "y1": 418.0,
+   "x2": 1088.0,
+   "y2": 437.0,
+   "text": "creatura supera un tiro salvezza contro un trucchetto"
+  },
+  {
+   "x1": 79.0,
+   "y1": 433.0,
+   "x2": 554.0,
+   "y2": 468.0,
+   "text": "quell'oggetto reale. Può farlo nel suo turno con un'azione"
+  },
+  {
+   "x1": 637.0,
+   "y1": 438.0,
+   "x2": 1102.0,
+   "y2": 462.0,
+   "text": "del mago, quella creatura subisce la metà dei danni del"
+  },
+  {
+   "x1": 81.0,
+   "y1": 459.0,
+   "x2": 549.0,
+   "y2": 488.0,
+   "text": "bonus finché l'incantesimo è attivo. L'oggetto resta reale"
+  },
+  {
+   "x1": 633.0,
+   "y1": 460.0,
+   "x2": 1078.0,
+   "y2": 484.0,
+   "text": "trucchetto (se previsti), ma non subisce alcun effetto"
+  },
+  {
+   "x1": 635.0,
+   "y1": 486.0,
+   "x2": 892.0,
+   "y2": 510.0,
+   "text": "aggiuntivo da quel trucchetto."
+  },
+  {
+   "x1": 79.0,
+   "y1": 502.0,
+   "x2": 573.0,
+   "y2": 537.0,
+   "text": "un ponte che attraversa un baratro e renderla reale quanto"
+  },
+  {
+   "x1": 81.0,
+   "y1": 530.0,
+   "x2": 495.0,
+   "y2": 557.0,
+   "text": "basta da consentire ai suoi alleati di attraversarlo."
+  },
+  {
+   "x1": 637.0,
+   "y1": 528.0,
+   "x2": 894.0,
+   "y2": 552.0,
+   "text": "Invocazione Potente"
+  },
+  {
+   "x1": 98.0,
+   "y1": 554.0,
+   "x2": 478.0,
+   "y2": 577.0,
+   "text": "L'oggetto non può infliggere danni o ferire in"
+  },
+  {
+   "x1": 635.0,
+   "y1": 554.0,
+   "x2": 1080.0,
+   "y2": 579.0,
+   "text": "A partire dal 10 livello, il mago può aggiungere il suo"
+  },
+  {
+   "x1": 79.0,
+   "y1": 575.0,
+   "x2": 203.0,
+   "y2": 605.0,
+   "text": "modo diretto."
+  },
+  {
+   "x1": 635.0,
+   "y1": 579.0,
+   "x2": 1082.0,
+   "y2": 603.0,
+   "text": "modificatore di Intelligenza a un tiro per i danni di un"
+  },
+  {
+   "x1": 637.0,
+   "y1": 601.0,
+   "x2": 1143.0,
+   "y2": 625.0,
+   "text": "qualsiasi incantesimo di invocazione da mago da lui lanciato."
+  },
+  {
+   "x1": 85.0,
+   "y1": 623.0,
+   "x2": 425.0,
+   "y2": 649.0,
+   "text": "Scuola di Invocazione"
+  },
+  {
+   "x1": 637.0,
+   "y1": 643.0,
+   "x2": 885.0,
+   "y2": 667.0,
+   "text": "Saturazione Magica"
+  },
+  {
+   "x1": 83.0,
+   "y1": 660.0,
+   "x2": 524.0,
+   "y2": 683.0,
+   "text": "Un invocatore concentra i suoi studi sulle magie che"
+  },
+  {
+   "x1": 633.0,
+   "y1": 669.0,
+   "x2": 1141.0,
+   "y2": 696.0,
+   "text": "A partire dal 14livello, il mago può intensificare il potere dei"
+  },
+  {
+   "x1": 81.0,
+   "y1": 681.0,
+   "x2": 515.0,
+   "y2": 709.0,
+   "text": "generano potenti effetti elementali come un freddo"
+  },
+  {
+   "x1": 635.0,
+   "y1": 694.0,
+   "x2": 1143.0,
+   "y2": 718.0,
+   "text": "suoi incantesimi più semplici. Quando lancia un incantesimo"
+  },
+  {
+   "x1": 81.0,
+   "y1": 707.0,
+   "x2": 571.0,
+   "y2": 731.0,
+   "text": "pungente, una fiamma incandescente, un rombo di tuono,"
+  },
+  {
+   "x1": 633.0,
+   "y1": 716.0,
+   "x2": 1134.0,
+   "y2": 744.0,
+   "text": "da mago compreso tra il 1º e il 5° livello e che infligga danni,"
+  },
+  {
+   "x1": 85.0,
+   "y1": 733.0,
+   "x2": 517.0,
+   "y2": 751.0,
+   "text": "un fulmine crepitante o un acido sfrigolante. Alcuni"
+  },
+  {
+   "x1": 635.0,
+   "y1": 742.0,
+   "x2": 1121.0,
+   "y2": 766.0,
+   "text": "può infiggere il massimo dei danni con quell'incantesimo."
+  },
+  {
+   "x1": 83.0,
+   "y1": 753.0,
+   "x2": 528.0,
+   "y2": 777.0,
+   "text": "invocatori prestano servizio nelle forze militari come"
+  },
+  {
+   "x1": 652.0,
+   "y1": 766.0,
+   "x2": 1117.0,
+   "y2": 789.0,
+   "text": "La prima volta che il mago lo fa, non subisce alcun effetto"
+  },
+  {
+   "x1": 81.0,
+   "y1": 777.0,
+   "x2": 576.0,
+   "y2": 800.0,
+   "text": "unità di artiglieria in grado di colpire gli eserciti nemici da"
+  },
+  {
+   "x1": 633.0,
+   "y1": 787.0,
+   "x2": 1099.0,
+   "y2": 811.0,
+   "text": "avverso. Se però utilizza questo privilegio di nuovo prima"
+  },
+  {
+   "x1": 79.0,
+   "y1": 798.0,
+   "x2": 563.0,
+   "y2": 826.0,
+   "text": "grandi distanze. Altri usano i loro straordinari poteri per"
+  },
+  {
+   "x1": 633.0,
+   "y1": 811.0,
+   "x2": 1093.0,
+   "y2": 835.0,
+   "text": "di avere completato un riposo lungo, subisce 2d12 danni"
+  },
+  {
+   "x1": 83.0,
+   "y1": 824.0,
+   "x2": 563.0,
+   "y2": 848.0,
+   "text": "proteggere i deboli, mentre altri ancora vanno in cerca di"
+  },
+  {
+   "x1": 635.0,
+   "y1": 835.0,
+   "x2": 1130.0,
+   "y2": 859.0,
+   "text": "necrotici per ogni livello dell'incantesimo in questione, subito"
+  },
+  {
+   "x1": 83.0,
+   "y1": 850.0,
+   "x2": 532.0,
+   "y2": 868.0,
+   "text": "profitto come banditi, avventurieri o aspiranti tiranni."
+  },
+  {
+   "x1": 635.0,
+   "y1": 857.0,
+   "x2": 1119.0,
+   "y2": 881.0,
+   "text": "dopo averlo lanciato. Ogni volta che utilizza di nuovo questo"
+  },
+  {
+   "x1": 79.0,
+   "y1": 888.0,
+   "x2": 332.0,
+   "y2": 915.0,
+   "text": "Invocatore Sapiente"
+  },
+  {
+   "x1": 635.0,
+   "y1": 882.0,
+   "x2": 1125.0,
+   "y2": 906.0,
+   "text": "privilegio prima di avere completato un riposo lungo, i danni"
+  },
+  {
+   "x1": 635.0,
+   "y1": 904.0,
+   "x2": 1091.0,
+   "y2": 928.0,
+   "text": "necrotici per livello dell'incantesimo aumentano di 1d12."
+  },
+  {
+   "x1": 79.0,
+   "y1": 914.0,
+   "x2": 543.0,
+   "y2": 941.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2°"
+  },
+  {
+   "x1": 79.0,
+   "y1": 937.0,
+   "x2": 536.0,
+   "y2": 965.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 635.0,
+   "y1": 928.0,
+   "x2": 1139.0,
+   "y2": 952.0,
+   "text": "Questi danni ignorano le varie forme di resistenza e immunità."
+  },
+  {
+   "x1": 81.0,
+   "y1": 963.0,
+   "x2": 563.0,
+   "y2": 987.0,
+   "text": "copiare un incantesimo di invocazione nel suo libro degli"
+  },
+  {
+   "x1": 635.0,
+   "y1": 968.0,
+   "x2": 992.0,
+   "y2": 1003.0,
+   "text": "Scuola di Necromanzia"
+  },
+  {
+   "x1": 81.0,
+   "y1": 987.0,
+   "x2": 321.0,
+   "y2": 1010.0,
+   "text": "incantesimi sono dimezzati."
+  },
+  {
+   "x1": 635.0,
+   "y1": 1009.0,
+   "x2": 1110.0,
+   "y2": 1032.0,
+   "text": "La Scuola di Necromanzia esplora le forze cosmiche della"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1034.0,
+   "x2": 1132.0,
+   "y2": 1058.0,
+   "text": "vita, della morte e della non morte. Un necromante concentra"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1058.0,
+   "x2": 1101.0,
+   "y2": 1082.0,
+   "text": "i suoi studi in questa tradizione, allo scopo di manipolare"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1078.0,
+   "x2": 1114.0,
+   "y2": 1105.0,
+   "text": "l'energia che anima tutto ciò che vive. Quando padroneggia"
+  },
+  {
+   "x1": 635.0,
+   "y1": 1105.0,
+   "x2": 1125.0,
+   "y2": 1129.0,
+   "text": "la sua arte, impara a fiaccare l'energia vitale di una creatura,"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1127.0,
+   "x2": 1112.0,
+   "y2": 1153.0,
+   "text": "a distruggere il suo corpo tramite la magia e a trasformare"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1151.0,
+   "x2": 1097.0,
+   "y2": 1177.0,
+   "text": "quell'energia vitale in altro potere magico da manipolare."
+  },
+  {
+   "x1": 652.0,
+   "y1": 1175.0,
+   "x2": 1101.0,
+   "y2": 1199.0,
+   "text": "La maggior parte della gente considera i necromanti"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1199.0,
+   "x2": 1115.0,
+   "y2": 1222.0,
+   "text": "minacciosi o addirittura malvagi, a causa del loro stretto"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1222.0,
+   "x2": 1125.0,
+   "y2": 1246.0,
+   "text": "legame con la morte. Non tutti i necromanti sono malvagi,"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1244.0,
+   "x2": 1125.0,
+   "y2": 1268.0,
+   "text": "ma le forze che essi manipolano sono considerate tabù da"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1272.0,
+   "x2": 755.0,
+   "y2": 1290.0,
+   "text": "molte società."
+  },
+  {
+   "x1": 632.0,
+   "y1": 1310.0,
+   "x2": 899.0,
+   "y2": 1337.0,
+   "text": "Necromante Sapiente"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1339.0,
+   "x2": 1095.0,
+   "y2": 1363.0,
+   "text": "A partire da quando il mago sceglie questa scuola al 2"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1361.0,
+   "x2": 1090.0,
+   "y2": 1389.0,
+   "text": "livello, il tempo e il denaro che egli deve spendere per"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1387.0,
+   "x2": 1125.0,
+   "y2": 1411.0,
+   "text": "copiare un incantesimo di necromanzia nel suo libro degli"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1411.0,
+   "x2": 874.0,
+   "y2": 1434.0,
+   "text": "incantesimi sono dimezzati."
+  },
+  {
+   "x1": 632.0,
+   "y1": 1454.0,
+   "x2": 864.0,
+   "y2": 1478.0,
+   "text": "Raccolto Macabro"
+  },
+  {
+   "x1": 633.0,
+   "y1": 1482.0,
+   "x2": 1084.0,
+   "y2": 1506.0,
+   "text": "A1 2*livello, il mago sviluppa la capacità di raccogliere"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1502.0,
+   "x2": 1106.0,
+   "y2": 1529.0,
+   "text": "l'energia vitale delle creature uccise dai suoi incantesimi."
+  },
+  {
+   "x1": 632.0,
+   "y1": 1526.0,
+   "x2": 1117.0,
+   "y2": 1553.0,
+   "text": "Una volta per turno, quando uccide una o più creature con"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1553.0,
+   "x2": 1084.0,
+   "y2": 1577.0,
+   "text": "un incantesimo di livello pari o superiore al 1', il mago"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1577.0,
+   "x2": 1101.0,
+   "y2": 1601.0,
+   "text": "recupera un ammontare di punti ferita pari al doppio del"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1597.0,
+   "x2": 1134.0,
+   "y2": 1624.0,
+   "text": "livello dell'incantesimo, o al triplo del livello se l'incantesimo"
+  },
+  {
+   "x1": 632.0,
+   "y1": 1624.0,
+   "x2": 1127.0,
+   "y2": 1648.0,
+   "text": "appartiene alla Scuola di Necromanzia. Non ottiene questo"
+  },
+  {
+   "x1": 630.0,
+   "y1": 1644.0,
+   "x2": 1034.0,
+   "y2": 1672.0,
+   "text": "beneficio se uccide dei costrutti o dei non morti."
+  },
+  {
+   "x1": 957.0,
+   "y1": 1703.0,
+   "x2": 1139.0,
+   "y2": 1727.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 1202.0,
+   "y1": 1716.0,
+   "x2": 1228.0,
+   "y2": 1738.0,
+   "text": "87"
+  }
+ ],
+ "reading_text": "SOsia ILLUsOriO\nUna volta utilizzato questo privilegio, il mago non può più\nRealta ILlusoria\ndel'ombra per impartire alle sue illusioni una parvenza\ndi realtà. Quando lancia un incantesimo di illusione di\nlivello pari o superiore al 1\", può scegliere un oggetto\ninanimato non magico che siaparte dell'illusione e rendere\nquell'oggetto reale. Può farlo nel suo turno con un'azione\nbonus finché l'incantesimo è attivo. L'oggetto resta reale\nun ponte che attraversa un baratro e renderla reale quanto\nbasta da consentire ai suoi alleati di attraversarlo.\nL'oggetto non può infliggere danni o ferire in\nmodo diretto.\nScuola di Invocazione\nUn invocatore concentra i suoi studi sulle magie che\ngenerano potenti effetti elementali come un freddo\npungente, una fiamma incandescente, un rombo di tuono,\nun fulmine crepitante o un acido sfrigolante. Alcuni\ninvocatori prestano servizio nelle forze militari come\nunità di artiglieria in grado di colpire gli eserciti nemici da\ngrandi distanze. Altri usano i loro straordinari poteri per\nproteggere i deboli, mentre altri ancora vanno in cerca di\nprofitto come banditi, avventurieri o aspiranti tiranni.\nInvocatore Sapiente\nA partire da quando il mago sceglie questa scuola al 2°\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di invocazione nel suo libro degli\nincantesimi sono dimezzati.\nPLasmare Incantesimi\nA partire dal 2° livello, il mago è in grado di creare delle sacche\ndi relativa sicurezza all'interno degli effetti dei suoi incantesimi\ndi invocazione. Quando il mago lancia un incantesimo di\ninvocazione che influenza le altre creature che è in grado\ndi vedere, può scegliere un numero di quelle creature pari\na 1 + il livello dell'incantesimo. Le creature scelte superano\nautomaticamente i loro tiri salvezza contro l'incantesimo e non\nsubiscono alcun danno se normalmente subirebbero la metà\ndei danni in caso di tiro salvezza superato.\nTrucchetto Potente\nA partire dal 6° livello, i trucchetti del mago che infliggono\ndanni possono influenzare perfino le creature che\naltrimenti eviterebbero il grosso dell'effetto. Quando una\ncreatura supera un tiro salvezza contro un trucchetto\ndel mago, quella creatura subisce la metà dei danni del\ntrucchetto (se previsti), ma non subisce alcun effetto\naggiuntivo da quel trucchetto.\nInvocazione Potente\nA partire dal 10 livello, il mago può aggiungere il suo\nmodificatore di Intelligenza a un tiro per i danni di un\nqualsiasi incantesimo di invocazione da mago da lui lanciato.\nSaturazione Magica\nA partire dal 14livello, il mago può intensificare il potere dei\nsuoi incantesimi più semplici. Quando lancia un incantesimo\nda mago compreso tra il 1º e il 5° livello e che infligga danni,\npuò infiggere il massimo dei danni con quell'incantesimo.\nLa prima volta che il mago lo fa, non subisce alcun effetto\navverso. Se però utilizza questo privilegio di nuovo prima\ndi avere completato un riposo lungo, subisce 2d12 danni\nnecrotici per ogni livello dell'incantesimo in questione, subito\ndopo averlo lanciato. Ogni volta che utilizza di nuovo questo\nprivilegio prima di avere completato un riposo lungo, i danni\nnecrotici per livello dell'incantesimo aumentano di 1d12.\nQuesti danni ignorano le varie forme di resistenza e immunità.\nScuola di Necromanzia\nLa Scuola di Necromanzia esplora le forze cosmiche della\nvita, della morte e della non morte. Un necromante concentra\ni suoi studi in questa tradizione, allo scopo di manipolare\nl'energia che anima tutto ciò che vive. Quando padroneggia\nla sua arte, impara a fiaccare l'energia vitale di una creatura,\na distruggere il suo corpo tramite la magia e a trasformare\nquell'energia vitale in altro potere magico da manipolare.\nLa maggior parte della gente considera i necromanti\nminacciosi o addirittura malvagi, a causa del loro stretto\nlegame con la morte. Non tutti i necromanti sono malvagi,\nma le forze che essi manipolano sono considerate tabù da\nmolte società.\nNecromante Sapiente\nA partire da quando il mago sceglie questa scuola al 2\nlivello, il tempo e il denaro che egli deve spendere per\ncopiare un incantesimo di necromanzia nel suo libro degli\nincantesimi sono dimezzati.\nRaccolto Macabro\nA1 2*livello, il mago sviluppa la capacità di raccogliere\nl'energia vitale delle creature uccise dai suoi incantesimi.\nUna volta per turno, quando uccide una o più creature con\nun incantesimo di livello pari o superiore al 1', il mago\nrecupera un ammontare di punti ferita pari al doppio del\nlivello dell'incantesimo, o al triplo del livello se l'incantesimo\nappartiene alla Scuola di Necromanzia. Non ottiene questo\nbeneficio se uccide dei costrutti o dei non morti.\nCAPITOLO 3 |CLASSI\n87"
+}

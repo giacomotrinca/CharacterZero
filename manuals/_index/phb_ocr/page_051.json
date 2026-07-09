@@ -1,0 +1,626 @@
+{
+ "pdf_page_index": 51,
+ "page_label": 52,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 88,
+ "lines": [
+  {
+   "x1": 657.0,
+   "y1": 311.0,
+   "x2": 872.0,
+   "y2": 334.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 656.0,
+   "y1": 336.0,
+   "x2": 894.0,
+   "y2": 362.0,
+   "text": "È possibile creare un bardo"
+  },
+  {
+   "x1": 652.0,
+   "y1": 358.0,
+   "x2": 907.0,
+   "y2": 386.0,
+   "text": "rapidamente seguendo questi"
+  },
+  {
+   "x1": 654.0,
+   "y1": 384.0,
+   "x2": 912.0,
+   "y2": 407.0,
+   "text": "suggerimenti. Per prima cosa,"
+  },
+  {
+   "x1": 652.0,
+   "y1": 404.0,
+   "x2": 977.0,
+   "y2": 431.0,
+   "text": "Carisma dovrebbe essere il punteggio"
+  },
+  {
+   "x1": 654.0,
+   "y1": 429.0,
+   "x2": 957.0,
+   "y2": 453.0,
+   "text": "di caratteristica più alto, seguito da"
+  },
+  {
+   "x1": 652.0,
+   "y1": 451.0,
+   "x2": 1138.0,
+   "y2": 475.0,
+   "text": "Destrezza. Poi sisceglie il background dell'intrattenitore."
+  },
+  {
+   "x1": 654.0,
+   "y1": 475.0,
+   "x2": 1143.0,
+   "y2": 499.0,
+   "text": "Infine si scelgono i trucchetti beffa crudele e luci danzanti"
+  },
+  {
+   "x1": 652.0,
+   "y1": 497.0,
+   "x2": 1097.0,
+   "y2": 521.0,
+   "text": "assieme ai seguenti incantesimi di 1° livello: charme"
+  },
+  {
+   "x1": 652.0,
+   "y1": 521.0,
+   "x2": 1110.0,
+   "y2": 544.0,
+   "text": "su persone, individuazione del magico, onda tonante e"
+  },
+  {
+   "x1": 652.0,
+   "y1": 544.0,
+   "x2": 805.0,
+   "y2": 568.0,
+   "text": "parola guaritrice."
+  },
+  {
+   "x1": 652.0,
+   "y1": 585.0,
+   "x2": 1032.0,
+   "y2": 625.0,
+   "text": "PriVILEGI di CLassE"
+  },
+  {
+   "x1": 652.0,
+   "y1": 627.0,
+   "x2": 1040.0,
+   "y2": 654.0,
+   "text": "Un bardo ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 652.0,
+   "y1": 668.0,
+   "x2": 811.0,
+   "y2": 698.0,
+   "text": "Punti Ferita"
+  },
+  {
+   "x1": 654.0,
+   "y1": 698.0,
+   "x2": 990.0,
+   "y2": 724.0,
+   "text": "Dadi Vita: 1d8 per ogni livello da bardo"
+  },
+  {
+   "x1": 654.0,
+   "y1": 722.0,
+   "x2": 1054.0,
+   "y2": 745.0,
+   "text": "Punti Ferita al 1° Livello: 8+ il modificatore di"
+  },
+  {
+   "x1": 669.0,
+   "y1": 744.0,
+   "x2": 868.0,
+   "y2": 767.0,
+   "text": "Costituzione del bardo"
+  },
+  {
+   "x1": 654.0,
+   "y1": 766.0,
+   "x2": 1060.0,
+   "y2": 791.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d8 (o 5) +il"
+  },
+  {
+   "x1": 667.0,
+   "y1": 787.0,
+   "x2": 1073.0,
+   "y2": 815.0,
+   "text": "modificatore di Costituzione del bardo per ogni"
+  },
+  {
+   "x1": 103.0,
+   "y1": 806.0,
+   "x2": 556.0,
+   "y2": 829.0,
+   "text": "dell'avventuriero una vocazione perfetta per loro. Ogni"
+  },
+  {
+   "x1": 669.0,
+   "y1": 813.0,
+   "x2": 886.0,
+   "y2": 837.0,
+   "text": "livello da bardo dopo il 1*"
+  },
+  {
+   "x1": 103.0,
+   "y1": 829.0,
+   "x2": 571.0,
+   "y2": 853.0,
+   "text": "avventura è un'opportunità per imparare qualcosa, mettere"
+  },
+  {
+   "x1": 103.0,
+   "y1": 851.0,
+   "x2": 526.0,
+   "y2": 875.0,
+   "text": "in pratica le abilità più disparate, addentrarsi in tombe"
+  },
+  {
+   "x1": 655.0,
+   "y1": 853.0,
+   "x2": 802.0,
+   "y2": 881.0,
+   "text": "Competenze"
+  },
+  {
+   "x1": 103.0,
+   "y1": 873.0,
+   "x2": 536.0,
+   "y2": 897.0,
+   "text": "dimenticate da tempo, scoprire artefatti magici perduti,"
+  },
+  {
+   "x1": 654.0,
+   "y1": 882.0,
+   "x2": 907.0,
+   "y2": 906.0,
+   "text": "Armature: Armatureleggere"
+  },
+  {
+   "x1": 103.0,
+   "y1": 897.0,
+   "x2": 548.0,
+   "y2": 921.0,
+   "text": "decifrare vecchi tomi, viaggiare fino a luoghi misteriosi o"
+  },
+  {
+   "x1": 650.0,
+   "y1": 904.0,
+   "x2": 1139.0,
+   "y2": 928.0,
+   "text": "Armi: Armi semplici,balestre a mano, spade corte, spade"
+  },
+  {
+   "x1": 102.0,
+   "y1": 921.0,
+   "x2": 582.0,
+   "y2": 945.0,
+   "text": "incontrare creature esotiche. I bardi adorano accompagnare"
+  },
+  {
+   "x1": 666.0,
+   "y1": 924.0,
+   "x2": 804.0,
+   "y2": 954.0,
+   "text": "lunghe, stocchi"
+  },
+  {
+   "x1": 103.0,
+   "y1": 943.0,
+   "x2": 598.0,
+   "y2": 967.0,
+   "text": "gli eroi per assistere alle loro gesta in prima persona. Un bardo"
+  },
+  {
+   "x1": 652.0,
+   "y1": 950.0,
+   "x2": 1104.0,
+   "y2": 974.0,
+   "text": "Strumenti: Tre strumenti musicali a scelta del bardo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 967.0,
+   "x2": 552.0,
+   "y2": 990.0,
+   "text": "che sa distinguere una storia ispiratrice da un'esperienza"
+  },
+  {
+   "x1": 102.0,
+   "y1": 988.0,
+   "x2": 554.0,
+   "y2": 1012.0,
+   "text": "personale si fa presto un buon nome presso gli altri bardi."
+  },
+  {
+   "x1": 652.0,
+   "y1": 981.0,
+   "x2": 951.0,
+   "y2": 1009.0,
+   "text": "Tiri Salvezza: Destrezza, Carisma"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1010.0,
+   "x2": 558.0,
+   "y2": 1036.0,
+   "text": "Anzi, dopo avere raccontato così tante storie sugli eroi che"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1003.0,
+   "x2": 827.0,
+   "y2": 1031.0,
+   "text": "Abilità: Tre a scelta"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1032.0,
+   "x2": 589.0,
+   "y2": 1056.0,
+   "text": "hanno compiuto epiche gesta, molti bardi si appassionano alla"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1047.0,
+   "x2": 866.0,
+   "y2": 1074.0,
+   "text": "EQuipaggiamento"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1058.0,
+   "x2": 512.0,
+   "y2": 1082.0,
+   "text": "loro causa e finiscono per diventare eroi a loro volta."
+  },
+  {
+   "x1": 650.0,
+   "y1": 1072.0,
+   "x2": 1152.0,
+   "y2": 1102.0,
+   "text": "Un bardo inizia con l'equipaggiamento seguente, in aggiunta"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1102.0,
+   "x2": 364.0,
+   "y2": 1127.0,
+   "text": "CrearE Un Bardo"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1096.0,
+   "x2": 1073.0,
+   "y2": 1124.0,
+   "text": "all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1135.0,
+   "x2": 580.0,
+   "y2": 1164.0,
+   "text": "I bardi vivono di storie, che si tratti di storie vere o meno."
+  },
+  {
+   "x1": 650.0,
+   "y1": 1131.0,
+   "x2": 1117.0,
+   "y2": 1157.0,
+   "text": "(a) uno stocco, (b) una spada lunga o (c) una qualsiasi"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1162.0,
+   "x2": 578.0,
+   "y2": 1186.0,
+   "text": "Il background e le motivazioni del personaggio non sono"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1155.0,
+   "x2": 798.0,
+   "y2": 1175.0,
+   "text": "arma semplice"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1186.0,
+   "x2": 560.0,
+   "y2": 1210.0,
+   "text": "importanti quanto le storie che egli crea attorno a essi."
+  },
+  {
+   "x1": 656.0,
+   "y1": 1186.0,
+   "x2": 665.0,
+   "y2": 1195.0,
+   "text": "."
+  },
+  {
+   "x1": 665.0,
+   "y1": 1177.0,
+   "x2": 1132.0,
+   "y2": 1200.0,
+   "text": "(a) una dotazione da diplomatico o (b) una dotazione da"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1208.0,
+   "x2": 561.0,
+   "y2": 1231.0,
+   "text": "Forse il bardo ha avuto un'infanzia tranquilla e banale,"
+  },
+  {
+   "x1": 670.0,
+   "y1": 1200.0,
+   "x2": 790.0,
+   "y2": 1220.0,
+   "text": "intrattenitore"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1231.0,
+   "x2": 584.0,
+   "y2": 1255.0,
+   "text": "ma un'infanzia del genere non offre alcuna bella storia da"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1224.0,
+   "x2": 1127.0,
+   "y2": 1248.0,
+   "text": "(a) un liuto o (b) un qualsiasi altro strumento musicale"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1257.0,
+   "x2": 582.0,
+   "y2": 1275.0,
+   "text": "raccontare, quindi preferisce presentarsi come un orfano"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1248.0,
+   "x2": 966.0,
+   "y2": 1272.0,
+   "text": "Un'armatura di cuoio e un pugnale"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1275.0,
+   "x2": 552.0,
+   "y2": 1299.0,
+   "text": "cresciuto da una strega in una tetra palude. Oppure la"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1301.0,
+   "x2": 582.0,
+   "y2": 1325.0,
+   "text": "sua infanzia potrebbe effettivamente essere degna di una"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1294.0,
+   "x2": 835.0,
+   "y2": 1317.0,
+   "text": "IncaNteSiMi"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1323.0,
+   "x2": 567.0,
+   "y2": 1347.0,
+   "text": "storia. Alcuni bardi acquisiscono la magia della musica"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1328.0,
+   "x2": 1077.0,
+   "y2": 1352.0,
+   "text": "Un bardo ha imparato a districare e rimodellare la"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1347.0,
+   "x2": 598.0,
+   "y2": 1370.0,
+   "text": "attraverso mezzi straordinari, come l'ispirazione dei folletti"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1350.0,
+   "x2": 1125.0,
+   "y2": 1378.0,
+   "text": "trama della realtà in armonia con i suoi desideri tramite"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1370.0,
+   "x2": 371.0,
+   "y2": 1394.0,
+   "text": "o altre creature soprannaturali."
+  },
+  {
+   "x1": 648.0,
+   "y1": 1374.0,
+   "x2": 1110.0,
+   "y2": 1398.0,
+   "text": "la musica. I suoi incantesimi fanno parte del suo vasto"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1390.0,
+   "x2": 582.0,
+   "y2": 1414.0,
+   "text": "Il personaggio ha studiato come apprendista presso un"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1400.0,
+   "x2": 1149.0,
+   "y2": 1423.0,
+   "text": "repertorio come magie che il bardo può mettere in sintonia"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1416.0,
+   "x2": 565.0,
+   "y2": 1440.0,
+   "text": "maestro e ha seguito un bardo più esperto finché non è"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1421.0,
+   "x2": 1115.0,
+   "y2": 1445.0,
+   "text": "con le situazioni più disparate. Vedi il capitolo 10 per le"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1438.0,
+   "x2": 591.0,
+   "y2": 1462.0,
+   "text": "diventato in grado di andare all'avventura da solo? Oppure"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1445.0,
+   "x2": 1115.0,
+   "y2": 1469.0,
+   "text": "regole generali relative alla magia e il capitolo 11per la"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1462.0,
+   "x2": 584.0,
+   "y2": 1485.0,
+   "text": "ha frequentato un collegio dove ha appreso le conoscenze"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1465.0,
+   "x2": 923.0,
+   "y2": 1493.0,
+   "text": "lista degli incantesimi da bardo."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1485.0,
+   "x2": 600.0,
+   "y2": 1509.0,
+   "text": "bardiche e si è esercitato nell'utilizzo della magia musicale?"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1509.0,
+   "x2": 569.0,
+   "y2": 1533.0,
+   "text": "Forse era un giovane fuggiasco o un orfano che ha fatto"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1507.0,
+   "x2": 791.0,
+   "y2": 1537.0,
+   "text": "TRucchetti"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1531.0,
+   "x2": 537.0,
+   "y2": 1555.0,
+   "text": "amicizia con un bardo errante che è diventato il suo"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1537.0,
+   "x2": 1123.0,
+   "y2": 1562.0,
+   "text": "Un bardo conosce due trucchetti a sua scelta tratti dalla"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1557.0,
+   "x2": 552.0,
+   "y2": 1575.0,
+   "text": "mentore, o forse era il figlio viziato di un nobile che ha"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1560.0,
+   "x2": 1082.0,
+   "y2": 1584.0,
+   "text": "lista degli incantesimi da bardo. Apprende ulteriori"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1577.0,
+   "x2": 580.0,
+   "y2": 1601.0,
+   "text": "avuto un bardo come tutore. Forse è finito nelle grinfie di"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1584.0,
+   "x2": 1130.0,
+   "y2": 1608.0,
+   "text": "trucchetti da bardo a sua scelta ai livelli successivi, come"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1601.0,
+   "x2": 584.0,
+   "y2": 1624.0,
+   "text": "una megera e ha stipulato un patto che gli ha procurato la"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1608.0,
+   "x2": 1088.0,
+   "y2": 1632.0,
+   "text": "indicato dalla colonnaTrucchetti Conosciuti\" nella"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1624.0,
+   "x2": 582.0,
+   "y2": 1648.0,
+   "text": "vita, la libertà e il dono della musica... ma a quale prezzo?"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1632.0,
+   "x2": 787.0,
+   "y2": 1652.0,
+   "text": "tabella \"Bardo\"."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1688.0,
+   "x2": 279.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3|CLASSI"
+  },
+  {
+   "x1": 11.0,
+   "y1": 1699.0,
+   "x2": 37.0,
+   "y2": 1721.0,
+   "text": "52"
+  }
+ ],
+ "reading_text": "dell'avventuriero una vocazione perfetta per loro. Ogni\navventura è un'opportunità per imparare qualcosa, mettere\nin pratica le abilità più disparate, addentrarsi in tombe\ndimenticate da tempo, scoprire artefatti magici perduti,\ndecifrare vecchi tomi, viaggiare fino a luoghi misteriosi o\nincontrare creature esotiche. I bardi adorano accompagnare\ngli eroi per assistere alle loro gesta in prima persona. Un bardo\nche sa distinguere una storia ispiratrice da un'esperienza\npersonale si fa presto un buon nome presso gli altri bardi.\nAnzi, dopo avere raccontato così tante storie sugli eroi che\nhanno compiuto epiche gesta, molti bardi si appassionano alla\nloro causa e finiscono per diventare eroi a loro volta.\nCrearE Un Bardo\nI bardi vivono di storie, che si tratti di storie vere o meno.\nIl background e le motivazioni del personaggio non sono\nimportanti quanto le storie che egli crea attorno a essi.\nForse il bardo ha avuto un'infanzia tranquilla e banale,\nma un'infanzia del genere non offre alcuna bella storia da\nraccontare, quindi preferisce presentarsi come un orfano\ncresciuto da una strega in una tetra palude. Oppure la\nsua infanzia potrebbe effettivamente essere degna di una\nstoria. Alcuni bardi acquisiscono la magia della musica\nattraverso mezzi straordinari, come l'ispirazione dei folletti\no altre creature soprannaturali.\nIl personaggio ha studiato come apprendista presso un\nmaestro e ha seguito un bardo più esperto finché non è\ndiventato in grado di andare all'avventura da solo? Oppure\nha frequentato un collegio dove ha appreso le conoscenze\nbardiche e si è esercitato nell'utilizzo della magia musicale?\nForse era un giovane fuggiasco o un orfano che ha fatto\namicizia con un bardo errante che è diventato il suo\nmentore, o forse era il figlio viziato di un nobile che ha\navuto un bardo come tutore. Forse è finito nelle grinfie di\nuna megera e ha stipulato un patto che gli ha procurato la\nvita, la libertà e il dono della musica... ma a quale prezzo?\nCAPITOLO 3|CLASSI\n52\nCreazione Rapida\nÈ possibile creare un bardo\nrapidamente seguendo questi\nsuggerimenti. Per prima cosa,\nCarisma dovrebbe essere il punteggio\ndi caratteristica più alto, seguito da\nDestrezza. Poi sisceglie il background dell'intrattenitore.\nInfine si scelgono i trucchetti beffa crudele e luci danzanti\nassieme ai seguenti incantesimi di 1° livello: charme\nsu persone, individuazione del magico, onda tonante e\nparola guaritrice.\nPriVILEGI di CLassE\nUn bardo ottiene i seguenti privilegi di classe.\nPunti Ferita\nDadi Vita: 1d8 per ogni livello da bardo\nPunti Ferita al 1° Livello: 8+ il modificatore di\nCostituzione del bardo\nPunti Ferita ai Livelli Successivi: 1d8 (o 5) +il\nmodificatore di Costituzione del bardo per ogni\nlivello da bardo dopo il 1*\nCompetenze\nArmature: Armatureleggere\nArmi: Armi semplici,balestre a mano, spade corte, spade\nlunghe, stocchi\nStrumenti: Tre strumenti musicali a scelta del bardo\nTiri Salvezza: Destrezza, Carisma\nAbilità: Tre a scelta\nEQuipaggiamento\nUn bardo inizia con l'equipaggiamento seguente, in aggiunta\nall'equipaggiamento conferito dal suo background:\n(a) uno stocco, (b) una spada lunga o (c) una qualsiasi\narma semplice\n(a) una dotazione da diplomatico o (b) una dotazione da\n.\nintrattenitore\n(a) un liuto o (b) un qualsiasi altro strumento musicale\nUn'armatura di cuoio e un pugnale\nIncaNteSiMi\nUn bardo ha imparato a districare e rimodellare la\ntrama della realtà in armonia con i suoi desideri tramite\nla musica. I suoi incantesimi fanno parte del suo vasto\nrepertorio come magie che il bardo può mettere in sintonia\ncon le situazioni più disparate. Vedi il capitolo 10 per le\nregole generali relative alla magia e il capitolo 11per la\nlista degli incantesimi da bardo.\nTRucchetti\nUn bardo conosce due trucchetti a sua scelta tratti dalla\nlista degli incantesimi da bardo. Apprende ulteriori\ntrucchetti da bardo a sua scelta ai livelli successivi, come\nindicato dalla colonnaTrucchetti Conosciuti\" nella\ntabella \"Bardo\"."
+}

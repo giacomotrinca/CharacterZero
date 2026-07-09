@@ -1,0 +1,31 @@
+{
+ "pdf_page_index": 119,
+ "page_label": 120,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 3,
+ "lines": [
+  {
+   "x1": 912.0,
+   "y1": 58.0,
+   "x2": 1003.0,
+   "y2": 79.0,
+   "text": "Offrimi"
+  },
+  {
+   "x1": 999.0,
+   "y1": 58.0,
+   "x2": 1117.0,
+   "y2": 79.0,
+   "text": "un caffè:"
+  },
+  {
+   "x1": 909.0,
+   "y1": 77.0,
+   "x2": 1132.0,
+   "y2": 104.0,
+   "text": "paypal.me/mimmi987"
+  }
+ ],
+ "reading_text": "Offrimi\nun caffè:\npaypal.me/mimmi987"
+}

@@ -1,0 +1,52 @@
+{
+  "manuals": {
+    "D&D 5th Guida degli Avventurieri alla Costa della Spada": {
+      "blocks": 17317,
+      "chunks": 1708,
+      "spells": 4,
+      "sections": 1796,
+      "max_page": 164
+    },
+    "D&D 5th Manuale dei Mostri": {
+      "blocks": 29128,
+      "chunks": 3382,
+      "spells": 0,
+      "sections": 3859,
+      "max_page": 353
+    },
+    "D&D 5th Manuale del Giocatore": {
+      "blocks": 33248,
+      "chunks": 3480,
+      "spells": 363,
+      "sections": 4228,
+      "max_page": 321
+    },
+    "D&D 5th Manuale del Master": {
+      "blocks": 30947,
+      "chunks": 2830,
+      "spells": 1,
+      "sections": 3225,
+      "max_page": 320
+    },
+    "Guida Omnicomprensiva di Xanathar 5e": {
+      "blocks": 19148,
+      "chunks": 900,
+      "spells": 86,
+      "sections": 591,
+      "max_page": 194
+    },
+    "tasha italiano": {
+      "blocks": 15873,
+      "chunks": 1052,
+      "spells": 19,
+      "sections": 1047,
+      "max_page": 194
+    }
+  },
+  "totals": {
+    "manuals": 6,
+    "chunks": 13352,
+    "spells": 473,
+    "spells_complete": 411
+  }
+}

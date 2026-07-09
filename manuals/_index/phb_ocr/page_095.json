@@ -1,0 +1,1214 @@
+{
+ "pdf_page_index": 95,
+ "page_label": 96,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 172,
+ "lines": [
+  {
+   "x1": 90.0,
+   "y1": 73.0,
+   "x2": 218.0,
+   "y2": 108.0,
+   "text": "PALADINO"
+  },
+  {
+   "x1": 794.0,
+   "y1": 111.0,
+   "x2": 1130.0,
+   "y2": 141.0,
+   "text": "—Slot Incantesimo per Livello di Incantesimo"
+  },
+  {
+   "x1": 183.0,
+   "y1": 122.0,
+   "x2": 259.0,
+   "y2": 148.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 141.0,
+   "x2": 346.0,
+   "y2": 176.0,
+   "text": "Livello Competenza Privilegi"
+  },
+  {
+   "x1": 800.0,
+   "y1": 146.0,
+   "x2": 825.0,
+   "y2": 172.0,
+   "text": "7°"
+  },
+  {
+   "x1": 881.0,
+   "y1": 146.0,
+   "x2": 905.0,
+   "y2": 172.0,
+   "text": "2°"
+  },
+  {
+   "x1": 960.0,
+   "y1": 146.0,
+   "x2": 984.0,
+   "y2": 170.0,
+   "text": "3°"
+  },
+  {
+   "x1": 1030.0,
+   "y1": 143.0,
+   "x2": 1063.0,
+   "y2": 173.0,
+   "text": "4°"
+  },
+  {
+   "x1": 1108.0,
+   "y1": 144.0,
+   "x2": 1134.0,
+   "y2": 170.0,
+   "text": "5°"
+  },
+  {
+   "x1": 124.0,
+   "y1": 172.0,
+   "x2": 151.0,
+   "y2": 197.0,
+   "text": "1°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 172.0,
+   "x2": 236.0,
+   "y2": 203.0,
+   "text": "+2"
+  },
+  {
+   "x1": 277.0,
+   "y1": 175.0,
+   "x2": 630.0,
+   "y2": 199.0,
+   "text": "Percezione del Divino, Imposizione delle Mani"
+  },
+  {
+   "x1": 122.0,
+   "y1": 199.0,
+   "x2": 150.0,
+   "y2": 225.0,
+   "text": "2°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 201.0,
+   "x2": 235.0,
+   "y2": 227.0,
+   "text": "+2"
+  },
+  {
+   "x1": 275.0,
+   "y1": 199.0,
+   "x2": 689.0,
+   "y2": 227.0,
+   "text": "Stile di Combattimento, Incantesimi, Punizione Divina"
+  },
+  {
+   "x1": 805.0,
+   "y1": 203.0,
+   "x2": 822.0,
+   "y2": 225.0,
+   "text": "2"
+  },
+  {
+   "x1": 122.0,
+   "y1": 225.0,
+   "x2": 148.0,
+   "y2": 252.0,
+   "text": "3°$"
+  },
+  {
+   "x1": 205.0,
+   "y1": 228.0,
+   "x2": 235.0,
+   "y2": 252.0,
+   "text": "+2"
+  },
+  {
+   "x1": 275.0,
+   "y1": 227.0,
+   "x2": 524.0,
+   "y2": 252.0,
+   "text": "Salute Divina, Giuramento Sacro"
+  },
+  {
+   "x1": 805.0,
+   "y1": 230.0,
+   "x2": 820.0,
+   "y2": 250.0,
+   "text": "3"
+  },
+  {
+   "x1": 120.0,
+   "y1": 254.0,
+   "x2": 148.0,
+   "y2": 280.0,
+   "text": "4°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 256.0,
+   "x2": 233.0,
+   "y2": 280.0,
+   "text": "+2"
+  },
+  {
+   "x1": 277.0,
+   "y1": 256.0,
+   "x2": 572.0,
+   "y2": 280.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 805.0,
+   "y1": 258.0,
+   "x2": 820.0,
+   "y2": 278.0,
+   "text": "3"
+  },
+  {
+   "x1": 122.0,
+   "y1": 280.0,
+   "x2": 148.0,
+   "y2": 307.0,
+   "text": "5°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 281.0,
+   "x2": 233.0,
+   "y2": 307.0,
+   "text": "+3"
+  },
+  {
+   "x1": 275.0,
+   "y1": 281.0,
+   "x2": 382.0,
+   "y2": 307.0,
+   "text": "Attacco Extra"
+  },
+  {
+   "x1": 807.0,
+   "y1": 287.0,
+   "x2": 816.0,
+   "y2": 300.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 283.0,
+   "x2": 903.0,
+   "y2": 303.0,
+   "text": "2"
+  },
+  {
+   "x1": 122.0,
+   "y1": 309.0,
+   "x2": 148.0,
+   "y2": 333.0,
+   "text": "6°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 307.0,
+   "x2": 233.0,
+   "y2": 333.0,
+   "text": "+3"
+  },
+  {
+   "x1": 277.0,
+   "y1": 307.0,
+   "x2": 423.0,
+   "y2": 333.0,
+   "text": "Aura di Protezione"
+  },
+  {
+   "x1": 807.0,
+   "y1": 314.0,
+   "x2": 816.0,
+   "y2": 327.0,
+   "text": "4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 311.0,
+   "x2": 901.0,
+   "y2": 329.0,
+   "text": "2"
+  },
+  {
+   "x1": 122.0,
+   "y1": 333.0,
+   "x2": 150.0,
+   "y2": 360.0,
+   "text": "7^°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 334.0,
+   "x2": 233.0,
+   "y2": 360.0,
+   "text": "+3"
+  },
+  {
+   "x1": 275.0,
+   "y1": 334.0,
+   "x2": 519.0,
+   "y2": 360.0,
+   "text": "Privilegio del Giuramento Sacro"
+  },
+  {
+   "x1": 886.0,
+   "y1": 338.0,
+   "x2": 901.0,
+   "y2": 356.0,
+   "text": "3"
+  },
+  {
+   "x1": 120.0,
+   "y1": 360.0,
+   "x2": 148.0,
+   "y2": 386.0,
+   "text": "8°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 360.0,
+   "x2": 235.0,
+   "y2": 386.0,
+   "text": "+3"
+  },
+  {
+   "x1": 277.0,
+   "y1": 362.0,
+   "x2": 574.0,
+   "y2": 386.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 886.0,
+   "y1": 364.0,
+   "x2": 899.0,
+   "y2": 384.0,
+   "text": "3"
+  },
+  {
+   "x1": 118.0,
+   "y1": 384.0,
+   "x2": 151.0,
+   "y2": 415.0,
+   "text": "9°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 387.0,
+   "x2": 233.0,
+   "y2": 413.0,
+   "text": "+4"
+  },
+  {
+   "x1": 886.0,
+   "y1": 391.0,
+   "x2": 901.0,
+   "y2": 409.0,
+   "text": "3"
+  },
+  {
+   "x1": 966.0,
+   "y1": 391.0,
+   "x2": 982.0,
+   "y2": 409.0,
+   "text": "2"
+  },
+  {
+   "x1": 120.0,
+   "y1": 413.0,
+   "x2": 151.0,
+   "y2": 438.0,
+   "text": "10°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 415.0,
+   "x2": 233.0,
+   "y2": 440.0,
+   "text": "+4"
+  },
+  {
+   "x1": 273.0,
+   "y1": 411.0,
+   "x2": 408.0,
+   "y2": 441.0,
+   "text": "Aura di Coraggio"
+  },
+  {
+   "x1": 888.0,
+   "y1": 422.0,
+   "x2": 901.0,
+   "y2": 435.0,
+   "text": "3"
+  },
+  {
+   "x1": 966.0,
+   "y1": 418.0,
+   "x2": 981.0,
+   "y2": 437.0,
+   "text": "2"
+  },
+  {
+   "x1": 116.0,
+   "y1": 438.0,
+   "x2": 153.0,
+   "y2": 468.0,
+   "text": "11°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 440.0,
+   "x2": 235.0,
+   "y2": 466.0,
+   "text": "+4"
+  },
+  {
+   "x1": 273.0,
+   "y1": 438.0,
+   "x2": 489.0,
+   "y2": 466.0,
+   "text": "Punizione Divina Migliorata"
+  },
+  {
+   "x1": 888.0,
+   "y1": 448.0,
+   "x2": 898.0,
+   "y2": 460.0,
+   "text": "3"
+  },
+  {
+   "x1": 962.0,
+   "y1": 443.0,
+   "x2": 982.0,
+   "y2": 463.0,
+   "text": "3"
+  },
+  {
+   "x1": 116.0,
+   "y1": 464.0,
+   "x2": 153.0,
+   "y2": 495.0,
+   "text": "12°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 470.0,
+   "x2": 233.0,
+   "y2": 491.0,
+   "text": "+4"
+  },
+  {
+   "x1": 275.0,
+   "y1": 466.0,
+   "x2": 571.0,
+   "y2": 493.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 968.0,
+   "y1": 473.0,
+   "x2": 977.0,
+   "y2": 486.0,
+   "text": "3"
+  },
+  {
+   "x1": 116.0,
+   "y1": 491.0,
+   "x2": 155.0,
+   "y2": 521.0,
+   "text": "13°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 493.0,
+   "x2": 233.0,
+   "y2": 519.0,
+   "text": "+5"
+  },
+  {
+   "x1": 116.0,
+   "y1": 517.0,
+   "x2": 155.0,
+   "y2": 546.0,
+   "text": "14°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 521.0,
+   "x2": 235.0,
+   "y2": 546.0,
+   "text": "+5"
+  },
+  {
+   "x1": 279.0,
+   "y1": 523.0,
+   "x2": 416.0,
+   "y2": 543.0,
+   "text": "Tocco Purificatore"
+  },
+  {
+   "x1": 114.0,
+   "y1": 544.0,
+   "x2": 153.0,
+   "y2": 574.0,
+   "text": "15°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 548.0,
+   "x2": 233.0,
+   "y2": 574.0,
+   "text": "+5"
+  },
+  {
+   "x1": 275.0,
+   "y1": 546.0,
+   "x2": 517.0,
+   "y2": 570.0,
+   "text": "Privilegio del Giuramento Sacro"
+  },
+  {
+   "x1": 888.0,
+   "y1": 554.0,
+   "x2": 898.0,
+   "y2": 566.0,
+   "text": "3"
+  },
+  {
+   "x1": 966.0,
+   "y1": 552.0,
+   "x2": 981.0,
+   "y2": 568.0,
+   "text": "3"
+  },
+  {
+   "x1": 1042.0,
+   "y1": 550.0,
+   "x2": 1056.0,
+   "y2": 570.0,
+   "text": "2"
+  },
+  {
+   "x1": 116.0,
+   "y1": 570.0,
+   "x2": 153.0,
+   "y2": 601.0,
+   "text": "16°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 574.0,
+   "x2": 233.0,
+   "y2": 599.0,
+   "text": "+5"
+  },
+  {
+   "x1": 277.0,
+   "y1": 576.0,
+   "x2": 571.0,
+   "y2": 601.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 888.0,
+   "y1": 583.0,
+   "x2": 898.0,
+   "y2": 594.0,
+   "text": "3"
+  },
+  {
+   "x1": 968.0,
+   "y1": 581.0,
+   "x2": 977.0,
+   "y2": 594.0,
+   "text": "3"
+  },
+  {
+   "x1": 1043.0,
+   "y1": 581.0,
+   "x2": 1054.0,
+   "y2": 597.0,
+   "text": "2"
+  },
+  {
+   "x1": 114.0,
+   "y1": 597.0,
+   "x2": 151.0,
+   "y2": 627.0,
+   "text": "17°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 601.0,
+   "x2": 235.0,
+   "y2": 627.0,
+   "text": "+6"
+  },
+  {
+   "x1": 968.0,
+   "y1": 607.0,
+   "x2": 979.0,
+   "y2": 623.0,
+   "text": "3"
+  },
+  {
+   "x1": 1040.0,
+   "y1": 605.0,
+   "x2": 1054.0,
+   "y2": 621.0,
+   "text": "3"
+  },
+  {
+   "x1": 116.0,
+   "y1": 625.0,
+   "x2": 153.0,
+   "y2": 656.0,
+   "text": "18°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 629.0,
+   "x2": 235.0,
+   "y2": 652.0,
+   "text": "+6"
+  },
+  {
+   "x1": 277.0,
+   "y1": 630.0,
+   "x2": 397.0,
+   "y2": 650.0,
+   "text": "Aure Migliorate"
+  },
+  {
+   "x1": 888.0,
+   "y1": 634.0,
+   "x2": 898.0,
+   "y2": 647.0,
+   "text": "3"
+  },
+  {
+   "x1": 961.0,
+   "y1": 629.0,
+   "x2": 982.0,
+   "y2": 652.0,
+   "text": "3"
+  },
+  {
+   "x1": 1040.0,
+   "y1": 632.0,
+   "x2": 1054.0,
+   "y2": 649.0,
+   "text": "3"
+  },
+  {
+   "x1": 116.0,
+   "y1": 650.0,
+   "x2": 155.0,
+   "y2": 682.0,
+   "text": "19°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 654.0,
+   "x2": 235.0,
+   "y2": 680.0,
+   "text": "+6"
+  },
+  {
+   "x1": 275.0,
+   "y1": 654.0,
+   "x2": 572.0,
+   "y2": 680.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 888.0,
+   "y1": 660.0,
+   "x2": 898.0,
+   "y2": 672.0,
+   "text": "3"
+  },
+  {
+   "x1": 968.0,
+   "y1": 661.0,
+   "x2": 979.0,
+   "y2": 678.0,
+   "text": "3"
+  },
+  {
+   "x1": 1043.0,
+   "y1": 661.0,
+   "x2": 1053.0,
+   "y2": 674.0,
+   "text": "3"
+  },
+  {
+   "x1": 1117.0,
+   "y1": 660.0,
+   "x2": 1127.0,
+   "y2": 672.0,
+   "text": "2"
+  },
+  {
+   "x1": 118.0,
+   "y1": 682.0,
+   "x2": 151.0,
+   "y2": 705.0,
+   "text": "20°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 682.0,
+   "x2": 233.0,
+   "y2": 705.0,
+   "text": "+6"
+  },
+  {
+   "x1": 275.0,
+   "y1": 680.0,
+   "x2": 515.0,
+   "y2": 703.0,
+   "text": "Privilegio del Giuramento Sacro"
+  },
+  {
+   "x1": 886.0,
+   "y1": 687.0,
+   "x2": 896.0,
+   "y2": 700.0,
+   "text": "3"
+  },
+  {
+   "x1": 968.0,
+   "y1": 687.0,
+   "x2": 979.0,
+   "y2": 703.0,
+   "text": "3"
+  },
+  {
+   "x1": 1043.0,
+   "y1": 687.0,
+   "x2": 1054.0,
+   "y2": 703.0,
+   "text": "3"
+  },
+  {
+   "x1": 105.0,
+   "y1": 767.0,
+   "x2": 600.0,
+   "y2": 791.0,
+   "text": "abbastanza rare nei ranghi delle milizie e degli eserciti del"
+  },
+  {
+   "x1": 657.0,
+   "y1": 766.0,
+   "x2": 835.0,
+   "y2": 791.0,
+   "text": "Paladine, Kiri-Jolith,"
+  },
+  {
+   "x1": 103.0,
+   "y1": 791.0,
+   "x2": 611.0,
+   "y2": 815.0,
+   "text": "mondo, ma ancora meno individui possono vantare di avere"
+  },
+  {
+   "x1": 655.0,
+   "y1": 787.0,
+   "x2": 851.0,
+   "y2": 815.0,
+   "text": "Dol Arrah, la Fiamma"
+  },
+  {
+   "x1": 102.0,
+   "y1": 811.0,
+   "x2": 600.0,
+   "y2": 839.0,
+   "text": "seguito la vocazione del paladino. Quando un combattente"
+  },
+  {
+   "x1": 657.0,
+   "y1": 813.0,
+   "x2": 892.0,
+   "y2": 839.0,
+   "text": "d'Argento, Bahamut, Atena,"
+  },
+  {
+   "x1": 103.0,
+   "y1": 837.0,
+   "x2": 609.0,
+   "y2": 861.0,
+   "text": "risponde a questa chiamata, abbandona la sua occupazione"
+  },
+  {
+   "x1": 656.0,
+   "y1": 835.0,
+   "x2": 872.0,
+   "y2": 862.0,
+   "text": "Ra-Horakhty e Heimdall."
+  },
+  {
+   "x1": 103.0,
+   "y1": 861.0,
+   "x2": 569.0,
+   "y2": 884.0,
+   "text": "precedente e imbraccia le armi per combattere il male."
+  },
+  {
+   "x1": 674.0,
+   "y1": 862.0,
+   "x2": 946.0,
+   "y2": 886.0,
+   "text": "In che occasione il personaggio"
+  },
+  {
+   "x1": 103.0,
+   "y1": 884.0,
+   "x2": 600.0,
+   "y2": 908.0,
+   "text": "A volte il suo giuramento lo porta a servire un sovrano alla"
+  },
+  {
+   "x1": 657.0,
+   "y1": 884.0,
+   "x2": 949.0,
+   "y2": 908.0,
+   "text": "ha sentito la vocazione di prestare"
+  },
+  {
+   "x1": 103.0,
+   "y1": 908.0,
+   "x2": 571.0,
+   "y2": 932.0,
+   "text": "guida di un gruppo scelto di cavalieri, ma anche in quel"
+  },
+  {
+   "x1": 654.0,
+   "y1": 908.0,
+   "x2": 982.0,
+   "y2": 932.0,
+   "text": "servizio come paladino? Il sussurro di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 930.0,
+   "x2": 608.0,
+   "y2": 956.0,
+   "text": "caso la sua fedeltà va alla causa della rettitudine, e non alla"
+  },
+  {
+   "x1": 657.0,
+   "y1": 930.0,
+   "x2": 997.0,
+   "y2": 954.0,
+   "text": "un dio invisibile o di un angelo lo hanno"
+  },
+  {
+   "x1": 103.0,
+   "y1": 954.0,
+   "x2": 295.0,
+   "y2": 977.0,
+   "text": "corona e alla nazione."
+  },
+  {
+   "x1": 654.0,
+   "y1": 952.0,
+   "x2": 1029.0,
+   "y2": 979.0,
+   "text": "raggiunto mentre era raccolto in preghiera?"
+  },
+  {
+   "x1": 118.0,
+   "y1": 974.0,
+   "x2": 608.0,
+   "y2": 1001.0,
+   "text": "I paladini avventurieri prendono il loro compito molto sul"
+  },
+  {
+   "x1": 657.0,
+   "y1": 977.0,
+   "x2": 1088.0,
+   "y2": 1001.0,
+   "text": "Un altro paladino ha percepito del potenziale in lui"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1001.0,
+   "x2": 582.0,
+   "y2": 1025.0,
+   "text": "serio. Calarsi in un complesso di antiche rovine o in una"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1001.0,
+   "x2": 1110.0,
+   "y2": 1025.0,
+   "text": "e ha deciso di addestrarlo come scudiero? Oppure un"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1023.0,
+   "x2": 606.0,
+   "y2": 1047.0,
+   "text": "cripta polverosa può essere per loro una missione che mira"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1021.0,
+   "x2": 1132.0,
+   "y2": 1045.0,
+   "text": "evento terribile di qualche tipo (forse la distruzione della"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1047.0,
+   "x2": 596.0,
+   "y2": 1071.0,
+   "text": "a uno scopo più nobile del semplice recupero di un tesoro."
+  },
+  {
+   "x1": 654.0,
+   "y1": 1045.0,
+   "x2": 1125.0,
+   "y2": 1069.0,
+   "text": "sua dimora) lo hanno spinto a intraprendere una cerca?"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1067.0,
+   "x2": 604.0,
+   "y2": 1094.0,
+   "text": "Spesso il male si annida nel cuore di un dungeon o nel fitto"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1069.0,
+   "x2": 1125.0,
+   "y2": 1094.0,
+   "text": "Forse il paladino si è imbattuto in un boschetto sacro o"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1094.0,
+   "x2": 584.0,
+   "y2": 1118.0,
+   "text": "di una foresta primordiale, e anche la vittoria più piccola"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1091.0,
+   "x2": 1140.0,
+   "y2": 1120.0,
+   "text": "un insediamento elfico nascosto e ha sentito il bisogno di"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1115.0,
+   "x2": 563.0,
+   "y2": 1138.0,
+   "text": "contro le forze dell'oscurità può servire ad allontanare"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1114.0,
+   "x2": 1132.0,
+   "y2": 1142.0,
+   "text": "proteggere quella bellezza, quella bontà o quei profughi."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1136.0,
+   "x2": 358.0,
+   "y2": 1164.0,
+   "text": "l'equilibrio cosmico dall'oblio."
+  },
+  {
+   "x1": 657.0,
+   "y1": 1140.0,
+   "x2": 1162.0,
+   "y2": 1166.0,
+   "text": "Oppure potrebbe avere sognato di diventare un paladino fin"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1162.0,
+   "x2": 1151.0,
+   "y2": 1189.0,
+   "text": "da quando è in grado di ricordare, come se fosse venuto al"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1180.0,
+   "x2": 410.0,
+   "y2": 1211.0,
+   "text": "Creare un Paladino"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1188.0,
+   "x2": 1145.0,
+   "y2": 1211.0,
+   "text": "mondo con quella missione già impressa nella sua anima."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1219.0,
+   "x2": 576.0,
+   "y2": 1244.0,
+   "text": "L'aspetto più importante di un paladino è la natura della"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1211.0,
+   "x2": 1091.0,
+   "y2": 1235.0,
+   "text": "In qualità di guardiani contro le forze del male, è"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1235.0,
+   "x2": 1108.0,
+   "y2": 1253.0,
+   "text": "raro che i paladini seguano un qualsiasi allineamento"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1246.0,
+   "x2": 580.0,
+   "y2": 1272.0,
+   "text": "sua cerca sacra. Sebbene i privilegi di classe correlati al"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1257.0,
+   "x2": 1138.0,
+   "y2": 1281.0,
+   "text": "malvagio. Molti di loro seguono il cammino della carità e"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1270.0,
+   "x2": 608.0,
+   "y2": 1294.0,
+   "text": "suo giuramento compaiano soltanto al 3° livello, il giocatore"
+  },
+  {
+   "x1": 657.0,
+   "y1": 1281.0,
+   "x2": 1125.0,
+   "y2": 1305.0,
+   "text": "della giustizia. Il giocatore dovrà chiedersi in che modo"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1294.0,
+   "x2": 593.0,
+   "y2": 1317.0,
+   "text": "dovrebbe muoversi in previsione di quella scelta leggendo"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1301.0,
+   "x2": 1117.0,
+   "y2": 1328.0,
+   "text": "il suo allineamento influenza la sua sacra missione e il"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1317.0,
+   "x2": 539.0,
+   "y2": 1341.0,
+   "text": "le descrizioni di quei nemici alla fine della classe. Il"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1328.0,
+   "x2": 1117.0,
+   "y2": 1352.0,
+   "text": "suo comportamento al cospetto degli dèi e dei mortali."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1337.0,
+   "x2": 593.0,
+   "y2": 1365.0,
+   "text": "personaggio è un devoto servitore del bene, fedele agli dèi"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1350.0,
+   "x2": 1134.0,
+   "y2": 1374.0,
+   "text": "In alcuni casi il giuramento e l'allineamento del paladino"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1365.0,
+   "x2": 593.0,
+   "y2": 1389.0,
+   "text": "della giustizia e dell'onore, un cavaliere sacro in armatura"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1376.0,
+   "x2": 1067.0,
+   "y2": 1400.0,
+   "text": "possono coesistere in armonia, ma in altri casi il"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1389.0,
+   "x2": 563.0,
+   "y2": 1412.0,
+   "text": "splendente, pronto a partire all'avventura per punire il"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1396.0,
+   "x2": 1145.0,
+   "y2": 1423.0,
+   "text": "giuramento può imporre dei parametri di comportamento"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1411.0,
+   "x2": 571.0,
+   "y2": 1434.0,
+   "text": "male? Oppure è un glorioso campione della luce, votato"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1420.0,
+   "x2": 999.0,
+   "y2": 1447.0,
+   "text": "che il paladino deve ancora raggiungere."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1434.0,
+   "x2": 572.0,
+   "y2": 1458.0,
+   "text": "a tutto ciò che splende e si contrappone alle tenebre, un"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1458.0,
+   "x2": 563.0,
+   "y2": 1482.0,
+   "text": "cavaliere i cui giuramenti discendono da tradizioni più"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1462.0,
+   "x2": 872.0,
+   "y2": 1491.0,
+   "text": "CreaZione RaPida"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1482.0,
+   "x2": 578.0,
+   "y2": 1506.0,
+   "text": "antiche della maggior parte delle divinità? Oppure è una"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1491.0,
+   "x2": 1112.0,
+   "y2": 1516.0,
+   "text": "È possibile creare un paladino rapidamente seguendo"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1504.0,
+   "x2": 587.0,
+   "y2": 1527.0,
+   "text": "cupa figura solitaria che ha giurato di reclamare vendetta"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1515.0,
+   "x2": 1108.0,
+   "y2": 1542.0,
+   "text": "questi suggerimenti. Per prima cosa, Forza dovrebbe"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1527.0,
+   "x2": 600.0,
+   "y2": 1551.0,
+   "text": "contro coloro che hanno commesso le malvagità più atroci,"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1540.0,
+   "x2": 1119.0,
+   "y2": 1564.0,
+   "text": "essere il punteggio di caratteristica più alto, seguito da"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1551.0,
+   "x2": 591.0,
+   "y2": 1575.0,
+   "text": "inviato come un angelo della morte dagli dèi o animato da"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1562.0,
+   "x2": 1062.0,
+   "y2": 1586.0,
+   "text": "Carisma. Poi si sceglie il background del nobile."
+  },
+  {
+   "x1": 98.0,
+   "y1": 1571.0,
+   "x2": 403.0,
+   "y2": 1601.0,
+   "text": "una sete inestinguibile di vendetta?"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1599.0,
+   "x2": 602.0,
+   "y2": 1622.0,
+   "text": "L'appendice B elenca molte divinità venerate dai paladini"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1622.0,
+   "x2": 539.0,
+   "y2": 1646.0,
+   "text": "in tutto il multiverso, tra cui Torm, Tyr, Heironeous,"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1701.0,
+   "x2": 284.0,
+   "y2": 1725.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 13.0,
+   "y1": 1712.0,
+   "x2": 41.0,
+   "y2": 1738.0,
+   "text": "96"
+  }
+ ],
+ "reading_text": "PALADINO\nBonus di\nLivello Competenza Privilegi\n1°\n+2\nPercezione del Divino, Imposizione delle Mani\n2°\nStile di Combattimento, Incantesimi, Punizione Divina\n+2\n3°$\nSalute Divina, Giuramento Sacro\n+2\n4°\n+2\nAumento dei Punteggi di Caratteristica\n5°\n+3\nAttacco Extra\n+3\nAura di Protezione\n6°\n7^°\n+3\nPrivilegio del Giuramento Sacro\n8°\n+3\nAumento dei Punteggi di Caratteristica\n9°\n+4\nAura di Coraggio\n10°\n+4\n11°\nPunizione Divina Migliorata\n+4\n12°\nAumento dei Punteggi di Caratteristica\n+4\n13°\n+5\n14°\n+5\nTocco Purificatore\n15°\nPrivilegio del Giuramento Sacro\n+5\n16°\n+5\nAumento dei Punteggi di Caratteristica\n17°\n+6\n18°\n+6\nAure Migliorate\n19°\n+6\nAumento dei Punteggi di Caratteristica\nPrivilegio del Giuramento Sacro\n20°\n+6\nabbastanza rare nei ranghi delle milizie e degli eserciti del\nmondo, ma ancora meno individui possono vantare di avere\nseguito la vocazione del paladino. Quando un combattente\nrisponde a questa chiamata, abbandona la sua occupazione\nprecedente e imbraccia le armi per combattere il male.\nA volte il suo giuramento lo porta a servire un sovrano alla\nguida di un gruppo scelto di cavalieri, ma anche in quel\ncaso la sua fedeltà va alla causa della rettitudine, e non alla\ncorona e alla nazione.\nI paladini avventurieri prendono il loro compito molto sul\nserio. Calarsi in un complesso di antiche rovine o in una\ncripta polverosa può essere per loro una missione che mira\na uno scopo più nobile del semplice recupero di un tesoro.\nSpesso il male si annida nel cuore di un dungeon o nel fitto\ndi una foresta primordiale, e anche la vittoria più piccola\ncontro le forze dell'oscurità può servire ad allontanare\nl'equilibrio cosmico dall'oblio.\nCreare un Paladino\nL'aspetto più importante di un paladino è la natura della\nsua cerca sacra. Sebbene i privilegi di classe correlati al\nsuo giuramento compaiano soltanto al 3° livello, il giocatore\ndovrebbe muoversi in previsione di quella scelta leggendo\nle descrizioni di quei nemici alla fine della classe. Il\npersonaggio è un devoto servitore del bene, fedele agli dèi\ndella giustizia e dell'onore, un cavaliere sacro in armatura\nsplendente, pronto a partire all'avventura per punire il\nmale? Oppure è un glorioso campione della luce, votato\na tutto ciò che splende e si contrappone alle tenebre, un\ncavaliere i cui giuramenti discendono da tradizioni più\nantiche della maggior parte delle divinità? Oppure è una\ncupa figura solitaria che ha giurato di reclamare vendetta\ncontro coloro che hanno commesso le malvagità più atroci,\ninviato come un angelo della morte dagli dèi o animato da\nuna sete inestinguibile di vendetta?\nL'appendice B elenca molte divinità venerate dai paladini\nin tutto il multiverso, tra cui Torm, Tyr, Heironeous,\nCAPITOLO 3 |CLASSI\n96\n—Slot Incantesimo per Livello di Incantesimo\n4°\n5°\n7°\n2°\n3°\n2\n3\n3\n2\n4\n2\n4\n3\n3\n3\n2\n2\n3\n3\n3\n3\n2\n3\n3\n3\n2\n3\n3\n3\n3\n3\n3\n3\n2\n3\n3\n3\n3\n3\nPaladine, Kiri-Jolith,\nDol Arrah, la Fiamma\nd'Argento, Bahamut, Atena,\nRa-Horakhty e Heimdall.\nIn che occasione il personaggio\nha sentito la vocazione di prestare\nservizio come paladino? Il sussurro di\nun dio invisibile o di un angelo lo hanno\nraggiunto mentre era raccolto in preghiera?\nUn altro paladino ha percepito del potenziale in lui\ne ha deciso di addestrarlo come scudiero? Oppure un\nevento terribile di qualche tipo (forse la distruzione della\nsua dimora) lo hanno spinto a intraprendere una cerca?\nForse il paladino si è imbattuto in un boschetto sacro o\nun insediamento elfico nascosto e ha sentito il bisogno di\nproteggere quella bellezza, quella bontà o quei profughi.\nOppure potrebbe avere sognato di diventare un paladino fin\nda quando è in grado di ricordare, come se fosse venuto al\nmondo con quella missione già impressa nella sua anima.\nIn qualità di guardiani contro le forze del male, è\nraro che i paladini seguano un qualsiasi allineamento\nmalvagio. Molti di loro seguono il cammino della carità e\ndella giustizia. Il giocatore dovrà chiedersi in che modo\nil suo allineamento influenza la sua sacra missione e il\nsuo comportamento al cospetto degli dèi e dei mortali.\nIn alcuni casi il giuramento e l'allineamento del paladino\npossono coesistere in armonia, ma in altri casi il\ngiuramento può imporre dei parametri di comportamento\nche il paladino deve ancora raggiungere.\nCreaZione RaPida\nÈ possibile creare un paladino rapidamente seguendo\nquesti suggerimenti. Per prima cosa, Forza dovrebbe\nessere il punteggio di caratteristica più alto, seguito da\nCarisma. Poi si sceglie il background del nobile."
+}

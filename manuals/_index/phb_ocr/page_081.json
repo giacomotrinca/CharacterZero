@@ -1,0 +1,1970 @@
+{
+ "pdf_page_index": 81,
+ "page_label": 82,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 280,
+ "lines": [
+  {
+   "x1": 102.0,
+   "y1": 82.0,
+   "x2": 183.0,
+   "y2": 115.0,
+   "text": "MAGo"
+  },
+  {
+   "x1": 737.0,
+   "y1": 117.0,
+   "x2": 1092.0,
+   "y2": 146.0,
+   "text": "—Slot Incantesimo per Livello di Incantesimo—"
+  },
+  {
+   "x1": 185.0,
+   "y1": 130.0,
+   "x2": 260.0,
+   "y2": 155.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 595.0,
+   "y1": 128.0,
+   "x2": 678.0,
+   "y2": 153.0,
+   "text": "Trucchetti"
+  },
+  {
+   "x1": 109.0,
+   "y1": 148.0,
+   "x2": 288.0,
+   "y2": 181.0,
+   "text": "Livello Competenza"
+  },
+  {
+   "x1": 275.0,
+   "y1": 152.0,
+   "x2": 349.0,
+   "y2": 179.0,
+   "text": "Privilegi"
+  },
+  {
+   "x1": 591.0,
+   "y1": 152.0,
+   "x2": 680.0,
+   "y2": 177.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 693.0,
+   "y1": 152.0,
+   "x2": 720.0,
+   "y2": 175.0,
+   "text": "1°"
+  },
+  {
+   "x1": 746.0,
+   "y1": 152.0,
+   "x2": 772.0,
+   "y2": 177.0,
+   "text": "2"
+  },
+  {
+   "x1": 798.0,
+   "y1": 152.0,
+   "x2": 825.0,
+   "y2": 175.0,
+   "text": "3"
+  },
+  {
+   "x1": 851.0,
+   "y1": 152.0,
+   "x2": 877.0,
+   "y2": 175.0,
+   "text": "4°"
+  },
+  {
+   "x1": 898.0,
+   "y1": 147.0,
+   "x2": 934.0,
+   "y2": 179.0,
+   "text": "5°"
+  },
+  {
+   "x1": 957.0,
+   "y1": 152.0,
+   "x2": 982.0,
+   "y2": 177.0,
+   "text": "6*"
+  },
+  {
+   "x1": 1010.0,
+   "y1": 152.0,
+   "x2": 1036.0,
+   "y2": 175.0,
+   "text": "7°"
+  },
+  {
+   "x1": 1062.0,
+   "y1": 152.0,
+   "x2": 1090.0,
+   "y2": 177.0,
+   "text": "8°"
+  },
+  {
+   "x1": 1115.0,
+   "y1": 152.0,
+   "x2": 1139.0,
+   "y2": 175.0,
+   "text": "9"
+  },
+  {
+   "x1": 118.0,
+   "y1": 177.0,
+   "x2": 157.0,
+   "y2": 208.0,
+   "text": "1°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 177.0,
+   "x2": 242.0,
+   "y2": 208.0,
+   "text": "+2"
+  },
+  {
+   "x1": 279.0,
+   "y1": 179.0,
+   "x2": 506.0,
+   "y2": 207.0,
+   "text": "Incantesimi, Recupero Arcano"
+  },
+  {
+   "x1": 624.0,
+   "y1": 179.0,
+   "x2": 648.0,
+   "y2": 206.0,
+   "text": "3"
+  },
+  {
+   "x1": 694.0,
+   "y1": 179.0,
+   "x2": 718.0,
+   "y2": 205.0,
+   "text": "2"
+  },
+  {
+   "x1": 801.0,
+   "y1": 186.0,
+   "x2": 822.0,
+   "y2": 203.0,
+   "text": "-"
+  },
+  {
+   "x1": 126.0,
+   "y1": 206.0,
+   "x2": 153.0,
+   "y2": 234.0,
+   "text": "2*"
+  },
+  {
+   "x1": 205.0,
+   "y1": 205.0,
+   "x2": 242.0,
+   "y2": 234.0,
+   "text": "+2"
+  },
+  {
+   "x1": 279.0,
+   "y1": 203.0,
+   "x2": 418.0,
+   "y2": 232.0,
+   "text": "Tradizione Arcana"
+  },
+  {
+   "x1": 628.0,
+   "y1": 208.0,
+   "x2": 645.0,
+   "y2": 228.0,
+   "text": "3"
+  },
+  {
+   "x1": 694.0,
+   "y1": 206.0,
+   "x2": 718.0,
+   "y2": 232.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 212.0,
+   "x2": 822.0,
+   "y2": 227.0,
+   "text": "-"
+  },
+  {
+   "x1": 1014.0,
+   "y1": 212.0,
+   "x2": 1034.0,
+   "y2": 227.0,
+   "text": "-"
+  },
+  {
+   "x1": 122.0,
+   "y1": 228.0,
+   "x2": 155.0,
+   "y2": 261.0,
+   "text": "3°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 228.0,
+   "x2": 242.0,
+   "y2": 261.0,
+   "text": "+2"
+  },
+  {
+   "x1": 281.0,
+   "y1": 238.0,
+   "x2": 297.0,
+   "y2": 254.0,
+   "text": "-"
+  },
+  {
+   "x1": 624.0,
+   "y1": 232.0,
+   "x2": 648.0,
+   "y2": 259.0,
+   "text": "3"
+  },
+  {
+   "x1": 694.0,
+   "y1": 232.0,
+   "x2": 718.0,
+   "y2": 258.0,
+   "text": "4"
+  },
+  {
+   "x1": 748.0,
+   "y1": 232.0,
+   "x2": 772.0,
+   "y2": 258.0,
+   "text": "2"
+  },
+  {
+   "x1": 800.0,
+   "y1": 239.0,
+   "x2": 824.0,
+   "y2": 256.0,
+   "text": "-"
+  },
+  {
+   "x1": 960.0,
+   "y1": 241.0,
+   "x2": 979.0,
+   "y2": 256.0,
+   "text": "-"
+  },
+  {
+   "x1": 1018.0,
+   "y1": 243.0,
+   "x2": 1029.0,
+   "y2": 252.0,
+   "text": "-"
+  },
+  {
+   "x1": 126.0,
+   "y1": 258.0,
+   "x2": 153.0,
+   "y2": 283.0,
+   "text": "4"
+  },
+  {
+   "x1": 205.0,
+   "y1": 258.0,
+   "x2": 242.0,
+   "y2": 287.0,
+   "text": "+2"
+  },
+  {
+   "x1": 279.0,
+   "y1": 259.0,
+   "x2": 569.0,
+   "y2": 283.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 628.0,
+   "y1": 261.0,
+   "x2": 645.0,
+   "y2": 281.0,
+   "text": "4"
+  },
+  {
+   "x1": 696.0,
+   "y1": 261.0,
+   "x2": 715.0,
+   "y2": 281.0,
+   "text": "4"
+  },
+  {
+   "x1": 746.0,
+   "y1": 258.0,
+   "x2": 770.0,
+   "y2": 283.0,
+   "text": "3"
+  },
+  {
+   "x1": 122.0,
+   "y1": 281.0,
+   "x2": 155.0,
+   "y2": 314.0,
+   "text": "5°"
+  },
+  {
+   "x1": 207.0,
+   "y1": 285.0,
+   "x2": 238.0,
+   "y2": 311.0,
+   "text": "+3"
+  },
+  {
+   "x1": 624.0,
+   "y1": 285.0,
+   "x2": 646.0,
+   "y2": 311.0,
+   "text": "4"
+  },
+  {
+   "x1": 694.0,
+   "y1": 285.0,
+   "x2": 717.0,
+   "y2": 311.0,
+   "text": "4"
+  },
+  {
+   "x1": 746.0,
+   "y1": 283.0,
+   "x2": 770.0,
+   "y2": 311.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 285.0,
+   "x2": 825.0,
+   "y2": 311.0,
+   "text": "2"
+  },
+  {
+   "x1": 853.0,
+   "y1": 292.0,
+   "x2": 875.0,
+   "y2": 307.0,
+   "text": "-"
+  },
+  {
+   "x1": 122.0,
+   "y1": 307.0,
+   "x2": 157.0,
+   "y2": 343.0,
+   "text": "6"
+  },
+  {
+   "x1": 207.0,
+   "y1": 312.0,
+   "x2": 236.0,
+   "y2": 338.0,
+   "text": "+3"
+  },
+  {
+   "x1": 279.0,
+   "y1": 312.0,
+   "x2": 528.0,
+   "y2": 338.0,
+   "text": "Privilegio della Tradizione Arcana"
+  },
+  {
+   "x1": 624.0,
+   "y1": 312.0,
+   "x2": 646.0,
+   "y2": 338.0,
+   "text": "4"
+  },
+  {
+   "x1": 696.0,
+   "y1": 314.0,
+   "x2": 715.0,
+   "y2": 334.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 314.0,
+   "x2": 766.0,
+   "y2": 334.0,
+   "text": "3"
+  },
+  {
+   "x1": 803.0,
+   "y1": 312.0,
+   "x2": 820.0,
+   "y2": 334.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 318.0,
+   "x2": 875.0,
+   "y2": 334.0,
+   "text": "-"
+  },
+  {
+   "x1": 124.0,
+   "y1": 338.0,
+   "x2": 153.0,
+   "y2": 364.0,
+   "text": "7°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 336.0,
+   "x2": 240.0,
+   "y2": 367.0,
+   "text": "+3"
+  },
+  {
+   "x1": 624.0,
+   "y1": 338.0,
+   "x2": 646.0,
+   "y2": 364.0,
+   "text": "4"
+  },
+  {
+   "x1": 696.0,
+   "y1": 340.0,
+   "x2": 715.0,
+   "y2": 360.0,
+   "text": "4"
+  },
+  {
+   "x1": 748.0,
+   "y1": 338.0,
+   "x2": 770.0,
+   "y2": 364.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 338.0,
+   "x2": 824.0,
+   "y2": 364.0,
+   "text": "3"
+  },
+  {
+   "x1": 857.0,
+   "y1": 340.0,
+   "x2": 874.0,
+   "y2": 360.0,
+   "text": "1"
+  },
+  {
+   "x1": 126.0,
+   "y1": 364.0,
+   "x2": 153.0,
+   "y2": 391.0,
+   "text": "8°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 362.0,
+   "x2": 240.0,
+   "y2": 393.0,
+   "text": "+3"
+  },
+  {
+   "x1": 281.0,
+   "y1": 365.0,
+   "x2": 567.0,
+   "y2": 389.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 626.0,
+   "y1": 367.0,
+   "x2": 645.0,
+   "y2": 387.0,
+   "text": "4"
+  },
+  {
+   "x1": 696.0,
+   "y1": 367.0,
+   "x2": 715.0,
+   "y2": 387.0,
+   "text": "4"
+  },
+  {
+   "x1": 748.0,
+   "y1": 365.0,
+   "x2": 770.0,
+   "y2": 391.0,
+   "text": "3"
+  },
+  {
+   "x1": 803.0,
+   "y1": 365.0,
+   "x2": 820.0,
+   "y2": 387.0,
+   "text": "3"
+  },
+  {
+   "x1": 857.0,
+   "y1": 365.0,
+   "x2": 874.0,
+   "y2": 389.0,
+   "text": "2"
+  },
+  {
+   "x1": 909.0,
+   "y1": 371.0,
+   "x2": 929.0,
+   "y2": 386.0,
+   "text": "—"
+  },
+  {
+   "x1": 122.0,
+   "y1": 387.0,
+   "x2": 157.0,
+   "y2": 420.0,
+   "text": "9°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 389.0,
+   "x2": 242.0,
+   "y2": 418.0,
+   "text": "+4"
+  },
+  {
+   "x1": 619.0,
+   "y1": 386.0,
+   "x2": 650.0,
+   "y2": 419.0,
+   "text": "4"
+  },
+  {
+   "x1": 694.0,
+   "y1": 391.0,
+   "x2": 718.0,
+   "y2": 415.0,
+   "text": "4"
+  },
+  {
+   "x1": 748.0,
+   "y1": 389.0,
+   "x2": 772.0,
+   "y2": 417.0,
+   "text": "3"
+  },
+  {
+   "x1": 798.0,
+   "y1": 389.0,
+   "x2": 824.0,
+   "y2": 415.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 391.0,
+   "x2": 877.0,
+   "y2": 417.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 393.0,
+   "x2": 927.0,
+   "y2": 413.0,
+   "text": "1"
+  },
+  {
+   "x1": 122.0,
+   "y1": 415.0,
+   "x2": 159.0,
+   "y2": 444.0,
+   "text": "10*"
+  },
+  {
+   "x1": 205.0,
+   "y1": 418.0,
+   "x2": 240.0,
+   "y2": 442.0,
+   "text": "+4"
+  },
+  {
+   "x1": 281.0,
+   "y1": 417.0,
+   "x2": 528.0,
+   "y2": 442.0,
+   "text": "Privilegio della Tradizione Arcana"
+  },
+  {
+   "x1": 624.0,
+   "y1": 417.0,
+   "x2": 646.0,
+   "y2": 444.0,
+   "text": "5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 420.0,
+   "x2": 715.0,
+   "y2": 440.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 420.0,
+   "x2": 768.0,
+   "y2": 440.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 420.0,
+   "x2": 820.0,
+   "y2": 440.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 417.0,
+   "x2": 875.0,
+   "y2": 442.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 420.0,
+   "x2": 927.0,
+   "y2": 440.0,
+   "text": "2"
+  },
+  {
+   "x1": 958.0,
+   "y1": 424.0,
+   "x2": 977.0,
+   "y2": 438.0,
+   "text": "-"
+  },
+  {
+   "x1": 120.0,
+   "y1": 442.0,
+   "x2": 157.0,
+   "y2": 473.0,
+   "text": "11"
+  },
+  {
+   "x1": 203.0,
+   "y1": 442.0,
+   "x2": 242.0,
+   "y2": 473.0,
+   "text": "+4"
+  },
+  {
+   "x1": 276.0,
+   "y1": 446.0,
+   "x2": 298.0,
+   "y2": 468.0,
+   "text": "I"
+  },
+  {
+   "x1": 624.0,
+   "y1": 444.0,
+   "x2": 646.0,
+   "y2": 471.0,
+   "text": "5"
+  },
+  {
+   "x1": 694.0,
+   "y1": 446.0,
+   "x2": 717.0,
+   "y2": 471.0,
+   "text": "4"
+  },
+  {
+   "x1": 748.0,
+   "y1": 444.0,
+   "x2": 770.0,
+   "y2": 470.0,
+   "text": "3"
+  },
+  {
+   "x1": 800.0,
+   "y1": 444.0,
+   "x2": 824.0,
+   "y2": 470.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 444.0,
+   "x2": 875.0,
+   "y2": 470.0,
+   "text": "3"
+  },
+  {
+   "x1": 907.0,
+   "y1": 444.0,
+   "x2": 929.0,
+   "y2": 471.0,
+   "text": "2"
+  },
+  {
+   "x1": 960.0,
+   "y1": 448.0,
+   "x2": 977.0,
+   "y2": 466.0,
+   "text": "1"
+  },
+  {
+   "x1": 122.0,
+   "y1": 468.0,
+   "x2": 159.0,
+   "y2": 501.0,
+   "text": "12°"
+  },
+  {
+   "x1": 207.0,
+   "y1": 471.0,
+   "x2": 240.0,
+   "y2": 495.0,
+   "text": "+4"
+  },
+  {
+   "x1": 279.0,
+   "y1": 471.0,
+   "x2": 569.0,
+   "y2": 495.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 628.0,
+   "y1": 471.0,
+   "x2": 645.0,
+   "y2": 495.0,
+   "text": "5"
+  },
+  {
+   "x1": 698.0,
+   "y1": 473.0,
+   "x2": 715.0,
+   "y2": 493.0,
+   "text": "4"
+  },
+  {
+   "x1": 748.0,
+   "y1": 470.0,
+   "x2": 770.0,
+   "y2": 495.0,
+   "text": "3"
+  },
+  {
+   "x1": 803.0,
+   "y1": 471.0,
+   "x2": 820.0,
+   "y2": 493.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 470.0,
+   "x2": 875.0,
+   "y2": 495.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 473.0,
+   "x2": 927.0,
+   "y2": 493.0,
+   "text": "2"
+  },
+  {
+   "x1": 962.0,
+   "y1": 473.0,
+   "x2": 977.0,
+   "y2": 491.0,
+   "text": "1"
+  },
+  {
+   "x1": 120.0,
+   "y1": 495.0,
+   "x2": 157.0,
+   "y2": 524.0,
+   "text": "13°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 493.0,
+   "x2": 240.0,
+   "y2": 524.0,
+   "text": "+5"
+  },
+  {
+   "x1": 624.0,
+   "y1": 495.0,
+   "x2": 648.0,
+   "y2": 523.0,
+   "text": "5"
+  },
+  {
+   "x1": 694.0,
+   "y1": 497.0,
+   "x2": 717.0,
+   "y2": 523.0,
+   "text": "4"
+  },
+  {
+   "x1": 740.0,
+   "y1": 489.0,
+   "x2": 775.0,
+   "y2": 525.0,
+   "text": "3"
+  },
+  {
+   "x1": 798.0,
+   "y1": 495.0,
+   "x2": 822.0,
+   "y2": 523.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 495.0,
+   "x2": 875.0,
+   "y2": 523.0,
+   "text": "3"
+  },
+  {
+   "x1": 907.0,
+   "y1": 497.0,
+   "x2": 929.0,
+   "y2": 523.0,
+   "text": "2"
+  },
+  {
+   "x1": 960.0,
+   "y1": 499.0,
+   "x2": 977.0,
+   "y2": 519.0,
+   "text": "1"
+  },
+  {
+   "x1": 1016.0,
+   "y1": 499.0,
+   "x2": 1030.0,
+   "y2": 521.0,
+   "text": "1"
+  },
+  {
+   "x1": 122.0,
+   "y1": 521.0,
+   "x2": 157.0,
+   "y2": 552.0,
+   "text": "14°"
+  },
+  {
+   "x1": 207.0,
+   "y1": 523.0,
+   "x2": 238.0,
+   "y2": 548.0,
+   "text": "+5"
+  },
+  {
+   "x1": 279.0,
+   "y1": 523.0,
+   "x2": 528.0,
+   "y2": 548.0,
+   "text": "Privilegio del a Tradizione Arcana"
+  },
+  {
+   "x1": 628.0,
+   "y1": 524.0,
+   "x2": 645.0,
+   "y2": 546.0,
+   "text": "5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 526.0,
+   "x2": 715.0,
+   "y2": 546.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 524.0,
+   "x2": 766.0,
+   "y2": 546.0,
+   "text": "3"
+  },
+  {
+   "x1": 803.0,
+   "y1": 526.0,
+   "x2": 820.0,
+   "y2": 548.0,
+   "text": "3"
+  },
+  {
+   "x1": 855.0,
+   "y1": 526.0,
+   "x2": 874.0,
+   "y2": 546.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 526.0,
+   "x2": 925.0,
+   "y2": 548.0,
+   "text": "2"
+  },
+  {
+   "x1": 962.0,
+   "y1": 526.0,
+   "x2": 977.0,
+   "y2": 544.0,
+   "text": "1"
+  },
+  {
+   "x1": 1016.0,
+   "y1": 524.0,
+   "x2": 1030.0,
+   "y2": 544.0,
+   "text": "1"
+  },
+  {
+   "x1": 120.0,
+   "y1": 546.0,
+   "x2": 157.0,
+   "y2": 577.0,
+   "text": "15°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 548.0,
+   "x2": 242.0,
+   "y2": 579.0,
+   "text": "+5"
+  },
+  {
+   "x1": 624.0,
+   "y1": 550.0,
+   "x2": 646.0,
+   "y2": 576.0,
+   "text": "5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 552.0,
+   "x2": 715.0,
+   "y2": 572.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 552.0,
+   "x2": 768.0,
+   "y2": 572.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 550.0,
+   "x2": 824.0,
+   "y2": 576.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 550.0,
+   "x2": 875.0,
+   "y2": 576.0,
+   "text": "3"
+  },
+  {
+   "x1": 907.0,
+   "y1": 550.0,
+   "x2": 929.0,
+   "y2": 576.0,
+   "text": "2"
+  },
+  {
+   "x1": 960.0,
+   "y1": 552.0,
+   "x2": 977.0,
+   "y2": 572.0,
+   "text": "1"
+  },
+  {
+   "x1": 1014.0,
+   "y1": 552.0,
+   "x2": 1030.0,
+   "y2": 572.0,
+   "text": "1"
+  },
+  {
+   "x1": 1067.0,
+   "y1": 552.0,
+   "x2": 1082.0,
+   "y2": 572.0,
+   "text": "1"
+  },
+  {
+   "x1": 120.0,
+   "y1": 574.0,
+   "x2": 157.0,
+   "y2": 605.0,
+   "text": "16°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 574.0,
+   "x2": 240.0,
+   "y2": 605.0,
+   "text": "+5"
+  },
+  {
+   "x1": 279.0,
+   "y1": 577.0,
+   "x2": 567.0,
+   "y2": 601.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 624.0,
+   "y1": 576.0,
+   "x2": 646.0,
+   "y2": 603.0,
+   "text": "5"
+  },
+  {
+   "x1": 694.0,
+   "y1": 576.0,
+   "x2": 717.0,
+   "y2": 601.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 579.0,
+   "x2": 768.0,
+   "y2": 599.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 579.0,
+   "x2": 820.0,
+   "y2": 599.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 576.0,
+   "x2": 875.0,
+   "y2": 601.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 577.0,
+   "x2": 925.0,
+   "y2": 599.0,
+   "text": "2"
+  },
+  {
+   "x1": 962.0,
+   "y1": 579.0,
+   "x2": 977.0,
+   "y2": 597.0,
+   "text": "1"
+  },
+  {
+   "x1": 1016.0,
+   "y1": 579.0,
+   "x2": 1030.0,
+   "y2": 599.0,
+   "text": "1"
+  },
+  {
+   "x1": 1067.0,
+   "y1": 579.0,
+   "x2": 1084.0,
+   "y2": 597.0,
+   "text": "1"
+  },
+  {
+   "x1": 120.0,
+   "y1": 599.0,
+   "x2": 157.0,
+   "y2": 630.0,
+   "text": "17"
+  },
+  {
+   "x1": 205.0,
+   "y1": 601.0,
+   "x2": 242.0,
+   "y2": 630.0,
+   "text": "+6"
+  },
+  {
+   "x1": 624.0,
+   "y1": 601.0,
+   "x2": 646.0,
+   "y2": 629.0,
+   "text": "5"
+  },
+  {
+   "x1": 694.0,
+   "y1": 603.0,
+   "x2": 718.0,
+   "y2": 627.0,
+   "text": "4"
+  },
+  {
+   "x1": 746.0,
+   "y1": 603.0,
+   "x2": 770.0,
+   "y2": 629.0,
+   "text": "3"
+  },
+  {
+   "x1": 800.0,
+   "y1": 601.0,
+   "x2": 822.0,
+   "y2": 627.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 601.0,
+   "x2": 875.0,
+   "y2": 629.0,
+   "text": "3"
+  },
+  {
+   "x1": 907.0,
+   "y1": 603.0,
+   "x2": 929.0,
+   "y2": 629.0,
+   "text": "2"
+  },
+  {
+   "x1": 960.0,
+   "y1": 605.0,
+   "x2": 977.0,
+   "y2": 625.0,
+   "text": "1"
+  },
+  {
+   "x1": 1014.0,
+   "y1": 605.0,
+   "x2": 1030.0,
+   "y2": 627.0,
+   "text": "1"
+  },
+  {
+   "x1": 1066.0,
+   "y1": 605.0,
+   "x2": 1084.0,
+   "y2": 625.0,
+   "text": "1"
+  },
+  {
+   "x1": 1119.0,
+   "y1": 605.0,
+   "x2": 1138.0,
+   "y2": 623.0,
+   "text": "1"
+  },
+  {
+   "x1": 120.0,
+   "y1": 627.0,
+   "x2": 157.0,
+   "y2": 656.0,
+   "text": "18*"
+  },
+  {
+   "x1": 205.0,
+   "y1": 627.0,
+   "x2": 242.0,
+   "y2": 658.0,
+   "text": "+6"
+  },
+  {
+   "x1": 281.0,
+   "y1": 629.0,
+   "x2": 480.0,
+   "y2": 654.0,
+   "text": "Maestria negli Incantesimi"
+  },
+  {
+   "x1": 624.0,
+   "y1": 629.0,
+   "x2": 646.0,
+   "y2": 654.0,
+   "text": "5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 632.0,
+   "x2": 715.0,
+   "y2": 652.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 632.0,
+   "x2": 768.0,
+   "y2": 652.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 629.0,
+   "x2": 875.0,
+   "y2": 654.0,
+   "text": "3"
+  },
+  {
+   "x1": 905.0,
+   "y1": 629.0,
+   "x2": 927.0,
+   "y2": 654.0,
+   "text": "3"
+  },
+  {
+   "x1": 960.0,
+   "y1": 632.0,
+   "x2": 977.0,
+   "y2": 652.0,
+   "text": "1"
+  },
+  {
+   "x1": 1014.0,
+   "y1": 630.0,
+   "x2": 1030.0,
+   "y2": 650.0,
+   "text": "1"
+  },
+  {
+   "x1": 1066.0,
+   "y1": 630.0,
+   "x2": 1084.0,
+   "y2": 650.0,
+   "text": "1"
+  },
+  {
+   "x1": 792.0,
+   "y1": 624.0,
+   "x2": 827.0,
+   "y2": 658.0,
+   "text": "3"
+  },
+  {
+   "x1": 1119.0,
+   "y1": 632.0,
+   "x2": 1136.0,
+   "y2": 652.0,
+   "text": "1"
+  },
+  {
+   "x1": 120.0,
+   "y1": 652.0,
+   "x2": 159.0,
+   "y2": 683.0,
+   "text": "19°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 654.0,
+   "x2": 244.0,
+   "y2": 683.0,
+   "text": "+6"
+  },
+  {
+   "x1": 275.0,
+   "y1": 650.0,
+   "x2": 573.0,
+   "y2": 683.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 624.0,
+   "y1": 654.0,
+   "x2": 648.0,
+   "y2": 682.0,
+   "text": "5"
+  },
+  {
+   "x1": 696.0,
+   "y1": 658.0,
+   "x2": 715.0,
+   "y2": 678.0,
+   "text": "4"
+  },
+  {
+   "x1": 746.0,
+   "y1": 656.0,
+   "x2": 770.0,
+   "y2": 682.0,
+   "text": "3"
+  },
+  {
+   "x1": 800.0,
+   "y1": 654.0,
+   "x2": 824.0,
+   "y2": 680.0,
+   "text": "3"
+  },
+  {
+   "x1": 853.0,
+   "y1": 654.0,
+   "x2": 875.0,
+   "y2": 680.0,
+   "text": "3"
+  },
+  {
+   "x1": 905.0,
+   "y1": 656.0,
+   "x2": 929.0,
+   "y2": 682.0,
+   "text": "3"
+  },
+  {
+   "x1": 958.0,
+   "y1": 656.0,
+   "x2": 981.0,
+   "y2": 682.0,
+   "text": "2"
+  },
+  {
+   "x1": 1010.0,
+   "y1": 654.0,
+   "x2": 1034.0,
+   "y2": 680.0,
+   "text": "1"
+  },
+  {
+   "x1": 1062.0,
+   "y1": 654.0,
+   "x2": 1086.0,
+   "y2": 680.0,
+   "text": "1"
+  },
+  {
+   "x1": 1119.0,
+   "y1": 658.0,
+   "x2": 1138.0,
+   "y2": 678.0,
+   "text": "1"
+  },
+  {
+   "x1": 124.0,
+   "y1": 683.0,
+   "x2": 157.0,
+   "y2": 707.0,
+   "text": "20°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 680.0,
+   "x2": 242.0,
+   "y2": 709.0,
+   "text": "+6"
+  },
+  {
+   "x1": 279.0,
+   "y1": 682.0,
+   "x2": 445.0,
+   "y2": 707.0,
+   "text": "Incantesimi Personali"
+  },
+  {
+   "x1": 626.0,
+   "y1": 683.0,
+   "x2": 645.0,
+   "y2": 703.0,
+   "text": "5"
+  },
+  {
+   "x1": 698.0,
+   "y1": 685.0,
+   "x2": 715.0,
+   "y2": 703.0,
+   "text": "4"
+  },
+  {
+   "x1": 750.0,
+   "y1": 685.0,
+   "x2": 768.0,
+   "y2": 705.0,
+   "text": "3"
+  },
+  {
+   "x1": 801.0,
+   "y1": 683.0,
+   "x2": 820.0,
+   "y2": 703.0,
+   "text": "3"
+  },
+  {
+   "x1": 855.0,
+   "y1": 683.0,
+   "x2": 874.0,
+   "y2": 703.0,
+   "text": "3"
+  },
+  {
+   "x1": 909.0,
+   "y1": 685.0,
+   "x2": 925.0,
+   "y2": 705.0,
+   "text": "3"
+  },
+  {
+   "x1": 960.0,
+   "y1": 685.0,
+   "x2": 977.0,
+   "y2": 705.0,
+   "text": "2"
+  },
+  {
+   "x1": 1014.0,
+   "y1": 683.0,
+   "x2": 1032.0,
+   "y2": 703.0,
+   "text": "2"
+  },
+  {
+   "x1": 1067.0,
+   "y1": 683.0,
+   "x2": 1084.0,
+   "y2": 702.0,
+   "text": "1"
+  },
+  {
+   "x1": 1125.0,
+   "y1": 687.0,
+   "x2": 1134.0,
+   "y2": 700.0,
+   "text": "1"
+  },
+  {
+   "x1": 107.0,
+   "y1": 764.0,
+   "x2": 593.0,
+   "y2": 797.0,
+   "text": "La Seduzione della Conoscenza"
+  },
+  {
+   "x1": 657.0,
+   "y1": 762.0,
+   "x2": 1141.0,
+   "y2": 789.0,
+   "text": "Costituzione o Destrezza. Se il mago intende aderire alla"
+  },
+  {
+   "x1": 656.0,
+   "y1": 786.0,
+   "x2": 1158.0,
+   "y2": 813.0,
+   "text": "Scuola di Ammaliamento, il suo secondo miglior punteggio"
+  },
+  {
+   "x1": 105.0,
+   "y1": 798.0,
+   "x2": 602.0,
+   "y2": 831.0,
+   "text": "È raro che un mago conduca una vita comune. La cosa più"
+  },
+  {
+   "x1": 657.0,
+   "y1": 811.0,
+   "x2": 1147.0,
+   "y2": 835.0,
+   "text": "dovrebbe essere Carisma.Poi si sceglie il background del"
+  },
+  {
+   "x1": 107.0,
+   "y1": 828.0,
+   "x2": 585.0,
+   "y2": 853.0,
+   "text": "vicina a una vita normale che un mago possa condurre è"
+  },
+  {
+   "x1": 657.0,
+   "y1": 833.0,
+   "x2": 1151.0,
+   "y2": 859.0,
+   "text": "sapiente. Infine si scelgono i trucchetti luce, mano magica,"
+  },
+  {
+   "x1": 107.0,
+   "y1": 850.0,
+   "x2": 604.0,
+   "y2": 875.0,
+   "text": "una carriera come sapiente o accademico in una biblioteca"
+  },
+  {
+   "x1": 656.0,
+   "y1": 857.0,
+   "x2": 1106.0,
+   "y2": 881.0,
+   "text": "e raggio di gelo, assieme ai seguenti incantesimi di 1°"
+  },
+  {
+   "x1": 105.0,
+   "y1": 873.0,
+   "x2": 565.0,
+   "y2": 897.0,
+   "text": "o in un'università dove insegnerà agli altri i segreti del"
+  },
+  {
+   "x1": 654.0,
+   "y1": 879.0,
+   "x2": 1152.0,
+   "y2": 903.0,
+   "text": "livello da inserire nel suo libro degli incantesimi: armatura"
+  },
+  {
+   "x1": 107.0,
+   "y1": 895.0,
+   "x2": 602.0,
+   "y2": 919.0,
+   "text": "multiverso. Altri maghi vendono al migliore offerente i loro"
+  },
+  {
+   "x1": 656.0,
+   "y1": 901.0,
+   "x2": 1090.0,
+   "y2": 926.0,
+   "text": "magica, caduta morbida, charme su persone, dardo"
+  },
+  {
+   "x1": 107.0,
+   "y1": 919.0,
+   "x2": 593.0,
+   "y2": 943.0,
+   "text": "servigi come divinatori, prestano servizio in un esercito o"
+  },
+  {
+   "x1": 654.0,
+   "y1": 925.0,
+   "x2": 947.0,
+   "y2": 948.0,
+   "text": "incantato, mani brucianti e sonno."
+  },
+  {
+   "x1": 105.0,
+   "y1": 939.0,
+   "x2": 573.0,
+   "y2": 967.0,
+   "text": "dedicano la loro vita al crimine o a progetti di dominio."
+  },
+  {
+   "x1": 122.0,
+   "y1": 965.0,
+   "x2": 608.0,
+   "y2": 988.0,
+   "text": "Ma il richiamo della conoscenza e del potere attira anche"
+  },
+  {
+   "x1": 656.0,
+   "y1": 966.0,
+   "x2": 1034.0,
+   "y2": 1007.0,
+   "text": "PriVILEgI Di CLassE"
+  },
+  {
+   "x1": 103.0,
+   "y1": 985.0,
+   "x2": 574.0,
+   "y2": 1012.0,
+   "text": "i maghi più sedentari, strappandoli alle loro biblioteche"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1010.0,
+   "x2": 574.0,
+   "y2": 1034.0,
+   "text": "e ai loro laboratori per condurli verso antichi complessi"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1009.0,
+   "x2": 1042.0,
+   "y2": 1034.0,
+   "text": "Un mago ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 107.0,
+   "y1": 1032.0,
+   "x2": 585.0,
+   "y2": 1056.0,
+   "text": "di rovine e città perdute. Molti maghi credono che le loro"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1054.0,
+   "x2": 584.0,
+   "y2": 1078.0,
+   "text": "controparti delle civiltà più antiche conoscessero segreti"
+  },
+  {
+   "x1": 653.0,
+   "y1": 1047.0,
+   "x2": 817.0,
+   "y2": 1084.0,
+   "text": "Punti FERita"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1080.0,
+   "x2": 576.0,
+   "y2": 1104.0,
+   "text": "magici ormai perduti da secoli, e che la scoperta di tali"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1076.0,
+   "x2": 992.0,
+   "y2": 1105.0,
+   "text": "Dadi Vita: 1d6 per ogni livello da mago"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1102.0,
+   "x2": 580.0,
+   "y2": 1125.0,
+   "text": "segreti potrebbe aprire le porte di un potere superiore a"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1102.0,
+   "x2": 1056.0,
+   "y2": 1125.0,
+   "text": "Punti Ferita al 1° Livello: 6 + il modificatore di"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1125.0,
+   "x2": 495.0,
+   "y2": 1149.0,
+   "text": "qualsiasi magia disponibile nell'epoca attuale."
+  },
+  {
+   "x1": 670.0,
+   "y1": 1122.0,
+   "x2": 868.0,
+   "y2": 1151.0,
+   "text": "Costituzione del mago"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1147.0,
+   "x2": 1062.0,
+   "y2": 1173.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d6 (o 4) + il"
+  },
+  {
+   "x1": 109.0,
+   "y1": 1166.0,
+   "x2": 360.0,
+   "y2": 1197.0,
+   "text": "Creare un Mago"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1171.0,
+   "x2": 1071.0,
+   "y2": 1197.0,
+   "text": "modificatore di Costituzione del mago per ogni"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1193.0,
+   "x2": 888.0,
+   "y2": 1219.0,
+   "text": "livello da mago dopo il 1*"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1206.0,
+   "x2": 608.0,
+   "y2": 1231.0,
+   "text": "La creazione di un personaggio mago necessita di una storia"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1230.0,
+   "x2": 606.0,
+   "y2": 1253.0,
+   "text": "passata dominata almeno da un evento straordinario. In che"
+  },
+  {
+   "x1": 655.0,
+   "y1": 1233.0,
+   "x2": 805.0,
+   "y2": 1265.0,
+   "text": "COMpeTEnzE"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1252.0,
+   "x2": 589.0,
+   "y2": 1275.0,
+   "text": "modo il mago è entrato in contatto con la magia? Come ha"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1257.0,
+   "x2": 837.0,
+   "y2": 1292.0,
+   "text": "Armature: Nessuna"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1272.0,
+   "x2": 595.0,
+   "y2": 1297.0,
+   "text": "scoperto di essere portato per le arti magiche? Possiede un"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1284.0,
+   "x2": 1038.0,
+   "y2": 1310.0,
+   "text": "Armi: Balestre leggere, bastoni ferrati, dardi,"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1299.0,
+   "x2": 574.0,
+   "y2": 1323.0,
+   "text": "talento naturale o ha semplicemente studiato duramente"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1308.0,
+   "x2": 807.0,
+   "y2": 1334.0,
+   "text": "fonde, pugnali"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1319.0,
+   "x2": 569.0,
+   "y2": 1343.0,
+   "text": "e si è esercitato con tenacia? Ha incontrato una creatura"
+  },
+  {
+   "x1": 650.0,
+   "y1": 1326.0,
+   "x2": 840.0,
+   "y2": 1361.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1345.0,
+   "x2": 556.0,
+   "y2": 1363.0,
+   "text": "magica o ha trovato un antico tomo da cui ha appreso i"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1367.0,
+   "x2": 567.0,
+   "y2": 1390.0,
+   "text": "rudimenti della magia? Cosa lo ha allontanato dalla sua"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1359.0,
+   "x2": 979.0,
+   "y2": 1394.0,
+   "text": "Tiri Salvezza: Intelligenza, Saggezza"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1390.0,
+   "x2": 591.0,
+   "y2": 1416.0,
+   "text": "vita di studi? Il suo primo assaggio del potere magico lo ha"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1387.0,
+   "x2": 1112.0,
+   "y2": 1416.0,
+   "text": "Abilità: Due a scelta tra Arcano, Indagare, Intuizione,"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1412.0,
+   "x2": 567.0,
+   "y2": 1436.0,
+   "text": "reso impaziente di reclamarne ancora? È forse venuto a"
+  },
+  {
+   "x1": 670.0,
+   "y1": 1411.0,
+   "x2": 918.0,
+   "y2": 1436.0,
+   "text": "Medicina, Religione e Storia"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1436.0,
+   "x2": 576.0,
+   "y2": 1460.0,
+   "text": "sapere di qualche ricettacolo segreto di conoscenze a cui"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1460.0,
+   "x2": 582.0,
+   "y2": 1484.0,
+   "text": "gli altri maghi non hanno ancora attinto? O forse desidera"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1451.0,
+   "x2": 872.0,
+   "y2": 1482.0,
+   "text": "Equipaggiamento"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1482.0,
+   "x2": 574.0,
+   "y2": 1506.0,
+   "text": "semplicemente mettere alla prova le doti magiche che ha"
+  },
+  {
+   "x1": 654.0,
+   "y1": 1478.0,
+   "x2": 1086.0,
+   "y2": 1507.0,
+   "text": "Un mago inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1502.0,
+   "x2": 574.0,
+   "y2": 1529.0,
+   "text": "appena sviluppato e affrontare a viso aperto un pericolo?"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1506.0,
+   "x2": 1158.0,
+   "y2": 1531.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1544.0,
+   "x2": 322.0,
+   "y2": 1573.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 656.0,
+   "y1": 1542.0,
+   "x2": 674.0,
+   "y2": 1559.0,
+   "text": "."
+  },
+  {
+   "x1": 667.0,
+   "y1": 1538.0,
+   "x2": 995.0,
+   "y2": 1564.0,
+   "text": "(a) un bastone ferrato o (b) un pugnale"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1569.0,
+   "x2": 593.0,
+   "y2": 1601.0,
+   "text": "È possibile creare un mago rapidamente seguendo questi"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1568.0,
+   "x2": 669.0,
+   "y2": 1579.0,
+   "text": "."
+  },
+  {
+   "x1": 669.0,
+   "y1": 1562.0,
+   "x2": 1104.0,
+   "y2": 1586.0,
+   "text": "a)una borsa per componenti o (b) un focus arcano"
+  },
+  {
+   "x1": 669.0,
+   "y1": 1584.0,
+   "x2": 1110.0,
+   "y2": 1610.0,
+   "text": "(a) una dotazione da studioso o (b) una dotazione da"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1597.0,
+   "x2": 548.0,
+   "y2": 1622.0,
+   "text": "suggerimenti. Per prima cosa, Intelligenza dovrebbe"
+  },
+  {
+   "x1": 672.0,
+   "y1": 1610.0,
+   "x2": 776.0,
+   "y2": 1630.0,
+   "text": "esploratore"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1621.0,
+   "x2": 567.0,
+   "y2": 1644.0,
+   "text": "essere il punteggio di caratteristica più alto, seguito da"
+  },
+  {
+   "x1": 665.0,
+   "y1": 1624.0,
+   "x2": 898.0,
+   "y2": 1657.0,
+   "text": "Un libro degli incantesimi"
+  },
+  {
+   "x1": 14.0,
+   "y1": 1689.0,
+   "x2": 47.0,
+   "y2": 1718.0,
+   "text": "82"
+  },
+  {
+   "x1": 103.0,
+   "y1": 1681.0,
+   "x2": 284.0,
+   "y2": 1705.0,
+   "text": "CAPITOLO 3 CLASSI"
+  }
+ ],
+ "reading_text": "MAGo\nBonus di\nLivello Competenza\nPrivilegi\n1°\n+2\nIncantesimi, Recupero Arcano\nTradizione Arcana\n+2\n2*\n3°\n+2\n-\n4\n+2\nAumento dei Punteggi di Caratteristica\n5°\n+3\n6\n+3\nPrivilegio della Tradizione Arcana\n+3\n7°\n+3\n8°\nAumento dei Punteggi di Caratteristica\n9°\n+4\n10*\nPrivilegio della Tradizione Arcana\n+4\n11\n+4\nI\n12°\n+4\nAumento dei Punteggi di Caratteristica\n+5\n13°\n14°\n+5\nPrivilegio del a Tradizione Arcana\n15°\n+5\n16°\n+5\nAumento dei Punteggi di Caratteristica\n17\n+6\n18*\n+6\nMaestria negli Incantesimi\nAumento dei Punteggi di Caratteristica\n19°\n+6\n+6\nIncantesimi Personali\n20°\nLa Seduzione della Conoscenza\nÈ raro che un mago conduca una vita comune. La cosa più\nvicina a una vita normale che un mago possa condurre è\nuna carriera come sapiente o accademico in una biblioteca\no in un'università dove insegnerà agli altri i segreti del\nmultiverso. Altri maghi vendono al migliore offerente i loro\nservigi come divinatori, prestano servizio in un esercito o\ndedicano la loro vita al crimine o a progetti di dominio.\nMa il richiamo della conoscenza e del potere attira anche\ni maghi più sedentari, strappandoli alle loro biblioteche\ne ai loro laboratori per condurli verso antichi complessi\ndi rovine e città perdute. Molti maghi credono che le loro\ncontroparti delle civiltà più antiche conoscessero segreti\nmagici ormai perduti da secoli, e che la scoperta di tali\nsegreti potrebbe aprire le porte di un potere superiore a\nqualsiasi magia disponibile nell'epoca attuale.\nCreare un Mago\nLa creazione di un personaggio mago necessita di una storia\npassata dominata almeno da un evento straordinario. In che\nmodo il mago è entrato in contatto con la magia? Come ha\nscoperto di essere portato per le arti magiche? Possiede un\ntalento naturale o ha semplicemente studiato duramente\ne si è esercitato con tenacia? Ha incontrato una creatura\nmagica o ha trovato un antico tomo da cui ha appreso i\nrudimenti della magia? Cosa lo ha allontanato dalla sua\nvita di studi? Il suo primo assaggio del potere magico lo ha\nreso impaziente di reclamarne ancora? È forse venuto a\nsapere di qualche ricettacolo segreto di conoscenze a cui\ngli altri maghi non hanno ancora attinto? O forse desidera\nsemplicemente mettere alla prova le doti magiche che ha\nappena sviluppato e affrontare a viso aperto un pericolo?\nCreazione Rapida\nÈ possibile creare un mago rapidamente seguendo questi\nsuggerimenti. Per prima cosa, Intelligenza dovrebbe\nessere il punteggio di caratteristica più alto, seguito da\nCAPITOLO 3 CLASSI\n82\n—Slot Incantesimo per Livello di Incantesimo—\nTrucchetti\n5°\nConosciuti\n1°\n2\n3\n4°\n6*\n7°\n8°\n9\n3\n2\n-\n3\n3\n-\n-\n3\n4\n2\n-\n-\n-\n3\n4\n4\n3\n4\n4\n2\n-\n4\n3\n4\n3\n-\n4\n3\n3\n4\n1\n3\n3\n2\n4\n4\n—\n4\n3\n3\n4\n3\n1\n5\n3\n4\n3\n3\n2\n-\n5\n3\n3\n3\n2\n4\n1\n3\n3\n5\n3\n4\n2\n1\n3\n5\n3\n3\n4\n2\n1\n1\n5\n3\n1\n4\n3\n3\n2\n1\n5\n3\n3\n2\n4\n3\n1\n1\n1\n5\n4\n3\n2\n3\n3\n1\n1\n1\n5\n3\n3\n4\n3\n2\n1\n1\n1\n1\n3\n5\n3\n3\n1\n1\n4\n3\n1\n1\n5\n3\n3\n1\n1\n3\n3\n2\n4\n1\n5\n3\n3\n2\n1\n4\n3\n3\n2\n1\nCostituzione o Destrezza. Se il mago intende aderire alla\nScuola di Ammaliamento, il suo secondo miglior punteggio\ndovrebbe essere Carisma.Poi si sceglie il background del\nsapiente. Infine si scelgono i trucchetti luce, mano magica,\ne raggio di gelo, assieme ai seguenti incantesimi di 1°\nlivello da inserire nel suo libro degli incantesimi: armatura\nmagica, caduta morbida, charme su persone, dardo\nincantato, mani brucianti e sonno.\nPriVILEgI Di CLassE\nUn mago ottiene i seguenti privilegi di classe.\nPunti FERita\nDadi Vita: 1d6 per ogni livello da mago\nPunti Ferita al 1° Livello: 6 + il modificatore di\nCostituzione del mago\nPunti Ferita ai Livelli Successivi: 1d6 (o 4) + il\nmodificatore di Costituzione del mago per ogni\nlivello da mago dopo il 1*\nCOMpeTEnzE\nArmature: Nessuna\nArmi: Balestre leggere, bastoni ferrati, dardi,\nfonde, pugnali\nStrumenti: Nessuno\nTiri Salvezza: Intelligenza, Saggezza\nAbilità: Due a scelta tra Arcano, Indagare, Intuizione,\nMedicina, Religione e Storia\nEquipaggiamento\nUn mago inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:\n(a) un bastone ferrato o (b) un pugnale\n.\na)una borsa per componenti o (b) un focus arcano\n.\n(a) una dotazione da studioso o (b) una dotazione da\nesploratore\nUn libro degli incantesimi"
+}

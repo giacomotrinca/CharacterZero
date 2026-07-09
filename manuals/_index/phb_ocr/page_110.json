@@ -1,0 +1,591 @@
+{
+ "pdf_page_index": 110,
+ "page_label": 111,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 83,
+ "lines": [
+  {
+   "x1": 96.0,
+   "y1": 65.0,
+   "x2": 355.0,
+   "y2": 106.0,
+   "text": "Affinità Elementale"
+  },
+  {
+   "x1": 669.0,
+   "y1": 71.0,
+   "x2": 1114.0,
+   "y2": 95.0,
+   "text": "In qualsiasi momento, prima di recuperare l'utilizzo di"
+  },
+  {
+   "x1": 650.0,
+   "y1": 95.0,
+   "x2": 1119.0,
+   "y2": 119.0,
+   "text": "questo privilegio, il DM può chiedere al giocatore di tirare"
+  },
+  {
+   "x1": 650.0,
+   "y1": 117.0,
+   "x2": 1143.0,
+   "y2": 141.0,
+   "text": "sulla tabella \"Impulsi di Magia Selvaggia\" subito dopo che lo"
+  },
+  {
+   "x1": 652.0,
+   "y1": 141.0,
+   "x2": 1154.0,
+   "y2": 164.0,
+   "text": "stregone ha lanciato un incantesimo di livello pari o superiore"
+  },
+  {
+   "x1": 650.0,
+   "y1": 161.0,
+   "x2": 1130.0,
+   "y2": 188.0,
+   "text": "al 1°. Poi lo stregone recupera l'utilizzo di questo privilegio."
+  },
+  {
+   "x1": 94.0,
+   "y1": 184.0,
+   "x2": 606.0,
+   "y2": 221.0,
+   "text": "stesso tempo, lo stregone può spendere 1 punto stregoneria"
+  },
+  {
+   "x1": 650.0,
+   "y1": 203.0,
+   "x2": 892.0,
+   "y2": 230.0,
+   "text": "Piegare La Fortuna"
+  },
+  {
+   "x1": 650.0,
+   "y1": 228.0,
+   "x2": 1119.0,
+   "y2": 252.0,
+   "text": "A partire dal 6° livello, lo stregone sviluppa la capacità di"
+  },
+  {
+   "x1": 98.0,
+   "y1": 252.0,
+   "x2": 255.0,
+   "y2": 284.0,
+   "text": "Ali di Drago"
+  },
+  {
+   "x1": 652.0,
+   "y1": 254.0,
+   "x2": 1102.0,
+   "y2": 278.0,
+   "text": "alterare il fato usando la sua magia selvaggia. Quando"
+  },
+  {
+   "x1": 96.0,
+   "y1": 276.0,
+   "x2": 584.0,
+   "y2": 311.0,
+   "text": "Al 14° livello, lo stregone sviluppa la capacità di generare"
+  },
+  {
+   "x1": 650.0,
+   "y1": 276.0,
+   "x2": 1104.0,
+   "y2": 300.0,
+   "text": "un'altra creatura che lo stregone sia in grado di vedere"
+  },
+  {
+   "x1": 654.0,
+   "y1": 301.0,
+   "x2": 1112.0,
+   "y2": 320.0,
+   "text": "effettua un tiro per colpire, una prova di caratteristica o"
+  },
+  {
+   "x1": 98.0,
+   "y1": 325.0,
+   "x2": 595.0,
+   "y2": 353.0,
+   "text": "velocità di volare pari alla sua velocità attuale. Lo stregone"
+  },
+  {
+   "x1": 650.0,
+   "y1": 320.0,
+   "x2": 1115.0,
+   "y2": 343.0,
+   "text": "un tiro salvezza, lo stregone può usare la sua reazione e"
+  },
+  {
+   "x1": 96.0,
+   "y1": 349.0,
+   "x2": 585.0,
+   "y2": 376.0,
+   "text": "può generare queste ali come azione bonus nel suo turno."
+  },
+  {
+   "x1": 650.0,
+   "y1": 342.0,
+   "x2": 1123.0,
+   "y2": 369.0,
+   "text": "spendere 2 punti stregoneria per tirare 1d4 e applicare il"
+  },
+  {
+   "x1": 100.0,
+   "y1": 373.0,
+   "x2": 536.0,
+   "y2": 396.0,
+   "text": "Le ali durano finché lo stregone non le congeda con"
+  },
+  {
+   "x1": 652.0,
+   "y1": 367.0,
+   "x2": 1152.0,
+   "y2": 391.0,
+   "text": "risultato ottenuto come bonus o penalità (a sua scelta) al tiro"
+  },
+  {
+   "x1": 98.0,
+   "y1": 395.0,
+   "x2": 447.0,
+   "y2": 418.0,
+   "text": "un'azione bonus durante il proprio turno."
+  },
+  {
+   "x1": 652.0,
+   "y1": 389.0,
+   "x2": 1151.0,
+   "y2": 413.0,
+   "text": "della creatura. Può farlo dopo che la creatura ha effettuato il"
+  },
+  {
+   "x1": 114.0,
+   "y1": 417.0,
+   "x2": 545.0,
+   "y2": 440.0,
+   "text": "Lo stregone non può manifestare le sue ali mentre"
+  },
+  {
+   "x1": 652.0,
+   "y1": 413.0,
+   "x2": 1099.0,
+   "y2": 437.0,
+   "text": "tiro, ma prima che qualsiasi effetto del tiro si verifichi."
+  },
+  {
+   "x1": 98.0,
+   "y1": 440.0,
+   "x2": 541.0,
+   "y2": 464.0,
+   "text": "indossa un'armatura, a meno che l'armatura non sia"
+  },
+  {
+   "x1": 654.0,
+   "y1": 451.0,
+   "x2": 883.0,
+   "y2": 479.0,
+   "text": "Caos Controllato"
+  },
+  {
+   "x1": 96.0,
+   "y1": 460.0,
+   "x2": 541.0,
+   "y2": 490.0,
+   "text": "concepita per accoglierle; i vestiti che non sono stati"
+  },
+  {
+   "x1": 98.0,
+   "y1": 486.0,
+   "x2": 582.0,
+   "y2": 510.0,
+   "text": "concepiti per accogliere le ali potrebbero essere distrutti"
+  },
+  {
+   "x1": 652.0,
+   "y1": 481.0,
+   "x2": 1127.0,
+   "y2": 504.0,
+   "text": "Al 14º livello, lo stregone ottiene un minimo di controllo"
+  },
+  {
+   "x1": 100.0,
+   "y1": 510.0,
+   "x2": 377.0,
+   "y2": 528.0,
+   "text": "quando lo stregone le manifesta."
+  },
+  {
+   "x1": 652.0,
+   "y1": 504.0,
+   "x2": 1149.0,
+   "y2": 528.0,
+   "text": "sugli impulsi della sua magia selvaggia. Ogni volta che tira"
+  },
+  {
+   "x1": 652.0,
+   "y1": 526.0,
+   "x2": 1136.0,
+   "y2": 550.0,
+   "text": "sulla tabella \"Impulsi di Magia Selvaggia\" può tirare due"
+  },
+  {
+   "x1": 100.0,
+   "y1": 550.0,
+   "x2": 345.0,
+   "y2": 574.0,
+   "text": "Presenza Draconica"
+  },
+  {
+   "x1": 654.0,
+   "y1": 552.0,
+   "x2": 970.0,
+   "y2": 570.0,
+   "text": "volte e scegliere quale numero usare."
+  },
+  {
+   "x1": 96.0,
+   "y1": 574.0,
+   "x2": 550.0,
+   "y2": 601.0,
+   "text": "A partire dal 18° livello, lo stregone può incanalare la"
+  },
+  {
+   "x1": 98.0,
+   "y1": 597.0,
+   "x2": 598.0,
+   "y2": 625.0,
+   "text": "presenza terrificante del suo antenato draconico, rendendo"
+  },
+  {
+   "x1": 654.0,
+   "y1": 592.0,
+   "x2": 949.0,
+   "y2": 616.0,
+   "text": "Bombardamento Magico"
+  },
+  {
+   "x1": 98.0,
+   "y1": 623.0,
+   "x2": 587.0,
+   "y2": 647.0,
+   "text": "quelli attorno a lui affascinati o spaventati. Con un'azione,"
+  },
+  {
+   "x1": 650.0,
+   "y1": 618.0,
+   "x2": 1158.0,
+   "y2": 641.0,
+   "text": "A partire dal 18° livello, l'energia dannosa degli incantesimi"
+  },
+  {
+   "x1": 100.0,
+   "y1": 645.0,
+   "x2": 593.0,
+   "y2": 669.0,
+   "text": "lo stregone può spendere 5 punti stregoneria per attingere"
+  },
+  {
+   "x1": 648.0,
+   "y1": 639.0,
+   "x2": 1125.0,
+   "y2": 663.0,
+   "text": "dello stregone si intensifica. Quando lo stregone tira per"
+  },
+  {
+   "x1": 96.0,
+   "y1": 669.0,
+   "x2": 541.0,
+   "y2": 692.0,
+   "text": "a questo potere ed emanare un'aura di soggezione o"
+  },
+  {
+   "x1": 652.0,
+   "y1": 663.0,
+   "x2": 1104.0,
+   "y2": 687.0,
+   "text": "i danni di un incantesimo e ottiene il più alto numero"
+  },
+  {
+   "x1": 98.0,
+   "y1": 691.0,
+   "x2": 548.0,
+   "y2": 714.0,
+   "text": "di paura (a sua scelta) entro una distanza di 18 metri."
+  },
+  {
+   "x1": 650.0,
+   "y1": 685.0,
+   "x2": 1115.0,
+   "y2": 711.0,
+   "text": "possibile su qualsiasi dado, sceglie uno di quei dadi, lo"
+  },
+  {
+   "x1": 98.0,
+   "y1": 713.0,
+   "x2": 561.0,
+   "y2": 736.0,
+   "text": "Per I minuto o finché non perde la sua concentrazione"
+  },
+  {
+   "x1": 650.0,
+   "y1": 709.0,
+   "x2": 1117.0,
+   "y2": 733.0,
+   "text": "tira di nuovo e aggiunge il nuovo risultato ai danni. Può"
+  },
+  {
+   "x1": 98.0,
+   "y1": 736.0,
+   "x2": 563.0,
+   "y2": 760.0,
+   "text": "(come se stesse lanciando un incantesimo che richiede"
+  },
+  {
+   "x1": 654.0,
+   "y1": 734.0,
+   "x2": 1121.0,
+   "y2": 753.0,
+   "text": "utilizzare questo privilegio soltanto una volta per turno."
+  },
+  {
+   "x1": 98.0,
+   "y1": 758.0,
+   "x2": 548.0,
+   "y2": 782.0,
+   "text": "concentrazione), ogni creatura ostile che inizia il suo"
+  },
+  {
+   "x1": 96.0,
+   "y1": 782.0,
+   "x2": 561.0,
+   "y2": 806.0,
+   "text": "turno entro questa aura deve superare un tiro salvezza"
+  },
+  {
+   "x1": 96.0,
+   "y1": 804.0,
+   "x2": 567.0,
+   "y2": 828.0,
+   "text": "su Saggezza o sarà affascinata (se lo stregone ha scelto"
+  },
+  {
+   "x1": 98.0,
+   "y1": 828.0,
+   "x2": 585.0,
+   "y2": 851.0,
+   "text": "soggezione) o spaventata (se ha scelto paura) finché l'aura"
+  },
+  {
+   "x1": 96.0,
+   "y1": 850.0,
+   "x2": 593.0,
+   "y2": 873.0,
+   "text": "non termina. Una creatura che supera questo tiro salvezza"
+  },
+  {
+   "x1": 96.0,
+   "y1": 872.0,
+   "x2": 471.0,
+   "y2": 895.0,
+   "text": "è immune all'aura dello stregone per 24 ore."
+  },
+  {
+   "x1": 98.0,
+   "y1": 915.0,
+   "x2": 349.0,
+   "y2": 943.0,
+   "text": "MaGia SELVAGGia"
+  },
+  {
+   "x1": 98.0,
+   "y1": 950.0,
+   "x2": 565.0,
+   "y2": 974.0,
+   "text": "La magia innata dello stregone deriva dalle forze del caos"
+  },
+  {
+   "x1": 98.0,
+   "y1": 974.0,
+   "x2": 574.0,
+   "y2": 998.0,
+   "text": "che sottostanno all'ordine del creato. Lo stregone potrebbe"
+  },
+  {
+   "x1": 98.0,
+   "y1": 999.0,
+   "x2": 595.0,
+   "y2": 1023.0,
+   "text": "essere rimasto esposto alla magia grezza, forse attraverso un"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1019.0,
+   "x2": 589.0,
+   "y2": 1047.0,
+   "text": "portale planare che conduceva al Limbo, ai Piani Elementali"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1043.0,
+   "x2": 567.0,
+   "y2": 1067.0,
+   "text": "o al Reame Remoto. Forse è stato benedetto da un folletto"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1067.0,
+   "x2": 572.0,
+   "y2": 1091.0,
+   "text": "o marchiato da un demone. Oppure la sua magia potrebbe"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1091.0,
+   "x2": 598.0,
+   "y2": 1115.0,
+   "text": "essere dovuta a un fenomeno inspiegabile verificatosi alla sua"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1115.0,
+   "x2": 598.0,
+   "y2": 1138.0,
+   "text": "nascita senza alcuna causa apparente. Quale che sia la causa,"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1135.0,
+   "x2": 561.0,
+   "y2": 1158.0,
+   "text": "questa magia ora si agita dentro di lui e preme per uscire."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1177.0,
+   "x2": 429.0,
+   "y2": 1204.0,
+   "text": "Impulso di Magia Selvaggia"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1204.0,
+   "x2": 565.0,
+   "y2": 1228.0,
+   "text": "A partire da quando sceglie questa origine al 1° livello, lo"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1230.0,
+   "x2": 563.0,
+   "y2": 1253.0,
+   "text": "stregone può sprigionare impulsi di magia incontrollata"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1252.0,
+   "x2": 585.0,
+   "y2": 1275.0,
+   "text": "quando lancia i suoi incantesimi. Una volta per turno il DM"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1272.0,
+   "x2": 597.0,
+   "y2": 1299.0,
+   "text": "può chiedergli di tirare un d20 subito dopo avere lanciato un"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1297.0,
+   "x2": 558.0,
+   "y2": 1321.0,
+   "text": "incantesimo da stregone di livello pari o superiore al 1°."
+  },
+  {
+   "x1": 96.0,
+   "y1": 1321.0,
+   "x2": 526.0,
+   "y2": 1345.0,
+   "text": "Se ottiene un 1, deve tirare sulla tabella \"Impulsi di"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1339.0,
+   "x2": 534.0,
+   "y2": 1367.0,
+   "text": "Magia Selvaggia\" per generare un effetto magico. Se"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1367.0,
+   "x2": 593.0,
+   "y2": 1390.0,
+   "text": "quell'effetto è un incantesimo, è troppo selvaggio per essere"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1389.0,
+   "x2": 596.0,
+   "y2": 1412.0,
+   "text": "influenzato dalla sua Metamagia, e se normalmente richiede"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1414.0,
+   "x2": 596.0,
+   "y2": 1438.0,
+   "text": "concentrazione, in questo caso non richiede concentrazione;"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1432.0,
+   "x2": 517.0,
+   "y2": 1462.0,
+   "text": "l'incantesimo permane per la sua durata completa."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1476.0,
+   "x2": 261.0,
+   "y2": 1504.0,
+   "text": "Onde di Caos"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1504.0,
+   "x2": 591.0,
+   "y2": 1527.0,
+   "text": "A partire dal 1' livello, lo stregone può manipolare le forze"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1526.0,
+   "x2": 595.0,
+   "y2": 1553.0,
+   "text": "della probabilità e del caos per ottenere vantaggio a un tiro"
+  },
+  {
+   "x1": 94.0,
+   "y1": 1549.0,
+   "x2": 580.0,
+   "y2": 1577.0,
+   "text": "per colpire, una prova di caratteristica o un tiro salvezza."
+  },
+  {
+   "x1": 94.0,
+   "y1": 1571.0,
+   "x2": 576.0,
+   "y2": 1601.0,
+   "text": "Una volta che l'ha fatto, deve completare un riposo lungo"
+  },
+  {
+   "x1": 96.0,
+   "y1": 1599.0,
+   "x2": 548.0,
+   "y2": 1622.0,
+   "text": "prima che possa utilizzare di nuovo questo privilegio."
+  }
+ ],
+ "reading_text": "Affinità Elementale\nstesso tempo, lo stregone può spendere 1 punto stregoneria\nAli di Drago\nAl 14° livello, lo stregone sviluppa la capacità di generare\nvelocità di volare pari alla sua velocità attuale. Lo stregone\npuò generare queste ali come azione bonus nel suo turno.\nLe ali durano finché lo stregone non le congeda con\nun'azione bonus durante il proprio turno.\nLo stregone non può manifestare le sue ali mentre\nindossa un'armatura, a meno che l'armatura non sia\nconcepita per accoglierle; i vestiti che non sono stati\nconcepiti per accogliere le ali potrebbero essere distrutti\nquando lo stregone le manifesta.\nPresenza Draconica\nA partire dal 18° livello, lo stregone può incanalare la\npresenza terrificante del suo antenato draconico, rendendo\nquelli attorno a lui affascinati o spaventati. Con un'azione,\nlo stregone può spendere 5 punti stregoneria per attingere\na questo potere ed emanare un'aura di soggezione o\ndi paura (a sua scelta) entro una distanza di 18 metri.\nPer I minuto o finché non perde la sua concentrazione\n(come se stesse lanciando un incantesimo che richiede\nconcentrazione), ogni creatura ostile che inizia il suo\nturno entro questa aura deve superare un tiro salvezza\nsu Saggezza o sarà affascinata (se lo stregone ha scelto\nsoggezione) o spaventata (se ha scelto paura) finché l'aura\nnon termina. Una creatura che supera questo tiro salvezza\nè immune all'aura dello stregone per 24 ore.\nMaGia SELVAGGia\nLa magia innata dello stregone deriva dalle forze del caos\nche sottostanno all'ordine del creato. Lo stregone potrebbe\nessere rimasto esposto alla magia grezza, forse attraverso un\nportale planare che conduceva al Limbo, ai Piani Elementali\no al Reame Remoto. Forse è stato benedetto da un folletto\no marchiato da un demone. Oppure la sua magia potrebbe\nessere dovuta a un fenomeno inspiegabile verificatosi alla sua\nnascita senza alcuna causa apparente. Quale che sia la causa,\nquesta magia ora si agita dentro di lui e preme per uscire.\nImpulso di Magia Selvaggia\nA partire da quando sceglie questa origine al 1° livello, lo\nstregone può sprigionare impulsi di magia incontrollata\nquando lancia i suoi incantesimi. Una volta per turno il DM\npuò chiedergli di tirare un d20 subito dopo avere lanciato un\nincantesimo da stregone di livello pari o superiore al 1°.\nSe ottiene un 1, deve tirare sulla tabella \"Impulsi di\nMagia Selvaggia\" per generare un effetto magico. Se\nquell'effetto è un incantesimo, è troppo selvaggio per essere\ninfluenzato dalla sua Metamagia, e se normalmente richiede\nconcentrazione, in questo caso non richiede concentrazione;\nl'incantesimo permane per la sua durata completa.\nOnde di Caos\nA partire dal 1' livello, lo stregone può manipolare le forze\ndella probabilità e del caos per ottenere vantaggio a un tiro\nper colpire, una prova di caratteristica o un tiro salvezza.\nUna volta che l'ha fatto, deve completare un riposo lungo\nprima che possa utilizzare di nuovo questo privilegio.\nIn qualsiasi momento, prima di recuperare l'utilizzo di\nquesto privilegio, il DM può chiedere al giocatore di tirare\nsulla tabella \"Impulsi di Magia Selvaggia\" subito dopo che lo\nstregone ha lanciato un incantesimo di livello pari o superiore\nal 1°. Poi lo stregone recupera l'utilizzo di questo privilegio.\nPiegare La Fortuna\nA partire dal 6° livello, lo stregone sviluppa la capacità di\nalterare il fato usando la sua magia selvaggia. Quando\nun'altra creatura che lo stregone sia in grado di vedere\neffettua un tiro per colpire, una prova di caratteristica o\nun tiro salvezza, lo stregone può usare la sua reazione e\nspendere 2 punti stregoneria per tirare 1d4 e applicare il\nrisultato ottenuto come bonus o penalità (a sua scelta) al tiro\ndella creatura. Può farlo dopo che la creatura ha effettuato il\ntiro, ma prima che qualsiasi effetto del tiro si verifichi.\nCaos Controllato\nAl 14º livello, lo stregone ottiene un minimo di controllo\nsugli impulsi della sua magia selvaggia. Ogni volta che tira\nsulla tabella \"Impulsi di Magia Selvaggia\" può tirare due\nvolte e scegliere quale numero usare.\nBombardamento Magico\nA partire dal 18° livello, l'energia dannosa degli incantesimi\ndello stregone si intensifica. Quando lo stregone tira per\ni danni di un incantesimo e ottiene il più alto numero\npossibile su qualsiasi dado, sceglie uno di quei dadi, lo\ntira di nuovo e aggiunge il nuovo risultato ai danni. Può\nutilizzare questo privilegio soltanto una volta per turno."
+}

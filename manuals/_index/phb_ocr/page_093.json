@@ -1,0 +1,626 @@
+{
+ "pdf_page_index": 93,
+ "page_label": 94,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 88,
+ "lines": [
+  {
+   "x1": 88.0,
+   "y1": 69.0,
+   "x2": 366.0,
+   "y2": 112.0,
+   "text": "Discipline Elementali"
+  },
+  {
+   "x1": 670.0,
+   "y1": 75.0,
+   "x2": 1156.0,
+   "y2": 102.0,
+   "text": "Sintonia Elementale. Il monaco può usare la sua azione"
+  },
+  {
+   "x1": 652.0,
+   "y1": 100.0,
+   "x2": 1108.0,
+   "y2": 124.0,
+   "text": "per controllare brevemente le forze elementali vicine,"
+  },
+  {
+   "x1": 650.0,
+   "y1": 124.0,
+   "x2": 1064.0,
+   "y2": 148.0,
+   "text": "provocando un effetto a sua scelta tra i seguenti:"
+  },
+  {
+   "x1": 88.0,
+   "y1": 142.0,
+   "x2": 527.0,
+   "y2": 181.0,
+   "text": "deve avere raggiunto quel livello per apprendere la"
+  },
+  {
+   "x1": 656.0,
+   "y1": 161.0,
+   "x2": 669.0,
+   "y2": 174.0,
+   "text": "."
+  },
+  {
+   "x1": 665.0,
+   "y1": 153.0,
+   "x2": 1091.0,
+   "y2": 177.0,
+   "text": "Creare un effetto sensoriale innocuo e istantaneo"
+  },
+  {
+   "x1": 90.0,
+   "y1": 170.0,
+   "x2": 294.0,
+   "y2": 203.0,
+   "text": "disciplina in questione."
+  },
+  {
+   "x1": 667.0,
+   "y1": 179.0,
+   "x2": 1128.0,
+   "y2": 203.0,
+   "text": "correlato all'acqua, all'aria, al fuoco o alla terra, come"
+  },
+  {
+   "x1": 667.0,
+   "y1": 203.0,
+   "x2": 1145.0,
+   "y2": 227.0,
+   "text": "uno spruzzo d'acqua, uno sbuffo di vento, una pioggia di"
+  },
+  {
+   "x1": 667.0,
+   "y1": 225.0,
+   "x2": 1067.0,
+   "y2": 248.0,
+   "text": "scintille o un leggero tremolio di alcune pietre."
+  },
+  {
+   "x1": 92.0,
+   "y1": 244.0,
+   "x2": 181.0,
+   "y2": 271.0,
+   "text": "se stesso."
+  },
+  {
+   "x1": 667.0,
+   "y1": 250.0,
+   "x2": 1149.0,
+   "y2": 269.0,
+   "text": "Accendere o estinguere istantaneamente una torcia, una"
+  },
+  {
+   "x1": 107.0,
+   "y1": 254.0,
+   "x2": 604.0,
+   "y2": 292.0,
+   "text": "Colpo della Cenere Turbinante. Il monaco può spendere"
+  },
+  {
+   "x1": 669.0,
+   "y1": 270.0,
+   "x2": 992.0,
+   "y2": 294.0,
+   "text": "candela o un piccolo fuoco da campo."
+  },
+  {
+   "x1": 667.0,
+   "y1": 292.0,
+   "x2": 1134.0,
+   "y2": 316.0,
+   "text": "Raffreddare o riscaldare fino a 0,5 kg di materiale non"
+  },
+  {
+   "x1": 107.0,
+   "y1": 301.0,
+   "x2": 569.0,
+   "y2": 338.0,
+   "text": "Difesa della Montagna Eterna (17' livello richiesto)."
+  },
+  {
+   "x1": 670.0,
+   "y1": 318.0,
+   "x2": 947.0,
+   "y2": 336.0,
+   "text": "vivente per un massimo di 1 ora."
+  },
+  {
+   "x1": 667.0,
+   "y1": 338.0,
+   "x2": 1141.0,
+   "y2": 362.0,
+   "text": "Generare terra, fuoco, acqua o foschia delle dimensioni"
+  },
+  {
+   "x1": 90.0,
+   "y1": 349.0,
+   "x2": 355.0,
+   "y2": 384.0,
+   "text": "pietra, bersagliando se stesso."
+  },
+  {
+   "x1": 667.0,
+   "y1": 360.0,
+   "x2": 1139.0,
+   "y2": 384.0,
+   "text": "massime di un cubo con spigolo di 30 cm e che assuma"
+  },
+  {
+   "x1": 665.0,
+   "y1": 384.0,
+   "x2": 1090.0,
+   "y2": 407.0,
+   "text": "una rozza forma a sua scelta per un massimo di 1"
+  },
+  {
+   "x1": 667.0,
+   "y1": 409.0,
+   "x2": 737.0,
+   "y2": 429.0,
+   "text": "minuto."
+  },
+  {
+   "x1": 107.0,
+   "y1": 415.0,
+   "x2": 574.0,
+   "y2": 451.0,
+   "text": "Fiume della Fiamma Famelica (17' livello richiesto)."
+  },
+  {
+   "x1": 665.0,
+   "y1": 438.0,
+   "x2": 1151.0,
+   "y2": 462.0,
+   "text": "Soffio dell'Inverno (17° livello richiesto). Il monaco può"
+  },
+  {
+   "x1": 107.0,
+   "y1": 462.0,
+   "x2": 565.0,
+   "y2": 495.0,
+   "text": "Forma del Fiume Fluente. Con un'azione, il monaco"
+  },
+  {
+   "x1": 646.0,
+   "y1": 460.0,
+   "x2": 1053.0,
+   "y2": 484.0,
+   "text": "spendere 6 punti ki per lanciare cono di freddo."
+  },
+  {
+   "x1": 665.0,
+   "y1": 482.0,
+   "x2": 1097.0,
+   "y2": 506.0,
+   "text": "Spiritidella Burrasca Impetuosa. Il monaco può"
+  },
+  {
+   "x1": 645.0,
+   "y1": 504.0,
+   "x2": 1051.0,
+   "y2": 528.0,
+   "text": "spendere 2 punti ki per lanciare folata di vento."
+  },
+  {
+   "x1": 663.0,
+   "y1": 530.0,
+   "x2": 1128.0,
+   "y2": 554.0,
+   "text": "Zanne del Serpente di Fuoco. Quando il monaco usa"
+  },
+  {
+   "x1": 646.0,
+   "y1": 552.0,
+   "x2": 1136.0,
+   "y2": 577.0,
+   "text": "l'azione di Attacco nel suo turno, può spendere 1 puntoki"
+  },
+  {
+   "x1": 646.0,
+   "y1": 576.0,
+   "x2": 1127.0,
+   "y2": 599.0,
+   "text": "per generare dei tentacoli di fiamme dai suoi pugni e dai"
+  },
+  {
+   "x1": 643.0,
+   "y1": 596.0,
+   "x2": 1114.0,
+   "y2": 619.0,
+   "text": "suoi piedi. La portata dei suoi colpi senz'armi aumenta"
+  },
+  {
+   "x1": 89.0,
+   "y1": 619.0,
+   "x2": 591.0,
+   "y2": 656.0,
+   "text": "riempire un canale, erigere o abbattere un muro o formare"
+  },
+  {
+   "x1": 645.0,
+   "y1": 618.0,
+   "x2": 1121.0,
+   "y2": 641.0,
+   "text": "di 3 metri per quell'azione, nonché per il resto del turno."
+  },
+  {
+   "x1": 645.0,
+   "y1": 641.0,
+   "x2": 1123.0,
+   "y2": 665.0,
+   "text": "Quando un tale attacco colpisce, infligge danni da fuoco"
+  },
+  {
+   "x1": 645.0,
+   "y1": 667.0,
+   "x2": 1141.0,
+   "y2": 691.0,
+   "text": "anziché danni contundenti, e se il monaco spende 1punto"
+  },
+  {
+   "x1": 89.0,
+   "y1": 687.0,
+   "x2": 580.0,
+   "y2": 722.0,
+   "text": "Per esempio, se il monaco agisce su un quadrato con lato"
+  },
+  {
+   "x1": 645.0,
+   "y1": 687.0,
+   "x2": 1152.0,
+   "y2": 711.0,
+   "text": "ki quando l'attacco colpisce, esso infligge anche 1d10 danni"
+  },
+  {
+   "x1": 90.0,
+   "y1": 709.0,
+   "x2": 562.0,
+   "y2": 747.0,
+   "text": "di 9 metri, può creare una colonna alta fino a 4,5 metri,"
+  },
+  {
+   "x1": 645.0,
+   "y1": 713.0,
+   "x2": 777.0,
+   "y2": 733.0,
+   "text": "da fuoco extra."
+  },
+  {
+   "x1": 656.0,
+   "y1": 762.0,
+   "x2": 846.0,
+   "y2": 786.0,
+   "text": "ORdinI MonASTicI"
+  },
+  {
+   "x1": 654.0,
+   "y1": 787.0,
+   "x2": 1079.0,
+   "y2": 815.0,
+   "text": "I mondi di D&D contengono una miriade di monasteri e"
+  },
+  {
+   "x1": 88.0,
+   "y1": 800.0,
+   "x2": 445.0,
+   "y2": 839.0,
+   "text": "danni a una creatura all'interno dell'area."
+  },
+  {
+   "x1": 652.0,
+   "y1": 813.0,
+   "x2": 1112.0,
+   "y2": 839.0,
+   "text": "tradizioni monastiche. Nelle terre di atmosfera asiatica come"
+  },
+  {
+   "x1": 652.0,
+   "y1": 835.0,
+   "x2": 1099.0,
+   "y2": 862.0,
+   "text": "Shou Lung, situato all'estremo oriente di Forgotten Realms,"
+  },
+  {
+   "x1": 652.0,
+   "y1": 859.0,
+   "x2": 1093.0,
+   "y2": 884.0,
+   "text": "questi monasteri sono associati alle tradizioni filosofiche e"
+  },
+  {
+   "x1": 654.0,
+   "y1": 882.0,
+   "x2": 1097.0,
+   "y2": 906.0,
+   "text": "alle pratiche di addestramento incentrate sulle arti marziali."
+  },
+  {
+   "x1": 654.0,
+   "y1": 904.0,
+   "x2": 1117.0,
+   "y2": 928.0,
+   "text": "La Scuola della Mano di Ferro, la Scuola delle Cinque Stelle, la"
+  },
+  {
+   "x1": 654.0,
+   "y1": 928.0,
+   "x2": 1139.0,
+   "y2": 952.0,
+   "text": "Scuola del Pugno del Nord e la Scuola del Segno del Sud di Shou"
+  },
+  {
+   "x1": 652.0,
+   "y1": 952.0,
+   "x2": 1136.0,
+   "y2": 976.0,
+   "text": "Lung insegnano approcci diversi alle discipline fisiche, mentali e"
+  },
+  {
+   "x1": 88.0,
+   "y1": 959.0,
+   "x2": 591.0,
+   "y2": 998.0,
+   "text": "danni contundenti extra per ogni punto ki aggiuntivo speso"
+  },
+  {
+   "x1": 650.0,
+   "y1": 974.0,
+   "x2": 1139.0,
+   "y2": 998.0,
+   "text": "spirituali dei monaci. Alcuni di questi monasteri sono sorti anche"
+  },
+  {
+   "x1": 652.0,
+   "y1": 998.0,
+   "x2": 1102.0,
+   "y2": 1021.0,
+   "text": "nelle terre occidentali di Faerân, specialmente in quelle aree"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1020.0,
+   "x2": 1132.0,
+   "y2": 1043.0,
+   "text": "dove la presenza degli immigrati Shou è nutrita, come a Thesk e"
+  },
+  {
+   "x1": 652.0,
+   "y1": 1045.0,
+   "x2": 741.0,
+   "y2": 1065.0,
+   "text": "a Westgate."
+  },
+  {
+   "x1": 90.0,
+   "y1": 1056.0,
+   "x2": 290.0,
+   "y2": 1087.0,
+   "text": "non cade a terra Prona."
+  },
+  {
+   "x1": 663.0,
+   "y1": 1061.0,
+   "x2": 1108.0,
+   "y2": 1091.0,
+   "text": "Altre tradizioni monastiche sono associate alle divinità che"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1083.0,
+   "x2": 1112.0,
+   "y2": 1115.0,
+   "text": "insegnano l'importanza dell'eccellenza fisica e della disciplina"
+  },
+  {
+   "x1": 90.0,
+   "y1": 1096.0,
+   "x2": 466.0,
+   "y2": 1135.0,
+   "text": "spendere 3 punti ki per lanciare frantumare."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1105.0,
+   "x2": 1092.0,
+   "y2": 1137.0,
+   "text": "mentale. In Forgotten Realms, l'ordine della Luna Oscura è"
+  },
+  {
+   "x1": 105.0,
+   "y1": 1120.0,
+   "x2": 591.0,
+   "y2": 1155.0,
+   "text": "Morsa del Vento del Nord (6' livello richiesto). Il monaco"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1129.0,
+   "x2": 1092.0,
+   "y2": 1160.0,
+   "text": "composto dai monaci devoti a Shar (la dea della perdita), e"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1153.0,
+   "x2": 1082.0,
+   "y2": 1182.0,
+   "text": "gestisce comunità segrete situate su remote colline, vicoli"
+  },
+  {
+   "x1": 107.0,
+   "y1": 1164.0,
+   "x2": 580.0,
+   "y2": 1201.0,
+   "text": "Onda della Terra Tumultuosa (17 livello richiesto). I"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1177.0,
+   "x2": 1132.0,
+   "y2": 1206.0,
+   "text": "secondari e nascondigli sotterranei. I monasteri di tImater (il dio"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1198.0,
+   "x2": 1136.0,
+   "y2": 1228.0,
+   "text": "della sopportazione) traggono il loro nome dai fiori e i loro ordini"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1222.0,
+   "x2": 1104.0,
+   "y2": 1250.0,
+   "text": "portano i nomi dei grandi eroi della fede; i Discepoli di Saint"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1244.0,
+   "x2": 1114.0,
+   "y2": 1274.0,
+   "text": "Sollars il Due Volte Martirizzato risiedono nel Monastero del a"
+  },
+  {
+   "x1": 92.0,
+   "y1": 1260.0,
+   "x2": 290.0,
+   "y2": 1294.0,
+   "text": "bersagliando se stesso."
+  },
+  {
+   "x1": 644.0,
+   "y1": 1268.0,
+   "x2": 1101.0,
+   "y2": 1297.0,
+   "text": "Rosa Gialla, nei pressi di Damara. Nei monasteri di Eberron,"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1294.0,
+   "x2": 1115.0,
+   "y2": 1317.0,
+   "text": "Fo studio delle arti marziali procede di pari passo con lo studio"
+  },
+  {
+   "x1": 88.0,
+   "y1": 1299.0,
+   "x2": 379.0,
+   "y2": 1343.0,
+   "text": "punti ki per lanciare onda tonante."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1317.0,
+   "x2": 1115.0,
+   "y2": 1341.0,
+   "text": "delle discipline culturali. La maggior parte dei monaci è devota"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1339.0,
+   "x2": 1114.0,
+   "y2": 1363.0,
+   "text": "alle divinità della Schiera Sovrana. Nel mondo di Dragonlance,"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1363.0,
+   "x2": 1125.0,
+   "y2": 1387.0,
+   "text": "molti monaci sono fedeli a Majere, il dio della meditazione e del"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1387.0,
+   "x2": 1121.0,
+   "y2": 1411.0,
+   "text": "pensiero. A Greyhawk, mo ti monasteri sono dedicati a Xan Yae,"
+  },
+  {
+   "x1": 88.0,
+   "y1": 1394.0,
+   "x2": 584.0,
+   "y2": 1433.0,
+   "text": "scegliere una creatura entro 9 metri da lui. Quella creatura"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1412.0,
+   "x2": 1125.0,
+   "y2": 1431.0,
+   "text": "la dea del tramonto e della superiorità della mente sulla materia,"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1434.0,
+   "x2": 1010.0,
+   "y2": 1453.0,
+   "text": "o a Zuoken, il dio della maestria fisica e mentale."
+  },
+  {
+   "x1": 657.0,
+   "y1": 1454.0,
+   "x2": 1088.0,
+   "y2": 1478.0,
+   "text": "I monaci malvagi della Fratellanza Scarlatta nel mondo di"
+  },
+  {
+   "x1": 89.0,
+   "y1": 1463.0,
+   "x2": 563.0,
+   "y2": 1500.0,
+   "text": "contundenti extra per ogni punto ki aggiuntivo speso dal"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1478.0,
+   "x2": 1114.0,
+   "y2": 1502.0,
+   "text": "Greyhawk devono il loro zelo fanatico non tanto alla devozione"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1502.0,
+   "x2": 1115.0,
+   "y2": 1526.0,
+   "text": "nei confronti di una divinità, bensì ai precetti della loro nazione"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1522.0,
+   "x2": 1097.0,
+   "y2": 1549.0,
+   "text": "e della loro razza: credono che il ceppo Suel dell'umanità sia"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1548.0,
+   "x2": 881.0,
+   "y2": 1571.0,
+   "text": "destinato a dominare il mondo."
+  },
+  {
+   "x1": 92.0,
+   "y1": 1675.0,
+   "x2": 261.0,
+   "y2": 1709.0,
+   "text": "CAPITOLO 3 |CLASSI"
+  },
+  {
+   "x1": 15.0,
+   "y1": 1708.0,
+   "x2": 41.0,
+   "y2": 1730.0,
+   "text": "94"
+  }
+ ],
+ "reading_text": "Discipline Elementali\ndeve avere raggiunto quel livello per apprendere la\ndisciplina in questione.\nse stesso.\nColpo della Cenere Turbinante. Il monaco può spendere\nDifesa della Montagna Eterna (17' livello richiesto).\npietra, bersagliando se stesso.\nFiume della Fiamma Famelica (17' livello richiesto).\nForma del Fiume Fluente. Con un'azione, il monaco\nriempire un canale, erigere o abbattere un muro o formare\nPer esempio, se il monaco agisce su un quadrato con lato\ndi 9 metri, può creare una colonna alta fino a 4,5 metri,\ndanni a una creatura all'interno dell'area.\ndanni contundenti extra per ogni punto ki aggiuntivo speso\nnon cade a terra Prona.\nspendere 3 punti ki per lanciare frantumare.\nMorsa del Vento del Nord (6' livello richiesto). Il monaco\nOnda della Terra Tumultuosa (17 livello richiesto). I\nbersagliando se stesso.\npunti ki per lanciare onda tonante.\nscegliere una creatura entro 9 metri da lui. Quella creatura\ncontundenti extra per ogni punto ki aggiuntivo speso dal\nCAPITOLO 3 |CLASSI\n94\nSintonia Elementale. Il monaco può usare la sua azione\nper controllare brevemente le forze elementali vicine,\nprovocando un effetto a sua scelta tra i seguenti:\nCreare un effetto sensoriale innocuo e istantaneo\n.\ncorrelato all'acqua, all'aria, al fuoco o alla terra, come\nuno spruzzo d'acqua, uno sbuffo di vento, una pioggia di\nscintille o un leggero tremolio di alcune pietre.\nAccendere o estinguere istantaneamente una torcia, una\ncandela o un piccolo fuoco da campo.\nRaffreddare o riscaldare fino a 0,5 kg di materiale non\nvivente per un massimo di 1 ora.\nGenerare terra, fuoco, acqua o foschia delle dimensioni\nmassime di un cubo con spigolo di 30 cm e che assuma\nuna rozza forma a sua scelta per un massimo di 1\nminuto.\nSoffio dell'Inverno (17° livello richiesto). Il monaco può\nspendere 6 punti ki per lanciare cono di freddo.\nSpiritidella Burrasca Impetuosa. Il monaco può\nspendere 2 punti ki per lanciare folata di vento.\nZanne del Serpente di Fuoco. Quando il monaco usa\nl'azione di Attacco nel suo turno, può spendere 1 puntoki\nper generare dei tentacoli di fiamme dai suoi pugni e dai\nsuoi piedi. La portata dei suoi colpi senz'armi aumenta\ndi 3 metri per quell'azione, nonché per il resto del turno.\nQuando un tale attacco colpisce, infligge danni da fuoco\nanziché danni contundenti, e se il monaco spende 1punto\nki quando l'attacco colpisce, esso infligge anche 1d10 danni\nda fuoco extra.\nORdinI MonASTicI\nI mondi di D&D contengono una miriade di monasteri e\ntradizioni monastiche. Nelle terre di atmosfera asiatica come\nShou Lung, situato all'estremo oriente di Forgotten Realms,\nquesti monasteri sono associati alle tradizioni filosofiche e\nalle pratiche di addestramento incentrate sulle arti marziali.\nLa Scuola della Mano di Ferro, la Scuola delle Cinque Stelle, la\nScuola del Pugno del Nord e la Scuola del Segno del Sud di Shou\nLung insegnano approcci diversi alle discipline fisiche, mentali e\nspirituali dei monaci. Alcuni di questi monasteri sono sorti anche\nnelle terre occidentali di Faerân, specialmente in quelle aree\ndove la presenza degli immigrati Shou è nutrita, come a Thesk e\na Westgate.\nAltre tradizioni monastiche sono associate alle divinità che\ninsegnano l'importanza dell'eccellenza fisica e della disciplina\nmentale. In Forgotten Realms, l'ordine della Luna Oscura è\ncomposto dai monaci devoti a Shar (la dea della perdita), e\ngestisce comunità segrete situate su remote colline, vicoli\nsecondari e nascondigli sotterranei. I monasteri di tImater (il dio\ndella sopportazione) traggono il loro nome dai fiori e i loro ordini\nportano i nomi dei grandi eroi della fede; i Discepoli di Saint\nSollars il Due Volte Martirizzato risiedono nel Monastero del a\nRosa Gialla, nei pressi di Damara. Nei monasteri di Eberron,\nFo studio delle arti marziali procede di pari passo con lo studio\ndelle discipline culturali. La maggior parte dei monaci è devota\nalle divinità della Schiera Sovrana. Nel mondo di Dragonlance,\nmolti monaci sono fedeli a Majere, il dio della meditazione e del\npensiero. A Greyhawk, mo ti monasteri sono dedicati a Xan Yae,\nla dea del tramonto e della superiorità della mente sulla materia,\no a Zuoken, il dio della maestria fisica e mentale.\nI monaci malvagi della Fratellanza Scarlatta nel mondo di\nGreyhawk devono il loro zelo fanatico non tanto alla devozione\nnei confronti di una divinità, bensì ai precetti della loro nazione\ne della loro razza: credono che il ceppo Suel dell'umanità sia\ndestinato a dominare il mondo."
+}

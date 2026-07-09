@@ -1,0 +1,934 @@
+{
+ "pdf_page_index": 278,
+ "page_label": 279,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 132,
+ "lines": [
+  {
+   "x1": 90.0,
+   "y1": 73.0,
+   "x2": 534.0,
+   "y2": 97.0,
+   "text": "Stordimento. Ogni bersaglio deve effettuare un tiro"
+  },
+  {
+   "x1": 630.0,
+   "y1": 73.0,
+   "x2": 1058.0,
+   "y2": 97.0,
+   "text": "ricorda il sogno alla perfezione quando si risveglia."
+  },
+  {
+   "x1": 70.0,
+   "y1": 97.0,
+   "x2": 563.0,
+   "y2": 121.0,
+   "text": "salvezza su Saggezza. Se lo fallisce, diventa stordito per 1"
+  },
+  {
+   "x1": 630.0,
+   "y1": 99.0,
+   "x2": 1064.0,
+   "y2": 117.0,
+   "text": "Se il bersaglio è sveglio quando l'incantatore lancia"
+  },
+  {
+   "x1": 66.0,
+   "y1": 115.0,
+   "x2": 145.0,
+   "y2": 145.0,
+   "text": "minuto."
+  },
+  {
+   "x1": 628.0,
+   "y1": 119.0,
+   "x2": 1132.0,
+   "y2": 143.0,
+   "text": "l'incantesimo, il messaggero lo apprende e può scegliere se"
+  },
+  {
+   "x1": 624.0,
+   "y1": 139.0,
+   "x2": 1121.0,
+   "y2": 166.0,
+   "text": "porre fine alla trance (e all'incantesimo) o aspettare che si"
+  },
+  {
+   "x1": 68.0,
+   "y1": 157.0,
+   "x2": 204.0,
+   "y2": 189.0,
+   "text": "SImULACro"
+  },
+  {
+   "x1": 626.0,
+   "y1": 163.0,
+   "x2": 1117.0,
+   "y2": 190.0,
+   "text": "addormenti, nel qual caso il messaggero appare nei sogni"
+  },
+  {
+   "x1": 72.0,
+   "y1": 188.0,
+   "x2": 257.0,
+   "y2": 214.0,
+   "text": "Illusione di 7° livello"
+  },
+  {
+   "x1": 630.0,
+   "y1": 188.0,
+   "x2": 755.0,
+   "y2": 208.0,
+   "text": "del bersaglio."
+  },
+  {
+   "x1": 646.0,
+   "y1": 210.0,
+   "x2": 1127.0,
+   "y2": 234.0,
+   "text": "L'incantatore può fare in modo che il messaggero appaia"
+  },
+  {
+   "x1": 72.0,
+   "y1": 221.0,
+   "x2": 290.0,
+   "y2": 245.0,
+   "text": "Tempo di Lancio: 12 ore"
+  },
+  {
+   "x1": 72.0,
+   "y1": 243.0,
+   "x2": 229.0,
+   "y2": 267.0,
+   "text": "Gittata: Contatto"
+  },
+  {
+   "x1": 630.0,
+   "y1": 236.0,
+   "x2": 1086.0,
+   "y2": 254.0,
+   "text": "mostruoso e terrificante agli occhi del bersaglio. Se lo"
+  },
+  {
+   "x1": 72.0,
+   "y1": 265.0,
+   "x2": 497.0,
+   "y2": 289.0,
+   "text": "Componenti: V, S, M (neve o ghiaccio sufficienti a"
+  },
+  {
+   "x1": 628.0,
+   "y1": 256.0,
+   "x2": 1084.0,
+   "y2": 280.0,
+   "text": "fa, il messaggero può trasmettere un messaggio di un"
+  },
+  {
+   "x1": 628.0,
+   "y1": 278.0,
+   "x2": 1127.0,
+   "y2": 301.0,
+   "text": "massimo di dieci parole; il bersaglio deve quindi effettuare"
+  },
+  {
+   "x1": 89.0,
+   "y1": 289.0,
+   "x2": 567.0,
+   "y2": 314.0,
+   "text": "effettuare una copia a grandezza naturale della creatura"
+  },
+  {
+   "x1": 628.0,
+   "y1": 300.0,
+   "x2": 1062.0,
+   "y2": 323.0,
+   "text": "un tiro salvezza su Saggezza. Se lo fallisce, l'eco di"
+  },
+  {
+   "x1": 89.0,
+   "y1": 311.0,
+   "x2": 556.0,
+   "y2": 334.0,
+   "text": "da duplicare; una ciocca di capelli, un'unghia tagliata o"
+  },
+  {
+   "x1": 628.0,
+   "y1": 323.0,
+   "x2": 1130.0,
+   "y2": 347.0,
+   "text": "un'allucinazione mostruosa genera un incubo che permane"
+  },
+  {
+   "x1": 90.0,
+   "y1": 338.0,
+   "x2": 548.0,
+   "y2": 356.0,
+   "text": "un altro pezzo del corpo della creatura da collocare in"
+  },
+  {
+   "x1": 626.0,
+   "y1": 343.0,
+   "x2": 1093.0,
+   "y2": 371.0,
+   "text": "per la durata del sonno del bersaglio e gli impedisce di"
+  },
+  {
+   "x1": 89.0,
+   "y1": 358.0,
+   "x2": 580.0,
+   "y2": 382.0,
+   "text": "mezzo al ghiaccio o alla neve, polvere di rubino del valore"
+  },
+  {
+   "x1": 628.0,
+   "y1": 369.0,
+   "x2": 1123.0,
+   "y2": 393.0,
+   "text": "trarre qualsiasi benefcio da quel riposo. Inoltre, quando il"
+  },
+  {
+   "x1": 89.0,
+   "y1": 380.0,
+   "x2": 578.0,
+   "y2": 404.0,
+   "text": "di 1.500 mo da spruzzare sul duplicato, che l'incantesimo"
+  },
+  {
+   "x1": 628.0,
+   "y1": 393.0,
+   "x2": 1032.0,
+   "y2": 417.0,
+   "text": "bersaglio si sveglia, subisce 3d6 danni psichici."
+  },
+  {
+   "x1": 89.0,
+   "y1": 406.0,
+   "x2": 179.0,
+   "y2": 426.0,
+   "text": "consuma)"
+  },
+  {
+   "x1": 646.0,
+   "y1": 415.0,
+   "x2": 1132.0,
+   "y2": 438.0,
+   "text": "Se l'incantatore possiede una parte del corpo, una ciocca"
+  },
+  {
+   "x1": 72.0,
+   "y1": 426.0,
+   "x2": 366.0,
+   "y2": 449.0,
+   "text": "Durata: Finché non viene dissolto"
+  },
+  {
+   "x1": 626.0,
+   "y1": 435.0,
+   "x2": 1127.0,
+   "y2": 460.0,
+   "text": "di capelli, un'unghia tagliata o una parte analoga del corpo"
+  },
+  {
+   "x1": 72.0,
+   "y1": 459.0,
+   "x2": 554.0,
+   "y2": 482.0,
+   "text": "L'incantatore realizza un duplicato illusorio di una bestia"
+  },
+  {
+   "x1": 628.0,
+   "y1": 460.0,
+   "x2": 1099.0,
+   "y2": 484.0,
+   "text": "del bersaglio, il bersaglio subisce svantaggio al suo tiro"
+  },
+  {
+   "x1": 72.0,
+   "y1": 484.0,
+   "x2": 524.0,
+   "y2": 502.0,
+   "text": "o di un umanoide che deve rimanere entro gittata per"
+  },
+  {
+   "x1": 626.0,
+   "y1": 486.0,
+   "x2": 709.0,
+   "y2": 506.0,
+   "text": "salvezza."
+  },
+  {
+   "x1": 68.0,
+   "y1": 502.0,
+   "x2": 563.0,
+   "y2": 528.0,
+   "text": "tutto il lancio dell'incantesimo. Il duplicato è una creatura"
+  },
+  {
+   "x1": 68.0,
+   "y1": 526.0,
+   "x2": 526.0,
+   "y2": 552.0,
+   "text": "parzialmente reale fatta di ghiaccio o di neve che può"
+  },
+  {
+   "x1": 624.0,
+   "y1": 520.0,
+   "x2": 712.0,
+   "y2": 554.0,
+   "text": "SONnO"
+  },
+  {
+   "x1": 70.0,
+   "y1": 550.0,
+   "x2": 563.0,
+   "y2": 574.0,
+   "text": "effettuare azioni ed essere influenzata come una creatura"
+  },
+  {
+   "x1": 628.0,
+   "y1": 552.0,
+   "x2": 872.0,
+   "y2": 577.0,
+   "text": "Ammaliamento di 1° livello"
+  },
+  {
+   "x1": 70.0,
+   "y1": 574.0,
+   "x2": 576.0,
+   "y2": 597.0,
+   "text": "normale.Ha lo stesso aspetto dell'originale, ma possiede la"
+  },
+  {
+   "x1": 628.0,
+   "y1": 585.0,
+   "x2": 862.0,
+   "y2": 608.0,
+   "text": "Tempo di Lancio: 1 azione"
+  },
+  {
+   "x1": 70.0,
+   "y1": 596.0,
+   "x2": 576.0,
+   "y2": 619.0,
+   "text": "metà del suo massimo dei punti ferita e viene formata priva"
+  },
+  {
+   "x1": 72.0,
+   "y1": 618.0,
+   "x2": 578.0,
+   "y2": 641.0,
+   "text": "di equipaggiamento. Sotto ogni altro aspetto, l'illusione usa"
+  },
+  {
+   "x1": 630.0,
+   "y1": 610.0,
+   "x2": 777.0,
+   "y2": 629.0,
+   "text": "Gittata: 27 metri"
+  },
+  {
+   "x1": 628.0,
+   "y1": 630.0,
+   "x2": 1128.0,
+   "y2": 654.0,
+   "text": "Componenti: V, S, M (un pizzico di sabbia finissima, petali"
+  },
+  {
+   "x1": 70.0,
+   "y1": 641.0,
+   "x2": 454.0,
+   "y2": 665.0,
+   "text": "tutte le statistiche della creatura che duplica."
+  },
+  {
+   "x1": 87.0,
+   "y1": 661.0,
+   "x2": 561.0,
+   "y2": 687.0,
+   "text": "Il simulacro è amichevole nei confronti dell'incantatore"
+  },
+  {
+   "x1": 641.0,
+   "y1": 654.0,
+   "x2": 809.0,
+   "y2": 678.0,
+   "text": "di rosa o un grillo)"
+  },
+  {
+   "x1": 72.0,
+   "y1": 683.0,
+   "x2": 543.0,
+   "y2": 707.0,
+   "text": "e delle creature da lui designate. Obbedisce ai comandi"
+  },
+  {
+   "x1": 626.0,
+   "y1": 676.0,
+   "x2": 785.0,
+   "y2": 700.0,
+   "text": "Durata: 1 minuto"
+  },
+  {
+   "x1": 70.0,
+   "y1": 707.0,
+   "x2": 563.0,
+   "y2": 733.0,
+   "text": "vocali dell'incantatore, si muove e agisce in ottemperanza"
+  },
+  {
+   "x1": 626.0,
+   "y1": 707.0,
+   "x2": 1075.0,
+   "y2": 735.0,
+   "text": "Questo incantesimo fa in modo che le creature siano"
+  },
+  {
+   "x1": 70.0,
+   "y1": 733.0,
+   "x2": 512.0,
+   "y2": 756.0,
+   "text": "ai suoi desideri e in combattimento agisce nel turno"
+  },
+  {
+   "x1": 628.0,
+   "y1": 733.0,
+   "x2": 1125.0,
+   "y2": 756.0,
+   "text": "vittime di un sonno magico. L'incantatore tira 5d8; il totale"
+  },
+  {
+   "x1": 70.0,
+   "y1": 755.0,
+   "x2": 565.0,
+   "y2": 778.0,
+   "text": "dell'incantatore. Il simulacro non è in grado di apprendere"
+  },
+  {
+   "x1": 626.0,
+   "y1": 755.0,
+   "x2": 1078.0,
+   "y2": 778.0,
+   "text": "ottenuto è l'ammontare di creature in punti ferita che"
+  },
+  {
+   "x1": 70.0,
+   "y1": 778.0,
+   "x2": 528.0,
+   "y2": 802.0,
+   "text": "o di diventare più potente, quindi non aumenta mai di"
+  },
+  {
+   "x1": 626.0,
+   "y1": 775.0,
+   "x2": 1106.0,
+   "y2": 804.0,
+   "text": "questo incantesimo può influenzare. Le creature entro 6"
+  },
+  {
+   "x1": 68.0,
+   "y1": 798.0,
+   "x2": 537.0,
+   "y2": 826.0,
+   "text": "livello, le sue caratteristiche non aumentano e non può"
+  },
+  {
+   "x1": 628.0,
+   "y1": 804.0,
+   "x2": 1099.0,
+   "y2": 822.0,
+   "text": "metri da un punto a scelta dell'incantatore situato entro"
+  },
+  {
+   "x1": 70.0,
+   "y1": 824.0,
+   "x2": 393.0,
+   "y2": 848.0,
+   "text": "recuperare gli slot incantesimo spesi."
+  },
+  {
+   "x1": 628.0,
+   "y1": 824.0,
+   "x2": 1114.0,
+   "y2": 848.0,
+   "text": "gittata sono influenzate in ordine crescente dei loro punti"
+  },
+  {
+   "x1": 87.0,
+   "y1": 846.0,
+   "x2": 556.0,
+   "y2": 870.0,
+   "text": "Se il simulacro subisce danni, l'incantatore può ripararlo"
+  },
+  {
+   "x1": 626.0,
+   "y1": 844.0,
+   "x2": 1053.0,
+   "y2": 870.0,
+   "text": "ferita attuali (ignorando le creature prive di sensi)."
+  },
+  {
+   "x1": 72.0,
+   "y1": 872.0,
+   "x2": 563.0,
+   "y2": 890.0,
+   "text": "in un laboratorio alchemico usando minerali ed erbe rare del"
+  },
+  {
+   "x1": 645.0,
+   "y1": 872.0,
+   "x2": 1110.0,
+   "y2": 890.0,
+   "text": "A partire dalla creatura che possiede meno punti ferita"
+  },
+  {
+   "x1": 70.0,
+   "y1": 892.0,
+   "x2": 552.0,
+   "y2": 915.0,
+   "text": "valore di 100 mo per ogni punto ferita che esso recupera. Il"
+  },
+  {
+   "x1": 624.0,
+   "y1": 893.0,
+   "x2": 1101.0,
+   "y2": 917.0,
+   "text": "attuali, ogni creatura influenzata da questo incantesimo"
+  },
+  {
+   "x1": 70.0,
+   "y1": 915.0,
+   "x2": 582.0,
+   "y2": 939.0,
+   "text": "simulacro permane finché non scende a 0 punti ferita, nel qual"
+  },
+  {
+   "x1": 628.0,
+   "y1": 915.0,
+   "x2": 1093.0,
+   "y2": 939.0,
+   "text": "cade priva di sensi finché l'incantesimo non termina, il"
+  },
+  {
+   "x1": 68.0,
+   "y1": 937.0,
+   "x2": 532.0,
+   "y2": 963.0,
+   "text": "caso si ritrasforma in neve e si scioglie istantaneamente."
+  },
+  {
+   "x1": 628.0,
+   "y1": 937.0,
+   "x2": 1130.0,
+   "y2": 961.0,
+   "text": "dormiente non subisce danni o qualcuno non usa un'azione"
+  },
+  {
+   "x1": 85.0,
+   "y1": 957.0,
+   "x2": 532.0,
+   "y2": 985.0,
+   "text": "Se l'incantatore lancia di nuovo questo incantesimo,"
+  },
+  {
+   "x1": 626.0,
+   "y1": 961.0,
+   "x2": 1130.0,
+   "y2": 985.0,
+   "text": "per scuotere o schiaffeggiare il dormiente per svegliarlo. Si"
+  },
+  {
+   "x1": 68.0,
+   "y1": 981.0,
+   "x2": 486.0,
+   "y2": 1009.0,
+   "text": "il duplicato attualmente attivo da lui creato viene"
+  },
+  {
+   "x1": 624.0,
+   "y1": 985.0,
+   "x2": 1119.0,
+   "y2": 1009.0,
+   "text": "sottraggono i punti ferita di ogni creatura dal totale prima"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1007.0,
+   "x2": 299.0,
+   "y2": 1030.0,
+   "text": "istantaneamente distrutto."
+  },
+  {
+   "x1": 626.0,
+   "y1": 1007.0,
+   "x2": 1127.0,
+   "y2": 1030.0,
+   "text": "di passare alla creatura con l'ammontare immediatamente"
+  },
+  {
+   "x1": 622.0,
+   "y1": 1029.0,
+   "x2": 1078.0,
+   "y2": 1052.0,
+   "text": "superiore di punti ferita. I punti ferita di una creatura"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1045.0,
+   "x2": 154.0,
+   "y2": 1077.0,
+   "text": "SoGno"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1051.0,
+   "x2": 1114.0,
+   "y2": 1074.0,
+   "text": "devono essere pari o inferiori al totale rimanente affinché"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1078.0,
+   "x2": 255.0,
+   "y2": 1102.0,
+   "text": "Illusione di 5° livello"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1076.0,
+   "x2": 977.0,
+   "y2": 1100.0,
+   "text": "quella creatura possa essere influenzata."
+  },
+  {
+   "x1": 645.0,
+   "y1": 1098.0,
+   "x2": 1066.0,
+   "y2": 1124.0,
+   "text": "Le creature non morte e quelle immuni all'essere"
+  },
+  {
+   "x1": 70.0,
+   "y1": 1109.0,
+   "x2": 310.0,
+   "y2": 1133.0,
+   "text": "Tempo di Lancio:1 minuto"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1129.0,
+   "x2": 225.0,
+   "y2": 1157.0,
+   "text": "Gittata: Speciale"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1120.0,
+   "x2": 1101.0,
+   "y2": 1144.0,
+   "text": "affascinate non sono influenzate da questo incantesimo."
+  },
+  {
+   "x1": 68.0,
+   "y1": 1153.0,
+   "x2": 560.0,
+   "y2": 1180.0,
+   "text": "Componenti: V, S, M (una manciata di sabbia, una goccia"
+  },
+  {
+   "x1": 643.0,
+   "y1": 1146.0,
+   "x2": 1123.0,
+   "y2": 1169.0,
+   "text": "Ai Livelli Superiori. Quando l'incantatore lancia questo"
+  },
+  {
+   "x1": 85.0,
+   "y1": 1177.0,
+   "x2": 541.0,
+   "y2": 1204.0,
+   "text": "d'inchiostro o una penna strappata da un uccello che"
+  },
+  {
+   "x1": 626.0,
+   "y1": 1168.0,
+   "x2": 1078.0,
+   "y2": 1191.0,
+   "text": "incantesimo usando uno slot incantesimo di 2° livello"
+  },
+  {
+   "x1": 622.0,
+   "y1": 1188.0,
+   "x2": 1075.0,
+   "y2": 1211.0,
+   "text": "o superiore, tira 2d8 aggiuntivi per ogni slot di livello"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1204.0,
+   "x2": 153.0,
+   "y2": 1224.0,
+   "text": "dorme)"
+  },
+  {
+   "x1": 622.0,
+   "y1": 1211.0,
+   "x2": 761.0,
+   "y2": 1241.0,
+   "text": "superiore al 1°"
+  },
+  {
+   "x1": 70.0,
+   "y1": 1226.0,
+   "x2": 192.0,
+   "y2": 1246.0,
+   "text": "Durata: 8 ore"
+  },
+  {
+   "x1": 70.0,
+   "y1": 1257.0,
+   "x2": 515.0,
+   "y2": 1281.0,
+   "text": "Questo incantesimo modella i sogni di una creatura."
+  },
+  {
+   "x1": 624.0,
+   "y1": 1253.0,
+   "x2": 761.0,
+   "y2": 1285.0,
+   "text": "SORTILEGIO"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1281.0,
+   "x2": 521.0,
+   "y2": 1305.0,
+   "text": "L'incantatore sceglie una creatura che conosce come"
+  },
+  {
+   "x1": 622.0,
+   "y1": 1283.0,
+   "x2": 870.0,
+   "y2": 1310.0,
+   "text": "Ammaliamento di 1° livello"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1305.0,
+   "x2": 563.0,
+   "y2": 1328.0,
+   "text": "bersaglio. La creatura bersaglio deve trovarsi sullo stesso"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1314.0,
+   "x2": 916.0,
+   "y2": 1341.0,
+   "text": "Tempo di Lancio: 1 azione bonus"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1326.0,
+   "x2": 539.0,
+   "y2": 1350.0,
+   "text": "piano di esistenza dell'incantatore. Le creature che non"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1339.0,
+   "x2": 779.0,
+   "y2": 1363.0,
+   "text": "Gittata: 27 metri"
+  },
+  {
+   "x1": 70.0,
+   "y1": 1352.0,
+   "x2": 528.0,
+   "y2": 1376.0,
+   "text": "dormono, come gli elfi, non possono essere contattate"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1361.0,
+   "x2": 1088.0,
+   "y2": 1389.0,
+   "text": "Componenti: V, S, M (l'occhio pietrificato di un girino)"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1374.0,
+   "x2": 519.0,
+   "y2": 1398.0,
+   "text": "da questo incantesimo. L'incantatore, o una creatura"
+  },
+  {
+   "x1": 626.0,
+   "y1": 1387.0,
+   "x2": 942.0,
+   "y2": 1411.0,
+   "text": "Durata: Concentrazione, fino a 1 ora"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1398.0,
+   "x2": 554.0,
+   "y2": 1421.0,
+   "text": "consenziente da lui toccata, entra in uno stato di trance e"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1420.0,
+   "x2": 543.0,
+   "y2": 1443.0,
+   "text": "funge da messaggero. Finché è in trance, il messaggero"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1420.0,
+   "x2": 1086.0,
+   "y2": 1443.0,
+   "text": "L'incantatore scaglia una maledizione su una creatura"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1440.0,
+   "x2": 536.0,
+   "y2": 1469.0,
+   "text": "percepisce l'ambiente circostante ma non è in grado di"
+  },
+  {
+   "x1": 622.0,
+   "y1": 1443.0,
+   "x2": 1071.0,
+   "y2": 1467.0,
+   "text": "entro gittata e che egli sia in grado di vedere. Finché"
+  },
+  {
+   "x1": 70.0,
+   "y1": 1469.0,
+   "x2": 367.0,
+   "y2": 1487.0,
+   "text": "intraprendere azioni o di muoversi."
+  },
+  {
+   "x1": 624.0,
+   "y1": 1467.0,
+   "x2": 1127.0,
+   "y2": 1491.0,
+   "text": "l'incantesimo non termina, l'incantatore infligge ld6 danni"
+  },
+  {
+   "x1": 87.0,
+   "y1": 1489.0,
+   "x2": 545.0,
+   "y2": 1513.0,
+   "text": "Se il bersaglio è addormentato, il messaggero appare"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1491.0,
+   "x2": 1132.0,
+   "y2": 1515.0,
+   "text": "necrotici extra al bersaglio ogni volta che lo colpisce con un"
+  },
+  {
+   "x1": 70.0,
+   "y1": 1515.0,
+   "x2": 547.0,
+   "y2": 1533.0,
+   "text": "nei suoi sogni e può conversare con lui fintanto che esso"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1511.0,
+   "x2": 1117.0,
+   "y2": 1538.0,
+   "text": "attacco. Inoltre, quando l'incantatore lancia l'incantesimo,"
+  },
+  {
+   "x1": 66.0,
+   "y1": 1537.0,
+   "x2": 547.0,
+   "y2": 1560.0,
+   "text": "continua a dormire, per tutta la durata dell'incantesimo."
+  },
+  {
+   "x1": 624.0,
+   "y1": 1537.0,
+   "x2": 1112.0,
+   "y2": 1560.0,
+   "text": "sceglie una caratteristica. Il bersaglio subisce svantaggio"
+  },
+  {
+   "x1": 66.0,
+   "y1": 1559.0,
+   "x2": 556.0,
+   "y2": 1584.0,
+   "text": "Il messaggero può anche modellare l'ambiente del sogno,"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1560.0,
+   "x2": 1108.0,
+   "y2": 1584.0,
+   "text": "alle prove di caratteristica effettuate con la caratteristica"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1582.0,
+   "x2": 563.0,
+   "y2": 1606.0,
+   "text": "creando paesaggi, oggetti e altre immagini. Il messaggero"
+  },
+  {
+   "x1": 626.0,
+   "y1": 1584.0,
+   "x2": 685.0,
+   "y2": 1604.0,
+   "text": "scelta."
+  },
+  {
+   "x1": 68.0,
+   "y1": 1606.0,
+   "x2": 548.0,
+   "y2": 1630.0,
+   "text": "può emergere dalla trance in ogni momento terminando"
+  },
+  {
+   "x1": 641.0,
+   "y1": 1606.0,
+   "x2": 1112.0,
+   "y2": 1630.0,
+   "text": "Se il bersaglio scende a 0 punti ferita prima che questo"
+  },
+  {
+   "x1": 68.0,
+   "y1": 1628.0,
+   "x2": 532.0,
+   "y2": 1652.0,
+   "text": "l'effetto dell'incantesimo prematuramente. Il bersaglio"
+  },
+  {
+   "x1": 624.0,
+   "y1": 1630.0,
+   "x2": 1090.0,
+   "y2": 1654.0,
+   "text": "incantesimo termini, l'incantatore può usare un'azione"
+  },
+  {
+   "x1": 883.0,
+   "y1": 1685.0,
+   "x2": 1132.0,
+   "y2": 1708.0,
+   "text": "CAPITOLO 1I | INCANTESIMI"
+  },
+  {
+   "x1": 1183.0,
+   "y1": 1693.0,
+   "x2": 1231.0,
+   "y2": 1726.0,
+   "text": "279"
+  }
+ ],
+ "reading_text": "Stordimento. Ogni bersaglio deve effettuare un tiro\nsalvezza su Saggezza. Se lo fallisce, diventa stordito per 1\nminuto.\nSImULACro\nIllusione di 7° livello\nTempo di Lancio: 12 ore\nGittata: Contatto\nComponenti: V, S, M (neve o ghiaccio sufficienti a\neffettuare una copia a grandezza naturale della creatura\nda duplicare; una ciocca di capelli, un'unghia tagliata o\nun altro pezzo del corpo della creatura da collocare in\nmezzo al ghiaccio o alla neve, polvere di rubino del valore\ndi 1.500 mo da spruzzare sul duplicato, che l'incantesimo\nconsuma)\nDurata: Finché non viene dissolto\nL'incantatore realizza un duplicato illusorio di una bestia\no di un umanoide che deve rimanere entro gittata per\ntutto il lancio dell'incantesimo. Il duplicato è una creatura\nparzialmente reale fatta di ghiaccio o di neve che può\neffettuare azioni ed essere influenzata come una creatura\nnormale.Ha lo stesso aspetto dell'originale, ma possiede la\nmetà del suo massimo dei punti ferita e viene formata priva\ndi equipaggiamento. Sotto ogni altro aspetto, l'illusione usa\ntutte le statistiche della creatura che duplica.\nIl simulacro è amichevole nei confronti dell'incantatore\ne delle creature da lui designate. Obbedisce ai comandi\nvocali dell'incantatore, si muove e agisce in ottemperanza\nai suoi desideri e in combattimento agisce nel turno\ndell'incantatore. Il simulacro non è in grado di apprendere\no di diventare più potente, quindi non aumenta mai di\nlivello, le sue caratteristiche non aumentano e non può\nrecuperare gli slot incantesimo spesi.\nSe il simulacro subisce danni, l'incantatore può ripararlo\nin un laboratorio alchemico usando minerali ed erbe rare del\nvalore di 100 mo per ogni punto ferita che esso recupera. Il\nsimulacro permane finché non scende a 0 punti ferita, nel qual\ncaso si ritrasforma in neve e si scioglie istantaneamente.\nSe l'incantatore lancia di nuovo questo incantesimo,\nil duplicato attualmente attivo da lui creato viene\nistantaneamente distrutto.\nSoGno\nIllusione di 5° livello\nTempo di Lancio:1 minuto\nGittata: Speciale\nComponenti: V, S, M (una manciata di sabbia, una goccia\nd'inchiostro o una penna strappata da un uccello che\ndorme)\nDurata: 8 ore\nQuesto incantesimo modella i sogni di una creatura.\nL'incantatore sceglie una creatura che conosce come\nbersaglio. La creatura bersaglio deve trovarsi sullo stesso\npiano di esistenza dell'incantatore. Le creature che non\ndormono, come gli elfi, non possono essere contattate\nda questo incantesimo. L'incantatore, o una creatura\nconsenziente da lui toccata, entra in uno stato di trance e\nfunge da messaggero. Finché è in trance, il messaggero\npercepisce l'ambiente circostante ma non è in grado di\nintraprendere azioni o di muoversi.\nSe il bersaglio è addormentato, il messaggero appare\nnei suoi sogni e può conversare con lui fintanto che esso\ncontinua a dormire, per tutta la durata dell'incantesimo.\nIl messaggero può anche modellare l'ambiente del sogno,\ncreando paesaggi, oggetti e altre immagini. Il messaggero\npuò emergere dalla trance in ogni momento terminando\nl'effetto dell'incantesimo prematuramente. Il bersaglio\nricorda il sogno alla perfezione quando si risveglia.\nSe il bersaglio è sveglio quando l'incantatore lancia\nl'incantesimo, il messaggero lo apprende e può scegliere se\nporre fine alla trance (e all'incantesimo) o aspettare che si\naddormenti, nel qual caso il messaggero appare nei sogni\ndel bersaglio.\nL'incantatore può fare in modo che il messaggero appaia\nmostruoso e terrificante agli occhi del bersaglio. Se lo\nfa, il messaggero può trasmettere un messaggio di un\nmassimo di dieci parole; il bersaglio deve quindi effettuare\nun tiro salvezza su Saggezza. Se lo fallisce, l'eco di\nun'allucinazione mostruosa genera un incubo che permane\nper la durata del sonno del bersaglio e gli impedisce di\ntrarre qualsiasi benefcio da quel riposo. Inoltre, quando il\nbersaglio si sveglia, subisce 3d6 danni psichici.\nSe l'incantatore possiede una parte del corpo, una ciocca\ndi capelli, un'unghia tagliata o una parte analoga del corpo\ndel bersaglio, il bersaglio subisce svantaggio al suo tiro\nsalvezza.\nSONnO\nAmmaliamento di 1° livello\nTempo di Lancio: 1 azione\nGittata: 27 metri\nComponenti: V, S, M (un pizzico di sabbia finissima, petali\ndi rosa o un grillo)\nDurata: 1 minuto\nQuesto incantesimo fa in modo che le creature siano\nvittime di un sonno magico. L'incantatore tira 5d8; il totale\nottenuto è l'ammontare di creature in punti ferita che\nquesto incantesimo può influenzare. Le creature entro 6\nmetri da un punto a scelta dell'incantatore situato entro\ngittata sono influenzate in ordine crescente dei loro punti\nferita attuali (ignorando le creature prive di sensi).\nA partire dalla creatura che possiede meno punti ferita\nattuali, ogni creatura influenzata da questo incantesimo\ncade priva di sensi finché l'incantesimo non termina, il\ndormiente non subisce danni o qualcuno non usa un'azione\nper scuotere o schiaffeggiare il dormiente per svegliarlo. Si\nsottraggono i punti ferita di ogni creatura dal totale prima\ndi passare alla creatura con l'ammontare immediatamente\nsuperiore di punti ferita. I punti ferita di una creatura\ndevono essere pari o inferiori al totale rimanente affinché\nquella creatura possa essere influenzata.\nLe creature non morte e quelle immuni all'essere\naffascinate non sono influenzate da questo incantesimo.\nAi Livelli Superiori. Quando l'incantatore lancia questo\nincantesimo usando uno slot incantesimo di 2° livello\no superiore, tira 2d8 aggiuntivi per ogni slot di livello\nsuperiore al 1°\nSORTILEGIO\nAmmaliamento di 1° livello\nTempo di Lancio: 1 azione bonus\nGittata: 27 metri\nComponenti: V, S, M (l'occhio pietrificato di un girino)\nDurata: Concentrazione, fino a 1 ora\nL'incantatore scaglia una maledizione su una creatura\nentro gittata e che egli sia in grado di vedere. Finché\nl'incantesimo non termina, l'incantatore infligge ld6 danni\nnecrotici extra al bersaglio ogni volta che lo colpisce con un\nattacco. Inoltre, quando l'incantatore lancia l'incantesimo,\nsceglie una caratteristica. Il bersaglio subisce svantaggio\nalle prove di caratteristica effettuate con la caratteristica\nscelta.\nSe il bersaglio scende a 0 punti ferita prima che questo\nincantesimo termini, l'incantatore può usare un'azione\nCAPITOLO 1I | INCANTESIMI\n279"
+}

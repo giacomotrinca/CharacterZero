@@ -1,0 +1,1697 @@
+{
+ "pdf_page_index": 113,
+ "page_label": 114,
+ "width": 1241,
+ "height": 1754,
+ "n_lines": 241,
+ "lines": [
+  {
+   "x1": 97.0,
+   "y1": 87.0,
+   "x2": 213.0,
+   "y2": 125.0,
+   "text": "WARLOCK"
+  },
+  {
+   "x1": 179.0,
+   "y1": 124.0,
+   "x2": 255.0,
+   "y2": 156.0,
+   "text": "Bonus di"
+  },
+  {
+   "x1": 608.0,
+   "y1": 128.0,
+   "x2": 691.0,
+   "y2": 153.0,
+   "text": "Trucchetti"
+  },
+  {
+   "x1": 705.0,
+   "y1": 128.0,
+   "x2": 801.0,
+   "y2": 153.0,
+   "text": "Incantesimi"
+  },
+  {
+   "x1": 838.0,
+   "y1": 126.0,
+   "x2": 881.0,
+   "y2": 153.0,
+   "text": "Slot"
+  },
+  {
+   "x1": 932.0,
+   "y1": 122.0,
+   "x2": 996.0,
+   "y2": 156.0,
+   "text": "Livello"
+  },
+  {
+   "x1": 1040.0,
+   "y1": 128.0,
+   "x2": 1125.0,
+   "y2": 155.0,
+   "text": "Suppliche"
+  },
+  {
+   "x1": 107.0,
+   "y1": 146.0,
+   "x2": 279.0,
+   "y2": 181.0,
+   "text": "Livello Competenza"
+  },
+  {
+   "x1": 268.0,
+   "y1": 150.0,
+   "x2": 342.0,
+   "y2": 177.0,
+   "text": "Privilegi"
+  },
+  {
+   "x1": 606.0,
+   "y1": 150.0,
+   "x2": 693.0,
+   "y2": 177.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 711.0,
+   "y1": 152.0,
+   "x2": 800.0,
+   "y2": 177.0,
+   "text": "Conosciuti"
+  },
+  {
+   "x1": 809.0,
+   "y1": 152.0,
+   "x2": 910.0,
+   "y2": 177.0,
+   "text": "Incantesimo"
+  },
+  {
+   "x1": 936.0,
+   "y1": 150.0,
+   "x2": 995.0,
+   "y2": 177.0,
+   "text": "di Slot"
+  },
+  {
+   "x1": 1038.0,
+   "y1": 152.0,
+   "x2": 1128.0,
+   "y2": 177.0,
+   "text": "Conosciute"
+  },
+  {
+   "x1": 120.0,
+   "y1": 177.0,
+   "x2": 150.0,
+   "y2": 203.0,
+   "text": "1°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 175.0,
+   "x2": 236.0,
+   "y2": 206.0,
+   "text": "+2"
+  },
+  {
+   "x1": 273.0,
+   "y1": 175.0,
+   "x2": 436.0,
+   "y2": 205.0,
+   "text": "Patrono Ultraterreno"
+  },
+  {
+   "x1": 639.0,
+   "y1": 181.0,
+   "x2": 657.0,
+   "y2": 201.0,
+   "text": "2"
+  },
+  {
+   "x1": 746.0,
+   "y1": 179.0,
+   "x2": 763.0,
+   "y2": 203.0,
+   "text": "2"
+  },
+  {
+   "x1": 851.0,
+   "y1": 181.0,
+   "x2": 868.0,
+   "y2": 199.0,
+   "text": "1"
+  },
+  {
+   "x1": 951.0,
+   "y1": 177.0,
+   "x2": 979.0,
+   "y2": 203.0,
+   "text": "1"
+  },
+  {
+   "x1": 122.0,
+   "y1": 203.0,
+   "x2": 150.0,
+   "y2": 230.0,
+   "text": "2°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 205.0,
+   "x2": 235.0,
+   "y2": 230.0,
+   "text": "+2"
+  },
+  {
+   "x1": 275.0,
+   "y1": 205.0,
+   "x2": 417.0,
+   "y2": 230.0,
+   "text": "Suppliche Occulte"
+  },
+  {
+   "x1": 639.0,
+   "y1": 206.0,
+   "x2": 657.0,
+   "y2": 227.0,
+   "text": "2"
+  },
+  {
+   "x1": 742.0,
+   "y1": 205.0,
+   "x2": 765.0,
+   "y2": 230.0,
+   "text": "3"
+  },
+  {
+   "x1": 848.0,
+   "y1": 204.0,
+   "x2": 871.0,
+   "y2": 227.0,
+   "text": "2"
+  },
+  {
+   "x1": 953.0,
+   "y1": 205.0,
+   "x2": 977.0,
+   "y2": 230.0,
+   "text": "1°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 208.0,
+   "x2": 1090.0,
+   "y2": 228.0,
+   "text": "2"
+  },
+  {
+   "x1": 120.0,
+   "y1": 227.0,
+   "x2": 151.0,
+   "y2": 259.0,
+   "text": "3*"
+  },
+  {
+   "x1": 201.0,
+   "y1": 228.0,
+   "x2": 236.0,
+   "y2": 259.0,
+   "text": "+2"
+  },
+  {
+   "x1": 273.0,
+   "y1": 224.0,
+   "x2": 396.0,
+   "y2": 260.0,
+   "text": "Dono del Patto"
+  },
+  {
+   "x1": 637.0,
+   "y1": 230.0,
+   "x2": 659.0,
+   "y2": 256.0,
+   "text": "2"
+  },
+  {
+   "x1": 746.0,
+   "y1": 232.0,
+   "x2": 763.0,
+   "y2": 254.0,
+   "text": "4"
+  },
+  {
+   "x1": 849.0,
+   "y1": 232.0,
+   "x2": 872.0,
+   "y2": 258.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 230.0,
+   "x2": 977.0,
+   "y2": 258.0,
+   "text": "2°"
+  },
+  {
+   "x1": 1073.0,
+   "y1": 234.0,
+   "x2": 1090.0,
+   "y2": 256.0,
+   "text": "2"
+  },
+  {
+   "x1": 122.0,
+   "y1": 258.0,
+   "x2": 150.0,
+   "y2": 281.0,
+   "text": "4*"
+  },
+  {
+   "x1": 203.0,
+   "y1": 258.0,
+   "x2": 235.0,
+   "y2": 281.0,
+   "text": "+2"
+  },
+  {
+   "x1": 275.0,
+   "y1": 258.0,
+   "x2": 569.0,
+   "y2": 281.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 639.0,
+   "y1": 259.0,
+   "x2": 656.0,
+   "y2": 280.0,
+   "text": "3"
+  },
+  {
+   "x1": 746.0,
+   "y1": 259.0,
+   "x2": 763.0,
+   "y2": 280.0,
+   "text": "5"
+  },
+  {
+   "x1": 853.0,
+   "y1": 259.0,
+   "x2": 868.0,
+   "y2": 280.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 258.0,
+   "x2": 977.0,
+   "y2": 281.0,
+   "text": "2°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 259.0,
+   "x2": 1090.0,
+   "y2": 280.0,
+   "text": "2"
+  },
+  {
+   "x1": 122.0,
+   "y1": 283.0,
+   "x2": 150.0,
+   "y2": 311.0,
+   "text": "5°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 283.0,
+   "x2": 233.0,
+   "y2": 309.0,
+   "text": "+3"
+  },
+  {
+   "x1": 277.0,
+   "y1": 291.0,
+   "x2": 292.0,
+   "y2": 307.0,
+   "text": "-"
+  },
+  {
+   "x1": 639.0,
+   "y1": 285.0,
+   "x2": 656.0,
+   "y2": 307.0,
+   "text": "3"
+  },
+  {
+   "x1": 746.0,
+   "y1": 287.0,
+   "x2": 763.0,
+   "y2": 307.0,
+   "text": "6"
+  },
+  {
+   "x1": 851.0,
+   "y1": 287.0,
+   "x2": 868.0,
+   "y2": 307.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 283.0,
+   "x2": 977.0,
+   "y2": 309.0,
+   "text": "3°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 285.0,
+   "x2": 1090.0,
+   "y2": 307.0,
+   "text": "3"
+  },
+  {
+   "x1": 122.0,
+   "y1": 309.0,
+   "x2": 148.0,
+   "y2": 336.0,
+   "text": "6°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 311.0,
+   "x2": 233.0,
+   "y2": 336.0,
+   "text": "+3"
+  },
+  {
+   "x1": 275.0,
+   "y1": 309.0,
+   "x2": 536.0,
+   "y2": 336.0,
+   "text": "Privilegio del Patrono Uitraterreno"
+  },
+  {
+   "x1": 639.0,
+   "y1": 312.0,
+   "x2": 656.0,
+   "y2": 333.0,
+   "text": "3"
+  },
+  {
+   "x1": 746.0,
+   "y1": 312.0,
+   "x2": 763.0,
+   "y2": 333.0,
+   "text": "7"
+  },
+  {
+   "x1": 851.0,
+   "y1": 312.0,
+   "x2": 868.0,
+   "y2": 333.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 311.0,
+   "x2": 977.0,
+   "y2": 334.0,
+   "text": "3°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 312.0,
+   "x2": 1090.0,
+   "y2": 333.0,
+   "text": "3"
+  },
+  {
+   "x1": 118.0,
+   "y1": 333.0,
+   "x2": 151.0,
+   "y2": 364.0,
+   "text": "7°"
+  },
+  {
+   "x1": 201.0,
+   "y1": 333.0,
+   "x2": 235.0,
+   "y2": 364.0,
+   "text": "+3"
+  },
+  {
+   "x1": 639.0,
+   "y1": 338.0,
+   "x2": 657.0,
+   "y2": 358.0,
+   "text": "3"
+  },
+  {
+   "x1": 744.0,
+   "y1": 336.0,
+   "x2": 766.0,
+   "y2": 362.0,
+   "text": "8"
+  },
+  {
+   "x1": 849.0,
+   "y1": 336.0,
+   "x2": 872.0,
+   "y2": 362.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 334.0,
+   "x2": 977.0,
+   "y2": 362.0,
+   "text": "4°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 338.0,
+   "x2": 1090.0,
+   "y2": 358.0,
+   "text": "4"
+  },
+  {
+   "x1": 122.0,
+   "y1": 362.0,
+   "x2": 150.0,
+   "y2": 389.0,
+   "text": "8°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 364.0,
+   "x2": 235.0,
+   "y2": 387.0,
+   "text": "+3"
+  },
+  {
+   "x1": 275.0,
+   "y1": 364.0,
+   "x2": 567.0,
+   "y2": 387.0,
+   "text": "Aurmento dei Punteggi di Carattenistica"
+  },
+  {
+   "x1": 641.0,
+   "y1": 364.0,
+   "x2": 656.0,
+   "y2": 386.0,
+   "text": "3"
+  },
+  {
+   "x1": 746.0,
+   "y1": 364.0,
+   "x2": 763.0,
+   "y2": 386.0,
+   "text": "9"
+  },
+  {
+   "x1": 851.0,
+   "y1": 365.0,
+   "x2": 868.0,
+   "y2": 387.0,
+   "text": "2"
+  },
+  {
+   "x1": 953.0,
+   "y1": 362.0,
+   "x2": 977.0,
+   "y2": 386.0,
+   "text": "4°"
+  },
+  {
+   "x1": 1077.0,
+   "y1": 367.0,
+   "x2": 1088.0,
+   "y2": 384.0,
+   "text": "4"
+  },
+  {
+   "x1": 116.0,
+   "y1": 386.0,
+   "x2": 153.0,
+   "y2": 417.0,
+   "text": "9°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 389.0,
+   "x2": 235.0,
+   "y2": 413.0,
+   "text": "+4"
+  },
+  {
+   "x1": 641.0,
+   "y1": 391.0,
+   "x2": 656.0,
+   "y2": 411.0,
+   "text": "3"
+  },
+  {
+   "x1": 739.0,
+   "y1": 389.0,
+   "x2": 768.0,
+   "y2": 413.0,
+   "text": "10"
+  },
+  {
+   "x1": 851.0,
+   "y1": 391.0,
+   "x2": 870.0,
+   "y2": 411.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 387.0,
+   "x2": 977.0,
+   "y2": 413.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 391.0,
+   "x2": 1090.0,
+   "y2": 411.0,
+   "text": "5"
+  },
+  {
+   "x1": 118.0,
+   "y1": 413.0,
+   "x2": 155.0,
+   "y2": 442.0,
+   "text": "10"
+  },
+  {
+   "x1": 203.0,
+   "y1": 417.0,
+   "x2": 235.0,
+   "y2": 440.0,
+   "text": "+4"
+  },
+  {
+   "x1": 275.0,
+   "y1": 415.0,
+   "x2": 536.0,
+   "y2": 440.0,
+   "text": "Privilegio del Patrono Ultraterreno"
+  },
+  {
+   "x1": 643.0,
+   "y1": 420.0,
+   "x2": 652.0,
+   "y2": 433.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 415.0,
+   "x2": 768.0,
+   "y2": 440.0,
+   "text": "10"
+  },
+  {
+   "x1": 851.0,
+   "y1": 418.0,
+   "x2": 868.0,
+   "y2": 438.0,
+   "text": "2"
+  },
+  {
+   "x1": 951.0,
+   "y1": 415.0,
+   "x2": 977.0,
+   "y2": 440.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 418.0,
+   "x2": 1090.0,
+   "y2": 438.0,
+   "text": "5"
+  },
+  {
+   "x1": 116.0,
+   "y1": 438.0,
+   "x2": 153.0,
+   "y2": 468.0,
+   "text": "11°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 442.0,
+   "x2": 235.0,
+   "y2": 466.0,
+   "text": "+4"
+  },
+  {
+   "x1": 277.0,
+   "y1": 442.0,
+   "x2": 486.0,
+   "y2": 466.0,
+   "text": "Arcanum Mistico (6° livello)"
+  },
+  {
+   "x1": 641.0,
+   "y1": 446.0,
+   "x2": 656.0,
+   "y2": 462.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 440.0,
+   "x2": 766.0,
+   "y2": 464.0,
+   "text": "11"
+  },
+  {
+   "x1": 851.0,
+   "y1": 444.0,
+   "x2": 868.0,
+   "y2": 464.0,
+   "text": "3"
+  },
+  {
+   "x1": 951.0,
+   "y1": 440.0,
+   "x2": 977.0,
+   "y2": 466.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 442.0,
+   "x2": 1090.0,
+   "y2": 462.0,
+   "text": "5"
+  },
+  {
+   "x1": 118.0,
+   "y1": 464.0,
+   "x2": 155.0,
+   "y2": 495.0,
+   "text": "12°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 470.0,
+   "x2": 233.0,
+   "y2": 491.0,
+   "text": "+4"
+  },
+  {
+   "x1": 275.0,
+   "y1": 466.0,
+   "x2": 567.0,
+   "y2": 493.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 641.0,
+   "y1": 471.0,
+   "x2": 656.0,
+   "y2": 488.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 466.0,
+   "x2": 766.0,
+   "y2": 493.0,
+   "text": "11"
+  },
+  {
+   "x1": 853.0,
+   "y1": 470.0,
+   "x2": 868.0,
+   "y2": 490.0,
+   "text": "3"
+  },
+  {
+   "x1": 951.0,
+   "y1": 466.0,
+   "x2": 977.0,
+   "y2": 493.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 471.0,
+   "x2": 1090.0,
+   "y2": 490.0,
+   "text": "6"
+  },
+  {
+   "x1": 116.0,
+   "y1": 490.0,
+   "x2": 155.0,
+   "y2": 521.0,
+   "text": "13°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 493.0,
+   "x2": 235.0,
+   "y2": 519.0,
+   "text": "+5"
+  },
+  {
+   "x1": 275.0,
+   "y1": 495.0,
+   "x2": 486.0,
+   "y2": 519.0,
+   "text": "Arcanum Mistico (7* livello)"
+  },
+  {
+   "x1": 641.0,
+   "y1": 495.0,
+   "x2": 656.0,
+   "y2": 515.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 491.0,
+   "x2": 768.0,
+   "y2": 519.0,
+   "text": "12"
+  },
+  {
+   "x1": 851.0,
+   "y1": 495.0,
+   "x2": 866.0,
+   "y2": 517.0,
+   "text": "3"
+  },
+  {
+   "x1": 951.0,
+   "y1": 491.0,
+   "x2": 977.0,
+   "y2": 519.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1073.0,
+   "y1": 495.0,
+   "x2": 1090.0,
+   "y2": 515.0,
+   "text": "6"
+  },
+  {
+   "x1": 116.0,
+   "y1": 517.0,
+   "x2": 155.0,
+   "y2": 546.0,
+   "text": "14°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 521.0,
+   "x2": 233.0,
+   "y2": 544.0,
+   "text": "+5"
+  },
+  {
+   "x1": 277.0,
+   "y1": 521.0,
+   "x2": 534.0,
+   "y2": 544.0,
+   "text": "Privilegio del Patrono Ultraterreno"
+  },
+  {
+   "x1": 643.0,
+   "y1": 526.0,
+   "x2": 654.0,
+   "y2": 543.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 519.0,
+   "x2": 768.0,
+   "y2": 546.0,
+   "text": "12"
+  },
+  {
+   "x1": 851.0,
+   "y1": 523.0,
+   "x2": 868.0,
+   "y2": 543.0,
+   "text": "3"
+  },
+  {
+   "x1": 951.0,
+   "y1": 519.0,
+   "x2": 977.0,
+   "y2": 544.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 523.0,
+   "x2": 1091.0,
+   "y2": 543.0,
+   "text": "6"
+  },
+  {
+   "x1": 116.0,
+   "y1": 544.0,
+   "x2": 155.0,
+   "y2": 574.0,
+   "text": "15°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 546.0,
+   "x2": 233.0,
+   "y2": 572.0,
+   "text": "+5"
+  },
+  {
+   "x1": 273.0,
+   "y1": 544.0,
+   "x2": 486.0,
+   "y2": 572.0,
+   "text": "Arcanum Mistico (8° livello)"
+  },
+  {
+   "x1": 639.0,
+   "y1": 550.0,
+   "x2": 656.0,
+   "y2": 568.0,
+   "text": "4"
+  },
+  {
+   "x1": 742.0,
+   "y1": 544.0,
+   "x2": 768.0,
+   "y2": 572.0,
+   "text": "13"
+  },
+  {
+   "x1": 851.0,
+   "y1": 548.0,
+   "x2": 866.0,
+   "y2": 570.0,
+   "text": "3"
+  },
+  {
+   "x1": 951.0,
+   "y1": 546.0,
+   "x2": 977.0,
+   "y2": 572.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 548.0,
+   "x2": 1090.0,
+   "y2": 566.0,
+   "text": "7"
+  },
+  {
+   "x1": 116.0,
+   "y1": 570.0,
+   "x2": 155.0,
+   "y2": 599.0,
+   "text": "16°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 572.0,
+   "x2": 233.0,
+   "y2": 597.0,
+   "text": "+5"
+  },
+  {
+   "x1": 275.0,
+   "y1": 574.0,
+   "x2": 567.0,
+   "y2": 597.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 639.0,
+   "y1": 576.0,
+   "x2": 656.0,
+   "y2": 594.0,
+   "text": "4"
+  },
+  {
+   "x1": 742.0,
+   "y1": 572.0,
+   "x2": 768.0,
+   "y2": 597.0,
+   "text": "13"
+  },
+  {
+   "x1": 855.0,
+   "y1": 577.0,
+   "x2": 866.0,
+   "y2": 594.0,
+   "text": "3"
+  },
+  {
+   "x1": 951.0,
+   "y1": 572.0,
+   "x2": 975.0,
+   "y2": 597.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1077.0,
+   "y1": 577.0,
+   "x2": 1088.0,
+   "y2": 594.0,
+   "text": "7"
+  },
+  {
+   "x1": 114.0,
+   "y1": 596.0,
+   "x2": 155.0,
+   "y2": 627.0,
+   "text": "17°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 599.0,
+   "x2": 235.0,
+   "y2": 625.0,
+   "text": "+6"
+  },
+  {
+   "x1": 275.0,
+   "y1": 599.0,
+   "x2": 486.0,
+   "y2": 625.0,
+   "text": "Arcanum Mistico (9° livello)"
+  },
+  {
+   "x1": 639.0,
+   "y1": 601.0,
+   "x2": 656.0,
+   "y2": 621.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 597.0,
+   "x2": 768.0,
+   "y2": 625.0,
+   "text": "14"
+  },
+  {
+   "x1": 851.0,
+   "y1": 601.0,
+   "x2": 866.0,
+   "y2": 621.0,
+   "text": "4"
+  },
+  {
+   "x1": 951.0,
+   "y1": 597.0,
+   "x2": 977.0,
+   "y2": 625.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 601.0,
+   "x2": 1090.0,
+   "y2": 623.0,
+   "text": "7"
+  },
+  {
+   "x1": 116.0,
+   "y1": 621.0,
+   "x2": 153.0,
+   "y2": 652.0,
+   "text": "18°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 625.0,
+   "x2": 235.0,
+   "y2": 650.0,
+   "text": "+6"
+  },
+  {
+   "x1": 639.0,
+   "y1": 629.0,
+   "x2": 656.0,
+   "y2": 647.0,
+   "text": "4"
+  },
+  {
+   "x1": 742.0,
+   "y1": 625.0,
+   "x2": 768.0,
+   "y2": 650.0,
+   "text": "14"
+  },
+  {
+   "x1": 855.0,
+   "y1": 630.0,
+   "x2": 866.0,
+   "y2": 647.0,
+   "text": "4"
+  },
+  {
+   "x1": 951.0,
+   "y1": 625.0,
+   "x2": 977.0,
+   "y2": 650.0,
+   "text": "5"
+  },
+  {
+   "x1": 1075.0,
+   "y1": 627.0,
+   "x2": 1090.0,
+   "y2": 649.0,
+   "text": "8"
+  },
+  {
+   "x1": 116.0,
+   "y1": 647.0,
+   "x2": 155.0,
+   "y2": 678.0,
+   "text": "19°"
+  },
+  {
+   "x1": 203.0,
+   "y1": 650.0,
+   "x2": 235.0,
+   "y2": 676.0,
+   "text": "+6"
+  },
+  {
+   "x1": 275.0,
+   "y1": 652.0,
+   "x2": 569.0,
+   "y2": 676.0,
+   "text": "Aumento dei Punteggi di Caratteristica"
+  },
+  {
+   "x1": 641.0,
+   "y1": 654.0,
+   "x2": 657.0,
+   "y2": 674.0,
+   "text": "4"
+  },
+  {
+   "x1": 741.0,
+   "y1": 650.0,
+   "x2": 770.0,
+   "y2": 676.0,
+   "text": "15"
+  },
+  {
+   "x1": 851.0,
+   "y1": 654.0,
+   "x2": 868.0,
+   "y2": 674.0,
+   "text": "4"
+  },
+  {
+   "x1": 951.0,
+   "y1": 652.0,
+   "x2": 977.0,
+   "y2": 676.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1073.0,
+   "y1": 654.0,
+   "x2": 1088.0,
+   "y2": 674.0,
+   "text": "8"
+  },
+  {
+   "x1": 116.0,
+   "y1": 676.0,
+   "x2": 153.0,
+   "y2": 705.0,
+   "text": "20°"
+  },
+  {
+   "x1": 205.0,
+   "y1": 680.0,
+   "x2": 235.0,
+   "y2": 703.0,
+   "text": "+6"
+  },
+  {
+   "x1": 275.0,
+   "y1": 676.0,
+   "x2": 438.0,
+   "y2": 704.0,
+   "text": "Maestro dell'Occulto"
+  },
+  {
+   "x1": 641.0,
+   "y1": 682.0,
+   "x2": 656.0,
+   "y2": 698.0,
+   "text": "4"
+  },
+  {
+   "x1": 742.0,
+   "y1": 678.0,
+   "x2": 768.0,
+   "y2": 703.0,
+   "text": "15"
+  },
+  {
+   "x1": 851.0,
+   "y1": 682.0,
+   "x2": 866.0,
+   "y2": 700.0,
+   "text": "4"
+  },
+  {
+   "x1": 951.0,
+   "y1": 678.0,
+   "x2": 975.0,
+   "y2": 702.0,
+   "text": "5°"
+  },
+  {
+   "x1": 1077.0,
+   "y1": 683.0,
+   "x2": 1086.0,
+   "y2": 696.0,
+   "text": "8"
+  },
+  {
+   "x1": 390.0,
+   "y1": 766.0,
+   "x2": 572.0,
+   "y2": 791.0,
+   "text": "Una volta stipulato il"
+  },
+  {
+   "x1": 646.0,
+   "y1": 766.0,
+   "x2": 1112.0,
+   "y2": 793.0,
+   "text": "parlare con la voce del patrono. Alcuni warlock trovano i"
+  },
+  {
+   "x1": 373.0,
+   "y1": 789.0,
+   "x2": 591.0,
+   "y2": 815.0,
+   "text": "patto, il semplice studio e"
+  },
+  {
+   "x1": 646.0,
+   "y1": 791.0,
+   "x2": 1128.0,
+   "y2": 815.0,
+   "text": "messaggi dei loro patroni incisi sulla corteccia degli alberi,"
+  },
+  {
+   "x1": 364.0,
+   "y1": 813.0,
+   "x2": 587.0,
+   "y2": 839.0,
+   "text": "la ricerca non bastano più"
+  },
+  {
+   "x1": 646.0,
+   "y1": 813.0,
+   "x2": 1138.0,
+   "y2": 837.0,
+   "text": "celati nelle foglie di tè, o sospesi in cielo, tra le nuvole, come"
+  },
+  {
+   "x1": 345.0,
+   "y1": 837.0,
+   "x2": 584.0,
+   "y2": 861.0,
+   "text": "a placare la sete-di sapere e"
+  },
+  {
+   "x1": 646.0,
+   "y1": 835.0,
+   "x2": 1132.0,
+   "y2": 861.0,
+   "text": "messaggi comprensibili soltanto dal loro destinatario. Altri"
+  },
+  {
+   "x1": 319.0,
+   "y1": 859.0,
+   "x2": 582.0,
+   "y2": 882.0,
+   "text": "potere del warlock. Nessuno si"
+  },
+  {
+   "x1": 648.0,
+   "y1": 859.0,
+   "x2": 1097.0,
+   "y2": 882.0,
+   "text": "warlock comunicano con i loro patroni tramite sogni e"
+  },
+  {
+   "x1": 275.0,
+   "y1": 881.0,
+   "x2": 578.0,
+   "y2": 904.0,
+   "text": "vincola a un patrono di tale potenza"
+  },
+  {
+   "x1": 648.0,
+   "y1": 881.0,
+   "x2": 1114.0,
+   "y2": 904.0,
+   "text": "visioni, o hanno a che fare soltanto con un intermediario."
+  },
+  {
+   "x1": 242.0,
+   "y1": 904.0,
+   "x2": 589.0,
+   "y2": 928.0,
+   "text": "se non intende usare il potere che ottiene"
+  },
+  {
+   "x1": 240.0,
+   "y1": 926.0,
+   "x2": 556.0,
+   "y2": 952.0,
+   "text": "in questo modo. La maggior parte dei"
+  },
+  {
+   "x1": 648.0,
+   "y1": 921.0,
+   "x2": 863.0,
+   "y2": 948.0,
+   "text": "Creazione Rapida"
+  },
+  {
+   "x1": 223.0,
+   "y1": 948.0,
+   "x2": 541.0,
+   "y2": 972.0,
+   "text": "warlock dedica quindi il suo tempo a"
+  },
+  {
+   "x1": 648.0,
+   "y1": 946.0,
+   "x2": 1139.0,
+   "y2": 974.0,
+   "text": "È possibile creare un warlock rapidamente seguendo questi"
+  },
+  {
+   "x1": 194.0,
+   "y1": 970.0,
+   "x2": 560.0,
+   "y2": 994.0,
+   "text": "perseguire attivamente i suoi obiettivi, cosa"
+  },
+  {
+   "x1": 644.0,
+   "y1": 970.0,
+   "x2": 1127.0,
+   "y2": 998.0,
+   "text": "suggerimenti. Per prima cosa, Carisma dovrebbe essere il"
+  },
+  {
+   "x1": 100.0,
+   "y1": 992.0,
+   "x2": 582.0,
+   "y2": 1020.0,
+   "text": "che spesso li porta a partire all'avventura. Ma altrettanto"
+  },
+  {
+   "x1": 648.0,
+   "y1": 996.0,
+   "x2": 1134.0,
+   "y2": 1020.0,
+   "text": "punteggio di caratteristica più alto, seguito da Costituzione."
+  },
+  {
+   "x1": 100.0,
+   "y1": 1016.0,
+   "x2": 556.0,
+   "y2": 1043.0,
+   "text": "spesso sono le imposizioni dei loro patroni a indurre i"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1018.0,
+   "x2": 1141.0,
+   "y2": 1041.0,
+   "text": "Poi si sceglie il background del ciarlatano. Infine si scelgono"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1040.0,
+   "x2": 423.0,
+   "y2": 1065.0,
+   "text": "warlock a intraprendere un'avventura."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1040.0,
+   "x2": 1141.0,
+   "y2": 1065.0,
+   "text": "i trucchetti defagrazione occulta e tocco gelido, assieme agli"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1063.0,
+   "x2": 1139.0,
+   "y2": 1087.0,
+   "text": "incantesimi di1livello charme su persone e dardo stregato."
+  },
+  {
+   "x1": 103.0,
+   "y1": 1080.0,
+   "x2": 403.0,
+   "y2": 1113.0,
+   "text": "Creare un Warlock"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1103.0,
+   "x2": 1021.0,
+   "y2": 1146.0,
+   "text": "Privilegi dI CLasse"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1118.0,
+   "x2": 595.0,
+   "y2": 1146.0,
+   "text": "Al momento di creare un personaggio warlock, il giocatore"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1146.0,
+   "x2": 589.0,
+   "y2": 1169.0,
+   "text": "dovrà dedicare qualche minuto a riflettere sul suo patrono"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1147.0,
+   "x2": 1047.0,
+   "y2": 1173.0,
+   "text": "Un warlock ottiene i seguenti privilegi di classe."
+  },
+  {
+   "x1": 102.0,
+   "y1": 1168.0,
+   "x2": 589.0,
+   "y2": 1191.0,
+   "text": "e sugli obblighi che il patto gli impone. Cosa lo ha spinto a"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1189.0,
+   "x2": 593.0,
+   "y2": 1213.0,
+   "text": "stipulare il patto? E come ha fatto a entrare in contatto con"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1189.0,
+   "x2": 804.0,
+   "y2": 1221.0,
+   "text": "Punti FEritA"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1209.0,
+   "x2": 585.0,
+   "y2": 1237.0,
+   "text": "il suo patrono? È stato sedotto dalla tentazione di evocare"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1215.0,
+   "x2": 999.0,
+   "y2": 1242.0,
+   "text": "Dadi Vita: 1d8 per ogni livello da warlock"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1233.0,
+   "x2": 576.0,
+   "y2": 1257.0,
+   "text": "un diavolo o ha ricercato il rituale che gli ha permesso di"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1239.0,
+   "x2": 1042.0,
+   "y2": 1266.0,
+   "text": "Punti Ferita al 1° Livello: 8 + il modificatore di"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1257.0,
+   "x2": 569.0,
+   "y2": 1281.0,
+   "text": "entrare in contatto con un antico dio alieno? Ha cercato"
+  },
+  {
+   "x1": 661.0,
+   "y1": 1264.0,
+   "x2": 879.0,
+   "y2": 1288.0,
+   "text": "Costituzione del warlock"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1281.0,
+   "x2": 591.0,
+   "y2": 1305.0,
+   "text": "lui il suo patrono o è stato il patrono a trovare e a scegliere"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1286.0,
+   "x2": 1047.0,
+   "y2": 1312.0,
+   "text": "Punti Ferita ai Livelli Successivi: 1d8 (o 5) + il"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1303.0,
+   "x2": 584.0,
+   "y2": 1328.0,
+   "text": "il warlock? Si sente schiacciato dagli obblighi imposti dal"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1310.0,
+   "x2": 1078.0,
+   "y2": 1336.0,
+   "text": "modificatore di Costituzione del warlock per ogni"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1326.0,
+   "x2": 561.0,
+   "y2": 1350.0,
+   "text": "patto o serve il patrono con entusiasmo, in attesa della"
+  },
+  {
+   "x1": 663.0,
+   "y1": 1332.0,
+   "x2": 896.0,
+   "y2": 1358.0,
+   "text": "livello da warlock dopo il 1"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1350.0,
+   "x2": 340.0,
+   "y2": 1374.0,
+   "text": "ricompensa che ne seguirà?"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1370.0,
+   "x2": 572.0,
+   "y2": 1394.0,
+   "text": "Il giocatore può accordarsi con il DM per determinare"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1376.0,
+   "x2": 796.0,
+   "y2": 1401.0,
+   "text": "CoMPeTEnzE"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1396.0,
+   "x2": 519.0,
+   "y2": 1420.0,
+   "text": "la portata dell'influenza del patto nella vita e nelle"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1399.0,
+   "x2": 898.0,
+   "y2": 1427.0,
+   "text": "Armature: Armature leggere"
+  },
+  {
+   "x1": 98.0,
+   "y1": 1416.0,
+   "x2": 582.0,
+   "y2": 1443.0,
+   "text": "avventure del warlock. Il patrono stesso potrebbe esigere"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1423.0,
+   "x2": 827.0,
+   "y2": 1451.0,
+   "text": "Armi: Armi semplici"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1442.0,
+   "x2": 547.0,
+   "y2": 1465.0,
+   "text": "che il warlock prenda parte alle avventure, oppure le"
+  },
+  {
+   "x1": 646.0,
+   "y1": 1447.0,
+   "x2": 825.0,
+   "y2": 1473.0,
+   "text": "Strumenti: Nessuno"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1463.0,
+   "x2": 567.0,
+   "y2": 1487.0,
+   "text": "sue richieste potrebbero limitarsi a piccoli servizi che il"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1487.0,
+   "x2": 489.0,
+   "y2": 1511.0,
+   "text": "warlock può sbrigare tra un'avventura e l'altra."
+  },
+  {
+   "x1": 646.0,
+   "y1": 1480.0,
+   "x2": 936.0,
+   "y2": 1506.0,
+   "text": "Tiri Salvezza: Saggezza, Carisma"
+  },
+  {
+   "x1": 116.0,
+   "y1": 1507.0,
+   "x2": 574.0,
+   "y2": 1533.0,
+   "text": "Che tipo di rapporto c'è tra il warlock e il suo patrono?"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1502.0,
+   "x2": 1082.0,
+   "y2": 1531.0,
+   "text": "Abilità: Due a scelta tra Arcano, Indagare, Inganno,"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1533.0,
+   "x2": 591.0,
+   "y2": 1557.0,
+   "text": "Si tratta di un rapporto amichevole, antagonistico, sofferto"
+  },
+  {
+   "x1": 659.0,
+   "y1": 1524.0,
+   "x2": 981.0,
+   "y2": 1553.0,
+   "text": "Intimidire, Natura, Religione e Storia"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1555.0,
+   "x2": 548.0,
+   "y2": 1579.0,
+   "text": "o romantico? Che ruolo svolge il warlock nei piani del"
+  },
+  {
+   "x1": 648.0,
+   "y1": 1569.0,
+   "x2": 859.0,
+   "y2": 1595.0,
+   "text": "EQuipaGgiamento"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1579.0,
+   "x2": 593.0,
+   "y2": 1604.0,
+   "text": "patrono? Il warlock conosce altri servitori del suo patrono?"
+  },
+  {
+   "x1": 118.0,
+   "y1": 1602.0,
+   "x2": 547.0,
+   "y2": 1626.0,
+   "text": "In che modo il patrono comunica con il warlock? Se"
+  },
+  {
+   "x1": 645.0,
+   "y1": 1595.0,
+   "x2": 1091.0,
+   "y2": 1621.0,
+   "text": "Un warlock inizia con l'equipaggiamento seguente, in"
+  },
+  {
+   "x1": 100.0,
+   "y1": 1622.0,
+   "x2": 560.0,
+   "y2": 1650.0,
+   "text": "quest'ultimo possiede un famiglio, esso potrebbe a volte"
+  },
+  {
+   "x1": 644.0,
+   "y1": 1619.0,
+   "x2": 1147.0,
+   "y2": 1646.0,
+   "text": "aggiunta all'equipaggiamento conferito dal suo background:"
+  },
+  {
+   "x1": 102.0,
+   "y1": 1683.0,
+   "x2": 281.0,
+   "y2": 1706.0,
+   "text": "CAPITOLO 3 | CLASSI"
+  },
+  {
+   "x1": 11.0,
+   "y1": 1697.0,
+   "x2": 44.0,
+   "y2": 1719.0,
+   "text": "114"
+  }
+ ],
+ "reading_text": "WARLOCK\nBonus di\nLivello Competenza\nPrivilegi\n+2\nPatrono Ultraterreno\n1°\n2°\n+2\nSuppliche Occulte\nDono del Patto\n3*\n+2\n4*\n+2\nAumento dei Punteggi di Caratteristica\n5°\n+3\n-\n6°\nPrivilegio del Patrono Uitraterreno\n+3\n7°\n+3\n8°\n+3\nAurmento dei Punteggi di Carattenistica\n9°\n+4\n10\nPrivilegio del Patrono Ultraterreno\n+4\n11°\n+4\nArcanum Mistico (6° livello)\n12°\nAumento dei Punteggi di Caratteristica\n+4\n13°\n+5\nArcanum Mistico (7* livello)\n14°\n+5\nPrivilegio del Patrono Ultraterreno\n15°\nArcanum Mistico (8° livello)\n+5\n16°\n+5\nAumento dei Punteggi di Caratteristica\n17°\n+6\nArcanum Mistico (9° livello)\n18°\n+6\n19°\n+6\nAumento dei Punteggi di Caratteristica\n20°\nMaestro dell'Occulto\n+6\nUna volta stipulato il\npatto, il semplice studio e\nla ricerca non bastano più\na placare la sete-di sapere e\npotere del warlock. Nessuno si\nvincola a un patrono di tale potenza\nse non intende usare il potere che ottiene\nin questo modo. La maggior parte dei\nwarlock dedica quindi il suo tempo a\nperseguire attivamente i suoi obiettivi, cosa\nche spesso li porta a partire all'avventura. Ma altrettanto\nspesso sono le imposizioni dei loro patroni a indurre i\nwarlock a intraprendere un'avventura.\nCreare un Warlock\nAl momento di creare un personaggio warlock, il giocatore\ndovrà dedicare qualche minuto a riflettere sul suo patrono\ne sugli obblighi che il patto gli impone. Cosa lo ha spinto a\nstipulare il patto? E come ha fatto a entrare in contatto con\nil suo patrono? È stato sedotto dalla tentazione di evocare\nun diavolo o ha ricercato il rituale che gli ha permesso di\nentrare in contatto con un antico dio alieno? Ha cercato\nlui il suo patrono o è stato il patrono a trovare e a scegliere\nil warlock? Si sente schiacciato dagli obblighi imposti dal\npatto o serve il patrono con entusiasmo, in attesa della\nricompensa che ne seguirà?\nIl giocatore può accordarsi con il DM per determinare\nla portata dell'influenza del patto nella vita e nelle\navventure del warlock. Il patrono stesso potrebbe esigere\nche il warlock prenda parte alle avventure, oppure le\nsue richieste potrebbero limitarsi a piccoli servizi che il\nwarlock può sbrigare tra un'avventura e l'altra.\nChe tipo di rapporto c'è tra il warlock e il suo patrono?\nSi tratta di un rapporto amichevole, antagonistico, sofferto\no romantico? Che ruolo svolge il warlock nei piani del\npatrono? Il warlock conosce altri servitori del suo patrono?\nIn che modo il patrono comunica con il warlock? Se\nquest'ultimo possiede un famiglio, esso potrebbe a volte\nCAPITOLO 3 | CLASSI\n114\nLivello\nSlot\nTrucchetti\nIncantesimi\nSuppliche\nConosciuti\ndi Slot\nConosciuti\nIncantesimo\nConosciute\n1\n2\n2\n1\n2\n3\n1°\n2\n2\n2\n2°\n4\n2\n2\n2°\n3\n5\n2\n2\n3°\n3\n3\n6\n2\n3°\n3\n7\n2\n3\n4°\n8\n2\n3\n4\n4°\n3\n9\n2\n4\n5°\n10\n3\n2\n5\n10\n5°\n2\n5\n4\n11\n5°\n5\n3\n4\n11\n5°\n3\n4\n6\n12\n5°\n4\n3\n6\n12\n5°\n3\n6\n4\n13\n5°\n3\n7\n4\n13\n5°\n4\n3\n7\n14\n5°\n4\n4\n7\n14\n5\n8\n4\n4\n15\n5°\n4\n4\n8\n15\n5°\n4\n4\n8\nparlare con la voce del patrono. Alcuni warlock trovano i\nmessaggi dei loro patroni incisi sulla corteccia degli alberi,\ncelati nelle foglie di tè, o sospesi in cielo, tra le nuvole, come\nmessaggi comprensibili soltanto dal loro destinatario. Altri\nwarlock comunicano con i loro patroni tramite sogni e\nvisioni, o hanno a che fare soltanto con un intermediario.\nCreazione Rapida\nÈ possibile creare un warlock rapidamente seguendo questi\nsuggerimenti. Per prima cosa, Carisma dovrebbe essere il\npunteggio di caratteristica più alto, seguito da Costituzione.\nPoi si sceglie il background del ciarlatano. Infine si scelgono\ni trucchetti defagrazione occulta e tocco gelido, assieme agli\nincantesimi di1livello charme su persone e dardo stregato.\nPrivilegi dI CLasse\nUn warlock ottiene i seguenti privilegi di classe.\nPunti FEritA\nDadi Vita: 1d8 per ogni livello da warlock\nPunti Ferita al 1° Livello: 8 + il modificatore di\nCostituzione del warlock\nPunti Ferita ai Livelli Successivi: 1d8 (o 5) + il\nmodificatore di Costituzione del warlock per ogni\nlivello da warlock dopo il 1\nCoMPeTEnzE\nArmature: Armature leggere\nArmi: Armi semplici\nStrumenti: Nessuno\nTiri Salvezza: Saggezza, Carisma\nAbilità: Due a scelta tra Arcano, Indagare, Inganno,\nIntimidire, Natura, Religione e Storia\nEQuipaGgiamento\nUn warlock inizia con l'equipaggiamento seguente, in\naggiunta all'equipaggiamento conferito dal suo background:"
+}
